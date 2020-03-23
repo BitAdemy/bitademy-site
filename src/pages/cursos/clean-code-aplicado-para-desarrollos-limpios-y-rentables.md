@@ -21,7 +21,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Prepárate desde casa 🏡
-    subtitle: 4😷% de descuento durante la cuarentena.
+    subtitle: 😷 40% de descuento durante la cuarentena.
     actions:
       - label: EN_CASA_40
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
@@ -95,7 +95,7 @@ sections:
           - label: Próximamente
             url: /
       - title: Profesional
-        price: 99 € -40% 😷EN_CASA_40🏡
+        price: 99 € -4😷% EN_CASA_40🏡
         details: |-
           * Lo mismo que Comunidad más...
           * Videos explicativos
