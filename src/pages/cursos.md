@@ -27,7 +27,7 @@ sections:
         actions:
           - label: Saber mas
             url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
-      - title: Testing de aplicaciones web fácil y rentable para todos
+      - title: Testing de aplicaciones web fácil y productivo para todos
         image: images/undraw_science.svg
         content: >-
           Las pruebas automáticas del software mejoran la calidad de los programas. **Los tests descubren bugs y reducen los tiempos de mantenimiento**. Pero lo mejor es que pueden ser divertidas y desde luego rentables.
@@ -35,7 +35,7 @@ sections:
           > "Las pruebas te permiten estar seguro de tu código."
         actions:
           - label: Saber mas
-            url: /cursos/testing-de-aplicaciones-web-facil-y-rentable-para-todos/
+            url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
 menus:
   main:
     weight: 3

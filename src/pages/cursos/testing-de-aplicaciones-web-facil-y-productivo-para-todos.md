@@ -1,5 +1,5 @@
 ---
-title: Testing de aplicaciones web fácil y rentable para todos
+title: Testing de aplicaciones web fácil y productivo para todos
 subtitle: >-
   Introducción a las pruebas de software.
 excerpt: >-
@@ -11,7 +11,7 @@ sections:
     type: section_content
     bg: gray
     image: images/undraw_science.svg
-    title: Testing fácil y rentable para todos
+    title: Testing de aplicaciones web fácil y productivo para todos
     content: >-
       Las pruebas automáticas del software mejoran la calidad de los programas. **Reducen los bugs y los tiempos de mantenimiento**. Pero lo mejor es que pueden ser divertidas y desde luego rentables.
     actions:
