@@ -1,36 +1,36 @@
 {
-    "palette": "blue",
-    "header": {
-        "title": "Azimuth",
-        "logo_img": "images/logo.png",
-        "has_nav": true,
-        "menu": {
-            "actions": [
-                {
-                    "label": "Sign Up",
-                    "url": "/signup"
-                }
-            ]
+  "palette": "green",
+  "header": {
+    "title": "bitAdemy",
+    "logo_img": "images/logo.png",
+    "has_nav": true,
+    "menu": {
+      "actions": [
+        {
+          "label": "📨 Subscribirme",
+          "url": "http://eepurl.com/gLTXxT"
         }
-    },
-    "footer": {
-        "logo_img": "images/logo_alt.png",
-        "tagline": "SaaS theme by Stackbit",
-        "has_nav": true,
-        "nav_title": "Company",
-        "has_social": true,
-        "social_title": "Community",
-        "has_subscribe": true,
-        "subscribe_title": "Subscribe",
-        "subscribe_content": "Stay up to date with our latest developments.",
-        "content": "&copy; Stackbit. All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
-    },
-    "title": "Stackbit Azimuth Theme"
+      ]
+    }
+  },
+  "footer": {
+    "logo_img": "images/logo_alt.png",
+    "tagline": "Aumenta tu valor",
+    "has_nav": true,
+    "nav_title": "Empresa",
+    "has_social": true,
+    "social_title": "Comunidad",
+    "has_subscribe": true,
+    "subscribe_title": "Newsletter",
+    "subscribe_content": "Entérate de lo último en la bitLetter mensual.",
+    "content": "&copy; bitAdemy. Derechos reservados.",
+    "links": [
+      {
+        "text": "Un servicio online de",
+        "url": "https://agorabinaria.com",
+        "new_window": true
+      }
+    ]
+  },
+  "title": "Aumenta tu valor"
 }

@@ -1,10 +1,10 @@
 {
-  "name": "stackbit-azimuth-theme",
-  "description": "Stackbit Azimuth Theme",
+  "name": "bitademy",
+  "description": "Bitademy site",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
-    "develop": "gatsby develop",
+    "develop": "gatsby develop p 8003 -o",
     "start": "npm run develop",
     "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve"
