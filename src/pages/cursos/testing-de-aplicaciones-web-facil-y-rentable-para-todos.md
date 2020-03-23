@@ -1,5 +1,5 @@
 ---
-title: Testing fácil y rentable para todos
+title: Testing de aplicaciones web fácil y rentable para todos
 subtitle: >-
   Introducción a las pruebas de software.
 excerpt: >-
