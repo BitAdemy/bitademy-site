@@ -29,6 +29,13 @@ $palette: (
   accent-orange-alt: #f83600,
 );
 
+.margin-right {
+  margin-right: 5px;
+}
+.margin-left {
+  margin-left: 5px;
+}
+
 @import url("https://fonts.googleapis.com/css?family=Comfortaa|Lato");
 
 @import "imports/functions";

@@ -38,7 +38,7 @@ export default class Post extends React.Component {
                 <h4>
                   <Link
                     to={safePrefix(
-                      _.get(this.props, "pageContext.frontmatter.category")
+                      _.get(this.props, "pageContext.frontmatter.category_url")
                     ).toLowerCase()}
                     className="button secondary"
                   >

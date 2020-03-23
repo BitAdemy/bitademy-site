@@ -7,6 +7,7 @@ excerpt: >-
 date: '2018-05-18'
 thumb_img_path: images/muchas_pequeñas_cosas.jpeg
 category: Clean Code
+category_url: blog/clean-code
 template: post
 ---
 

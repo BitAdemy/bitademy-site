@@ -6,11 +6,14 @@ import { getPages, htmlToReact, Link, safePrefix } from "../utils";
 export default class SectionPosts extends React.Component {
   render() {
     let display_posts = _.orderBy(
-      getPages(this.props.pageContext.pages, "/posts"),
+      getPages(this.props.pageContext.pages, "/blog/"),
       "frontmatter.date",
       "desc"
     );
-    let recent_posts = display_posts.slice(0, 3);
+    let only_posts = display_posts.filter(
+      file => _.get(file, "template") === "post"
+    );
+    let recent_posts = only_posts.slice(0, 3);
     return (
       <section
         id={_.get(this.props, "section.section_id")}

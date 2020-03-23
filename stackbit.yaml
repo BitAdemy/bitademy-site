@@ -281,6 +281,10 @@ models:
         name: category
         label: Category
         description: Main category for this post.
+      - type: string
+        name: category_url
+        label: Category Url
+        description: Main category URL for this post.
       - type: page_menus
         name: menus
         label: Post Menus
