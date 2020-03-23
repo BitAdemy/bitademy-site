@@ -3,12 +3,12 @@ import moment from "moment-strftime";
 import React from "react";
 import { getPages, htmlToReact, Link, safePrefix } from "../utils";
 
-export default class SectionPosts extends React.Component {
+export default class SectionCourses extends React.Component {
   render() {
     let display_posts = _.orderBy(
-      getPages(this.props.pageContext.pages, "/posts"),
+      getPages(this.props.pageContext.pages, "/cursos"),
       "frontmatter.date",
-      "desc"
+      "asc"
     );
     let recent_posts = display_posts.slice(0, 3);
     return (
@@ -38,7 +38,7 @@ export default class SectionPosts extends React.Component {
                   {_.get(post, "frontmatter.thumb_img_path") && (
                     <Link
                       className="post-card-thumbnail"
-                      to={safePrefix(_.get(post, "url"))}
+                      to={safePrefix(_.get(post, "url")).toLowerCase()}
                     >
                       <img
                         className="thumbnail"
@@ -53,7 +53,7 @@ export default class SectionPosts extends React.Component {
                     <header className="post-header">
                       <h3 className="post-title">
                         <Link
-                          to={safePrefix(_.get(post, "url"))}
+                          to={safePrefix(_.get(post, "url")).toLowerCase()}
                           rel="bookmark"
                         >
                           {_.get(post, "frontmatter.title")}
@@ -71,7 +71,7 @@ export default class SectionPosts extends React.Component {
                         ).strftime("%Y-%m-%d %H:%M")}
                       >
                         {moment(_.get(post, "frontmatter.date")).strftime(
-                          "%Y %m %d"
+                          "%B %d, %Y"
                         )}
                       </time>
                     </footer>
