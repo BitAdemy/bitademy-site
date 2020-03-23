@@ -6,10 +6,9 @@ excerpt: >-
   Para cada problema siempre existe al menos una solución, o al menos suele ocurrir así en la programación moderna.
 date: '2018-03-18'
 thumb_img_path: images/patrones-las-soluciones-con-nombre.jpeg
+category: Clean Code
 template: post
 ---
-
-_Publicado originalmente en [el perfil de Medium](https://medium.com/@albertobasalo71/patrones-las-soluciones-con-nombre-6e642c7ff04d) del autor: [Alberto Basalo](https://twitter.com/albertobasalo)_
 
 Para cada problema siempre existe al menos una solución, o al menos suele ocurrir así en la programación moderna. Muchas veces re-inventamos la rueda por desconocimiento de su existencia o de su nombre. A esas soluciones con nombre propio es a lo que conocemos como patrones.
 
@@ -57,3 +56,5 @@ Es una variante del anterior que establece las reglas, los actores y los artefac
 Las mutaciones (cambios de estado) se realizarán mediante funciones puras llamadas reductores. Esas funciones serán invocadas por el almacén en respuesta a peticiones de acciones disponibles en un catálogo.
 
 >_En la cafetería Redux no sólo no puedes llegar y servirte tu mismo, si no que el gestor único establece un conjunto limitado y bien definido de órdenes que atender. Obviamente no se mancha las manos y despacha esas acciones a cocineros puros para luego notificarte que los cafés están reducidos… digo listos ;-)_
+
+_Publicado originalmente en [el perfil de Medium](https://medium.com/@albertobasalo71/patrones-las-soluciones-con-nombre-6e642c7ff04d) del autor: [Alberto Basalo](https://twitter.com/albertobasalo)_

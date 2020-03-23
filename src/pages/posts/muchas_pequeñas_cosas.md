@@ -6,10 +6,9 @@ excerpt: >-
   Si tuviera que dar sólo dos consejos para desarrolladores que quieran producir código limpio serían: Crea muchas cosas pequeñas y nómbralas consistentemente.
 date: '2018-05-18'
 thumb_img_path: images/muchas_pequeñas_cosas.jpeg
+category: Clean Code
 template: post
 ---
-
-_Publicado originalmente en [el perfil de Medium](https://medium.com/@albertobasalo71/muchas-peque%C3%B1as-cosas-de5697ac745d) del autor: [Alberto Basalo](https://twitter.com/albertobasalo)_
 
 Si tuviera que dar sólo dos consejos para desarrolladores que quieran producir código limpio serían:
 
@@ -55,3 +54,5 @@ Termino con esta patada al refranero, resumiendo:
 - **Muchos pequeños módulos** para componer aplicaciones y …
 
 - **Muchas pequeñas aplicaciones** (o microservicios) para componer sistemas.
+
+_Publicado originalmente en [el perfil de Medium](https://medium.com/@albertobasalo71/muchas-peque%C3%B1as-cosas-de5697ac745d) del autor: [Alberto Basalo](https://twitter.com/albertobasalo)_

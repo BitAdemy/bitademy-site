@@ -2,7 +2,7 @@ import _ from "lodash";
 import moment from "moment-strftime";
 import React from "react";
 import { Layout } from "../components/index";
-import { htmlToReact, safePrefix } from "../utils";
+import { htmlToReact, Link, safePrefix } from "../utils";
 
 export default class Post extends React.Component {
   render() {
@@ -35,6 +35,16 @@ export default class Post extends React.Component {
               )}
               <div className="post-content">
                 {htmlToReact(_.get(this.props, "pageContext.html"))}
+                <h4>
+                  <Link
+                    to={safePrefix(
+                      _.get(this.props, "pageContext.frontmatter.category")
+                    ).toLowerCase()}
+                    className="button secondary"
+                  >
+                    {_.get(this.props, "pageContext.frontmatter.category")}
+                  </Link>
+                </h4>
               </div>
               <footer className="post-meta">
                 <time

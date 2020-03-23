@@ -12,15 +12,15 @@ metadata:
   title: Azimuth
   description: A sleek SaaS theme
   author: Stackbit
-  authorURL: 'https://www.stackbit.com'
+  authorURL: "https://www.stackbit.com"
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
 stackbit_banner:
   show_banner: true
   name: Azimuth
-  create_url: 'https://app.stackbit.com/create?theme=azimuth'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-azimuth'
+  create_url: "https://app.stackbit.com/create?theme=azimuth"
+  github_url: "https://github.com/stackbithq/stackbit-theme-azimuth"
 models:
   config:
     type: config
@@ -277,6 +277,10 @@ models:
         name: excerpt
         label: Excerpt
         description: The excerpt of the post displayed in the blog feed.
+      - type: string
+        name: category
+        label: Category
+        description: Main category for this post.
       - type: page_menus
         name: menus
         label: Post Menus
@@ -542,7 +546,7 @@ models:
       - type: markdown
         name: content
         label: Content
-        description: 'The text content of the section, appears before contact form'
+        description: "The text content of the section, appears before contact form"
       - type: enum
         name: bg
         label: Background
@@ -590,7 +594,7 @@ models:
     type: object
     label: Site Menu Item
     labelField: title
-    description: 'Site menu item model, defines fields for a single site menu item'
+    description: "Site menu item model, defines fields for a single site menu item"
     fields:
       - type: string
         name: identifier
@@ -617,7 +621,7 @@ models:
     type: object
     label: Page Menus
     labelField: null
-    description: 'Page menus model, defines menus that can be specified from within pages'
+    description: "Page menus model, defines menus that can be specified from within pages"
     fields:
       - type: page_menu_item
         name: secondary
@@ -631,7 +635,7 @@ models:
     type: object
     label: Page Menu Item
     labelField: title
-    description: 'Page menu item model, defines fields for a single page menu item'
+    description: "Page menu item model, defines fields for a single page menu item"
     fields:
       - type: string
         name: title
