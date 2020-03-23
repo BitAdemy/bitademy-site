@@ -21,8 +21,8 @@ a {
   border-bottom: 1px solid currentColor;
   color: _palette(primary);
   text-decoration: none;
-  -webkit-transition: border-color .15s ease-in-out, color .15s ease-in-out;
-  transition: border-color .15s ease-in-out, color .15s ease-in-out;
+  -webkit-transition: border-color 0.15s ease-in-out, color 0.15s ease-in-out;
+  transition: border-color 0.15s ease-in-out, color 0.15s ease-in-out;
 
   &:hover,
   &:focus {
@@ -37,6 +37,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: _font(secondary);
   color: _palette(secondary);
   font-weight: bold;
   line-height: 1.2;
@@ -194,8 +195,8 @@ label {
   font-weight: bold;
 }
 
-input[type=checkbox]+label,
-input[type=radio]+label {
+input[type="checkbox"] + label,
+input[type="radio"] + label {
   cursor: pointer;
   padding-left: 0.25em;
   padding-right: 1em;
@@ -252,14 +253,14 @@ a.button {
   border-radius: 3px;
   border: 2px solid _palette(accent);
   box-sizing: border-box;
-  color: #fff;
+  color: _palette(primary);
   display: inline-block;
   font-size: 16px;
   height: 2.75em;
   line-height: 1.5;
   padding: 0.5em 30px;
-  -webkit-transition: opacity .15s ease-in-out;
-  transition: opacity .15s ease-in-out;
+  -webkit-transition: opacity 0.15s ease-in-out;
+  transition: opacity 0.15s ease-in-out;
 
   &:hover,
   &:focus,
@@ -288,14 +289,14 @@ a.button.large {
 .button.secondary {
   background: transparent;
   color: _palette(accent);
-  -webkit-transition: background-color .2s ease-in-out, color .2s ease-in-out;
-  transition: background-color .2s ease-in-out, color .2s ease-in-out;
+  -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 
   &:hover,
   &:focus,
   &:active {
     background: _palette(accent);
-    color: #fff;
+    color: _palette(secondary);
     opacity: 1;
   }
 }
@@ -303,10 +304,10 @@ a.button.large {
 .button.white {
   background: #fff;
   border-color: transparent;
-  box-shadow: 0 20px 30px 0 rgba(_palette(primary),.2);
+  box-shadow: 0 20px 30px 0 rgba(_palette(primary), 0.2);
   color: _palette(primary);
-  -webkit-transition: box-shadow .2s ease-in-out;
-  transition: box-shadow .2s ease-in-out;
+  -webkit-transition: box-shadow 0.2s ease-in-out;
+  transition: box-shadow 0.2s ease-in-out;
 
   &:hover,
   &:focus,
