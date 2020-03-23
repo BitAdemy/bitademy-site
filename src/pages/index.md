@@ -1,89 +1,56 @@
 ---
-title: Home
+title: bitAdemy
+excerpt: >-
+  Academia online para desarrolladores centrada en fundamentos y buenas prácticas de la programación.
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
-    title: This Is A Big Hero Headline
+    image: images/undraw_professor.svg
+    title: bitAdemy
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS...
     actions:
-      - label: Learn More
-        url: /features
+      - label: Aumenta tu valor desde casa
+        url: /cursos
   - section_id: features
     type: section_features
     bg: gray
-    title: Features
+    title: Cursos de calidad a distancia 🏡
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      La programación es apasionante pero competitiva. ¿Sabes lo suficiente? Formarse bien es la mejor garantía de éxito.
     featureslist:
-      - title: The Best Feature of Your Services
-        image: images/feature1.png
+      - title: Los fundamentos de la programación
+        image: images/undraw_goals.svg
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
+          Los lenguajes, los frameworks y las herramientas son perecederos. **Céntrate en lo que no cambia.**
+
+          > "Aprende técnicas y fundamentos que te serán útiles para siempre."
+      - title: En el menor tiempo posible
+        image: images/undraw_in_no_time.svg
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
+          El tiempo es nuestro bien más preciado. **Invierte tu tiempo de la manera más rentable.**
+
+          > "Aprende rápido lo que necesitas."
+      - title: Domina el desarrollo y aumenta tu valor.
+        image: images/undraw_investing.svg
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        actions:
-          - label: Learn More
-            url: /features
-  - section_id: reviews
-    type: section_reviews
-    bg: white
-    title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          **Problema, solución y aplicación práctica.** Cursos creados tras miles de horas de experiencia empresarial y docente.
+
+          > Todo el mundo valora mejor a quien resuelve problemas.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Prepárate. Durante la cuarentena un 40% de descuento.
+    subtitle: De programador a artesano! Código limpio y artesanía del software.
     actions:
-      - label: Get Started
-        url: /signup
+      - label: EN_CASA_40
+        url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: recent-posts
-    type: section_posts
+    type: section_courses
     bg: gray
-    title: Latest Posts
-menus:
-  main:
-    weight: 1
-    title: Home
+    title: Cursos
+# menus:
+#   main:
+#     weight: 1
+#     title: Home
 template: landing
 ---
