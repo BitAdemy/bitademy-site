@@ -29,7 +29,7 @@ Pero encontrarlos rápidamente sabiendo lo que busco ya no es un problema de pri
 
 - Tener a mano el conjunto de ficheros que habitualmente se tocan juntos.
 
-En ambos casos los árboles muy profundos se desaconsejan, pues requiere desplegar muchas ramas antes de llegar al objetivo. Ademas, si el árbol tienen muchos niveles, es probable que llegado al fondo haya pocos ficheros y sea obligado e incómodo saltar de una carpeta a otra.
+En ambos casos los árboles muy profundos se desaconsejan, pues requiere desplegar muchas ramas antes de llegar al objetivo. Además, si el árbol tienen muchos niveles, es probable que llegado al fondo haya pocos ficheros y sea obligado e incómodo saltar de una carpeta a otra.
 Tampoco puede haber carpetas con cientos de ficheros, porque dificulta la exploración al novato y porque tampoco queda cómodo aunque esté en mi carpeta pero a dos pantallas de scroll.
 
 Árboles en torno a tres o cuatro niveles suelen funcionar bien. Pero estas son guías de sentido común. De una forma más profesional nos planteamos: ¿Qué criterios usar para definir los niveles? Voy a exponerte los que uso y en en el orden que mejor me funcionan.
@@ -45,7 +45,7 @@ Se trata de tener en un mismo lugar todo lo que se usa para resolver un problema
 Realmente es un variante o añadido del anterior. Se trata de disponer de una o más ramas que den soporte transversal a las funcionalidades. Algo así como librerías de utilidades propias del proyecto que resuelven problemas que no son de negocio.
 
 #### Por categoría:
-Dejo para el final un criterio que mucha gente usa como principal. Agrupar los ficheros que tienen responsabilidades similares: controllers, managers, services, exceptions, interfaces, entidades, templates, dao… Este sistema requiere abrir ficheros en muchas carpetas para resolver un problema. Pero lo peor es que no favorece la cohesión entre clases y esconde la funcionalidad repartiéndola en mil carpetas.
+Dejo para el final un criterio que mucha gente usa como principal. Agrupar los ficheros que tienen responsabilidades similares: controllers, managers, services, exceptions, interfaces, entidades, templates, DAOs… Este sistema requiere abrir ficheros en muchas carpetas para resolver un problema. Pero lo peor es que no favorece la cohesión entre clases y esconde la funcionalidad repartiéndola en mil carpetas.
 En resumen, organiza siguiendo unos criterios coherentes en cada nivel. No te pases de profundidad, y favorece siempre la función sobre el tipo.
 
 
