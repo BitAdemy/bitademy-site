@@ -11,8 +11,6 @@ category_url: blog/clean-code
 template: post
 ---
 
----
-
 El software como tal no caduca, ni siquiera se degrada; pero su mantenimiento es un quebradero de cabeza.
 
 
