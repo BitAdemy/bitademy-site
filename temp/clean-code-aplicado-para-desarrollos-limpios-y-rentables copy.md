@@ -13,17 +13,17 @@ sections:
     image: images/undraw_clean_up.svg
     title: Clean Code aplicado para desarrollos limpios y rentables
     content: >-
-      El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida el desarrollo para crear código limpio**. Este curso transforma al programador en artesano del software.
+      El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida el desarrollo para crear código limpio**. Transfórmate con este curso en artesano del software.
 
     actions:
-      - label: Programar mejor
+      - label: Pasa de programador a artesano
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: call-to-action
     type: section_cta
-    title: Garantizar la calidad en un mundo distribuido y competitivo.
-    subtitle: Todo empieza por aprender, y asumir la responsabilidad, para escribir código limpio.
+    title: Prepárate desde casa 🏡
+    subtitle: 😷 40% de descuento durante la cuarentena.
     actions:
-      - label: Mejora tus desarrollos
+      - label: EN_CASA_40
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: features
     type: section_features
@@ -44,53 +44,45 @@ sections:
           - Adoptar la **disciplina profesional** de un artesano del software.
 
 
-          > _"El código limpio parece escrito por alguien que se ha preocupado de hacerlo bien. Alguien con más valía profesional."_
+          > "El código limpio parece escrito por alguien que se ha preocupado de hacerlo bien. Alguien con más valía profesional."
 
       - title: ¿Quién lo imparte?
         image: images/undraw_professor.svg
         content: >-
           Hola, soy **Alberto Basalo**.
 
-          En los más de 20 años que llevo programando en grandes (7 años en Zara) y pequeñas empresas he visto y escrito código que haría vomitar a una cabra.
+          En los más de 20 años que llevo programando en grandes y pequeñas empresas he visto código que haría vomitar a una cabra.
 
 
-          Pero también he aprendido a hacerlo mejor cada día. Con mi guía y algo de disciplina vas a crear grandes aplicaciones limpias.
+          Pero también he aprendido a hacerlo mejor cada día. Con mi guía y tu disciplina vas a crear grandes aplicaciones limpias.
 
         actions:
-          - label: Conocer a Alberto Basalo
+          - label: Alberto Basalo
             url: https://www.linkedin.com/in/albertobasalo/
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
-          📹: 3 horas de videos.
+          - 📹: 3 horas de videos.
 
+          - 📖: 22 documentos guía en pdf.
 
-          📖: 22 documentos guía en pdf.
+          - ⌨: 16 demostraciones en código.
 
+          - 📋: 4 ejercicios prácticos resueltos.
 
-          ⌨: 16 demostraciones en código.
-
-
-          📋: 4 ejercicios prácticos resueltos.
-
-
-          ✒ : 5 ilustraciones poster de referencia.
+          -✒ : 5 ilustraciones poster de referencia.
 
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
           Pagas por el curso que quieres. Sin ataduras. **Inviertes una vez utilizas para siempre.**
 
-          Con descuentos especiales para grupos. Sin papeleos ni burocracia. Centrados en tu beneficio.
-
-          Invierte lo mínimo. Aprovecha el tiempo. Aumenta el valor profesional.
-
-          > _"Lo más valioso es tu tiempo. Lo hemos cuidado al minuto. El dinero se puede devolver; el tiempo no."_
+          > "Lo más valioso es tu tiempo. Lo hemos cuidado al minuto."
   - section_id: pricing
     type: section_pricing
     bg: gray
-    title: Planes de precios.
-    subtitle: 🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón EN_CASA_40
+    title: Planes de precios
+    subtitle: Invierte lo mínimo. Aprovecha tu tiempo. Aumenta tu valor profesional.
     pricingplans:
       - title: Comunidad
         price: 0 €
@@ -103,33 +95,28 @@ sections:
           - label: Próximamente
             url: /
       - title: Profesional
-        price: 99 €
+        price: 99 € -4😷% EN_CASA_40🏡
         details: |-
           * Lo mismo que Comunidad más...
           * Videos explicativos
           * Videos demostraciones
           * Videos ejercicios resueltos
+          * Cuestionarios de autoevaluación
+          * Usa el cupón **EN_CASA_40**
         highlight: true
         actions:
           - label: Inscríbete
-            url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
+            url: https://aula.bitademy.com/
       - title: Empresa
         price: 149 €
         details: |-
           * Lo mismo que Profesional más..
-          * Control y evaluación final
+          * Control de seguimiento
           * Foro de atención diario
-          * EBook descargable
+          * Bonificable FUNDAE
         actions:
           - label: Próximamente...
             url: /
-  - section_id: call-to-action
-    type: section_cta
-    title: Formación desde casa 🏡
-    subtitle: 😷 40% de descuento durante la cuarentena.
-    actions:
-      - label: EN_CASA_40
-        url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: faq
     type: section_faq
     bg: gray
@@ -138,29 +125,26 @@ sections:
     faqitems:
       - question: ¿Qué formas de pago se admiten?
         answer: >-
-          Tarjeta de crédito y PayPal. Se puede realizar en un pago único o en 4 plazos para los cursos profesionales.
+          Tarjeta de crédito y PayPal. Se puede pagar en un pago único o en 4 plazos de 25€ cada uno para los cursos profesionales.
       - question: ¿La factura lleva IVA ?
         answer: >-
           Sí. En Europa los precios serán más IVA. Se emite factura para cada curso.
       - question: ¿Hay cupones descuento ?
         answer: >-
           Sí. Durante la cuarentena 😷 tenemos activado el cupón EN_CASA_40. Asígnalo durante el proceso de pago para un descuento del 40%. Quédate en casa. 🏡
-      - question: ¿Hay descuentos para grupos ?
+      - question: ¿Cuánto tiempo puedo usarlo?
         answer: >-
-          Sí. Se pueden comprar cupones para obtener ventajas de escalado. Disponibles próximamente.
-      - question: ¿Cuánto tiempo puedo usar el curso?
-        answer: >-
-          Fácil, es para siempre. Cada curso se compra una sola vez y se puede visionar indefinidamente.
+          Para ti, para siempre. Cada curso se compra una sola vez y se puede visionar indefinidamente.
           Sin ataduras temporales. Con mejoras o actualizaciones incluidas.
-      - question: ¿Cuánto tiempo llevará completarlo?
+      - question: ¿Cuánto tiempo me llevará completarlo?
         answer: >-
-          Este es un curso intensivo. Según el nivel y el tiempo de práctica llevará entre 16 y 20 horas. Lo recomendable es dedicarle al menos 4 horas por semana y terminarlo en menos de un mes. Pero, recuerda, que lo tendrás aquí para siempre.
+          Este es un curso intensivo. Según tu nivel y el tiempo de práctica te llevará entre 12 y 16 horas. Lo remendable es dedicarle al menos 4 horas por semana y terminarlo en menos de un mes. Pero, recuerda, lo tendrás aquí para siempre.
   - section_id: call-to-action
     type: section_cta
-    title: Beneficio para el alumno, Conviértete en artesano y aumenta tu valor!
+    title: Conviértete en artesano y aumenta tu valor!
     subtitle: Aprende a escribir y rehacer aplicaciones limpias.
     actions:
-      - label: Empezar ya
+      - label: Empieza ya
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: features
     type: section_features
@@ -174,45 +158,31 @@ sections:
         content: >-
           El curso se divide en cuatro grandes bloques de actuación práctica sobre el código. Y un extra motivacional de profesionalismo y artesanía del software.
 
+          - 🏷️ Estilo y nombrado
 
-          🏷️ Estilo y nombrado
+          - 🔀 Instrucciones, bloques y funciones
 
+          - 🗂️ Estructuras de datos
 
-          🔀 Instrucciones, bloques y funciones
-
-
-          🗂️ Estructuras de datos
-
-
-          📦 Objetos y lógica de negocio
+          - 📦 Objetos y lógica de negocio
 
 
       - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg
         content: >-
-          👨‍💻 Inicio mi carrera en la programación
+          - 👨‍💻 Inicio mi carrera en la programación
 
+          - 👴 Mantengo código heredado
 
-          👴 Mantengo código heredado
+          - 🙋‍♂️ Lidero un equipo
 
-
-          🙋‍♂️ Lidero un equipo
-
-
-          👨‍💼 Creo que puedo hacerlo mejor
+          - 👨‍💼 Creo que puedo hacerlo mejor
 
 
           > "Sí, este curso es para mi."
         actions:
           - label: Empiezo ya.
             url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
-  - section_id: call-to-action
-    type: section_cta
-    title: Beneficio para la empresa, mejora la calidad de tus desarrollos!
-    subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
-    actions:
-      - label: Formar a mi equipo
-        url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
 # menus:
 #   main:
 #     weight: 2
