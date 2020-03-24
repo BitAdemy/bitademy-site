@@ -15,8 +15,8 @@ sections:
     content: >-
       Las pruebas automáticas del software mejoran la calidad de los programas. **Reducen los bugs y los tiempos de mantenimiento**. Pero lo mejor es que pueden ser divertidas y desde luego rentables.
     actions:
-      - label: Recibir información
-        url: http://eepurl.com/gLTXxT
+      - label: Disponible próximamente
+        url: /
   - section_id: call-to-action
     type: section_cta
     title: Disponible próximamente!

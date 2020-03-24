@@ -65,7 +65,12 @@ export default class SectionCourses extends React.Component {
                     </div>
                     <footer className="post-meta">
                       <time
-                        className="published"
+                        className={
+                          moment(_.get(post, "frontmatter.date")) <=
+                          new Date().getTime()
+                            ? "published"
+                            : "unpublished"
+                        }
                         dateTime={moment(
                           _.get(post, "frontmatter.date")
                         ).strftime("%Y-%m-%d %H:%M")}

@@ -6,11 +6,11 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/undraw_professor.svg
-    title: La calidad del software invirtiendo en formación.
+    title: Mejora la calidad del software invirtiendo en formación.
     content: >-
        CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS...
     actions:
-      - label: Aumenta el valor de tus programadores
+      - label: Aumenta el valor de tus desarrollos
         url: /cursos
   - section_id: features
     type: section_features

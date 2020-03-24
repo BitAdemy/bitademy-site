@@ -6,24 +6,24 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/undraw_select_option.svg
-    title: Cursos online de bitAdemy
+    title: Cursos online de calidad
     content: >-
-      Realiza desde casa y cuando quieras nuestros talleres prácticos, cortos y eficaces.
+      Desde casa y cuando quieras estos son nuestros talleres prácticos, cortos y eficaces.
 
-      >"Escoge y aprende. Aumenta tu valor."
+      >"Escoge para aprender y aumentar tu valor."
   - section_id: features
     type: section_features
     bg: gray
-    title: Cursos online de calidad
+    title: Cursos para mejorar la calidad de tu software
     subtitle: >-
       Centrados en los fundamentos de la programación
     featureslist:
       - title: Clean Code aplicado para desarrollos limpios y rentables
         image: images/undraw_clean_up.svg
         content: >-
-          El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida la escritura para crear código limpio**. Transfórmate con este curso en artesano del software.
+          El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida la escritura para crear código limpio**. Este curso te transforma en artesano del software.
 
-          > "El código limpio refleja tu valía profesional."
+          > "El código limpio refleja la valía profesional de su creador."
         actions:
           - label: Saber mas
             url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
