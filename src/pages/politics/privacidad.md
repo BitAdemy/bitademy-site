@@ -1,7 +1,7 @@
 ---
 title: BitAdemy
 subtitle: >-
-  POLÍTICA DE PROVACIDAD
+  POLÍTICA DE PRIVACIDAD
 img_path: images/logo.png
 # menus:
 #   secondary:
@@ -13,6 +13,10 @@ template: page
 
 Esta web cumple el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (En adelante, RGPD) y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de datos Personales y garantí de los derechos digitales.
 En todo momento se adoptan las medidas técnicas y de organización necesarias para garantizar la seguridad e integridad de los datos de carácter personal que trate, así como para evitar su pérdida, alteración y/o acceso por parte de terceros no autorizados.
+
+[Condiciones legales](/politics/condiciones-legales)
+
+[Cookies](/politics/cookies)
 
 ## Responsable de la web
 
