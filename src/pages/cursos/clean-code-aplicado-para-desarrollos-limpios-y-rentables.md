@@ -20,8 +20,8 @@ sections:
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: call-to-action
     type: section_cta
-    title: Garantizar la calidad en un mundo distribuido y competitivo.
-    subtitle: Todo empieza por aprender, y asumir la responsabilidad, para escribir código limpio.
+    title: Garantiza la calidad en un mundo distribuido, globalizado y competitivo.
+    subtitle: Todo empieza por aprender las técnicas y asumir la responsabilidad para escribir código limpio.
     actions:
       - label: Mejora tus desarrollos
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
@@ -79,11 +79,10 @@ sections:
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
-          Pagas por el curso que quieres. Sin ataduras. **Inviertes una vez utilizas para siempre.**
+          Paga solo lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
 
-          Con descuentos especiales para grupos. Sin papeleos ni burocracia. Centrados en tu beneficio.
 
-          Invierte lo mínimo. Aprovecha el tiempo. Aumenta el valor profesional.
+          Sin papeleos ni burocracia. Centrados en tu beneficio. Invierte lo mínimo. Aprovecha el tiempo. Aumenta el valor profesional.
 
           > _"Lo más valioso es tu tiempo. Lo hemos cuidado al minuto. El dinero se puede devolver; el tiempo no."_
   - section_id: pricing
@@ -95,7 +94,7 @@ sections:
       - title: Comunidad
         price: 0 €
         details: |-
-          * Blog tutorial
+          * [Blog tutorial](/blog/clean-code)
           * [Repositorio de ejemplos](https://github.com/labsAdemy/CleanCodeLab/)
           * [Redes sociales](https://twitter.com/bit_ademy)
           * [Newsletter mensual](http://eepurl.com/gLTXxT)
@@ -105,9 +104,10 @@ sections:
       - title: Profesional
         price: 99 €
         details: |-
-          * Lo mismo que Comunidad más...
+          * _Todo lo de Comunidad más..._
           * Videos explicativos
           * Videos demostraciones
+          * Videos ejercicios propuestos
           * Videos ejercicios resueltos
         highlight: true
         actions:
@@ -116,10 +116,11 @@ sections:
       - title: Empresa
         price: 149 €
         details: |-
-          * Lo mismo que Profesional más..
+          * _Todo lo de Profesional más..-_
           * Control y evaluación final
           * Foro de atención diario
           * EBook descargable
+          * Diploma de aprovechamiento
         actions:
           - label: Próximamente...
             url: /
@@ -157,7 +158,7 @@ sections:
           Este es un curso intensivo. Según el nivel y el tiempo de práctica llevará entre 16 y 20 horas. Lo recomendable es dedicarle al menos 4 horas por semana y terminarlo en menos de un mes. Pero, recuerda, que lo tendrás aquí para siempre.
   - section_id: call-to-action
     type: section_cta
-    title: Beneficio para el alumno, Conviértete en artesano y aumenta tu valor!
+    title: Beneficio para el alumno. ¡Conviértete en artesano y aumenta tu valor!
     subtitle: Aprende a escribir y rehacer aplicaciones limpias.
     actions:
       - label: Empezar ya
@@ -208,7 +209,7 @@ sections:
             url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: call-to-action
     type: section_cta
-    title: Beneficio para la empresa, mejora la calidad de tus desarrollos!
+    title: Beneficio para la empresa. ¡Mejora la calidad de tus desarrollos!
     subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
     actions:
       - label: Formar a mi equipo

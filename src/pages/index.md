@@ -6,7 +6,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/undraw_professor.svg
-    title: Mejora la calidad del software invirtiendo en formación.
+    title: Aumenta la calidad del software
     content: >-
        CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS...
     actions:
@@ -17,20 +17,20 @@ sections:
     bg: gray
     title: Cursos de calidad para software de calidad.
     subtitle: >-
-      La industria del software es pujante pero competitiva. ¿Estáis preparados? Formarse bien es la mejor garantía de éxito.
+      La industria del software es pujante pero competitiva. ¿Estás preparado? Formarse bien es la mejor garantía de éxito.
     featureslist:
       - title: Mejorar la calidad del software
         image: images/undraw_goals.svg
         content: >-
-          Los lenguajes, los frameworks y las herramientas son perecederos. **Para obtener calidad hay que centrarse en lo que no cambia.**
+          Los lenguajes, los frameworks y las herramientas son perecederos. **Para obtener calidad a largo plazo hay que centrarse en lo que no cambia.**
 
-          > _"Las técnicas, buenas prácticas y fundamentos os serán útiles para siempre."_
+          > _"Las técnicas, las buenas prácticas y los fundamentos son útiles para siempre."_
       - title: En el menor tiempo posible
         image: images/undraw_in_no_time.svg
         content: >-
           El tiempo es nuestro bien más preciado. **Invierte el tiempo de la manera más rentable.** Ni cursos enlatados ni guiones oficiales ni burocracia. Todo al grano. Cosas útiles en el menor tiempo.
 
-          > "Aprended rápido lo que necesitais."
+          > "Preparación para prender rápido lo que se necesita."
       - title: Optimiza el desarrollo y aumenta el valor.
         image: images/undraw_investing.svg
         content: >-
@@ -39,8 +39,8 @@ sections:
           > _"Todo el mundo valora mejor a quien resuelve problemas."_
   - section_id: call-to-action
     type: section_cta
-    title: Ahora más que nunca, estad preparados. Durante la cuarentena un 40% de descuento.
-    subtitle: Convierte a cada programador en artesano con el curso Clean Code aplicado para desarrollos limpios y rentables.
+    title: Ahora más que nunca, hay que estar preparados. 40% de descuento durante la cuarentena.
+    subtitle: Con el curso de Clean Code aplicado para desarrollos limpios y rentables la distancia no será un problema.
     actions:
       - label: 🏡 EN_CASA_40
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
