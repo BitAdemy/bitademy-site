@@ -63,7 +63,7 @@ Pero volviendo a tu terreno. Te preguntarás si hay alguna recomendación y herr
 ### Control de cambios en el Changelog
 Lo primero sería establecer y seguir unos criterios para indicar la magnitud de los cambios. Eso tiene solución con los Conventional Commits.
 
-[**Conventional Commits**, A specification for adding human and machine readable meaning to commit messages](www.conventionalcommits.org)
+[**Conventional Commits**, A specification for adding human and machine readable meaning to commit messages](https://www.conventionalcommits.org)
 
 ### Nombrado de versiones semántico: SemVer
 Sabiendo la categoría del cambio podemos adoptar el sistema de nombrado basado en ellos. El llamado Semantic Versioning.

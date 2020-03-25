@@ -11,7 +11,7 @@ category_url: blog/clean-code
 template: post
 ---
 
-![Carpetas para organizar ficheros de código](/images/tree.png "Carpetas para organizar ficheros de código")
+![Carpetas para organizar ficheros de código](/images/tree.jfif "Carpetas para organizar ficheros de código")
 
 Cada artificio programado va en su propio fichero, lo cual acaban siendo muchos ficheros. ¿Cómo los organizas?.
 
