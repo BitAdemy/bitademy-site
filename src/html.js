@@ -16,10 +16,6 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
-        <script
-          type="text/javascript"
-          src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?forceLang=es&tracking=1&thirdparty=1&always=1&showPolicyLink=1&privacyPage=https%3A%2F%2Fbitademy.com%2Fpolitics%2Fprivacidad"
-        ></script>
       </body>
     </html>
   );
