@@ -23,11 +23,26 @@
     "has_subscribe": true,
     "subscribe_title": "Newsletter",
     "subscribe_content": "Entérate de lo último en la bitLetter mensual.",
-    "content": "&copy; bitAdemy. Derechos reservados.",
+    "content": "&copy; bitAdemy.",
     "links": [
       {
-        "text": "Un servicio online de",
+        "text": "by: Ágora Binaria S.L.",
         "url": "https://agorabinaria.com",
+        "new_window": true
+      },
+      {
+        "text": " 👨‍⚖️ Condiciones legales",
+        "url": "/politics/condiciones-legales",
+        "new_window": true
+      },
+      {
+        "text": " 🙈 Privacidad",
+        "url": "/politics/privacidad",
+        "new_window": true
+      },
+      {
+        "text": " 🍪 Cookies",
+        "url": "/politics/cookies",
         "new_window": true
       }
     ]
