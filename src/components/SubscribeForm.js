@@ -30,7 +30,7 @@ export default class SubscribeForm extends React.Component {
           </label>
         </div>
         <button className="button" type="submit">
-          📨 Subscribirme
+          📨 Suscribirme
         </button>
       </form>
     );
