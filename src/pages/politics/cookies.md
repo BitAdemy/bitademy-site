@@ -3,10 +3,10 @@ title: BitAdemy
 subtitle: >-
   POLÍTICA DE COOKIES
 img_path: images/logo.png
-menus:
-  secondary:
-  weight: 1
-  title: BitAdemy
+# menus:
+#   secondary:
+#   weight: 1
+#   title: BitAdemy
 template: page
 ---
 
