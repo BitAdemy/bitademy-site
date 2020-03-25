@@ -35,18 +35,29 @@ Las cookies analíticas son las utilizadas por la Web, para elaborar perfiles de
 Las cookies publicitarias permiten la gestión de los espacios publicitarios en base a criterios concretos. Por ejemplo la frecuencia de acceso, el contenido editado, etc. Las cookies de publicidad permiten a través de la gestión de la publicidad almacenar información del comportamiento a través de la observación de hábitos, estudiando los accesos y formando un perfil de preferencias del usuario, para ofrecerle publicidad relacionada con los intereses de su perfil.
 
 Las cookies de esta web ayudan a:
+
 •	Hacer que esta web funcione correctamente.
+
 •	Ahorrarle el tener que iniciar sesión cada vez que visitas este sitio.
+
 •	Recordarte tus ajustes durante y entre las visitas.
+
 •	Permitirte visualizar vídeos
+
 •	Mejorar la velocidad/seguridad de la web
+
 •	Que puedas compartir el contenido en las redes sociales
+
 •	Mejorar continuamente esta web
+
 •	Mostrarte anuncios en función de tus hábitos de navegación.
 
 **No utilizaré jamás cookies para:**
+
 •	Recoger información de identificación personal (sin tu consentimiento expreso)
+
 •	Recoger información sensible (sin tu permiso expreso)
+
 •	Compartir datos de identificación personal a terceros.
 
 
