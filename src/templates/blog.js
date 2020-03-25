@@ -56,6 +56,7 @@ export default class Blog extends React.Component {
                             _.get(post, "frontmatter.category_url")
                           )}
                           rel="bookmark"
+                          className="margin-right"
                         >
                           {_.get(post, "frontmatter.category")}
                         </Link>
@@ -66,7 +67,7 @@ export default class Blog extends React.Component {
                           ).strftime("%Y-%m-%d %H:%M")}
                         >
                           {moment(_.get(post, "frontmatter.date")).strftime(
-                            "%B %d, %Y"
+                            "%d - %m - %y"
                           )}
                         </time>
                       </footer>

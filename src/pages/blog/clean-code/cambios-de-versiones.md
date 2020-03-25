@@ -5,11 +5,13 @@ subtitle: >-
 excerpt: >-
   Primero programar y probar, luego a casa. Ah, no que aún faltan el despliegue y el control de versiones.
 date: '2020-02-20'
-thumb_img_path: images/changes.jfif
+thumb_img_path: images/changes.s.jfif
 category: Clean Code
 category_url: blog/clean-code
 template: post
 ---
+
+![Cambios de versiones](/images/changes.jfif "Cambios de versiones")
 
 Ah, no puede ser. Aún faltan el despliegue y el control de versiones. Buff, cuando menos me apetece tengo que hacer todo ese rollo de etiquetar, cambiar número de versión, documentar los cambios…
 
@@ -38,7 +40,7 @@ _Depende_. Esto no es ni bueno ni malo, pero conviene tenerlo presente. Tenemos 
 
 **Angular**: tras el fallo inicial de llamarle 2 a algo que no tenía predecesor, han intentando generar versiones de manera predictiva: cada seis meses. Poco a poco han tenido que abandonar ese ciclo fijo y desplegar cuando se puede.
 
-**Chrome**: El número de versión avanza con tal frecuencia que nadie es capaz de establecer hitos recordables. Paradigma de la mejora contínua.
+**Chrome**: El número de versión avanza con tal frecuencia que nadie es capaz de establecer hitos recordables. Paradigma de la mejora continua.
 ### Microsoft
 
 **Windows**: Mezcla de números secuenciales, años, alias y vuelta a los números. Este caos sólo funciona porque es Windows.
@@ -63,7 +65,7 @@ Lo primero sería establecer y seguir unos criterios para indicar la magnitud de
 
 [**Conventional Commits**, A specification for adding human and machine readable meaning to commit messages](www.conventionalcommits.org)
 
-### Nombrado de versiones semántico: Semver
+### Nombrado de versiones semántico: SemVer
 Sabiendo la categoría del cambio podemos adoptar el sistema de nombrado basado en ellos. El llamado Semantic Versioning.
 
 [Semantic Versioning (SemVer) explained](https://pawelgrzybek.com/semantic-versioning-semver-explained/)

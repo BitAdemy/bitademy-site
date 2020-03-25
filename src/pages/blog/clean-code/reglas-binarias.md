@@ -5,11 +5,13 @@ subtitle: >-
 excerpt: >-
   Disclaimer:En honor a nuestros fundamentos los número escogidos se adaptan a las potencias de 2 y se presentan en notación decimal y binaria. Son elecciones arbitrarias y que sólo deben hacerte reflexionar sobre la métrica en si.
 date: '2019-03-19'
-thumb_img_path: images/rule.jfif
+thumb_img_path: images/rule.s.jfif
 category: Clean Code
 category_url: blog/clean-code
 template: post
 ---
+
+![Reglas binarias](/images/rule.jfif "Reglas binarias")
 
 > **Disclaimer:** Para hacer honor al nombre de la academia, los número escogidos se adaptan a las potencias de 2 y se presentan en notación decimal y binaria. Son elecciones arbitrarias y que sólo deben hacerte reflexionar sobre la métrica en sí.
 

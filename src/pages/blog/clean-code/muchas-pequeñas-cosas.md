@@ -5,11 +5,13 @@ subtitle: >-
 excerpt: >-
   Si tuviera que dar sólo dos consejos para desarrolladores que quieran producir código limpio serían: Crea muchas cosas pequeñas y nómbralas consistentemente.
 date: '2018-05-18'
-thumb_img_path: images/muchas_pequeñas_cosas.jpeg
+thumb_img_path: images/muchas_pequeñas_cosas.s.jpeg
 category: Clean Code
 category_url: blog/clean-code
 template: post
 ---
+
+![Muchas pequeñas cosas](/images/muchas_pequeñas_cosas.jpeg "Muchas pequeñas cosas")
 
 Si tuviera que dar sólo dos consejos para desarrolladores que quieran producir código limpio serían:
 

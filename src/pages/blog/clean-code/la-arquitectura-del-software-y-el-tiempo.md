@@ -5,14 +5,15 @@ subtitle: >-
 excerpt: >-
   En algún sitio he leído que el software es como el plástico: maleable y costosamente duradero.Lo primero lo distingue del hardware, algo que es costoso de cambiar. Lo segundo lo distingue de casi todo.
 date: '2019-05-19'
-thumb_img_path: images/blocks.jfif
+thumb_img_path: images/blocks.s.jfif
 category: Clean Code
 category_url: blog/clean-code
 template: post
 ---
 
-El software como tal no caduca, ni siquiera se degrada; pero su mantenimiento es un quebradero de cabeza.
+![Pruebas, prototipos, plantillas y frameworks](/images/blocks.jfif "Pruebas, prototipos, plantillas y frameworks")
 
+El software como tal no caduca, ni siquiera se degrada; pero su mantenimiento es un quebradero de cabeza.
 
 Con el tiempo y la lucidez de unos cuantos maestros del desarrollo, ha aparecido una disciplina para facilitar el mantenimiento de los programas: **la arquitectura del software**. Podríamos definirla como **el conjunto de decisiones que tomamos al diseñar un programa para facilitar su mantenimiento**.
 

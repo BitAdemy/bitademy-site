@@ -55,7 +55,7 @@ export default class Post extends React.Component {
                 >
                   {moment(
                     _.get(this.props, "pageContext.frontmatter.date")
-                  ).strftime("%d - %m - %Y")}
+                  ).strftime("%d - %m - %y")}
                 </time>
               </footer>
             </article>

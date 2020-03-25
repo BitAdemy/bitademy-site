@@ -5,11 +5,13 @@ subtitle: >-
 excerpt: >-
   El código limpio genera muchas clases pequeñas. Cada una en su fichero acaban siendo muchos ficheros. ¿Cómo los organizas?.
 date: '2019-09-19'
-thumb_img_path: images/tree.jfif
+thumb_img_path: images/tree.s.jfif
 category: Clean Code
 category_url: blog/clean-code
 template: post
 ---
+
+![Carpetas para organizar ficheros de código](/images/tree.png "Carpetas para organizar ficheros de código")
 
 Cada artificio programado va en su propio fichero, lo cual acaban siendo muchos ficheros. ¿Cómo los organizas?.
 

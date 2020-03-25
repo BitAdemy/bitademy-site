@@ -5,11 +5,13 @@ subtitle: >-
 excerpt: >-
   Prepárate para un nuevo mundo es una frase típica. Pero escrita el 20 de marzo 2020 es de una evidencia escalofriante.
 date: '2020-03-20'
-thumb_img_path: images/preparate_en_casa.png
+thumb_img_path: images/preparate_en_casa.s.png
 category: Clean Code
 category_url: blog/clean-code
 template: post
 ---
+
+![Prepárate para un nuevo mundo](/images/preparate_en_casa.png "Prepárate para un nuevo mundo")
 
 Es cierta en cualquier contexto. El mundo es un cambio constante y los mejor preparados para adaptarse a los cambios siempre tendrán mejores oportunidades.
 

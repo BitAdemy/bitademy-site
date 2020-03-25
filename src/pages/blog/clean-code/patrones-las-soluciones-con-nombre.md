@@ -5,11 +5,13 @@ subtitle: >-
 excerpt: >-
   Para cada problema siempre existe al menos una solución, o al menos suele ocurrir así en la programación moderna.
 date: '2018-03-18'
-thumb_img_path: images/patrones-las-soluciones-con-nombre.jpeg
+thumb_img_path: images/patrones-las-soluciones-con-nombre.s.jpeg
 category: Clean Code
 category_url: blog/clean-code
 template: post
 ---
+
+![Patrones, las soluciones con nombre](/images/patrones-las-soluciones-con-nombre.jpeg "Patrones, las soluciones con nombre")
 
 Para cada problema siempre existe al menos una solución, o al menos suele ocurrir así en la programación moderna. Muchas veces re-inventamos la rueda por desconocimiento de su existencia o de su nombre. A esas soluciones con nombre propio es a lo que conocemos como patrones.
 

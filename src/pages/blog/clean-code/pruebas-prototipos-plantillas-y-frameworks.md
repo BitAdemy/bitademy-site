@@ -5,11 +5,13 @@ subtitle: >-
 excerpt: >-
   No todos los proyectos están predestinados a producción. Algunos nacen par evaluar, facilitar o estructurar el producto final.
 date: '2019-08-19'
-thumb_img_path: images/botanic.jfif
+thumb_img_path: images/botanic.s.jfif
 category: Clean Code
 category_url: blog/clean-code
 template: post
 ---
+
+![Pruebas, prototipos, plantillas y frameworks](/images/botanic.jfif "Pruebas, prototipos, plantillas y frameworks")
 
 ## Pruebas de concepto:
 Son proyectos cuyo objetivo es probar una tecnología o una solución para ver si resuelve un problema y encaja en nuestro equipo. Son de muy corto alcance, desde unas pocas horas a dos o tres días. A veces se repite la misma prueba usando otra alternativa para poder comparar. En cualquier caso al finalizar se desecha el código.

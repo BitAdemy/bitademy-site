@@ -74,7 +74,7 @@ export default class SectionPosts extends React.Component {
                         ).strftime("%Y-%m-%d %H:%M")}
                       >
                         {moment(_.get(post, "frontmatter.date")).strftime(
-                          "%Y %m %d"
+                          "%d - %m - %y"
                         )}
                       </time>
                     </footer>
