@@ -25,6 +25,7 @@ template: post
 - Los tests **deben estar limpios**.
 
 >"[Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)"
+>
 > -- ✍️ **Kent C. Dodds**
 
 
@@ -45,11 +46,10 @@ template: post
 >
 > -- ✍️ **Robert C. Martin**
 
+---
 
 #### ⛓ Enlaces
-
-- [⏪ Perdona pero tu código huele](/tutorial/clean-code/perdona_pero_tu_codigo_huele)
-
-- 🔜 Estilo y nombrado
-
+- [💻 Preview video free](https://aula.bitademy.com/courses/codigo-limpio/lectures/13651501)
 - [⌨ Laboratorio](https://github.com/LabsAdemy/CleanCodeLab/)
+- [**⏩ ▶➡ Contenido**](/tutorial/clean-code/contenido)
+- [⏪ Perdona pero tu código huele](/tutorial/clean-code/perdona_pero_tu_codigo_huele)

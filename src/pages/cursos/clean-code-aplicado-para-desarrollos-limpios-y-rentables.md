@@ -16,7 +16,7 @@ sections:
       El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida el desarrollo para crear código limpio**. Este curso transforma al programador en artesano del software.
 
     actions:
-      - label: Programar mejor
+      - label: Aprender a programar mejor
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: call-to-action
     type: section_cta
@@ -58,7 +58,7 @@ sections:
 
         actions:
           - label: Conocer a Alberto Basalo
-            url: https://www.linkedin.com/in/albertobasalo/
+            url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13532772
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
@@ -96,7 +96,7 @@ sections:
         price: 0 €
         details: |-
           * _Porque el conocimiento es libre..._
-          * [Blog tutorial](/blog/clean-code)
+          * [Tutorial](/tutorial/clean-code)
           * [Repositorio de ejemplos](https://github.com/labsAdemy/CleanCodeLab/)
           * [Redes sociales](https://twitter.com/bit_ademy)
           * [Newsletter mensual](http://eepurl.com/gLTXxT)
@@ -190,6 +190,9 @@ sections:
 
 
           📦 Objetos y lógica de negocio
+        actions:
+          - label: Contenido detallado.
+            url: /tutorial/clean-code/contenido
 
 
       - title: ¿Este curso es para mi?

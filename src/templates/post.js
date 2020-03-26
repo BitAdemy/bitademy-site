@@ -74,7 +74,7 @@ export default class Post extends React.Component {
                   to={safePrefix(
                     _.get(this.props, "pageContext.frontmatter.category_url")
                   ).toLowerCase()}
-                  className="button secondary margin-right"
+                  className="button secondary margin-left"
                 >
                   {_.get(this.props, "pageContext.frontmatter.category")}
                 </Link>
@@ -90,17 +90,6 @@ export default class Post extends React.Component {
                   message={_.get(this.props, "pageContext.frontmatter.title")}
                   className="margin-left margin-right"
                 />
-                <time
-                  className="published margin-left"
-                  dateTime={moment(
-                    _.get(this.props, "pageContext.frontmatter.date")
-                  ).strftime("%Y-%m-%d %H:%M")}
-                >
-                  📅{" "}
-                  {moment(
-                    _.get(this.props, "pageContext.frontmatter.date")
-                  ).strftime("%d - %m - %y")}
-                </time>
               </footer>
             </article>
           </div>

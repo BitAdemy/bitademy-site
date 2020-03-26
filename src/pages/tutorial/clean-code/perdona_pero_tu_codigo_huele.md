@@ -57,9 +57,9 @@ template: post
 
 5️⃣. Keep It Simple, (*not*) Stupid **(KISS)**
 
+---
 
 #### ⛓ Enlaces
-
+- [💻 Preview video free](https://aula.bitademy.com/courses/codigo-limpio/lectures/13532771)
+- [**⏩ Software que funciona**](/tutorial/clean-code/software_que_funciona)
 - [⏪ Clean Code aplicado para desarrollos limpios y rentables](/tutorial/clean-code/)
-
-- [⏩ Software que funciona](/tutorial/clean-code/software_que_funciona)
