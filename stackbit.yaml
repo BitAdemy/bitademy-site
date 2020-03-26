@@ -49,6 +49,10 @@ models:
             name: title
             label: Header Title
             description: The title displayed in the header if no logo image added.
+          - type: string
+            name: production_url
+            label: Production Url
+            description: The url of the site.
           - type: image
             name: logo_img
             label: Logo

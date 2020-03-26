@@ -3,6 +3,7 @@
   "header": {
     "title": "bitAdemy",
     "logo_img": "images/logo.png",
+    "production_url": "https://www.bitademy.com/",
     "has_nav": true,
     "menu": {
       "actions": [
