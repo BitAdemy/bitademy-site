@@ -12,12 +12,9 @@ post_url: tutorial/clean-code/software_que_funciona
 template: post
 ---
 
-
 >"Codifica como si la persona que mantendrá tu código fuera un psicópata violento que sabe dónde vives."
 >
 > -- ✍️ **Martin Golding**
-
----
 
 ## 🧪 Limpiar requiere cambiar por dentro sin cambiar por fuera
 
@@ -30,13 +27,11 @@ template: post
 >"[Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)"
 > -- ✍️ **Kent C. Dodds**
 
----
 
 ### Si funciona...
 
 ![No siempre pruebo mi código... pero cuando lo hago, es en producción](https://academiabinaria.github.io/clean-code-TS/assets/test-production.jpeg)
 
----
 
 > "¿Por qué los desarrolladores temen cambiar su código?
 >
@@ -50,18 +45,6 @@ template: post
 >
 > -- ✍️ **Robert C. Martin**
 
----
-
-## 📝 Laboratorio
-
-### Todo el código mostrado va acompañado de sus tests.
-
-https://github.com/LabsAdemy/CleanCodeLab/
-
-> "La verdad sólo se encuentra en un lugar: el código"
->
-> -- ✍️ **Robert C. Martin**
-
 
 #### ⛓ Enlaces
 
@@ -70,3 +53,5 @@ https://github.com/LabsAdemy/CleanCodeLab/
 - [⏪ Perdona pero tu código huele](/tutorial/clean-code/perdona_pero_tu_codigo_huele)
 
 - 🔜 Estilo y nombrado
+
+- [⌨ Laboratorio](https://github.com/LabsAdemy/CleanCodeLab/)

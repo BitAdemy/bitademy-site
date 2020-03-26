@@ -12,8 +12,6 @@ post_url: tutorial/clean-code/clean-code-aplicado-para-desarrollos-limpios-y-ren
 template: post
 ---
 
-
-
 ## 🏁 Introducción
 
 - **Programar es expresar procesos con detalle en un lenguaje no ambiguo**  que entiendan las máquinas.
@@ -24,7 +22,6 @@ template: post
 
 - La programación limpia es una técnica que **se puede aprender y practicar.**
 
----
 
 ### [🤢 Perdona pero... tu código huele](/tutorial/clean-code/perdona_pero_tu_codigo_huele)
 
@@ -60,8 +57,6 @@ template: post
 
 - Manifiesto artesano.
 - Valores, disciplina y profesionalismo.
-
----
 
 > "El código limpio parece escrito por alguien a quien le importa."
 >

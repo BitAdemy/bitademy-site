@@ -16,19 +16,15 @@ template: post
 >
 > -- ✍️ **Addy Osmani**
 
----
-
 - Tu código es mejorable; y el mío también. 😳
 
 - A ese código mejorable le decimos que... huele mal. 🤢
 
----
 
-![Perdone pero... le huele el código](https://academiabinaria.github.io/clean-code-TS/assets/your-code-smells.jpg)
+![Perdone pero... le huele el código](/images/your-code-smells.jpg)
 
 > Perdone, le huele el código.
 
----
 
 ## 🥀 Con el tiempo empeora
 
@@ -41,11 +37,9 @@ template: post
 >
 > -- ✍️ **Ley de Eagleson**
 
----
 
-[¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
+[ 📺 😂  ¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
 
----
 
 ## 💈 Principios de mejora
 
