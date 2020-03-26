@@ -1,6 +1,7 @@
 import _ from "lodash";
 import moment from "moment-strftime";
 import React from "react";
+import { Twitter } from "react-social-sharing";
 import { Layout } from "../components/index";
 import { htmlToReact, Link, safePrefix } from "../utils";
 
@@ -44,6 +45,12 @@ export default class Post extends React.Component {
                   >
                     {_.get(this.props, "pageContext.frontmatter.category")}
                   </Link>
+                  <Twitter
+                    solid
+                    small
+                    link={window.location.href}
+                    message={_.get(this.props, "pageContext.frontmatter.title")}
+                  />
                 </h4>
               </div>
               <footer className="post-meta">
