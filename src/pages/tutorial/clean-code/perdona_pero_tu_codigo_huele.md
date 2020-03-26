@@ -6,8 +6,8 @@ excerpt: >-
   Perdona pero... tu código huele. Lo primero es admitir que todo código es mejorable.
 date: '2020-03-26'
 thumb_img_path: images/undraw_clean_up.png
-category: Tutorial
-category_url: tutorial
+category: 🏠 Tutorial Clean Code
+category_url: tutorial/clean-code
 post_url: tutorial/clean-code/perdona_pero_tu_codigo_huele
 template: post
 ---
@@ -60,6 +60,6 @@ template: post
 
 #### ⛓ Enlaces
 
-- [🔼 Clean Code aplicado para desarrollos limpios y rentables](/tutorial/clean-code/clean-code-aplicado-para-desarrollos-limpios-y-rentables)
+- [⏪ Clean Code aplicado para desarrollos limpios y rentables](/tutorial/clean-code/)
 
 - [⏩ Software que funciona](/tutorial/clean-code/software_que_funciona)

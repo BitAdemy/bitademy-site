@@ -6,9 +6,9 @@ excerpt: >-
   Tutorial para aprender las técnicas Clean Code y adoptar la filosofía Software Craftmanship.
 date: '2020-03-26'
 thumb_img_path: images/undraw_clean_up.png
-category: Tutorial
+category: 🔝 Tutoriales
 category_url: tutorial
-post_url: tutorial/clean-code/clean-code-aplicado-para-desarrollos-limpios-y-rentables
+post_url: tutorial/clean-code
 template: post
 ---
 
@@ -61,3 +61,7 @@ template: post
 > "El código limpio parece escrito por alguien a quien le importa."
 >
 > -- ✍️ **Robert C. Martin**
+
+#### ⛓ Enlaces
+
+- [⏩ Perdona pero... tu código huele](/tutorial/clean-code/perdona_pero_tu_codigo_huele)
