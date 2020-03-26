@@ -82,7 +82,8 @@ sections:
           Paga solo lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
 
 
-          Sin papeleos ni burocracia. Centrados en tu beneficio. Invierte lo mínimo. Aprovecha el tiempo. Aumenta el valor profesional.
+          **Descuentos para grupos de empresa.** Sin papeleos ni burocracia. Invierte lo mínimo.
+
 
           > _"Lo más valioso es tu tiempo. Lo hemos cuidado al minuto. El dinero se puede devolver; el tiempo no."_
   - section_id: pricing
@@ -94,6 +95,7 @@ sections:
       - title: Comunidad
         price: 0 €
         details: |-
+          * _Porque el conocimiento es libre..._
           * [Blog tutorial](/blog/clean-code)
           * [Repositorio de ejemplos](https://github.com/labsAdemy/CleanCodeLab/)
           * [Redes sociales](https://twitter.com/bit_ademy)
@@ -109,6 +111,8 @@ sections:
           * Videos demostraciones
           * Videos ejercicios propuestos
           * Videos ejercicios resueltos
+          * Cuestionario de autoevaluación
+          * Diploma de aprovechamiento
         highlight: true
         actions:
           - label: Inscríbete
@@ -116,11 +120,11 @@ sections:
       - title: Empresa
         price: 149 €
         details: |-
-          * _Todo lo de Profesional más..-_
-          * Control y evaluación final
-          * Foro de atención diario
+          * _Todo lo de Profesional más..._
+          * Cheatsheets descargables
           * EBook descargable
-          * Diploma de aprovechamiento
+          * Foro de atención diario
+          * Revisión de práctica final
         actions:
           - label: Próximamente...
             url: /
