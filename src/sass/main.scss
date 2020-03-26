@@ -2,13 +2,11 @@
 $font: (
   primary: (
     "Lato",
-    Helvetica,
     sans-serif,
   ),
   secondary: (
     "Comfortaa",
-    Helvetica,
-    sans-serif,
+    cursive,
   ),
 );
 
@@ -44,7 +42,7 @@ $palette: (
   font-style: italic;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Comfortaa|Lato");
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Lato&display=swap");
 
 @import "imports/functions";
 
