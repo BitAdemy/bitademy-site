@@ -8,6 +8,7 @@ date: '2019-08-19'
 thumb_img_path: images/botanic.s.jfif
 category: Clean Code
 category_url: blog/clean-code
+post_url: blog/clean-code/pruebas-prototipos-plantillas-y-frameworks
 template: post
 ---
 

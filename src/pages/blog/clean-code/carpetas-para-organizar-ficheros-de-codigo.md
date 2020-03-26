@@ -8,6 +8,7 @@ date: '2019-09-19'
 thumb_img_path: images/tree.s.jfif
 category: Clean Code
 category_url: blog/clean-code
+post_url: blog/clean-code/carpetas-para-organizar-ficheros-de-codigo
 template: post
 ---
 

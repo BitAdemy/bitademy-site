@@ -48,7 +48,9 @@ export default class Post extends React.Component {
                   <Twitter
                     solid
                     small
-                    link={window.location.href}
+                    link={safePrefix(
+                      _.get(this.props, "pageContext.frontmatter.post_url")
+                    ).toLowerCase()}
                     message={_.get(this.props, "pageContext.frontmatter.title")}
                   />
                 </h4>

@@ -285,6 +285,10 @@ models:
         name: category_url
         label: Category Url
         description: Main category URL for this post.
+      - type: string
+        name: post_url
+        label: Post Url
+        description: Relative URL for this post.
       - type: page_menus
         name: menus
         label: Post Menus

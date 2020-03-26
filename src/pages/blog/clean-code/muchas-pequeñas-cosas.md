@@ -8,6 +8,7 @@ date: '2018-05-18'
 thumb_img_path: images/muchas_pequeñas_cosas.s.jpeg
 category: Clean Code
 category_url: blog/clean-code
+post_url: blog/clean-code/muchas-pequeñas-cosas
 template: post
 ---
 

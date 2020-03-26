@@ -8,6 +8,7 @@ date: '2019-05-19'
 thumb_img_path: images/blocks.s.jfif
 category: Clean Code
 category_url: blog/clean-code
+post_url: blog/clean-code/la-arquitectura-del-software-y-el-tiempo
 template: post
 ---
 

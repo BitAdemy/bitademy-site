@@ -8,6 +8,7 @@ date: '2018-03-18'
 thumb_img_path: images/patrones-las-soluciones-con-nombre.s.jpeg
 category: Clean Code
 category_url: blog/clean-code
+post_url: blog/clean-code/patrones-las-soluciones-con-nombre
 template: post
 ---
 

@@ -8,6 +8,7 @@ date: '2020-03-20'
 thumb_img_path: images/preparate_en_casa.s.png
 category: Clean Code
 category_url: blog/clean-code
+post_url: blog/clean-code/prepárate-para-un-nuevo-mundo
 template: post
 ---
 

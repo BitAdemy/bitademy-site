@@ -8,6 +8,7 @@ date: '2019-03-19'
 thumb_img_path: images/rule.s.jfif
 category: Clean Code
 category_url: blog/clean-code
+post_url: blog/clean-code/reglas-binarias
 template: post
 ---
 

@@ -8,6 +8,7 @@ date: '2020-02-20'
 thumb_img_path: images/changes.s.jfif
 category: Clean Code
 category_url: blog/clean-code
+post_url: blog/clean-code/cambios-de-versiones
 template: post
 ---
 
