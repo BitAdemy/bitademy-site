@@ -35,36 +35,68 @@ export default class Post extends React.Component {
                 </div>
               )}
               <div className="post-content">
-                {htmlToReact(_.get(this.props, "pageContext.html"))}
-                <h4>
-                  <Link
-                    to={safePrefix(
-                      _.get(this.props, "pageContext.frontmatter.category_url")
-                    ).toLowerCase()}
-                    className="button secondary"
-                  >
-                    {_.get(this.props, "pageContext.frontmatter.category")}
-                  </Link>
-                  <Twitter
-                    solid
-                    small
-                    link={
-                      _.get(
-                        this.props,
-                        "pageContext.site.siteMetadata.header.production_url"
-                      ) + _.get(this.props, "pageContext.frontmatter.post_url")
-                    }
-                    message={_.get(this.props, "pageContext.frontmatter.title")}
-                  />
-                </h4>
-              </div>
-              <footer className="post-meta">
                 <time
-                  className="published"
+                  className="margin-right"
                   dateTime={moment(
                     _.get(this.props, "pageContext.frontmatter.date")
                   ).strftime("%Y-%m-%d %H:%M")}
                 >
+                  📅{" "}
+                  {moment(
+                    _.get(this.props, "pageContext.frontmatter.date")
+                  ).strftime("%d - %m - %y")}
+                </time>
+                <Link
+                  to={safePrefix(
+                    _.get(this.props, "pageContext.frontmatter.category_url")
+                  ).toLowerCase()}
+                  className="margin-left margin-right"
+                >
+                  {_.get(this.props, "pageContext.frontmatter.category")}
+                </Link>
+                <Twitter
+                  solid
+                  small
+                  link={
+                    _.get(
+                      this.props,
+                      "pageContext.site.siteMetadata.header.production_url"
+                    ) + _.get(this.props, "pageContext.frontmatter.post_url")
+                  }
+                  message={_.get(this.props, "pageContext.frontmatter.title")}
+                  className="margin-left"
+                />
+                <hr />
+                {htmlToReact(_.get(this.props, "pageContext.html"))}
+              </div>
+              <footer className="post-meta">
+                <Link
+                  to={safePrefix(
+                    _.get(this.props, "pageContext.frontmatter.category_url")
+                  ).toLowerCase()}
+                  className="button secondary margin-right"
+                >
+                  {_.get(this.props, "pageContext.frontmatter.category")}
+                </Link>
+                <Twitter
+                  solid
+                  small
+                  link={
+                    _.get(
+                      this.props,
+                      "pageContext.site.siteMetadata.header.production_url"
+                    ) + _.get(this.props, "pageContext.frontmatter.post_url")
+                  }
+                  message={_.get(this.props, "pageContext.frontmatter.title")}
+                  className="margin-left margin-right"
+                />
+                <time
+                  className="published margin-left"
+                  dateTime={moment(
+                    _.get(this.props, "pageContext.frontmatter.date")
+                  ).strftime("%Y-%m-%d %H:%M")}
+                >
+                  📅{" "}
                   {moment(
                     _.get(this.props, "pageContext.frontmatter.date")
                   ).strftime("%d - %m - %y")}
