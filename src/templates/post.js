@@ -54,18 +54,6 @@ export default class Post extends React.Component {
                 >
                   {_.get(this.props, "pageContext.frontmatter.category")}
                 </Link>
-                <Twitter
-                  solid
-                  small
-                  link={
-                    _.get(
-                      this.props,
-                      "pageContext.site.siteMetadata.header.production_url"
-                    ) + _.get(this.props, "pageContext.frontmatter.post_url")
-                  }
-                  message={_.get(this.props, "pageContext.frontmatter.title")}
-                  className="margin-left"
-                />
                 <hr />
                 {htmlToReact(_.get(this.props, "pageContext.html"))}
               </div>
