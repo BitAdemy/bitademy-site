@@ -5,6 +5,7 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
     "gatsby-plugin-netlify-cache",
+    "gatsby-plugin-sitemap",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
