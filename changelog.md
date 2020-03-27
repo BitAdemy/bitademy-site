@@ -2,7 +2,15 @@
 
 Functional and infrastructure changes.
 
-## 1.0.0 2020-03-27
+## 1.1.0 2020-03-27
+### Added
+- Post navigation
+
+### Changed
+- Post layout
+- Post metadata
+
+## 1.0.0 2020-03-26
 ### Added
 - Tutorial
 - Sitemap
