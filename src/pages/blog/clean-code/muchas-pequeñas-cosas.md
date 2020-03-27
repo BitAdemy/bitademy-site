@@ -9,6 +9,14 @@ thumb_img_path: images/muchas_pequeñas_cosas.s.jpeg
 category: Clean Code
 category_url: blog/clean-code
 post_url: blog/clean-code/muchas-pequeñas-cosas
+sections:
+  - section_id: call-to-action
+    type: section_cta
+    title: Curso
+    subtitle: Clean Code aplicado para desarrollos limpios y rentables.
+    actions:
+      - label: Mejora tus desarrollos
+        url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
 

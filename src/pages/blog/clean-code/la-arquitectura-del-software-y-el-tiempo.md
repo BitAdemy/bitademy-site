@@ -9,6 +9,14 @@ thumb_img_path: images/blocks.s.jfif
 category: Clean Code
 category_url: blog/clean-code
 post_url: blog/clean-code/la-arquitectura-del-software-y-el-tiempo
+sections:
+  - section_id: call-to-action
+    type: section_cta
+    title: Curso
+    subtitle: Clean Code aplicado para desarrollos limpios y rentables.
+    actions:
+      - label: Mejora tus desarrollos
+        url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
 

@@ -9,6 +9,14 @@ thumb_img_path: images/undraw_clean_up.png
 category: 🏠 Tutorial Clean Code
 category_url: tutorial/clean-code
 post_url: tutorial/clean-code/contenido
+sections:
+  - section_id: call-to-action
+    type: section_cta
+    title: Curso
+    subtitle: Clean Code aplicado para desarrollos limpios y rentables.
+    actions:
+      - label: Mejora tus desarrollos
+        url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
 
