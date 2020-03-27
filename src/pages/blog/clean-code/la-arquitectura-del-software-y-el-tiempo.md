@@ -6,21 +6,20 @@ excerpt: >-
   En algún sitio he leído que el software es como el plástico: maleable y costosamente duradero.Lo primero lo distingue del hardware, algo que es costoso de cambiar. Lo segundo lo distingue de casi todo.
 date: '2019-05-19'
 thumb_img_path: images/blocks.s.jfif
+img_path: images/blocks.jfif
 category: Clean Code
 category_url: blog/clean-code
 post_url: blog/clean-code/la-arquitectura-del-software-y-el-tiempo
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Curso
+    title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
     actions:
-      - label: Mejora tus desarrollos
+      - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
-
-![Pruebas, prototipos, plantillas y frameworks](/images/blocks.jfif "Pruebas, prototipos, plantillas y frameworks")
 
 El software como tal no caduca, ni siquiera se degrada; pero su mantenimiento es un quebradero de cabeza.
 
@@ -186,5 +185,3 @@ El desacoplamiento extremo entre el núcleo del negocio y los detalles técnicos
 
 **Consejos**:
 Sólo hay un consejo posible. Un departamento de arquitectura interno o una consultora especializada deben pilotar todo el desarrollo todo el tiempo.
-
-_Publicado originalmente en [el perfil de Medium](https://medium.com/@albertobasalo71/la-arquitectura-del-software-y-el-tiempo-dc7f55c23bce) del autor: [Alberto Basalo](https://twitter.com/albertobasalo)_

@@ -16,10 +16,10 @@ previous_url: tutorial/clean-code/perdona_pero_tu_codigo_huele
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Cursos
+    title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
     actions:
-      - label: Mejora tus desarrollos
+      - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---

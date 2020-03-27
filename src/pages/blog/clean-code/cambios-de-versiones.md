@@ -6,21 +6,22 @@ excerpt: >-
   Primero programar y probar, luego a casa. Ah, no que aún faltan el despliegue y el control de versiones.
 date: '2020-02-20'
 thumb_img_path: images/changes.s.jfif
+img_path: images/changes.jfif
 category: Clean Code
 category_url: blog/clean-code
 post_url: blog/clean-code/cambios-de-versiones
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Curso
+    title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
     actions:
-      - label: Mejora tus desarrollos
+      - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
 
-![Cambios de versiones](/images/changes.jfif "Cambios de versiones")
+<!-- ![Cambios de versiones](/images/changes.jfif "Cambios de versiones") -->
 
 Ah, no puede ser. Aún faltan el despliegue y el control de versiones. Buff, cuando menos me apetece tengo que hacer todo ese rollo de etiquetar, cambiar número de versión, documentar los cambios…
 
@@ -89,6 +90,3 @@ Desplegar implica generar un entregable que se puede ejecutar o usar directament
 [**Release-it** ,Automate versioning and package publishing](https://github.com/release-it/release-it)
 
 Pues eso, espero que alguna de estas ideas y herramientas te ayuden a controlar y comunicar mejor la entrega de valor resultado de tu esfuerzo.
-
-
-_Publicado originalmente en [el perfil de Medium](https://medium.com/@albertobasalo71/cambios-en-las-versiones-a850d5d49ae2) del autor: [Alberto Basalo](https://twitter.com/albertobasalo)_

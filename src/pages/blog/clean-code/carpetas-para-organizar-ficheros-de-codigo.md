@@ -6,21 +6,20 @@ excerpt: >-
   El código limpio genera muchas clases pequeñas. Cada una en su fichero acaban siendo muchos ficheros. ¿Cómo los organizas?.
 date: '2019-09-19'
 thumb_img_path: images/tree.s.jfif
+img_path: images/tree.jfif
 category: Clean Code
 category_url: blog/clean-code
 post_url: blog/clean-code/carpetas-para-organizar-ficheros-de-codigo
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Curso
+    title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
     actions:
-      - label: Mejora tus desarrollos
+      - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
-
-![Carpetas para organizar ficheros de código](/images/tree.jfif "Carpetas para organizar ficheros de código")
 
 Cada artificio programado va en su propio fichero, lo cual acaban siendo muchos ficheros. ¿Cómo los organizas?.
 
@@ -58,6 +57,3 @@ Realmente es un variante o añadido del anterior. Se trata de disponer de una o 
 #### Por categoría:
 Dejo para el final un criterio que mucha gente usa como principal. Agrupar los ficheros que tienen responsabilidades similares: controllers, managers, services, exceptions, interfaces, entidades, templates, DAOs… Este sistema requiere abrir ficheros en muchas carpetas para resolver un problema. Pero lo peor es que no favorece la cohesión entre clases y esconde la funcionalidad repartiéndola en mil carpetas.
 En resumen, organiza siguiendo unos criterios coherentes en cada nivel. No te pases de profundidad, y favorece siempre la función sobre el tipo.
-
-
-_Publicado originalmente en [el perfil de Medium](https://medium.com/@albertobasalo71/carpetas-para-organizar-ficheros-de-codigo-e662c78fa837) del autor: [Alberto Basalo](https://twitter.com/albertobasalo)_

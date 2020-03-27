@@ -9,6 +9,10 @@ thumb_img_path: images/undraw_clean_up.png
 post_url: tutorial/clean-code/software_que_funciona
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
+laboratory: Laboratorio
+laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/
+preview: Preview video gratis
+preview_url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651501
 next: Tabla de contendido detallado
 next_url: tutorial/clean-code/contenido
 previous: Perdona pero... tu código huele
@@ -16,10 +20,10 @@ previous_url: tutorial/clean-code/perdona_pero_tu_codigo_huele
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Curso
+    title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
     actions:
-      - label: Mejora tus desarrollos
+      - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
@@ -58,8 +62,3 @@ template: post
 >
 > -- ✍️ **Robert C. Martin**
 
----
-
-#### ⛓ Enlaces
-- [💻 Preview video free](https://aula.bitademy.com/courses/codigo-limpio/lectures/13651501)
-- [⌨ Laboratorio](https://github.com/LabsAdemy/CleanCodeLab/)

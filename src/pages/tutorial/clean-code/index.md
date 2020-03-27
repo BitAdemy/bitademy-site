@@ -7,15 +7,17 @@ excerpt: >-
 date: '2020-03-26'
 thumb_img_path: images/undraw_clean_up.png
 post_url: tutorial/clean-code
+preview: Preview video gratis
+preview_url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
 next: Perdona pero... tu código huele
 next_url: /tutorial/clean-code/perdona_pero_tu_codigo_huele/
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Curso
+    title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
     actions:
-      - label: Mejora tus desarrollos
+      - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
@@ -33,8 +35,3 @@ template: post
 > "El código limpio parece escrito por alguien a quien le importa."
 >
 > -- ✍️ **Robert C. Martin**
-
----
-
-#### ⛓ Enlaces
-- [💻 Preview video free](https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775)

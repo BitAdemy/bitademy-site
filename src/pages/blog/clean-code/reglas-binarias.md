@@ -6,21 +6,20 @@ excerpt: >-
   Disclaimer:En honor a nuestros fundamentos los número escogidos se adaptan a las potencias de 2 y se presentan en notación decimal y binaria. Son elecciones arbitrarias y que sólo deben hacerte reflexionar sobre la métrica en si.
 date: '2019-03-19'
 thumb_img_path: images/rule.s.jfif
+img_path: images/rule.jfif
 category: Clean Code
 category_url: blog/clean-code
 post_url: blog/clean-code/reglas-binarias
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Curso
+    title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
     actions:
-      - label: Mejora tus desarrollos
+      - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
-
-![Reglas binarias](/images/rule.jfif "Reglas binarias")
 
 > **Disclaimer:** Para hacer honor al nombre de la academia, los número escogidos se adaptan a las potencias de 2 y se presentan en notación decimal y binaria. Son elecciones arbitrarias y que sólo deben hacerte reflexionar sobre la métrica en sí.
 
@@ -65,5 +64,3 @@ template: post
 - Líneas por fichero (clase) de código
 
 > _**Summary:** Las métricas en si no garantizan la calidad del código; y sus valores de referencias suelen ser subjetivos. Pero, y este pero es importante, las métricas ayudan a detectar malos hábitos y a difundir y homogeneizar buenas prácticas._
-
-_Publicado originalmente en [el perfil de Medium](https://medium.com/@albertobasalo71/reglas-binarias-a625493c5548) del autor: [Alberto Basalo](https://twitter.com/albertobasalo)_

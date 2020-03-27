@@ -7,6 +7,8 @@ excerpt: >-
 date: '2020-03-26'
 thumb_img_path: images/undraw_clean_up.png
 post_url: tutorial/clean-code/perdona_pero_tu_codigo_huele
+preview: Preview video gratis
+preview_url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13532771
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
 next: Software que funciona
@@ -16,10 +18,10 @@ previous_url: tutorial/clean-code
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Curso
+    title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
     actions:
-      - label: Mejora tus desarrollos
+      - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
@@ -69,7 +71,4 @@ template: post
 
 5️⃣. Keep It Simple, (*not*) Stupid **(KISS)**
 
----
 
-#### ⛓ Enlaces
-- [💻 Preview video free](https://aula.bitademy.com/courses/codigo-limpio/lectures/13532771)

@@ -6,23 +6,22 @@ excerpt: >-
   Prepárate para un nuevo mundo es una frase típica. Pero escrita el 20 de marzo 2020 es de una evidencia escalofriante.
 date: '2020-03-20'
 thumb_img_path: images/preparate_en_casa.s.png
+img_path: images/preparate_en_casa.png
 category: Clean Code
 category_url: blog/clean-code
 post_url: blog/clean-code/prepárate-para-un-nuevo-mundo
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Curso
+    title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
     actions:
-      - label: Mejora tus desarrollos
+      - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: post
 ---
 
-![Prepárate para un nuevo mundo](/images/preparate_en_casa.png "Prepárate para un nuevo mundo")
-
-Es cierta en cualquier contexto. El mundo es un cambio constante y los mejor preparados para adaptarse a los cambios siempre tendrán mejores oportunidades.
+Esta frase es cierta en cualquier contexto. El mundo es un cambio constante y los mejor preparados para adaptarse a los cambios siempre tendrán mejores oportunidades.
 
 Pero la frase, esta frase, _Prepárate para un nuevo mundo…_ **Cuando la escribes el 20 de marzo de 2020** resulta aún más evidente, casi escalofriante.
 
@@ -65,6 +64,3 @@ Cuando el polvo se asiente, los cambios no le sentarán igual a todo el mundo. D
 Pero nunca podremos decir que todo seguirá igual y luego sorprendernos por los resultados del Catalizador. Esa es toda la preparación necesaria.
 
 > _Saber que las cosas van a cambiar mucho y rápido. Saber que algunas no nos gustarán. Saber qué puedo cambiar en mí y cómo puedo influir en mi entorno. Saberlo para luego hacerlo y adaptarme al nuevo mundo._
-
-
-_Publicado originalmente en [el perfil de Medium](https://medium.com/@albertobasalo71/prep%C3%A1rate-para-un-nuevo-mundo-2ac68ac210f9) del autor: [Alberto Basalo](https://twitter.com/albertobasalo)_

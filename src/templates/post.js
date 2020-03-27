@@ -2,7 +2,7 @@ import _ from "lodash";
 import moment from "moment-strftime";
 import React from "react";
 import { Facebook, Linkedin, Twitter } from "react-social-sharing";
-import { Layout, PostHeader, SectionCta } from "../components/index";
+import { Layout, SectionCta } from "../components/index";
 import { htmlToReact, Link, safePrefix } from "../utils";
 
 export default class Post extends React.Component {
@@ -18,7 +18,10 @@ export default class Post extends React.Component {
                   <div className="post-content inner-medium">
                     {htmlToReact(_.get(this.props, "pageContext.html"))}
                   </div>
-                  <PostTags {...this.props} className="inner-micro"></PostTags>
+                  <PostMetaData
+                    {...this.props}
+                    className="inner-micro"
+                  ></PostMetaData>
                 </div>
               </article>
               <SectionCta
@@ -38,11 +41,36 @@ export default class Post extends React.Component {
   }
 }
 
-const twitterStyles = {
-  "align-content;": "right",
-};
+class PostHeader extends React.Component {
+  render() {
+    return (
+      <div>
+        <header className="post-header">
+          <h1 className="post-title">
+            {_.get(this.props, "pageContext.frontmatter.title")}
+          </h1>
+        </header>
+        {_.get(this.props, "pageContext.frontmatter.img_path") && (
+          <div className="post-thumbnail">
+            <img
+              src={safePrefix(
+                _.get(this.props, "pageContext.frontmatter.img_path")
+              )}
+              alt={_.get(this.props, "pageContext.frontmatter.title")}
+            />
+          </div>
+        )}
+        {_.get(this.props, "pageContext.frontmatter.subtitle") && (
+          <div className="post-subtitle">
+            {htmlToReact(_.get(this.props, "pageContext.frontmatter.subtitle"))}
+          </div>
+        )}
+      </div>
+    );
+  }
+}
 
-class PostTags extends React.Component {
+class PostMetaData extends React.Component {
   render() {
     return (
       <section className="to-bottom">
@@ -57,7 +85,37 @@ class PostTags extends React.Component {
               "%d - %m - %y"
             )}
           </time>
+          <p></p>
+          <div>
+            ✍{" "}
+            <Link to="https://twitter.com/albertobasalo">Alberto Basalo</Link>
+          </div>
         </div>
+        <hr></hr>
+        {_.get(this.props, "pageContext.frontmatter.laboratory") && (
+          <div className="outer-micro">
+            <Link
+              to={safePrefix(
+                _.get(this.props, "pageContext.frontmatter.laboratory_url")
+              ).toLowerCase()}
+              className=" "
+            >
+              ⌨ {_.get(this.props, "pageContext.frontmatter.laboratory")}
+            </Link>
+          </div>
+        )}
+        {_.get(this.props, "pageContext.frontmatter.preview") && (
+          <div className="outer-micro">
+            <Link
+              to={safePrefix(
+                _.get(this.props, "pageContext.frontmatter.preview_url")
+              ).toLowerCase()}
+              className="  "
+            >
+              📹 {_.get(this.props, "pageContext.frontmatter.preview")}
+            </Link>
+          </div>
+        )}
         <hr></hr>
         {_.get(this.props, "pageContext.frontmatter.category") && (
           <div className="outer-micro">
@@ -107,6 +165,7 @@ class PostTags extends React.Component {
             </Link>
           </div>
         )}
+        <hr></hr>
         <div className="outer-micro">
           <Twitter
             simple

@@ -2,8 +2,6 @@ import CtaButtons from "./CtaButtons";
 import Footer from "./Footer";
 import Header from "./Header";
 import Layout from "./Layout";
-import PostFooter from "./PostFooter";
-import PostHeader from "./PostHeader";
 import SectionContact from "./SectionContact";
 import SectionContent from "./SectionContent";
 import SectionCourses from "./SectionCourses";
@@ -33,8 +31,6 @@ export {
   SectionReviews,
   Social,
   SubscribeForm,
-  PostHeader,
-  PostFooter,
   Layout,
 };
 
@@ -54,7 +50,5 @@ export default {
   SectionReviews,
   Social,
   SubscribeForm,
-  PostHeader,
-  PostFooter,
   Layout,
 };
