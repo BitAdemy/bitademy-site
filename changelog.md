@@ -2,6 +2,15 @@
 
 Functional and infrastructure changes.
 
+## 1.2.0 2020-03-27
+### Added
+- Author info
+- Post links
+
+### Changed
+- Post layout
+- Cta content
+
 ## 1.1.0 2020-03-27
 ### Added
 - Post navigation
