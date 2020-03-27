@@ -1,7 +1,6 @@
 import _ from "lodash";
-import moment from "moment-strftime";
 import React from "react";
-import { htmlToReact, Link, safePrefix } from "../utils";
+import { htmlToReact, safePrefix } from "../utils";
 
 export default class PostHeader extends React.Component {
   render() {
@@ -27,36 +26,7 @@ export default class PostHeader extends React.Component {
             {htmlToReact(_.get(this.props, "pageContext.frontmatter.subtitle"))}
           </div>
         )}
-        <PostTags {...this.props}></PostTags>
       </div>
-    );
-  }
-}
-class PostTags extends React.Component {
-  render() {
-    return (
-      <section>
-        <time
-          className="margin-right"
-          dateTime={moment(
-            _.get(this.props, "pageContext.frontmatter.date")
-          ).strftime("%Y-%m-%d %H:%M")}
-        >
-          📅{" "}
-          {moment(_.get(this.props, "pageContext.frontmatter.date")).strftime(
-            "%d - %m - %y"
-          )}
-        </time>
-        <Link
-          to={safePrefix(
-            _.get(this.props, "pageContext.frontmatter.category_url")
-          ).toLowerCase()}
-          className="margin-left margin-right"
-        >
-          {_.get(this.props, "pageContext.frontmatter.category")}
-        </Link>
-        <hr />
-      </section>
     );
   }
 }

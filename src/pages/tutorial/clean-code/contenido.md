@@ -6,13 +6,17 @@ excerpt: >-
   Tabla de contendido detallado Clean Code aplicado para desarrollos limpios y rentables
 date: '2020-03-26'
 thumb_img_path: images/undraw_clean_up.png
-category: 🏠 Tutorial Clean Code
-category_url: tutorial/clean-code
 post_url: tutorial/clean-code/contenido
+up: Tutorial Clean Code
+up_url: tutorial/clean-code
+next: Estilo y nombrado 🔜
+next_url: tutorial/clean-code/contenido
+previous: Perdona pero... tu código huele
+previous_url: tutorial/clean-code/perdona_pero_tu_codigo_huele
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Curso
+    title: Cursos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
     actions:
       - label: Mejora tus desarrollos
@@ -65,8 +69,3 @@ template: post
 #### ✒️ Disciplina y buenos hábitos
 
 ---
-
-#### ⛓ Enlaces
-
-- _🔜 Estilo y nombrado_
-- [⏪ Software que funciona](/tutorial/clean-code/software_que_funciona)

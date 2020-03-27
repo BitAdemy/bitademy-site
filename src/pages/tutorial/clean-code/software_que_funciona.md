@@ -6,9 +6,13 @@ excerpt: >-
   Software que funciona. Mejora tu código sin miedo.
 date: '2020-03-26'
 thumb_img_path: images/undraw_clean_up.png
-category: 🏠 Tutorial Clean Code
-category_url: tutorial/clean-code
 post_url: tutorial/clean-code/software_que_funciona
+up: Tutorial Clean Code
+up_url: tutorial/clean-code
+next: Tabla de contendido detallado
+next_url: tutorial/clean-code/contenido
+previous: Perdona pero... tu código huele
+previous_url: tutorial/clean-code/perdona_pero_tu_codigo_huele
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -59,5 +63,3 @@ template: post
 #### ⛓ Enlaces
 - [💻 Preview video free](https://aula.bitademy.com/courses/codigo-limpio/lectures/13651501)
 - [⌨ Laboratorio](https://github.com/LabsAdemy/CleanCodeLab/)
-- [**⏩ ▶➡ Contenido**](/tutorial/clean-code/contenido)
-- [⏪ Perdona pero tu código huele](/tutorial/clean-code/perdona_pero_tu_codigo_huele)

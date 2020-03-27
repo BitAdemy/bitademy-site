@@ -6,9 +6,9 @@ excerpt: >-
   Tutorial para aprender las técnicas Clean Code y adoptar la filosofía Software Craftmanship.
 date: '2020-03-26'
 thumb_img_path: images/undraw_clean_up.png
-category: 🔝 Tutoriales
-category_url: tutorial
 post_url: tutorial/clean-code
+next: Perdona pero... tu código huele
+next_url: /tutorial/clean-code/perdona_pero_tu_codigo_huele/
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -30,19 +30,6 @@ template: post
 
 - La programación limpia es una técnica que **se puede aprender y practicar.**
 
-
-#### [🤢 Perdona pero... tu código huele](/tutorial/clean-code/perdona_pero_tu_codigo_huele)
-
-- Lo primero es admitir que todo código es mejorable.
-
-#### [✅ Software que funciona](/tutorial/clean-code/software_que_funciona)
-
-- Mejora tu código sin miedo.
-
-#### [📚 Contenido](/tutorial/clean-code/contenido)
-
-- Tabla de contenido detallado.
-
 > "El código limpio parece escrito por alguien a quien le importa."
 >
 > -- ✍️ **Robert C. Martin**
@@ -51,4 +38,3 @@ template: post
 
 #### ⛓ Enlaces
 - [💻 Preview video free](https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775)
-- [**⏩ Perdona pero... tu código huele**](/tutorial/clean-code/perdona_pero_tu_codigo_huele)

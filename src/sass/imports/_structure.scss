@@ -29,3 +29,20 @@
   margin-right: auto;
   max-width: 555px;
 }
+
+.inner-micro {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: auto;
+}
+
+.outer-micro {
+  padding: 0.16667rem 1vw 0.33333rem;
+}
+
+.to-bottom {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 100%;
+}

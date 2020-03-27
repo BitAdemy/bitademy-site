@@ -31,6 +31,7 @@
   line-height: 1.5;
   margin-bottom: 1.66667rem;
   padding-bottom: 1.33333rem;
+  text-align: center;
 }
 
 .post-thumbnail {
@@ -264,4 +265,21 @@
       margin-top: 0.83333rem;
     }
   }
+}
+
+@media only screen and (min-width: 741px) {
+  .post-full {
+    .grid {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      flex-direction: row;
+      -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+    }
+  }
+}
+
+.post-share {
+  left: 0;
 }
