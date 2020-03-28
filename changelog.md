@@ -2,6 +2,13 @@
 
 Functional and infrastructure changes.
 
+
+## 1.2.1 2020-03-28
+### Added
+
+### Changed
+- Better image processor
+
 ## 1.2.0 2020-03-27
 ### Added
 - Author info
