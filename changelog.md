@@ -8,6 +8,7 @@ Functional and infrastructure changes.
 
 ### Changed
 - Better image processor
+- css async
 
 ## 1.2.0 2020-03-27
 ### Added
