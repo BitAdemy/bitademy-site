@@ -24,7 +24,11 @@ export default class Body extends React.Component {
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <meta name="google" content="notranslate" />
           <meta name="robots" content="index, follow" />
-          <link rel="stylesheet" href={safePrefix("assets/css/main.css")} />
+          <link
+            async
+            rel="stylesheet"
+            href={safePrefix("assets/css/main.css")}
+          />
         </Helmet>
         <div
           id="page"
