@@ -2,6 +2,11 @@
 
 Functional and infrastructure changes.
 
+## 1.3.2 2020-03-30
+### Added
+
+### Changed
+Refactored components
 
 ## 1.3.1 2020-03-30
 ### Added
