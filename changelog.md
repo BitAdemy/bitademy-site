@@ -2,7 +2,11 @@
 
 Functional and infrastructure changes.
 
+## 1.2.2 2020-03-30
+### Added
 robots.txt
+
+### Changed
 lang es
 only svg for undraw
 resize logo
