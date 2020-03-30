@@ -26,7 +26,7 @@ sections:
     actions:
       - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
-template: post
+template: tutorial
 ---
 
 >"Codifica como si la persona que mantendrá tu código fuera un psicópata violento que sabe dónde vives."

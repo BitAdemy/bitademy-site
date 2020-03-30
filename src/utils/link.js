@@ -1,4 +1,5 @@
 import { Link as GatsbyLink } from "gatsby";
+import { OutboundLink } from 'gatsby-plugin-gtag';
 import React from "react";
 
 // Since DOM elements <a> cannot receive activeClassName
@@ -24,9 +25,9 @@ const Link = ({ children, to, activeClassName, partiallyActive, ...other }) => {
     );
   }
   return (
-    <a href={to} {...other} target="_blank" rel="noopener noreferrer">
+    <OutboundLink href={to} {...other} target="_blank" rel="noopener noreferrer">
       {children}
-    </a>
+    </OutboundLink>
   );
 };
 

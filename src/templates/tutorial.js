@@ -1,10 +1,10 @@
 import _ from "lodash";
 import React from "react";
-import { Layout, PostHeader, PostMetaData, SectionCta } from "../components/index";
+import { Layout, SectionCta, TutorialHeader, TutorialMetaData } from "../components/index";
 import { htmlToReact } from "../utils";
 
 
-export default class Post extends React.Component {
+export default class Tutorial extends React.Component {
   render() {
     return (
       <Layout {...this.props}>
@@ -12,15 +12,15 @@ export default class Post extends React.Component {
           <section className="post-block cell">
             <div className="inner">
               <article className="post post-full">
-                <PostHeader {...this.props}></PostHeader>
+                <TutorialHeader {...this.props}></TutorialHeader>
                 <div className="grid">
                   <div className="post-content inner-medium">
                     {htmlToReact(_.get(this.props, "pageContext.html"))}
                   </div>
-                  <PostMetaData
+                  <TutorialMetaData
                     {...this.props}
                     className="inner-micro"
-                  ></PostMetaData>
+                  ></TutorialMetaData>
                 </div>
               </article>
               <SectionCta

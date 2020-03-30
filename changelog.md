@@ -2,9 +2,9 @@
 
 Functional and infrastructure changes.
 
+
 ## 1.3.1 2020-03-30
 ### Added
-
 
 ### Changed
 SEO frontmatter tags

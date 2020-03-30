@@ -20,7 +20,7 @@ sections:
     actions:
       - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
-template: post
+template: tutorial
 ---
 
 ## 🏁 Introducción

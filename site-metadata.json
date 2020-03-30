@@ -1,5 +1,9 @@
 {
   "siteUrl": "https://www.bitademy.com",
+  "author": {
+    "name":"Alberto Basalo",
+    "url":"https://twitter.com/albertobasalo"
+  },
   "palette": "green",
   "header": {
     "title": "bitAdemy",
