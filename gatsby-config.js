@@ -6,6 +6,7 @@ module.exports = {
     `gatsby-source-data`,
     "gatsby-plugin-netlify-cache",
     "gatsby-plugin-sitemap",
+    `gatsby-plugin-offline`,
     "gatsby-plugin-robots-txt",
     {
       resolve: `gatsby-source-filesystem`,
@@ -54,6 +55,20 @@ module.exports = {
         trackingId: `UA-153738218-1`,
         head: false,
         anonymize: false,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `bitAdemy`,
+        short_name: `bitAdemy`,
+        start_url: `/`,
+        background_color: `#0098EE`,
+        theme_color: `#49FCD4`,
+        // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
+        // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
+        display: `standalone`,
+        icon: `static/images/ba.png`, // This path is relative to the root of the site.
       },
     },
   ],
