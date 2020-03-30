@@ -2,6 +2,12 @@
 
 Functional and infrastructure changes.
 
+## 1.2.3 2020-03-30
+### Added
+
+### Changed
+fonts
+
 ## 1.2.2 2020-03-30
 ### Added
 robots.txt
