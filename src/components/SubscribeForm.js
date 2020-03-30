@@ -12,11 +12,11 @@ export default class SubscribeForm extends React.Component {
       >
         <input type="hidden" name="u" value="c8ad2d2e7d02c26e32ce4cded"></input>
         <input type="hidden" name="id" value="b67e4d2339"></input>
-        <div className="screen-reader-text">
+        {/* <div className="screen-reader-text">
           <label htmlFor="bot-field">
             Don't fill this out if you're human: <input name="bot-field" />
           </label>
-        </div>
+        </div> */}
         <div className="form-row">
           <label htmlFor="MERGE0">
             <span className="screen-reader-text">Dirección de email</span>

@@ -26,8 +26,8 @@ export default class Body extends React.Component {
           <meta name="robots" content="index, follow" />
           <link
             async
-            href="https://fonts.googleapis.com/css?family=Comfortaa|Lato&display=swap"
             rel="stylesheet"
+            href="https://fonts.googleapis.com/css?family=Comfortaa:wght@700&display=swap"
           />
           <link
             async
