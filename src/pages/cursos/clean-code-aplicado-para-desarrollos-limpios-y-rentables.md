@@ -5,7 +5,7 @@ subtitle: >-
 excerpt: >-
   Curso online para aprender las técnicas Clean Code y adoptar la filosofía Software Craftmanship.
 date: '2020-03-20'
-thumb_img_path: images/undraw_clean_up.png
+thumb_img_path: images/undraw_clean_up.svg
 sections:
   - section_id: features
     type: section_content

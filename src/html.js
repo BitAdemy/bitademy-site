@@ -3,7 +3,7 @@ import React from "react";
 
 export default function HTML(props) {
   return (
-    <html {...props.htmlAttributes}>
+    <html {...props.htmlAttributes} lang="es">
       <head>{props.headComponents}</head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}

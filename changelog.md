@@ -2,6 +2,11 @@
 
 Functional and infrastructure changes.
 
+robots.txt
+lang es
+only svg for undraw
+resize logo
+resize favicon
 
 ## 1.2.1 2020-03-28
 ### Added

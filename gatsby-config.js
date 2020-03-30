@@ -6,6 +6,7 @@ module.exports = {
     `gatsby-source-data`,
     "gatsby-plugin-netlify-cache",
     "gatsby-plugin-sitemap",
+    "gatsby-plugin-robots-txt",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
