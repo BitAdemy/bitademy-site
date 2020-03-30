@@ -4,8 +4,10 @@ subtitle: >-
   Introducción a las pruebas de software.
 excerpt: >-
   Curso online para aprender las técnicas de pruebas de software y hacer testing fácil y rentable.
-date: '2020-06-20'
+post_url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
+img_path: images/undraw_science.svg
 thumb_img_path: images/undraw_science.svg
+date: '2020-06-20'
 sections:
   - section_id: features
     type: section_content

@@ -4,12 +4,12 @@ subtitle: >-
   Programar bien es un arte, pero hay ciertas reglas. Algunas se pueden cuantificar. Te propongo mis reglas binarias.
 excerpt: >-
   Disclaimer:En honor a nuestros fundamentos los número escogidos se adaptan a las potencias de 2 y se presentan en notación decimal y binaria. Son elecciones arbitrarias y que sólo deben hacerte reflexionar sobre la métrica en si.
-date: '2019-03-19'
-thumb_img_path: images/rule.s.jfif
+post_url: blog/clean-code/reglas-binarias
 img_path: images/rule.jfif
+thumb_img_path: images/rule.s.jfif
+date: '2019-03-19'
 category: Clean Code
 category_url: blog/clean-code
-post_url: blog/clean-code/reglas-binarias
 sections:
   - section_id: call-to-action
     type: section_cta

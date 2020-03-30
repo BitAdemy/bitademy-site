@@ -17,5 +17,10 @@
   },
   "peacock.color": "#639",
   "spellright.language": ["en", "es"],
-  "spellright.documentTypes": ["markdown", "latex", "plaintext"]
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ],
+  "editor.defaultFormatter": "vscode.html-language-features"
 }

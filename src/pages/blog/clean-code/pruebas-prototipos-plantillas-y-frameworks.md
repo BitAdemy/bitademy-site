@@ -4,12 +4,12 @@ subtitle: >-
   No todos los proyectos están predestinados a producción.
 excerpt: >-
   No todos los proyectos están predestinados a producción. Algunos nacen par evaluar, facilitar o estructurar el producto final.
-date: '2019-08-19'
-thumb_img_path: images/botanic.s.jfif
+post_url: blog/clean-code/pruebas-prototipos-plantillas-y-frameworks
 img_path: images/botanic.jfif
+thumb_img_path: images/botanic.s.jfif
+date: '2019-08-19'
 category: Clean Code
 category_url: blog/clean-code
-post_url: blog/clean-code/pruebas-prototipos-plantillas-y-frameworks
 sections:
   - section_id: call-to-action
     type: section_cta

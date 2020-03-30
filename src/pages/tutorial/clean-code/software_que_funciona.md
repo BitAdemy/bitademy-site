@@ -4,9 +4,10 @@ subtitle: >-
   Mejora tu código sin miedo.
 excerpt: >-
   Software que funciona. Mejora tu código sin miedo.
-date: '2020-03-26'
-thumb_img_path: images/undraw_clean_up.png
 post_url: tutorial/clean-code/software_que_funciona
+img_path: images/undraw_clean_up.png
+thumb_img_path: images/undraw_clean_up.png
+date: '2020-03-26'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
 laboratory: Laboratorio

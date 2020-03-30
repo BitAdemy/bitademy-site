@@ -4,9 +4,10 @@ subtitle: >-
   Clean Code aplicado para desarrollos limpios y rentables.
 excerpt: >-
   Tabla de contendido detallado Clean Code aplicado para desarrollos limpios y rentables
-date: '2020-03-26'
-thumb_img_path: images/undraw_clean_up.png
 post_url: tutorial/clean-code/contenido
+img_path: images/undraw_clean_up.png
+thumb_img_path: images/undraw_clean_up.png
+date: '2020-03-26'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
 next: Estilo y nombrado 🔜

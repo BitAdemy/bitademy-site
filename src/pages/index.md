@@ -2,6 +2,8 @@
 title: bitAdemy
 excerpt: >-
   Academia online para desarrolladores centrada en fundamentos y buenas prácticas de la programación.
+post_url: /
+img_path: images/logo.png
 sections:
   - section_id: hero
     type: section_hero

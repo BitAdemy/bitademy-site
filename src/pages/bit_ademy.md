@@ -2,6 +2,9 @@
 title: BitAdemy
 subtitle: >-
   Academia online para programadores.
+excerpt: >-
+  Academia online para programadores. Aumenta tu valor con cursos de calidad.
+post_url: /
 img_path: images/alberto_artisan.jpg
 menus:
   secondary:

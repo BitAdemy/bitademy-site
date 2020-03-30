@@ -4,12 +4,12 @@ subtitle: >-
   Programar bien es un arte, pero hay ciertas reglas. Algunas se pueden cuantificar. Te propongo mis reglas binarias.
 excerpt: >-
   En algún sitio he leído que el software es como el plástico: maleable y costosamente duradero.Lo primero lo distingue del hardware, algo que es costoso de cambiar. Lo segundo lo distingue de casi todo.
+img_path: images/blocks.jfif
+post_url: blog/clean-code/la-arquitectura-del-software-y-el-tiempo
 date: '2019-05-19'
 thumb_img_path: images/blocks.s.jfif
-img_path: images/blocks.jfif
 category: Clean Code
 category_url: blog/clean-code
-post_url: blog/clean-code/la-arquitectura-del-software-y-el-tiempo
 sections:
   - section_id: call-to-action
     type: section_cta

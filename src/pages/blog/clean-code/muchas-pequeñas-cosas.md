@@ -4,12 +4,12 @@ subtitle: >-
   Crea muchas funciones y clases pequeñas y nómbralas consistentemente.
 excerpt: >-
   Si tuviera que dar sólo dos consejos para desarrolladores que quieran producir código limpio serían: Crea muchas cosas pequeñas y nómbralas consistentemente.
-date: '2018-05-18'
-thumb_img_path: images/muchas_pequeñas_cosas.s.jpeg
 img_path: images/muchas_pequeñas_cosas.jpeg
+thumb_img_path: images/muchas_pequeñas_cosas.s.jpeg
+date: '2018-05-18'
+post_url: blog/clean-code/muchas-pequeñas-cosas
 category: Clean Code
 category_url: blog/clean-code
-post_url: blog/clean-code/muchas-pequeñas-cosas
 sections:
   - section_id: call-to-action
     type: section_cta

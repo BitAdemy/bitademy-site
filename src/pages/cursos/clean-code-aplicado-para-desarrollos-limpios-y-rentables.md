@@ -4,8 +4,10 @@ subtitle: >-
   Aprende en este curso a escribir aplicaciones limpias y aumenta tu valor.
 excerpt: >-
   Curso online para aprender las técnicas Clean Code y adoptar la filosofía Software Craftmanship.
-date: '2020-03-20'
+post_url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+img_path: images/undraw_clean_up.svg
 thumb_img_path: images/undraw_clean_up.svg
+date: '2020-03-20'
 sections:
   - section_id: features
     type: section_content

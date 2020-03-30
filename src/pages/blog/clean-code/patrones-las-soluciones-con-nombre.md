@@ -4,12 +4,12 @@ subtitle: >-
   Repasemos algunos de los patrones más aplicados en el desarrollo front-end.
 excerpt: >-
   Para cada problema siempre existe al menos una solución, o al menos suele ocurrir así en la programación moderna.
-date: '2018-03-18'
-thumb_img_path: images/patrones-las-soluciones-con-nombre.s.jpeg
+post_url: blog/clean-code/patrones-las-soluciones-con-nombre
 img_path: images/patrones-las-soluciones-con-nombre.jpeg
+thumb_img_path: images/patrones-las-soluciones-con-nombre.s.jpeg
+date: '2018-03-18'
 category: Clean Code
 category_url: blog/clean-code
-post_url: blog/clean-code/patrones-las-soluciones-con-nombre
 sections:
   - section_id: call-to-action
     type: section_cta

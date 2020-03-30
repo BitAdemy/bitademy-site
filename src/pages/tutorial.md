@@ -2,6 +2,8 @@
 title: Tutoriales
 excerpt: >-
   Tutoriales de Clean Code, testing y fundamentos de la programación.
+post_url: tutorial/
+img_path: images/logo.png
 sections:
   - section_id: hero
     type: section_hero

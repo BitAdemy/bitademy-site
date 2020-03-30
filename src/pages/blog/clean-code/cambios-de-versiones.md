@@ -4,12 +4,12 @@ subtitle: >-
   Primero programar y probar, luego a casa corriendo.
 excerpt: >-
   Primero programar y probar, luego a casa. Ah, no que aún faltan el despliegue y el control de versiones.
-date: '2020-02-20'
-thumb_img_path: images/changes.s.jfif
+post_url: blog/clean-code/cambios-de-versiones
 img_path: images/changes.jfif
+thumb_img_path: images/changes.s.jfif
+date: '2020-02-20'
 category: Clean Code
 category_url: blog/clean-code
-post_url: blog/clean-code/cambios-de-versiones
 sections:
   - section_id: call-to-action
     type: section_cta

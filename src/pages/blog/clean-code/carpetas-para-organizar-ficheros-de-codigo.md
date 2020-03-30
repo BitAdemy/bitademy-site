@@ -4,12 +4,12 @@ subtitle: >-
   El código limpio genera muchas clases pequeñas.
 excerpt: >-
   El código limpio genera muchas clases pequeñas. Cada una en su fichero acaban siendo muchos ficheros. ¿Cómo los organizas?.
-date: '2019-09-19'
-thumb_img_path: images/tree.s.jfif
-img_path: images/tree.jfif
-category: Clean Code
-category_url: blog/clean-code
 post_url: blog/clean-code/carpetas-para-organizar-ficheros-de-codigo
+img_path: images/tree.s.jfif
+thumb_img_path: images/tree.s.jfif
+date: '2019-09-19'
+category_url: blog/clean-code
+category: Clean Code
 sections:
   - section_id: call-to-action
     type: section_cta

@@ -4,12 +4,12 @@ subtitle: >-
   Es la típica frase molona que puedes estampar en camisetas o imprimir en una taza de café
 excerpt: >-
   Prepárate para un nuevo mundo es una frase típica. Pero escrita el 20 de marzo 2020 es de una evidencia escalofriante.
-date: '2020-03-20'
-thumb_img_path: images/preparate_en_casa.s.png
+post_url: blog/clean-code/prepárate-para-un-nuevo-mundo
 img_path: images/preparate_en_casa.png
+thumb_img_path: images/preparate_en_casa.s.png
+date: '2020-03-20'
 category: Clean Code
 category_url: blog/clean-code
-post_url: blog/clean-code/prepárate-para-un-nuevo-mundo
 sections:
   - section_id: call-to-action
     type: section_cta

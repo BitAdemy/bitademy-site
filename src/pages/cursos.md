@@ -2,6 +2,8 @@
 title: Cursos
 excerpt: >-
   Cursos online de Clean Code, testing y fundamentos de la programación.
+post_url: cursos/
+img_path: images/logo.png
 sections:
   - section_id: hero
     type: section_hero
