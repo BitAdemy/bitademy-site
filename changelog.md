@@ -2,6 +2,13 @@
 
 Functional and infrastructure changes.
 
+## 1.3.3 2020-03-30
+### Added
+
+### Changed
+Duplicate content of clean code course
+Course features changed
+
 ## 1.3.2 2020-03-30
 ### Added
 
