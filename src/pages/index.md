@@ -10,7 +10,7 @@ sections:
     image: images/undraw_professor.svg
     title: Aumenta la calidad del software
     content: >-
-       CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS...
+       Cursos de : CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS...
     actions:
       - label: Aumenta el valor de tus desarrollos
         url: /cursos
@@ -41,7 +41,7 @@ sections:
           > _"Todo el mundo valora mejor a quien resuelve problemas."_
   - section_id: call-to-action
     type: section_cta
-    title: Ahora más que nunca, hay que estar preparados. 40% de descuento durante la cuarentena.
+    title: Ahora, más que nunca, hay que estar preparados. 40% de descuento durante la cuarentena.
     subtitle: Con el curso de Clean Code aplicado para desarrollos limpios y rentables la distancia no será un problema.
     actions:
       - label: 🏡 EN_CASA_40
