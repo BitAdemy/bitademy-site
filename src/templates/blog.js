@@ -1,8 +1,7 @@
 import _ from 'lodash';
-import moment from 'moment-strftime';
 import React from 'react';
 import { Layout } from '../components/index';
-import { getPages, Link, safePrefix } from '../utils';
+import { dateTime, getPages, Link, safePrefix } from '../utils';
 
 export default class Blog extends React.Component {
   render() {
@@ -49,10 +48,8 @@ export default class Blog extends React.Component {
                         </Link>
                         <time
                           className="published margin-left"
-                          dateTime={moment(_.get(post, 'frontmatter.date')).strftime(
-                            '%Y-%m-%d %H:%M'
-                          )}>
-                          {moment(_.get(post, 'frontmatter.date')).strftime('%d - %m - %y')}
+                          dateTime={dateTime.getForRobots(_.get(post, 'frontmatter.date'))}>
+                          {dateTime.getForHumans(_.get(post, 'frontmatter.date'))}
                         </time>
                       </footer>
                     </div>
