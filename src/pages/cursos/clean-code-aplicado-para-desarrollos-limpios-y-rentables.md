@@ -22,7 +22,7 @@ sections:
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: call-to-action
     type: section_cta
-    title: Garantiza la calidad en un mundo distribuido, globalizado y competitivo.
+    title: Calidad en un mundo distribuido, globalizado y competitivo.
     subtitle: Todo empieza por aprender las técnicas y asumir la responsabilidad para escribir código limpio.
     actions:
       - label: Mejora tus desarrollos
@@ -53,10 +53,12 @@ sections:
         content: >-
           Hola, soy **Alberto Basalo**.
 
-          En los más de 20 años que llevo programando en grandes (7 años en Zara) y pequeñas empresas he visto y escrito código que haría vomitar a una cabra.
+          He sido programador durante más de 7 años en Zara, otros 4 arquitecto de software para Tous y desde 2011 dirijo mi propia consultora. En total más de 20 años en la industria del software en grandes y pequeñas empresas.
 
 
-          Pero también he aprendido a hacerlo mejor cada día. Con mi guía y algo de disciplina vas a crear grandes aplicaciones limpias.
+          He visto y escrito código que haría vomitar a una cabra. Pero también he aprendido a hacerlo mejor cada día.
+
+          > _"Con mi guía y algo de disciplina vas a crear grandes aplicaciones limpias."_
 
         actions:
           - label: Conocer a Alberto Basalo
@@ -81,13 +83,13 @@ sections:
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
-          Paga solo lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
+          Paga solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
 
 
-          **Descuentos para grupos de empresa.** Sin papeleos ni burocracia. Invierte lo mínimo.
+          **Descuentos para grupos de empresa.** Sin papeleos ni burocracia.
 
 
-          > _"Lo más valioso es tu tiempo. Lo hemos cuidado al minuto. El dinero se puede devolver; el tiempo no."_
+          > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
   - section_id: pricing
     type: section_pricing
     bg: gray
@@ -108,7 +110,7 @@ sections:
       - title: Profesional
         price: 99 €
         details: |-
-          * _Todo lo de Comunidad más..._
+          * _Porque valoras tu tiempo..._
           * Videos explicativos
           * Videos demostraciones
           * Videos ejercicios propuestos
@@ -121,7 +123,7 @@ sections:
       - title: Empresa
         price: 149 €
         details: |-
-          * _Todo lo de Profesional más..._
+          * _Porque quieres algo más..._
           * Cheatsheets descargables
           * EBook descargable
           * Foro de atención diario
@@ -179,7 +181,7 @@ sections:
       - title: Contenido
         image: images/undraw_project_completed.svg
         content: >-
-          El curso se divide en cuatro grandes bloques de actuación práctica sobre el código. Y un extra motivacional de profesionalismo y artesanía del software.
+          El curso se divide en cuatro grandes bloques de actuación práctica sobre el código. Con un tema extra motivacional de profesionalismo y artesanía del software.
 
 
           🏷️ Estilo y nombrado
