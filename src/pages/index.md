@@ -51,9 +51,5 @@ sections:
     type: section_courses
     bg: gray
     title: Cursos
-# menus:
-#   main:
-#     weight: 1
-#     title: Home
 template: landing
 ---

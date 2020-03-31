@@ -27,7 +27,7 @@ sections:
 
           > _"El código limpio refleja la valía profesional de su creador."_
         actions:
-          - label: Saber mas de Código limpio
+          - label: Saber más de Código limpio
             url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
       - title: Testing de aplicaciones web fácil y productivo para todos
         image: images/undraw_science.svg
@@ -40,7 +40,7 @@ sections:
             url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
 menus:
   main:
-    weight: 3
+    weight: 2
     title: Cursos
 template: landing
 ---

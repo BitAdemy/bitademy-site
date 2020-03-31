@@ -8,7 +8,7 @@ post_url: blog/
 img_path: images/logo.png
 menus:
   main:
-    weight: 2
+    weight: 4
     title: Blog
   secondary:
     weight: 2
