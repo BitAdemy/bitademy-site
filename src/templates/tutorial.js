@@ -1,8 +1,6 @@
-import _ from "lodash";
-import React from "react";
-import { Layout, SectionCta, TutorialHeader, TutorialMetaData } from "../components/index";
-import { htmlToReact } from "../utils";
-
+import React from 'react';
+import { Layout, SectionCta, TutorialHeader, TutorialMetaData } from '../components/index';
+import { htmlToReact, props } from '../utils';
 
 export default class Tutorial extends React.Component {
   render() {
@@ -15,23 +13,16 @@ export default class Tutorial extends React.Component {
                 <TutorialHeader {...this.props}></TutorialHeader>
                 <div className="grid">
                   <div className="post-content inner-medium">
-                    {htmlToReact(_.get(this.props, "pageContext.html"))}
+                    {htmlToReact(props.getPageHtml(this.props))}
                   </div>
-                  <TutorialMetaData
-                    {...this.props}
-                    className="inner-micro"
-                  ></TutorialMetaData>
+                  <TutorialMetaData {...this.props} className="inner-micro"></TutorialMetaData>
                 </div>
               </article>
               <SectionCta
                 key="call-to-action"
                 {...this.props}
-                section={_.get(
-                  this.props,
-                  "pageContext.frontmatter.sections[0]"
-                )}
-                site={this.props.pageContext.site}
-              ></SectionCta>
+                section={props.getPageFirstSection(this.props)}
+                site={this.props.pageContext.site}></SectionCta>
             </div>
           </section>
         </div>
@@ -39,6 +30,3 @@ export default class Tutorial extends React.Component {
     );
   }
 }
-
-
-

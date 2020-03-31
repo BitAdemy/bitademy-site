@@ -1,19 +1,17 @@
-import _ from "lodash";
-import moment from "moment-strftime";
-import React from "react";
-import { Layout } from "../components/index";
-import { getPages, Link, safePrefix } from "../utils";
+import _ from 'lodash';
+import moment from 'moment-strftime';
+import React from 'react';
+import { Layout } from '../components/index';
+import { getPages, Link, safePrefix } from '../utils';
 
 export default class Blog extends React.Component {
   render() {
     let display_posts = _.orderBy(
-      getPages(this.props.pageContext.pages, "/blog/clean-code"),
-      "frontmatter.date",
-      "desc"
+      getPages(this.props.pageContext.pages, '/blog/clean-code'),
+      'frontmatter.date',
+      'desc'
     );
-    display_posts = display_posts.filter(
-      file => _.get(file, "frontmatter.template") === "post"
-    );
+    display_posts = display_posts.filter(file => _.get(file, 'frontmatter.template') === 'post');
     return (
       <Layout {...this.props}>
         <div className="outer">
@@ -22,53 +20,39 @@ export default class Blog extends React.Component {
               {_.map(display_posts, (post, post_idx) => (
                 <article key={post_idx} className="post post-card">
                   <div className="post-card-inside">
-                    {_.get(post, "frontmatter.thumb_img_path") && (
-                      <Link
-                        className="post-card-thumbnail"
-                        to={safePrefix(_.get(post, "url"))}
-                      >
+                    {_.get(post, 'frontmatter.thumb_img_path') && (
+                      <Link className="post-card-thumbnail" to={safePrefix(_.get(post, 'url'))}>
                         <img
                           className="thumbnail"
-                          src={safePrefix(
-                            _.get(post, "frontmatter.thumb_img_path")
-                          )}
-                          alt={_.get(post, "frontmatter.title")}
+                          src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))}
+                          alt={_.get(post, 'frontmatter.title')}
                         />
                       </Link>
                     )}
                     <div className="post-card-content">
                       <header className="post-header">
                         <h2 className="post-title">
-                          <Link
-                            to={safePrefix(_.get(post, "url"))}
-                            rel="bookmark"
-                          >
-                            {_.get(post, "frontmatter.title")}
+                          <Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">
+                            {_.get(post, 'frontmatter.title')}
                           </Link>
                         </h2>
                       </header>
                       <div className="post-excerpt">
-                        <p>{_.get(post, "frontmatter.excerpt")}</p>
+                        <p>{_.get(post, 'frontmatter.excerpt')}</p>
                       </div>
                       <footer className="post-meta">
                         <Link
-                          to={safePrefix(
-                            _.get(post, "frontmatter.category_url")
-                          )}
+                          to={safePrefix(_.get(post, 'frontmatter.category_url'))}
                           rel="bookmark"
-                          className="margin-right"
-                        >
-                          {_.get(post, "frontmatter.category")}
+                          className="margin-right">
+                          {_.get(post, 'frontmatter.category')}
                         </Link>
                         <time
                           className="published margin-left"
-                          dateTime={moment(
-                            _.get(post, "frontmatter.date")
-                          ).strftime("%Y-%m-%d %H:%M")}
-                        >
-                          {moment(_.get(post, "frontmatter.date")).strftime(
-                            "%d - %m - %y"
-                          )}
+                          dateTime={moment(_.get(post, 'frontmatter.date')).strftime(
+                            '%Y-%m-%d %H:%M'
+                          )}>
+                          {moment(_.get(post, 'frontmatter.date')).strftime('%d - %m - %y')}
                         </time>
                       </footer>
                     </div>

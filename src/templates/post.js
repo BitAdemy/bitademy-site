@@ -1,8 +1,6 @@
-import _ from "lodash";
-import React from "react";
-import { Layout, PostHeader, PostMetaData, SectionCta } from "../components/index";
-import { htmlToReact } from "../utils";
-
+import React from 'react';
+import { Layout, PostHeader, PostMetaData, SectionCta } from '../components/index';
+import { htmlToReact, props } from '../utils';
 
 export default class Post extends React.Component {
   render() {
@@ -15,23 +13,16 @@ export default class Post extends React.Component {
                 <PostHeader {...this.props}></PostHeader>
                 <div className="grid">
                   <div className="post-content inner-medium">
-                    {htmlToReact(_.get(this.props, "pageContext.html"))}
+                    {htmlToReact(props.getPageHtml(this.props))}
                   </div>
-                  <PostMetaData
-                    {...this.props}
-                    className="inner-micro"
-                  ></PostMetaData>
+                  <PostMetaData {...this.props} className="inner-micro"></PostMetaData>
                 </div>
               </article>
               <SectionCta
                 key="call-to-action"
                 {...this.props}
-                section={_.get(
-                  this.props,
-                  "pageContext.frontmatter.sections[0]"
-                )}
-                site={this.props.pageContext.site}
-              ></SectionCta>
+                section={props.getPageFirstSection(this.props)}
+                site={this.props.pageContext.site}></SectionCta>
             </div>
           </section>
         </div>
@@ -39,6 +30,3 @@ export default class Post extends React.Component {
     );
   }
 }
-
-
-
