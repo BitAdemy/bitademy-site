@@ -5,7 +5,8 @@ subtitle: >-
 excerpt: >-
   Prepárate para un nuevo mundo es una frase típica. Pero escrita el 20 de marzo 2020 es de una evidencia escalofriante.
 post_url: blog/developers/prepárate-para-un-nuevo-mundo
-img_path: images/preparate_en_casa.png
+img_path: images/preparate_en_casa.s.png
+img_size: inner-micro
 thumb_img_path: images/preparate_en_casa.s.png
 date: '2020-03-20'
 category: Developers

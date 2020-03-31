@@ -15,7 +15,7 @@ export default class Post extends React.Component {
                   <div className="post-content inner-medium">
                     {htmlToReact(props.getPageHtml(this.props))}
                   </div>
-                  <PostMetaData {...this.props} className="inner-micro"></PostMetaData>
+                  <PostMetaData {...this.props} className="inner-auto"></PostMetaData>
                 </div>
               </article>
               <SectionCta

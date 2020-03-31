@@ -10,6 +10,10 @@ export default class PostMetaData extends React.Component {
         <hr></hr>
         {props.getPostCategory(this.props) && (
           <div className="outer-micro">
+            <Link to="/blog" className="button secondary ">
+              📗 Blog
+            </Link>
+            <p></p>
             <Link to={props.getPostCategoryUrl(this.props)} className="button secondary ">
               📂 {props.getPostCategory(this.props)}
             </Link>

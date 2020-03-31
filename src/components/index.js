@@ -1,3 +1,4 @@
+import BlogHeader from './BlogHeader';
 import CtaButtons from './CtaButtons';
 import Footer from './Footer';
 import Header from './Header';
@@ -23,6 +24,7 @@ import TutorialHeader from './TutorialHeader';
 import TutorialMetaData from './TutorialMetaData';
 
 export {
+  BlogHeader,
   CtaButtons,
   Footer,
   Header,
@@ -49,6 +51,7 @@ export {
 };
 
 export default {
+  BlogHeader,
   CtaButtons,
   Footer,
   Header,

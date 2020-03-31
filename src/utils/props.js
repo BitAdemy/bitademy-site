@@ -13,6 +13,7 @@ export const props = {
   getPageSubTitle: props => _.get(props, 'pageContext.frontmatter.subtitle'),
   getPageExcerpt: props => _.get(props, 'pageContext.frontmatter.excerpt'),
   getPageImgPath: props => _.get(props, 'pageContext.frontmatter.img_path'),
+  getPageImgSize: props => _.get(props, 'pageContext.frontmatter.img_size'),
   getPageUrl: props => _.get(props, 'pageContext.frontmatter.post_url'),
   getPageSections: props => _.get(props, 'pageContext.frontmatter.sections'),
   getPageFirstSection: props => _.get(props, 'pageContext.frontmatter.sections[0]'),

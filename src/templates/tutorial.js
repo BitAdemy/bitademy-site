@@ -15,7 +15,7 @@ export default class Tutorial extends React.Component {
                   <div className="post-content inner-medium">
                     {htmlToReact(props.getPageHtml(this.props))}
                   </div>
-                  <TutorialMetaData {...this.props} className="inner-micro"></TutorialMetaData>
+                  <TutorialMetaData {...this.props} className="inner-auto"></TutorialMetaData>
                 </div>
               </article>
               <SectionCta

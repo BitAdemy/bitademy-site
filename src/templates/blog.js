@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import React from 'react';
-import { Layout } from '../components/index';
+import { BlogHeader, Layout } from '../components/index';
 import { dateTime, getPosts, Link, safePrefix } from '../utils';
 
 export default class Blog extends React.Component {
@@ -10,6 +10,7 @@ export default class Blog extends React.Component {
       <Layout {...this.props}>
         <div className="outer">
           <div className="inner">
+            <BlogHeader {...this.props}></BlogHeader>
             <div className="post-feed">
               {_.map(display_posts, (post, post_idx) => (
                 <article key={post_idx} className="post post-card">
