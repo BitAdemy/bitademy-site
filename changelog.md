@@ -2,6 +2,14 @@
 
 Functional and infrastructure changes.
 
+
+## 1.3.4 2020-03-31
+### Added
+
+### Changed
+Mejoras en textos de marketing
+
+
 ## 1.3.3 2020-03-30
 ### Added
 
