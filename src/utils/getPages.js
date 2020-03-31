@@ -1,7 +1,9 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-export default function(pages, folderPath) {
-    // TODO: resolve relative paths relative to current page
-    folderPath = folderPath.replace(/^\//, '');
-    return _.filter(pages, {relativeDir: folderPath});
+export default function (pages, folderPath) {
+  // TODO: resolve relative paths relative to current page
+  console.log({ pages });
+  console.log({ folderPath });
+  folderPath = folderPath.replace(/^\//, '');
+  return _.filter(pages, page => page.relativeDir.startsWith(folderPath));
 }

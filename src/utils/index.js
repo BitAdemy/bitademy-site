@@ -3,6 +3,7 @@ export { default as cycler } from './cycler';
 export * from './dateTime';
 export { default as getPage } from './getPage';
 export { default as getPages } from './getPages';
+export { default as getPosts } from './getPosts';
 export { default as htmlToReact } from './htmlToReact';
 export { default as Link } from './link';
 export { default as markdownify } from './markdownify';

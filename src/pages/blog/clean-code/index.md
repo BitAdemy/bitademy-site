@@ -6,14 +6,9 @@ excerpt: >-
   Artículos sobre código limpio con opinión y recomendaciones para programadores.
 post_url: blog/clean-code
 img_path: images/logo.png
-# menus:
-#   main:
-#     weight: 2
-#     title: Blog
-#   secondary:
-#     weight: 2
-#     title: Blog
 template: blog
 ---
+
 # Clean Code
+
 ## Artículos sobre código limpio

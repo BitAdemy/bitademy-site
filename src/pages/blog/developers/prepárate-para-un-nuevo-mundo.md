@@ -4,12 +4,12 @@ subtitle: >-
   Es la típica frase molona que puedes estampar en camisetas o imprimir en una taza de café
 excerpt: >-
   Prepárate para un nuevo mundo es una frase típica. Pero escrita el 20 de marzo 2020 es de una evidencia escalofriante.
-post_url: blog/clean-code/prepárate-para-un-nuevo-mundo
+post_url: blog/developers/prepárate-para-un-nuevo-mundo
 img_path: images/preparate_en_casa.png
 thumb_img_path: images/preparate_en_casa.s.png
 date: '2020-03-20'
-category: Clean Code
-category_url: blog/clean-code
+category: Developers
+category_url: blog/developers
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -28,6 +28,7 @@ Pero la frase, esta frase, _Prepárate para un nuevo mundo…_ **Cuando la escri
 _Spoiler_: Lo que sigue es un volcado de lo pienso, lo que siento y lo que hago en estos días irreales. **Me parece perfecto que dediques tu tiempo a otra cosa y dejes de leer esto ahora mismo.**
 
 ## Incertidumbre
+
 Si algo nos sobra ahora mismo son dudas. Algunas sobre el pasado _¿Cómo empezó esto? ¿Se podría haber evitado?_. Otras bien presentes _¿Qué riesgo real corren mi familia, amigos, compañeros y vecinos? ¿Cómo puedo ayudar?_. Y otras del futuro, de las que me ocuparé hoy. _¿Qué va a pasar mañana cuando esto termine? ¿Se verán afectadas las relaciones personales y sociales? ¿Cuál será la magnitud del impacto económico? ¿Cómo afectará al trabajo?_
 
 Te adelanto y te ahorro tiempo.
@@ -35,6 +36,7 @@ Te adelanto y te ahorro tiempo.
 > _No tengo respuestas concretas para ninguna de estas preguntas. Pero anticipo que la mayoría de las actividades humanas que se verán afectadas tras esta crisis._
 
 ## Transformación
+
 Estarás hasta las narices de oír que los japoneses escriben **crisis como una combinación de peligro y oportunidad**. Por supuesto que hoy percibimos el peligro muy claramente y quizá aún no vislumbramos la oportunidad. Pero la hay. La habrá.
 
 Lo que ocurre desde siempre es un eterno proceso de transformación. Es un concepto de física básica; pero en ciertos momentos un agente externo actúa como **Catalizador** de un cambio a mayor escala. Quizás **un cambio acelerado, indeseado, imprevisto e inoportuno**. Pero un cambio transformador.
@@ -42,6 +44,7 @@ Lo que ocurre desde siempre es un eterno proceso de transformación. Es un conce
 > _No todo en nuestro viejo mundo estaba bien; ni mucho menos. Pero estaba mucho mejor de lo que nunca antes había estado. Teníamos una sensación de bienestar, tranquilidad y progreso que hoy se echa en falta. Pero había muchas mejoras pendientes. Y creo que es el momento de usar El Catalizador para aplicar alguna de ellas._
 
 ## Adaptación
+
 En el aspecto tecnológico, como no soy un vidente y tampoco soy capaz de imaginar cambios disruptivos, sólo puedo transmitir un predicción razonada:
 
 > _El Catalizador acelerará enormemente procesos de cambio que ya estaban en marcha._
@@ -55,7 +58,6 @@ En el aspecto tecnológico, como no soy un vidente y tampoco soy capaz de imagin
 - Por fin, un deseo y una predicción razonable; será el momento de que se impongan las **tecnologías, procesos y costumbres que racionalicen el uso y disfrute de los recursos naturales.**
 
 > _En definitiva. Habrá muchos cambios rápidos que nos superen como individuos y como grupo. Algunos puede que nos gusten y otros no. Habrá de todo._
-
 
 ---
 

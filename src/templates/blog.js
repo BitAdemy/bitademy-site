@@ -1,16 +1,11 @@
 import _ from 'lodash';
 import React from 'react';
 import { Layout } from '../components/index';
-import { dateTime, getPages, Link, safePrefix } from '../utils';
+import { dateTime, getPosts, Link, safePrefix } from '../utils';
 
 export default class Blog extends React.Component {
   render() {
-    let display_posts = _.orderBy(
-      getPages(this.props.pageContext.pages, '/blog/clean-code'),
-      'frontmatter.date',
-      'desc'
-    );
-    display_posts = display_posts.filter(file => _.get(file, 'frontmatter.template') === 'post');
+    const display_posts = getPosts(this.props.pageContext);
     return (
       <Layout {...this.props}>
         <div className="outer">
@@ -43,13 +38,13 @@ export default class Blog extends React.Component {
                         <Link
                           to={safePrefix(_.get(post, 'frontmatter.category_url'))}
                           rel="bookmark"
-                          className="margin-right">
-                          {_.get(post, 'frontmatter.category')}
+                          className="margin-left">
+                          📂 {_.get(post, 'frontmatter.category')}
                         </Link>
                         <time
-                          className="published margin-left"
+                          className="published margin-right"
                           dateTime={dateTime.getForRobots(_.get(post, 'frontmatter.date'))}>
-                          {dateTime.getForHumans(_.get(post, 'frontmatter.date'))}
+                          📅 {dateTime.getForHumans(_.get(post, 'frontmatter.date'))}
                         </time>
                       </footer>
                     </div>
