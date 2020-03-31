@@ -1,28 +1,22 @@
-import _ from "lodash";
-import React from "react";
-import { SocialSharing, TimeAuthor } from "../components/index";
-import { Link, safePrefix } from "../utils";
+import React from 'react';
+import { SocialSharing, TimeAuthor } from '../components/index';
+import { Link, props } from '../utils';
 
 export default class PostMetaData extends React.Component {
   render() {
     return (
       <section className="to-bottom">
-        <TimeAuthor  {...this.props}></TimeAuthor>
+        <TimeAuthor {...this.props}></TimeAuthor>
         <hr></hr>
-        {_.get(this.props, "pageContext.frontmatter.category") && (
+        {props.getPostCategory(this.props) && (
           <div className="outer-micro">
-            <Link
-              to={safePrefix(
-                _.get(this.props, "pageContext.frontmatter.category_url")
-              ).toLowerCase()}
-              className="button secondary "
-            >
-              📂 {_.get(this.props, "pageContext.frontmatter.category")}
+            <Link to={props.getPostCategoryUrl(this.props)} className="button secondary ">
+              📂 {props.getPostCategory(this.props)}
             </Link>
           </div>
         )}
         <hr></hr>
-        <SocialSharing  {...this.props}></SocialSharing>
+        <SocialSharing {...this.props}></SocialSharing>
       </section>
     );
   }

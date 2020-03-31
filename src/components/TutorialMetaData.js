@@ -1,79 +1,51 @@
-import _ from "lodash";
-import React from "react";
-import { SocialSharing, TimeAuthor } from "../components/index";
-import { Link, safePrefix } from "../utils";
+import React from 'react';
+import { SocialSharing, TimeAuthor } from '../components/index';
+import { Link, props } from '../utils';
 
 export default class TutorialMetaData extends React.Component {
-
-
   render() {
     return (
       <section className="to-bottom">
-        <TimeAuthor  {...this.props}></TimeAuthor>
+        <TimeAuthor {...this.props}></TimeAuthor>
         <hr></hr>
-        {_.get(this.props, "pageContext.frontmatter.laboratory") && (
+        {props.getTutorialLaboratory(this.props) && (
           <div className="outer-micro">
-            <Link
-              to={safePrefix(
-                _.get(this.props, "pageContext.frontmatter.laboratory_url")
-              ).toLowerCase()}
-              className=" "
-            >
-              ⌨ {_.get(this.props, "pageContext.frontmatter.laboratory")}
+            <Link to={props.getTutorialLaboratoryUrl(this.props)} className=" ">
+              ⌨ {props.getTutorialLaboratory(this.props)}
             </Link>
           </div>
         )}
-        {_.get(this.props, "pageContext.frontmatter.preview") && (
+        {props.getTutorialPreview(this.props) && (
           <div className="outer-micro">
-            <Link
-              to={safePrefix(
-                _.get(this.props, "pageContext.frontmatter.preview_url")
-              ).toLowerCase()}
-              className="  "
-            >
-              📹 {_.get(this.props, "pageContext.frontmatter.preview")}
+            <Link to={props.getTutorialPreviewUrl(this.props)} className="  ">
+              📹 {props.getTutorialPreview(this.props)}
             </Link>
           </div>
         )}
         <hr></hr>
-        {_.get(this.props, "pageContext.frontmatter.up") && (
+        {props.getTutorialUp(this.props) && (
           <div className="outer-micro">
-            <Link
-              to={safePrefix(
-                _.get(this.props, "pageContext.frontmatter.up_url")
-              ).toLowerCase()}
-              className="button secondary "
-            >
-              ⏏ {_.get(this.props, "pageContext.frontmatter.up")}
+            <Link to={props.getTutorialUpUrl(this.props)} className="button secondary ">
+              ⏏ {props.getTutorialUp(this.props)}
             </Link>
           </div>
         )}
-        {_.get(this.props, "pageContext.frontmatter.next") && (
+        {props.getTutorialNext(this.props) && (
           <div className="outer-micro">
-            <Link
-              to={safePrefix(
-                _.get(this.props, "pageContext.frontmatter.next_url")
-              ).toLowerCase()}
-              className="button secondary "
-            >
-              ▶ {_.get(this.props, "pageContext.frontmatter.next")}
+            <Link to={props.getTutorialNextUrl(this.props)} className="button secondary ">
+              ▶ {props.getTutorialNext(this.props)}
             </Link>
           </div>
         )}
-        {_.get(this.props, "pageContext.frontmatter.previous") && (
+        {props.getTutorialPrevious(this.props) && (
           <div className="outer-micro">
-            <Link
-              to={safePrefix(
-                _.get(this.props, "pageContext.frontmatter.previous_url")
-              ).toLowerCase()}
-              className="button secondary "
-            >
-              ◀ {_.get(this.props, "pageContext.frontmatter.previous")}
+            <Link to={props.getTutorialPreviousUrl(this.props)} className="button secondary ">
+              ◀ {props.getTutorialPrevious(this.props)}
             </Link>
           </div>
         )}
         <hr></hr>
-        <SocialSharing  {...this.props}></SocialSharing>
+        <SocialSharing {...this.props}></SocialSharing>
       </section>
     );
   }

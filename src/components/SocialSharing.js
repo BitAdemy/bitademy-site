@@ -1,31 +1,19 @@
-import _ from "lodash";
-import React from "react";
-import { Facebook, Linkedin, Twitter } from "react-social-sharing";
-
+import React from 'react';
+import { Facebook, Linkedin, Twitter } from 'react-social-sharing';
+import { props } from '../utils';
 
 export default class SocialSharing extends React.Component {
-  message = _.get( this.props, "pageContext.frontmatter.title" );
-  post_url = _.get( this.props, "pageContext.frontmatter.post_url" );
-  production_url = _.get( this.props, "pageContext.site.siteMetadata.header.production_url" );
+  message = props.getPageTitle(this.props);
+  post_url = props.getPageUrl(this.props);
+  production_url = props.getSiteProductionUrl(this.props);
 
   render() {
     return (
       <div className="outer-micro">
-          <Twitter
-            simple
-            link={ this.production_url + this.post_url }
-            message={this.message}
-          />
-          <Facebook
-            simple
-            link={ this.production_url + this.post_url }
-          />
-          <Linkedin
-            simple
-            link={ this.production_url + this.post_url }
-            message={this.message}
-          />
-        </div>
-    )
+        <Twitter simple link={this.production_url + this.post_url} message={this.message} />
+        <Facebook simple link={this.production_url + this.post_url} />
+        <Linkedin simple link={this.production_url + this.post_url} message={this.message} />
+      </div>
+    );
   }
 }

@@ -1,29 +1,22 @@
-import _ from "lodash";
-import React from "react";
-import { htmlToReact, safePrefix } from "../utils";
+import React from 'react';
+import { htmlToReact, props, safePrefix } from '../utils';
 export default class PostHeader extends React.Component {
   render() {
     return (
       <div>
         <header className="post-header">
-          <h1 className="post-title">
-            {_.get(this.props, "pageContext.frontmatter.title")}
-          </h1>
+          <h1 className="post-title">{props.getPageTitle(this.props)}</h1>
         </header>
-        {_.get(this.props, "pageContext.frontmatter.img_path") && (
+        {props.getPageImgPath(this.props) && (
           <div className="post-thumbnail">
             <img
-              src={safePrefix(
-                _.get(this.props, "pageContext.frontmatter.img_path")
-              )}
-              alt={_.get(this.props, "pageContext.frontmatter.title")}
+              src={safePrefix(props.getPageImgPath(this.props))}
+              alt={props.getPageTitle(this.props)}
             />
           </div>
         )}
-        {_.get(this.props, "pageContext.frontmatter.subtitle") && (
-          <div className="post-subtitle">
-            {htmlToReact(_.get(this.props, "pageContext.frontmatter.subtitle"))}
-          </div>
+        {props.getPageSubTitle(this.props) && (
+          <div className="post-subtitle">{htmlToReact(props.getPageSubTitle(this.props))}</div>
         )}
       </div>
     );
