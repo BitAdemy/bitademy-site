@@ -2,6 +2,14 @@
 
 Functional and infrastructure changes.
 
+## 1.4.1 2020-03-31
+
+### Added
+
+### Changed
+
+Smaller images on posts
+
 ## 1.4.0 2020-03-31
 
 ### Added
