@@ -2,6 +2,16 @@
 
 Functional and infrastructure changes.
 
+## 1.4.2 2020-03-31
+
+### Added
+
+About us marketing
+
+### Changed
+
+Refactored ternary operators
+
 ## 1.4.1 2020-03-31
 
 ### Added
