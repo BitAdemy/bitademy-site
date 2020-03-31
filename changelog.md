@@ -2,6 +2,16 @@
 
 Functional and infrastructure changes.
 
+## 1.4.0 2020-03-31
+
+### Added
+
+Blog categories
+
+### Changed
+
+post card footer
+
 ## 1.3.5 2020-03-31
 
 ### Added
