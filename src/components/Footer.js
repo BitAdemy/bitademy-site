@@ -12,59 +12,47 @@ export default class Footer extends React.Component {
           <div className="inner">
             <div className="footer-widgets">
               <div className="widget footer-branding">
-                {props.getSiteFooterLogoImg(this.props) ? (
-                  <p className="site-logo">
-                    <Link to={safePrefix('/')}>
-                      <img src={safePrefix(props.getSiteFooterLogoImg(this.props))} alt="Logo" />
-                    </Link>
-                  </p>
-                ) : (
-                  <p className="site-title">
-                    <Link to={safePrefix('/')}>{props.getSiteHeaderTitle(this.props)}</Link>
-                  </p>
-                )}
-                {_.get(this.props, 'pageContext.site.siteMetadata.footer.tagline') && (
-                  <p className="site-description">
-                    {_.get(this.props, 'pageContext.site.siteMetadata.footer.tagline')}
-                  </p>
-                )}
+                <p className="site-logo">
+                  <Link to={safePrefix('/')}>
+                    <img src={safePrefix(props.getSiteFooterLogoImg(this.props))} alt="Logo" />
+                  </Link>
+                </p>
+                <p className="site-description">
+                  {_.get(this.props, 'pageContext.site.siteMetadata.footer.tagline')}
+                </p>
               </div>
-              {((_.get(this.props, 'pageContext.menus.secondary') &&
-                _.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav')) ||
-                _.get(this.props, 'pageContext.site.siteMetadata.footer.has_social')) && (
-                <nav className="widget footer-navigation">
-                  <div className="footer-nav-inside">
-                    {_.get(this.props, 'pageContext.menus.secondary') &&
-                      _.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav') && (
-                        <div className="secondary-nav">
-                          <h2 className="widget-title">
-                            {_.get(this.props, 'pageContext.site.siteMetadata.footer.nav_title')}
-                          </h2>
-                          <ul className="secondary-menu">
-                            {_.map(
-                              _.get(this.props, 'pageContext.menus.secondary'),
-                              (item, item_idx) => (
-                                <li key={item_idx}>
-                                  <Link to={safePrefix(_.get(item, 'url'))}>
-                                    {_.get(item, 'title')}
-                                  </Link>
-                                </li>
-                              )
-                            )}
-                          </ul>
-                        </div>
-                      )}
-                    {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_social') && (
-                      <div className="social-nav">
+              <nav className="widget footer-navigation">
+                <div className="footer-nav-inside">
+                  {_.get(this.props, 'pageContext.menus.secondary') &&
+                    _.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav') && (
+                      <div className="secondary-nav">
                         <h2 className="widget-title">
-                          {_.get(this.props, 'pageContext.site.siteMetadata.footer.social_title')}
+                          {_.get(this.props, 'pageContext.site.siteMetadata.footer.nav_title')}
                         </h2>
-                        <Social {...this.props} />
+                        <ul className="secondary-menu">
+                          {_.map(
+                            _.get(this.props, 'pageContext.menus.secondary'),
+                            (item, item_idx) => (
+                              <li key={item_idx}>
+                                <Link to={safePrefix(_.get(item, 'url'))}>
+                                  {_.get(item, 'title')}
+                                </Link>
+                              </li>
+                            )
+                          )}
+                        </ul>
                       </div>
                     )}
-                  </div>
-                </nav>
-              )}
+                  {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_social') && (
+                    <div className="social-nav">
+                      <h2 className="widget-title">
+                        {_.get(this.props, 'pageContext.site.siteMetadata.footer.social_title')}
+                      </h2>
+                      <Social {...this.props} />
+                    </div>
+                  )}
+                </div>
+              </nav>
               {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_subscribe') && (
                 <div className="widget footer-subscribe">
                   <h2 className="widget-title">
