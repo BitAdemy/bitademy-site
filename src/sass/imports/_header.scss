@@ -66,6 +66,10 @@
     }
   }
 
+  .current-menu-item {
+    font-weight: bolder;
+  }
+
   a:not(.button) {
     border: 0;
     color: inherit;
@@ -116,14 +120,13 @@
 
   .site-header:before {
     background: rgba(_palette(bg), 0.75);
-    content: "";
+    content: '';
     height: 100vh;
     left: 0;
     opacity: 0;
     position: absolute;
     top: 0;
-    -webkit-transition: opacity 0.15s ease-in-out,
-      visibility 0s ease-in-out 0.15s;
+    -webkit-transition: opacity 0.15s ease-in-out, visibility 0s ease-in-out 0.15s;
     transition: opacity 0.15s ease-in-out, visibility 0s ease-in-out 0.15s;
     visibility: hidden;
     width: 100%;

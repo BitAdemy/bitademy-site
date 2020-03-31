@@ -32,8 +32,5 @@ menus:
   main:
     weight: 3
     title: Tutoriales
-  secondary:
-    weight: 3
-    title: Tutoriales
 template: landing
 ---
