@@ -10,6 +10,8 @@ Functional and infrastructure changes.
 
 Marketing copy
 
+Price changes
+
 ## 1.4.3 2020-04-01
 
 ### Added

@@ -31,15 +31,21 @@ template: tutorial
 >
 > -- ✍️ **Addy Osmani**
 
+He escogido esta frase para empezar el tutorial porque me siento completamente representado. Casi nunca he hecho nada bien a la primera. Pero se empieza por hacer algo.
+
+Ya vendrá el tiempo de corregirlo, y después de optimizarlo. En este curso hablamos de la última parte, de la mejora de lo ya hecho.
+
+Hacer las cosas bien es lo mínimo, es lo que se espera de cualquier profesional. Si se hacen mal te pedirán que las corrijas o te pedirán que te apartes.
+
+Si continúas en este negocio es porque lo haces bien. Pero puedes hacerlo mejor.
+
 - Tu código es mejorable; y el mío también. 😳
 
-- A ese código mejorable le decimos que... huele mal. 🤢
-
+* A ese código mejorable le decimos que... huele mal. 🤢
 
 ![Perdone pero... le huele el código](/images/your-code-smells.jpg)
 
 > Perdone, le huele el código.
-
 
 ## 🥀 Con el tiempo empeora
 
@@ -47,14 +53,11 @@ template: tutorial
 
 - Con el paso del tiempo, digamos que el olor va a peor.
 
-
 > "Cualquier código tuyo que no hayas mirado últimamente, es como si lo hubiese escrito otro."
 >
 > -- ✍️ **Ley de Eagleson**
 
-
-[ 📺 😂  ¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
-
+[ 📺 😂 ¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
 
 ## 💈 Principios de mejora
 
@@ -70,6 +73,4 @@ template: tutorial
 
 ...
 
-5️⃣. Keep It Simple, (*not*) Stupid **(KISS)**
-
-
+5️⃣. Keep It Simple, (_not_) Stupid **(KISS)**
