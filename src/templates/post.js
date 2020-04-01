@@ -12,10 +12,12 @@ export default class Post extends React.Component {
               <article className="post post-full">
                 <PostHeader {...this.props}></PostHeader>
                 <div className="grid">
-                  <div className="post-content inner-medium">
+                  <main className="post-content left-medium">
                     {htmlToReact(props.getPageHtml(this.props))}
-                  </div>
-                  <PostMetaData {...this.props} className="inner-auto"></PostMetaData>
+                  </main>
+                  <aside className="inner-auto aside-box">
+                    <PostMetaData {...this.props}></PostMetaData>
+                  </aside>
                 </div>
               </article>
               <SectionCta

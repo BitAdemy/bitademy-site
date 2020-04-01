@@ -8,7 +8,7 @@
 
 .post-header {
   margin-bottom: 2.5rem;
-  text-align: center;
+  text-align: left;
 
   .post-title {
     margin: 0 0 1.66667rem;
@@ -31,7 +31,7 @@
   line-height: 1.5;
   margin-bottom: 1.66667rem;
   padding-bottom: 1.33333rem;
-  text-align: center;
+  text-align: left;
 }
 
 .post-thumbnail {
@@ -111,7 +111,7 @@
     width: 100%;
 
     &:before {
-      content: "";
+      content: '';
       display: block;
       padding-top: 66.666%;
     }

@@ -3,10 +3,7 @@ import { htmlToReact, props, safePrefix } from '../../utils';
 export default class PostHeader extends React.Component {
   render() {
     return (
-      <div>
-        <header className="post-header">
-          <h1 className="post-title">{props.getPageTitle(this.props)}</h1>
-        </header>
+      <header className="post-header">
         {props.getPageImgPath(this.props) && (
           <div className={'post-thumbnail ' + (props.getPageImgSize(this.props) || 'inner-small')}>
             <img
@@ -15,10 +12,13 @@ export default class PostHeader extends React.Component {
             />
           </div>
         )}
+        <div>
+          <h1 className="post-title">{props.getPageTitle(this.props)}</h1>
+        </div>
         {props.getPageSubTitle(this.props) && (
           <div className="post-subtitle">{htmlToReact(props.getPageSubTitle(this.props))}</div>
         )}
-      </div>
+      </header>
     );
   }
 }

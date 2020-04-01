@@ -7,12 +7,19 @@ export default class TimeAuthor extends React.Component {
   render() {
     return (
       <div className="outer-micro">
-        <time dateTime={dateTime.getForRobots(this.date)}>
-          📅 {dateTime.getForHumans(this.date)}
-        </time>
-        <p></p>
+        <div className="margin-bottom">
+          <span className="margin-right" role="img" aria-label="fecha">
+            📅
+          </span>
+          <time dateTime={dateTime.getForRobots(this.date)}>
+            {dateTime.getForHumans(this.date)}
+          </time>
+        </div>
         <div>
-          ✍ <Link to={this.author.url}>{this.author.name}</Link>
+          <span className="margin-right" role="img" aria-label="escritor">
+            ✍
+          </span>
+          <Link to={this.author.url}>{this.author.name}</Link>
         </div>
       </div>
     );

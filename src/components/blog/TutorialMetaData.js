@@ -5,48 +5,66 @@ import { SocialSharing, TimeAuthor } from '../index';
 export default class TutorialMetaData extends React.Component {
   render() {
     return (
-      <section className="to-bottom">
+      <aside className="to-bottom">
         <TimeAuthor {...this.props}></TimeAuthor>
-        <hr></hr>
-        {props.getTutorialLaboratory(this.props) && (
-          <div className="outer-micro">
-            <Link to={props.getTutorialLaboratoryUrl(this.props)} className=" ">
-              ⌨ {props.getTutorialLaboratory(this.props)}
-            </Link>
+        <nav className="outer-micro margin-top">
+          <div className=" margin-bottom">
+            {props.getTutorialLaboratory(this.props) && (
+              <div className="margin-bottom">
+                <span className="margin-right" role="img" aria-label="teclado">
+                  ⌨
+                </span>
+                <Link to={props.getTutorialLaboratoryUrl(this.props)}>
+                  {props.getTutorialLaboratory(this.props)}
+                </Link>
+              </div>
+            )}
+            {props.getTutorialPreview(this.props) && (
+              <div className="margin-bottom">
+                <span className="margin-right" role="img" aria-label="video">
+                  📹
+                </span>
+                <Link to={props.getTutorialPreviewUrl(this.props)}>
+                  {props.getTutorialPreview(this.props)}
+                </Link>
+              </div>
+            )}
           </div>
-        )}
-        {props.getTutorialPreview(this.props) && (
-          <div className="outer-micro">
-            <Link to={props.getTutorialPreviewUrl(this.props)} className="  ">
-              📹 {props.getTutorialPreview(this.props)}
-            </Link>
+          <div className=" margin-top">
+            {props.getTutorialUp(this.props) && (
+              <div className="margin-bottom ">
+                <span className="margin-right" role="img" aria-label="arriba">
+                  🔝
+                </span>
+                <Link to={props.getTutorialUpUrl(this.props)}>
+                  {props.getTutorialUp(this.props)}
+                </Link>
+              </div>
+            )}
+            {props.getTutorialNext(this.props) && (
+              <div className="margin-bottom">
+                <span className="margin-right" role="img" aria-label="adelante">
+                  ⏭
+                </span>
+                <Link to={props.getTutorialNextUrl(this.props)}>
+                  {props.getTutorialNext(this.props)}
+                </Link>
+              </div>
+            )}
+            {props.getTutorialPrevious(this.props) && (
+              <div className="margin-bottom">
+                <span className="margin-right" role="img" aria-label="atrás">
+                  ⏮
+                </span>
+                <Link to={props.getTutorialPreviousUrl(this.props)}>
+                  {props.getTutorialPrevious(this.props)}
+                </Link>
+              </div>
+            )}
           </div>
-        )}
-        <hr></hr>
-        {props.getTutorialUp(this.props) && (
-          <div className="outer-micro">
-            <Link to={props.getTutorialUpUrl(this.props)} className="button secondary ">
-              ⏏ {props.getTutorialUp(this.props)}
-            </Link>
-          </div>
-        )}
-        {props.getTutorialNext(this.props) && (
-          <div className="outer-micro">
-            <Link to={props.getTutorialNextUrl(this.props)} className="button secondary ">
-              ▶ {props.getTutorialNext(this.props)}
-            </Link>
-          </div>
-        )}
-        {props.getTutorialPrevious(this.props) && (
-          <div className="outer-micro">
-            <Link to={props.getTutorialPreviousUrl(this.props)} className="button secondary ">
-              ◀ {props.getTutorialPrevious(this.props)}
-            </Link>
-          </div>
-        )}
-        <hr></hr>
+        </nav>
         <SocialSharing {...this.props}></SocialSharing>
-      </section>
+      </aside>
     );
   }
 }

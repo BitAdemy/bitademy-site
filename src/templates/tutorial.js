@@ -12,10 +12,12 @@ export default class Tutorial extends React.Component {
               <article className="post post-full">
                 <TutorialHeader {...this.props}></TutorialHeader>
                 <div className="grid">
-                  <div className="post-content inner-medium">
+                  <main className="post-content left-medium">
                     {htmlToReact(props.getPageHtml(this.props))}
-                  </div>
-                  <TutorialMetaData {...this.props} className="inner-auto"></TutorialMetaData>
+                  </main>
+                  <aside className="inner-auto aside-box">
+                    <TutorialMetaData {...this.props}></TutorialMetaData>
+                  </aside>
                 </div>
               </article>
               <SectionCta

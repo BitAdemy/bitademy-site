@@ -1,13 +1,13 @@
 // Font.
 $font: (
   primary: (
-    "Lato",
-    sans-serif,
+    'Lato',
+    sans-serif
   ),
   secondary: (
-    "Comfortaa",
-    serif,
-  ),
+    'Comfortaa',
+    serif
+  )
 );
 
 // Palette.
@@ -24,37 +24,22 @@ $palette: (
   accent-green: #49fcd4,
   accent-green-alt: #0098ee,
   accent-orange: #fe8c00,
-  accent-orange-alt: #f83600,
+  accent-orange-alt: #f83600
 );
-
-.margin-right {
-  margin-right: 5px;
-}
-.margin-left {
-  margin-left: 5px;
-}
-
-.published {
-  font-weight: bold;
-}
-
-.unpublished {
-  font-style: italic;
-}
 
 // @import url("https://fonts.googleapis.com/css?family=Comfortaa|Lato&display=swap");
 
-@import "imports/fonts";
+@import 'imports/fonts';
 
-@import "imports/functions";
+@import 'imports/functions';
 
-@import "imports/reset";
-@import "imports/general";
-@import "imports/icons";
-@import "imports/structure";
-@import "imports/header";
-@import "imports/posts";
-@import "imports/sections";
-@import "imports/footer";
-@import "imports/palettes";
-@import "imports/banner";
+@import 'imports/reset';
+@import 'imports/general';
+@import 'imports/icons';
+@import 'imports/structure';
+@import 'imports/header';
+@import 'imports/posts';
+@import 'imports/sections';
+@import 'imports/footer';
+@import 'imports/palettes';
+@import 'imports/banner';

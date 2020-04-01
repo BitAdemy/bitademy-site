@@ -5,23 +5,26 @@ import { SocialSharing, TimeAuthor } from '../index';
 export default class PostMetaData extends React.Component {
   render() {
     return (
-      <section className="to-bottom">
+      <aside className="to-bottom">
         <TimeAuthor {...this.props}></TimeAuthor>
-        <hr></hr>
-        {props.getPostCategory(this.props) && (
-          <div className="outer-micro">
-            <Link to="/blog" className="button secondary ">
-              📗 Blog
-            </Link>
-            <p></p>
-            <Link to={props.getPostCategoryUrl(this.props)} className="button secondary ">
-              📂 {props.getPostCategory(this.props)}
+        <nav className="outer-micro margin-top">
+          <div className="margin-bottom">
+            <span className="margin-right" role="img" aria-label="libro">
+              📗
+            </span>
+            <Link to="/blog">Blog</Link>
+          </div>
+          <div className="margin-bottom">
+            <span className="margin-right" role="img" aria-label="carpeta">
+              📂
+            </span>
+            <Link to={props.getPostCategoryUrl(this.props)}>
+              {props.getPostCategory(this.props)}
             </Link>
           </div>
-        )}
-        <hr></hr>
+        </nav>
         <SocialSharing {...this.props}></SocialSharing>
-      </section>
+      </aside>
     );
   }
 }
