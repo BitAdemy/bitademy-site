@@ -13,6 +13,12 @@ sections:
       Desde casa y cuando quieras. Nuestros talleres son prácticos, cortos y eficaces.
 
       >_"Escoge bien para aprender y aumentar tu valor."_
+
+    actions:
+      - label: Curso sobre código limpio
+        url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+      - label: Curso sobre pruebas web
+        url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
   - section_id: features
     type: section_features
     bg: gray
@@ -23,7 +29,10 @@ sections:
       - title: Clean Code aplicado para desarrollos limpios y rentables
         image: images/undraw_clean_up.svg
         content: >-
-          El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida la escritura para crear código limpio**. Este curso te transforma en artesano del software.
+          El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida la escritura para crear código limpio**.
+
+
+          Este curso te transforma en artesano del software.
 
           > _"El código limpio refleja la valía profesional de su creador."_
         actions:
@@ -32,7 +41,10 @@ sections:
       - title: Testing de aplicaciones web fácil y productivo para todos
         image: images/undraw_science.svg
         content: >-
-          Las pruebas automáticas del software mejoran la calidad de los programas. **Los tests descubren bugs y reducen los tiempos de mantenimiento**. Pero lo mejor es que pueden ser divertidas y desde luego rentables.
+          Las pruebas automáticas del software mejoran la calidad de los programas. **Los tests descubren bugs y reducen los tiempos de mantenimiento**.
+
+
+          Pero lo mejor es que pueden ser divertidas y desde luego rentables.
 
           > _"Las pruebas te permiten estar seguro de tu código."_
         actions:

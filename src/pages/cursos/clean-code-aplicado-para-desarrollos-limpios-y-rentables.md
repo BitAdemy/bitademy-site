@@ -15,7 +15,10 @@ sections:
     image: images/undraw_clean_up.svg
     title: Clean Code aplicado para desarrollos limpios y rentables
     content: >-
-      El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida el desarrollo para crear código limpio**. Este curso transforma al programador en artesano del software.
+      El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida el desarrollo para crear código limpio**.
+
+
+      Este curso transforma al programador en artesano del software.
 
     actions:
       - label: Aprender a programar mejor
@@ -105,8 +108,8 @@ sections:
           * [Redes sociales](https://twitter.com/bit_ademy)
           * [Newsletter mensual](http://eepurl.com/gLTXxT)
         actions:
-          - label: Próximamente
-            url: /
+          - label: Empieza ya
+            url: /tutorial/clean-code
       - title: Profesional
         price: 99 €
         details: |-
@@ -116,6 +119,8 @@ sections:
           * Videos ejercicios propuestos
           * Videos ejercicios resueltos
           * Cuestionario de autoevaluación
+          * Cheatsheets descargables
+          * **Puedes pagar a plazos**
         highlight: true
         actions:
           - label: Inscríbete
@@ -124,11 +129,11 @@ sections:
         price: 149 €
         details: |-
           * _Porque quieres algo más..._
-          * Cheatsheets descargables
           * EBook descargable
           * Foro de atención diario
           * Revisión de práctica final
           * Diploma de aprovechamiento
+          * **Descuentos para grupos**
         actions:
           - label: Próximamente...
             url: /
@@ -197,7 +202,6 @@ sections:
         actions:
           - label: Contenido detallado.
             url: /tutorial/clean-code/contenido
-
 
       - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg

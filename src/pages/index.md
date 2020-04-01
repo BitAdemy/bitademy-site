@@ -10,7 +10,7 @@ sections:
     image: images/undraw_professor.svg
     title: Aprender a programar mejor
     content: >-
-       Cursos de : CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS...
+      Cursos de : CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS...
     actions:
       - label: Aumenta el valor de tus desarrollos
         url: /cursos
@@ -22,22 +22,30 @@ sections:
       La industria del software es pujante pero competitiva. ¿Estás preparado? Formarse bien es la mejor garantía de éxito.
     featureslist:
       - title: >-
-          Objetivo: Mejorar la calidad del software
+          Objetivo: Mejorar la calidad del código
         image: images/undraw_goals.svg
         content: >-
           Los lenguajes, los frameworks y las herramientas son perecederos. **Para obtener calidad a largo plazo hay que centrarse en lo que no cambia.**
+
+
+          Ni cursos enlatados, ni guiones oficiales ni burocracia. Todo al grano.
 
           > _"Las técnicas, las buenas prácticas y los fundamentos son útiles para siempre."_
       - title: En el menor tiempo posible
         image: images/undraw_in_no_time.svg
         content: >-
-          El tiempo es nuestro bien más preciado. **Invierte el tiempo de la manera más rentable.** Ni cursos enlatados ni guiones oficiales ni burocracia. Todo al grano. Cosas útiles en el menor tiempo.
+          El tiempo es nuestro bien más preciado. **Invierte el tiempo de la manera más rentable.**
 
-          > _"Preparación para aprender rápido lo que se necesita."_
+
+          Cosas útiles en el menor tiempo. Sin convocatorias ni esperas.
+
+          > _"Preparación para aprender rápido lo que se necesita y cuando se necesita."_
       - title: Optimizado para el desarrollo profesional.
         image: images/undraw_investing.svg
         content: >-
           **Problema, solución y aplicación práctica.** Cursos creados tras miles de horas de experiencia empresarial y docente.
+
+          Aprender con un objetivo: crear mejores programas.
 
           > _"Todo el mundo valora mejor a quien resuelve problemas."_
   - section_id: call-to-action
