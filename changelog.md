@@ -8,6 +8,10 @@ Functional and infrastructure changes.
 
 tutorial intro clean code
 
+### changed
+
+styling blog and tutorial aside
+
 ## 1.4.4 2020-04-01
 
 ### Changed
