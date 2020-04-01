@@ -2,6 +2,14 @@
 
 Functional and infrastructure changes.
 
+## 1.4.4 2020-04-01
+
+### Added
+
+### Changed
+
+Marketing copy
+
 ## 1.4.3 2020-04-01
 
 ### Added
