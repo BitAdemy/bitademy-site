@@ -2,6 +2,14 @@
 
 Functional and infrastructure changes.
 
+## 1.4.3 2020-04-01
+
+### Added
+
+### Changed
+
+Reorganize components and props
+
 ## 1.4.2 2020-03-31
 
 ### Added
