@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import React from 'react';
-import { Link, props, safePrefix } from '../utils';
+import { Link, props, safePrefix } from '../../utils';
 
 export default class Header extends React.Component {
   render() {

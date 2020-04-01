@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import React from 'react';
-import { htmlToReact, Link, props, safePrefix } from '../utils';
+import { htmlToReact, Link, props, safePrefix } from '../../utils';
 import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 

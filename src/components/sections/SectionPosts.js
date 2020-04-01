@@ -1,15 +1,16 @@
 import _ from 'lodash';
 import React from 'react';
-import { dateTime, getPages, htmlToReact, Link, safePrefix } from '../utils';
+import { dateTime, getPages, htmlToReact, Link, safePrefix } from '../../utils';
 
-export default class SectionCourses extends React.Component {
+export default class SectionPosts extends React.Component {
   render() {
     let display_posts = _.orderBy(
-      getPages(this.props.pageContext.pages, '/cursos'),
+      getPages(this.props.pageContext.pages, '/blog/'),
       'frontmatter.date',
-      'asc'
+      'desc'
     );
-    let recent_posts = display_posts.slice(0, 3);
+    let only_posts = display_posts.filter(file => _.get(file, 'template') === 'post');
+    let recent_posts = only_posts.slice(0, 3);
     return (
       <section
         id={_.get(this.props, 'section.section_id')}
@@ -28,9 +29,7 @@ export default class SectionCourses extends React.Component {
               <article key={post_idx} className="post post-card">
                 <div className="post-card-inside">
                   {_.get(post, 'frontmatter.thumb_img_path') && (
-                    <Link
-                      className="post-card-thumbnail"
-                      to={safePrefix(_.get(post, 'url')).toLowerCase()}>
+                    <Link className="post-card-thumbnail" to={safePrefix(_.get(post, 'url'))}>
                       <img
                         className="thumbnail"
                         src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))}
@@ -41,7 +40,7 @@ export default class SectionCourses extends React.Component {
                   <div className="post-card-content">
                     <header className="post-header">
                       <h3 className="post-title">
-                        <Link to={safePrefix(_.get(post, 'url')).toLowerCase()} rel="bookmark">
+                        <Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">
                           {_.get(post, 'frontmatter.title')}
                         </Link>
                       </h3>
@@ -51,11 +50,7 @@ export default class SectionCourses extends React.Component {
                     </div>
                     <footer className="post-meta">
                       <time
-                        className={
-                          dateTime.wasPast(_.get(post, 'frontmatter.date'))
-                            ? 'published'
-                            : 'unpublished'
-                        }
+                        className="published"
                         dateTime={dateTime.getForRobots(_.get(post, 'frontmatter.date'))}>
                         {dateTime.getForHumans(_.get(post, 'frontmatter.date'))}
                       </time>

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Facebook, Linkedin, Twitter } from 'react-social-sharing';
-import { props } from '../utils';
+import { props } from '../../utils';
 
 export default class SocialSharing extends React.Component {
   message = props.getPageTitle(this.props);

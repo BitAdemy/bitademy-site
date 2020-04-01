@@ -1,5 +1,5 @@
 import React from 'react';
-import { htmlToReact, props } from '../utils';
+import { htmlToReact, props } from '../../utils';
 export default class TutorialHeader extends React.Component {
   render() {
     return (

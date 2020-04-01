@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import { props, safePrefix } from '../utils';
+import { props, safePrefix } from '../../utils';
 import Footer from './Footer';
 import Header from './Header';
 

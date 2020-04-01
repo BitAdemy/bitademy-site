@@ -1,5 +1,5 @@
 import React from 'react';
-import { dateTime, Link, props } from '../utils';
+import { dateTime, Link, props } from '../../utils';
 
 export default class TimeAuthor extends React.Component {
   date = props.getPageDate(this.props);

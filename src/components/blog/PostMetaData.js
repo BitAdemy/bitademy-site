@@ -1,6 +1,6 @@
 import React from 'react';
-import { SocialSharing, TimeAuthor } from '../components/index';
-import { Link, props } from '../utils';
+import { Link, props } from '../../utils';
+import { SocialSharing, TimeAuthor } from '../index';
 
 export default class PostMetaData extends React.Component {
   render() {
