@@ -97,7 +97,7 @@ sections:
     type: section_pricing
     bg: gray
     title: Planes de precios.
-    subtitle: 🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón EN_CASA_40
+    subtitle: 🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón EN_CASA_40 sobre el precio oficial.
     pricingplans:
       - title: Comunidad
         price: 0 €
@@ -120,7 +120,7 @@ sections:
           * Videos ejercicios resueltos
           * Cuestionario de autoevaluación
           * Cheatsheets descargables
-          * **Puedes pagar a plazos**
+          * **[En 3 plazos](https://sso.teachable.com/secure/459009/checkout/1791638/codigo-limpio?coupon_code=EN_CASA_40)**
         highlight: true
         actions:
           - label: Inscríbete
@@ -142,8 +142,11 @@ sections:
     title: Formación desde casa 🏡
     subtitle: 😷 40% de descuento durante la cuarentena.
     actions:
-      - label: EN_CASA_40
+      - label: Pago único 59€
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
+
+      - label: En tres plazos de 20€
+        url: https://sso.teachable.com/secure/459009/checkout/1791638/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: faq
     type: section_faq
     bg: gray
@@ -174,8 +177,11 @@ sections:
     title: Beneficio para el alumno. ¡Conviértete en artesano y aumenta tu valor!
     subtitle: Aprende a escribir y rehacer aplicaciones limpias.
     actions:
-      - label: Empezar ya
+      - label: Pago único
         url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
+
+      - label: En tres plazos
+        url: https://sso.teachable.com/secure/459009/checkout/1791638/codigo-limpio?coupon_code=EN_CASA_40
   - section_id: features
     type: section_features
     bg: gray
