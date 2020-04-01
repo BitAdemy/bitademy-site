@@ -7,7 +7,7 @@ excerpt: >-
 post_url: tutorial/clean-code
 img_path: images/undraw_clean_up.png
 thumb_img_path: images/undraw_clean_up.png
-date: '2020-03-26'
+date: '2020-04-01'
 preview: Preview video gratis
 preview_url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
 next: Perdona pero... tu código huele

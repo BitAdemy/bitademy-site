@@ -2,9 +2,13 @@
 
 Functional and infrastructure changes.
 
-## 1.4.4 2020-04-01
+## 1.5.1 2020-04-01
 
 ### Added
+
+tutorial intro clean code
+
+## 1.4.4 2020-04-01
 
 ### Changed
 
@@ -13,8 +17,6 @@ Marketing copy
 Price changes
 
 ## 1.4.3 2020-04-01
-
-### Added
 
 ### Changed
 
@@ -32,8 +34,6 @@ Refactored ternary operators
 
 ## 1.4.1 2020-03-31
 
-### Added
-
 ### Changed
 
 Smaller images on posts
@@ -50,23 +50,17 @@ post card footer
 
 ## 1.3.5 2020-03-31
 
-### Added
-
 ### Changed
 
 Function utilities
 
 ## 1.3.4 2020-03-31
 
-### Added
-
 ### Changed
 
 Mejoras en textos de marketing
 
 ## 1.3.3 2020-03-30
-
-### Added
 
 ### Changed
 
@@ -75,15 +69,11 @@ Course features changed
 
 ## 1.3.2 2020-03-30
 
-### Added
-
 ### Changed
 
 Refactored components
 
 ## 1.3.1 2020-03-30
-
-### Added
 
 ### Changed
 
@@ -100,8 +90,6 @@ SEO
 manifest
 
 ## 1.2.3 2020-03-30
-
-### Added
 
 ### Changed
 
@@ -121,8 +109,6 @@ resize logo
 resize favicon
 
 ## 1.2.1 2020-03-28
-
-### Added
 
 ### Changed
 
