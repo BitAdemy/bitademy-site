@@ -2,6 +2,12 @@
 
 Functional and infrastructure changes.
 
+## 1.5.2 2020-04-01
+
+### Added
+
+tutorial código huele
+
 ## 1.5.1 2020-04-01
 
 ### Added
