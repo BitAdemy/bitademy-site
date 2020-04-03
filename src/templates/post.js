@@ -15,7 +15,7 @@ export default class Post extends React.Component {
                   <main className="post-content left-medium">
                     {htmlToReact(props.getPageHtml(this.props))}
                   </main>
-                  <aside className="inner-auto aside-box">
+                  <aside className="inner-auto aside-box margin-left">
                     <PostMetaData {...this.props}></PostMetaData>
                   </aside>
                 </div>

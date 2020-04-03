@@ -15,19 +15,19 @@
 .inner-large {
   margin-left: auto;
   margin-right: auto;
-  max-width: 945px;
+  max-width: 950px;
 }
 
 .inner-medium {
   margin-left: auto;
   margin-right: auto;
-  max-width: 750px;
+  max-width: 760px;
 }
 
 .inner-small {
   margin-left: auto;
   margin-right: auto;
-  max-width: 555px;
+  max-width: 570px;
 }
 
 .inner-micro {
@@ -42,10 +42,16 @@
   max-width: 100%;
 }
 
+.left-large {
+  margin-left: 0px;
+  margin-right: auto;
+  max-width: 950px;
+}
+
 .left-medium {
   margin-left: 0px;
   margin-right: auto;
-  max-width: 750px;
+  max-width: 760px;
 }
 
 .aside-box {

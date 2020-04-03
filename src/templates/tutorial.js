@@ -15,7 +15,7 @@ export default class Tutorial extends React.Component {
                   <main className="post-content left-medium">
                     {htmlToReact(props.getPageHtml(this.props))}
                   </main>
-                  <aside className="inner-auto aside-box">
+                  <aside className="inner-auto aside-box margin-left">
                     <TutorialMetaData {...this.props}></TutorialMetaData>
                   </aside>
                 </div>
