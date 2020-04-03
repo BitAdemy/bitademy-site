@@ -2,7 +2,17 @@
 
 Functional and infrastructure changes.
 
-## 1.5.2 2020-04-01
+## 1.5.3 2020-04-03
+
+### Added
+
+tutorial software ok
+
+### changed
+
+styling blog width
+
+## 1.5.2 2020-04-02
 
 ### Added
 
