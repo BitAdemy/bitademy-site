@@ -17,7 +17,7 @@ export default class TimeAuthor extends React.Component {
         </div>
         <div>
           <span className="margin-right" role="img" aria-label="escritor">
-            ✍
+            ✍🏼
           </span>
           <Link to={this.author.url}>{this.author.name}</Link>
         </div>
