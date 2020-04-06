@@ -42,4 +42,4 @@ export const props = {
   isCurrentMenuItem: (props, item) => _.get(props, context + 'url') === _.get(item, 'url')
 };
 
-const getUrl = url => safePrefix(url).toLowerCase();
+const getUrl = url => safePrefix(url);

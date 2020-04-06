@@ -12,6 +12,8 @@ tutorial estilo y nombrado
 
 tutorial navigation links
 
+remove toLower from links
+
 ## 1.5.3 2020-04-03
 
 ### Added
