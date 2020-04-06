@@ -2,6 +2,16 @@
 
 Functional and infrastructure changes.
 
+## 1.5.4 2020-04-06
+
+### Added
+
+tutorial estilo y nombrado
+
+### changed
+
+tutorial navigation links
+
 ## 1.5.3 2020-04-03
 
 ### Added
