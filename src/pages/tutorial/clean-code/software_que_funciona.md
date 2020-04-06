@@ -14,8 +14,8 @@ laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/
 preview: Preview video gratis
 preview_url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651501
-next: Tabla de contendido detallado
-next_url: tutorial/clean-code/contenido
+next: Estilo y nombrado
+next_url: tutorial/clean-code/estilo_y_nombrado
 previous: Perdona pero... tu código huele
 previous_url: tutorial/clean-code/perdona_pero_tu_codigo_huele
 sections:
