@@ -2,6 +2,12 @@
 
 Functional and infrastructure changes.
 
+## 1.5.5 2020-04-07
+
+### Added
+
+tutorial belleza
+
 ## 1.5.4 2020-04-06
 
 ### Added
