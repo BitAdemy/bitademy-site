@@ -16,6 +16,8 @@ laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/NAME
 previous: Software que funciona
 previous_url: tutorial/clean-code/software_que_funciona
+next: Estilo y orden
+next_url: tutorial/clean-code/estilo_y_orden
 sections:
   - section_id: call-to-action
     type: section_cta
