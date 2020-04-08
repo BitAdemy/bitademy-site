@@ -2,6 +2,12 @@
 
 Functional and infrastructure changes.
 
+## 1.5.6 2020-04-08
+
+### Added
+
+tutorial límites
+
 ## 1.5.5 2020-04-07
 
 ### Added
