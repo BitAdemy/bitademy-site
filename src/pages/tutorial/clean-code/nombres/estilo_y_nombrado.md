@@ -4,7 +4,7 @@ subtitle: >-
   Claridad con el menor esfuerzo.
 excerpt: >-
   Estilo y nombrado. Claridad con el menor esfuerzo.
-post_url: tutorial/clean-code/estilo_y_nombrado
+post_url: tutorial/clean-code/nombres/estilo_y_nombrado
 img_path: images/undraw_clean_up.png
 thumb_img_path: images/undraw_clean_up.png
 date: '2020-04-06'
@@ -17,7 +17,7 @@ laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/NAME
 previous: Software que funciona
 previous_url: tutorial/clean-code/software_que_funciona
 next: Estilo y orden
-next_url: tutorial/clean-code/estilo_y_orden
+next_url: tutorial/clean-code/nombres/estilo_y_orden
 sections:
   - section_id: call-to-action
     type: section_cta

@@ -4,7 +4,7 @@ subtitle: >-
   Código agradable, bonito, elegante.
 excerpt: >-
   Estilo y orden. Código agradable, bonito, elegante.
-post_url: tutorial/clean-code/estilo_y_orden
+post_url: tutorial/clean-code/nombres/estilo_y_orden
 img_path: images/undraw_clean_up.png
 thumb_img_path: images/undraw_clean_up.png
 date: '2020-04-07'
@@ -13,7 +13,9 @@ up_url: tutorial/clean-code
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/blob/NAME/docs/style-config.md
 previous: Estilo y nombrado
-previous_url: tutorial/clean-code/estilo_y_nombrado
+previous_url: tutorial/clean-code/nombres/estilo_y_nombrado
+next: Tamaños y límites
+next_url: tutorial/clean-code/nombres/tamanos_y_limites
 sections:
   - section_id: call-to-action
     type: section_cta
