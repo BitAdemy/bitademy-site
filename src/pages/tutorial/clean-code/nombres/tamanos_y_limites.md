@@ -53,7 +53,7 @@ Hay quien dice que las normas están para romperlas. Tampoco os animo aquí a la
 
 De lo anterior me daría por satisfecho si aceptáis que hay métricas de vuestro código que convendría encauzar dentro de unos límites. Las opciones concretas las tenéis que aportar dentro del equipo.
 
-Te propongo unas horquillas con respecto a los límites aplicables al tema anterior sobre [estilo y orden en el código](estilo_y_orden)
+Te propongo unas horquillas con respecto a los límites aplicables al tema anterior sobre **estilo y orden en el código**
 
 - 👉🏼 80 ↔ 120 👈🏼 _caracteres por línea_
 - 👉🏼 1 ↔ 2 👈🏼 _líneas en blanco seguidas_
