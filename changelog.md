@@ -2,6 +2,12 @@
 
 Functional and infrastructure changes.
 
+## 1.5.7 2020-04-13
+
+### Added
+
+tutorial nouns
+
 ## 1.5.6 2020-04-08
 
 ### Added

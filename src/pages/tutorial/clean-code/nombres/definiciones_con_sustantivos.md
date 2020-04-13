@@ -7,7 +7,7 @@ excerpt: >-
 post_url: tutorial/clean-code/nombres/definiciones_con_sustantivos
 img_path: images/undraw_clean_up.png
 thumb_img_path: images/undraw_clean_up.png
-date: '2020-04-07'
+date: '2020-04-13'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
 laboratory: Laboratorio
