@@ -14,6 +14,8 @@ laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/NAME/src/examples/1-nouns
 previous: Tamaños y límites
 previous_url: tutorial/clean-code/nombres/tamanos_y_limites
+next: Acciones con verbos
+next_url: tutorial/clean-code/nombres/acciones_con_verbos
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -55,7 +57,7 @@ Pues bien, el uso correcto de **ese vocabulario es la base de la creación de un
 
 Los programas de ordenador manipulan información almacenándola en recursos de hardware. Desde la memoria volátil de trabajo a un disco físico y remoto. Cada vez que almacenamos o recuperamos esa información tenemos que referirnos a su localización, su dirección en términos coloquiales. Pero las direcciones de memoria, de sectores o de servidores no son aptas para el consumo humano. Son la antítesis de la claridad. Así que para facilitar la labor **usamos alias inventados para nuestro favor**. _Háganse las variables._
 
-> Tu primera y principal responsabilidad es nombrar extraordinariamente bien las variables, constantes, clases, y propiedades de tus desarrollos. Sin excusas.
+> Una responsabilidad fundamental al programar es nombrar extraordinariamente bien las variables, constantes, clases, y propiedades de tus desarrollos. Sin excusas.
 
 ¿Y qué significa hacerlo bien? Pues consiste en dar **un nombre que explique claramente lo que se va a almacenar** en cada caso. Para que esto no se quede en una guía de buenas intenciones, tengo al intención de darte unos consejos que te sirvan de guía.
 
