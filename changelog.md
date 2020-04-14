@@ -2,6 +2,16 @@
 
 Functional and infrastructure changes.
 
+## 1.5.8 2020-04-14
+
+### Added
+
+tutorial verbs
+
+### changed
+
+metadata seo tags
+
 ## 1.5.7 2020-04-13
 
 ### Added
