@@ -9,11 +9,8 @@ export default class Body extends React.Component {
     return (
       <React.Fragment>
         <Helmet>
-          <title>
-            {props.getPageTitle(this.props) && props.getPageTitle(this.props) + ' - '}
-            {props.getSiteTitle(this.props)}
-          </title>
-          <meta name="description" content={props.getPageExcerpt(this.props)}></meta>
+          <title>{props.getSiteTitle(this.props)}</title>
+          <meta name="description" content={props.getPageDescription(this.props)}></meta>
           <link rel="icon" href="/images/favicon_io/favicon.ico" />
           <meta charSet="utf-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -21,7 +18,7 @@ export default class Body extends React.Component {
           <meta name="robots" content="index, follow" />
           <meta property="og:type" content="article" />
           <meta property="og:title" content={props.getPageTitle(this.props)} />
-          <meta property="og:description" content={props.getPageExcerpt(this.props)} />
+          <meta property="og:description" content={props.getPageDescription(this.props)} />
           <meta
             property="og:image"
             content={props.getSiteUrl(this.props) + '/' + props.getPageImgPath(this.props)}
@@ -32,7 +29,7 @@ export default class Body extends React.Component {
           />
           <meta property="og:site_name" content={props.getSiteTitle(this.props)} />
           <meta name="twitter:title" content={props.getPageTitle(this.props)} />
-          <meta name="twitter:description" content={props.getPageExcerpt(this.props)} />
+          <meta name="twitter:description" content={props.getPageDescription(this.props)} />
           <meta
             name="twitter:image"
             content={props.getSiteUrl(this.props) + '/' + props.getPageImgPath(this.props)}

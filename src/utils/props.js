@@ -5,7 +5,15 @@ const siteMetadata = context + 'site.siteMetadata.';
 const frontmatter = context + 'frontmatter.';
 
 export const props = {
-  getSiteTitle: props => _.get(props, siteMetadata + 'title'),
+  getSiteTitle: props => {
+    const pageTitle = _.get(props, frontmatter + 'title');
+    if (pageTitle) {
+      return pageTitle;
+    } else {
+      const siteTitle = _.get(props, siteMetadata + 'title');
+      return siteTitle;
+    }
+  },
   getSiteUrl: props => _.get(props, siteMetadata + 'siteUrl'),
   getSiteProductionUrl: props => _.get(props, siteMetadata + 'header.production_url'),
   getSiteHeaderLogoImg: props => _.get(props, siteMetadata + 'header.logo_img'),
@@ -15,6 +23,13 @@ export const props = {
   getSiteFooterLogoImg: props => _.get(props, siteMetadata + 'footer.logo_img'),
   getPageTitle: props => _.get(props, frontmatter + 'title'),
   getPageSubTitle: props => _.get(props, frontmatter + 'subtitle'),
+  getPageDescription: props => {
+    const excerpt = _.get(props, frontmatter + 'excerpt');
+    const siteTitle = _.get(props, siteMetadata + 'title');
+    const description = `${excerpt} - ${siteTitle}`;
+    if (description.length > 159) return description.substring(0, 159);
+    else return description;
+  },
   getPageExcerpt: props => _.get(props, frontmatter + 'excerpt'),
   getPageImgPath: props => _.get(props, frontmatter + 'img_path'),
   getPageImgSize: props => _.get(props, frontmatter + 'img_size'),

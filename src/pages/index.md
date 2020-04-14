@@ -28,7 +28,7 @@ sections:
           Los lenguajes, los frameworks y las herramientas son perecederos. **Para obtener calidad a largo plazo hay que centrarse en lo que no cambia.**
 
 
-          Ni cursos enlatados, ni guiones oficiales ni burocracia. Todo al grano.
+          Ni cursos enlatados, ni fechas fijas, ni guiones oficiales ni burocracia. Todo al grano.
 
           > _"Las técnicas, las buenas prácticas y los fundamentos son útiles para siempre."_
       - title: En el menor tiempo posible

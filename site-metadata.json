@@ -1,8 +1,8 @@
 {
   "siteUrl": "https://www.bitademy.com",
   "author": {
-    "name":"Alberto Basalo",
-    "url":"https://twitter.com/albertobasalo"
+    "name": "Alberto Basalo",
+    "url": "https://twitter.com/albertobasalo"
   },
   "palette": "green",
   "header": {
@@ -53,5 +53,5 @@
       }
     ]
   },
-  "title": "Aumenta tu valor"
+  "title": "Aprender a programar mejor"
 }

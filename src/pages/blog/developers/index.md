@@ -1,9 +1,9 @@
 ---
 title: El Blog para Developers
 subtitle: >-
-  Artículos e historias de programadores.
+  Artículos y recomendaciones para programadores.
 excerpt: >-
-  Artículos e historias de programadores.
+  Artículos de opinión y recomendaciones para programadores.
 post_url: blog/developers
 img_path: images/undraw_blog.svg
 template: blog
