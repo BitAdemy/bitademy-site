@@ -1,6 +1,13 @@
 # Changelog
 
-Functional and infrastructure changes.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## 1.6.0 (2020-04-15)
+
+
+### Features
+
+* ✍🏼 tutorial funciones ([b528141](https://github.com/BitAdemy/bitademy-site/commit/b5281417cad9d04b11cbbe6b0c13c8aa7dc8aa95))
 
 ## 1.5.8 2020-04-14
 
