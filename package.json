@@ -1,13 +1,14 @@
 {
   "name": "bitademy",
   "description": "Bitademy site",
-  "version": "1.5.8",
+  "version": "1.6.0",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop p 8003 -o",
     "start": "npm run develop",
     "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
+    "release": "standard-version",
     "b-s": "gatsby build && gatsby serve"
   },
   "dependencies": {
@@ -46,6 +47,7 @@
   },
   "devDependencies": {
     "eslint": "^6.8.0",
-    "prettier": "^2.0.2"
+    "prettier": "^2.0.2",
+    "standard-version": "^7.1.0"
   }
 }
