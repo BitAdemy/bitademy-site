@@ -14,6 +14,8 @@ laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/NAME/src/examples/2-verbs
 previous: Definiciones con sustantivos
 previous_url: tutorial/clean-code/nombres/definiciones_con_sustantivos
+next: Funciones
+next_url: tutorial/clean-code/funciones
 sections:
   - section_id: call-to-action
     type: section_cta
