@@ -16,6 +16,8 @@ laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION
 previous: Acciones con verbos
 previous_url: tutorial/clean-code/nombres/acciones_con_verbos
+next: Declaración, asignación e invocación
+next_url: tutorial/clean-code/funciones/declaracion_asignacion_e_invocacion
 sections:
   - section_id: call-to-action
     type: section_cta
