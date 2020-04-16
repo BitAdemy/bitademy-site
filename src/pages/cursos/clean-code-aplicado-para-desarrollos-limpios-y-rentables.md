@@ -171,6 +171,9 @@ sections:
       - question: ¿Cuánto tiempo llevará completarlo?
         answer: >-
           Este es un curso intensivo. Según el nivel y el tiempo de práctica llevará entre 16 y 20 horas. Lo recomendable es dedicarle al menos 4 horas por semana y terminarlo en menos de un mes. Pero, recuerda, que lo tendrás aquí para siempre.
+       - question: ¿Cuándo empiezo?
+        answer: >-
+          Ya. Cuando quieras.Cuando puedas. No dependemos de fechas inicio fin. no tienes que esperar por tus compañeros ni adaptarte a horarios.
   - section_id: call-to-action
     type: section_cta
     title: Beneficio para el alumno. ¡Conviértete en artesano y aumenta tu valor!
