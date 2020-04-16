@@ -8,7 +8,7 @@
     "start": "npm run develop",
     "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
-    "release": "standard-version",
+    "release": "standard-version && git push --follow-tags origin master",
     "b-s": "gatsby build && gatsby serve"
   },
   "dependencies": {
