@@ -12,7 +12,7 @@ up: Tutorial Clean Code
 up_url: tutorial/clean-code
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION/src/examples/1-instructions
-previous: Declaración, asignación e invocación
+previous: Funciones
 previous_url: tutorial/clean-code/funciones
 sections:
   - section_id: call-to-action
