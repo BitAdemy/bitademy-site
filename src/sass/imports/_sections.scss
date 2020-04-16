@@ -335,6 +335,13 @@
   font-weight: bold;
   margin-bottom: 1.66667rem;
 }
+.plan-full-price {
+  color: _palette(secondary);
+  font-size:  1.33333rem;
+  font-weight: normal;
+  margin-bottom: 1.66667rem;
+  text-decoration: line-through;
+}
 
 .plan-details {
   ul {

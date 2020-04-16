@@ -27,7 +27,12 @@ export default class SectionPricing extends React.Component {
                   <div className="plan-inside">
                     <h3 className="plan-name">{_.get(plan, 'title')}</h3>
                     {_.get(plan, 'price') && (
-                      <div className="plan-price">{_.get(plan, 'price')}</div>
+                      <span className="plan-price">{_.get(plan, 'price')}</span>
+                    )}
+                    {_.get(plan, 'full_price') && (
+                      <span className="plan-full-price margin-left">
+                        {_.get(plan, 'full_price')}
+                      </span>
                     )}
                     <div className="plan-details">{markdownify(_.get(plan, 'details'))}</div>
                     {_.get(plan, 'actions') && (

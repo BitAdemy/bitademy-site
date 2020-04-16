@@ -69,7 +69,7 @@ sections:
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
-          📹: 3 horas de videos.
+          📹: 4 horas de videos.
 
 
           📖: 22 documentos guía en pdf.
@@ -78,10 +78,10 @@ sections:
           ⌨: 16 demostraciones en código.
 
 
-          📋: 4 ejercicios prácticos resueltos.
-
-
           ✒ : 5 ilustraciones poster de referencia.
+
+
+          📋: 4 ejercicios prácticos propuestos y resueltos.
 
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
@@ -103,7 +103,7 @@ sections:
         price: 0 €
         details: |-
           * _Porque el conocimiento es libre..._
-          * [Tutorial](/tutorial/clean-code)
+          * [Blog Tutorial](/tutorial/clean-code)
           * [Repositorio de ejemplos](https://github.com/labsAdemy/CleanCodeLab/)
           * [Redes sociales](https://twitter.com/bit_ademy)
           * [Newsletter mensual](http://eepurl.com/gLTXxT)
@@ -111,29 +111,28 @@ sections:
           - label: Empieza ya
             url: /tutorial/clean-code
       - title: Profesional
-        price: 99 €
+        price: 59 €
+        full_price: 99 €
         details: |-
           * _Porque valoras tu tiempo..._
-          * Videos explicativos
-          * Videos demostraciones
-          * Videos ejercicios propuestos
-          * Videos ejercicios resueltos
+          * Videos con explicaciones y demostraciones
+          * Videos con ejercicios propuestos y resueltos
           * Cuestionario de autoevaluación
           * Cheatsheets descargables
-          * **[En 3 plazos](https://sso.teachable.com/secure/459009/checkout/1791638/codigo-limpio?coupon_code=EN_CASA_40)**
+          * **[También en 3 plazos de 20€](https://sso.teachable.com/secure/459009/checkout/1791638/codigo-limpio?coupon_code=EN_CASA_40)**
         highlight: true
         actions:
           - label: Inscríbete
             url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
-      - title: Empresa
-        price: 149 €
+      - title: Tutor
+        price: 89 €
+        full_price: 149 €
         details: |-
           * _Porque quieres algo más..._
-          * EBook descargable
-          * Foro de atención diario
-          * Revisión de práctica final
+          * Foro para dudas con atención diaria del tutor
+          * Revisión de la práctica final
           * Diploma de aprovechamiento
-          * **Descuentos para grupos**
+          * EBook descargable
         actions:
           - label: Próximamente...
             url: /
@@ -155,7 +154,7 @@ sections:
     faqitems:
       - question: ¿Qué formas de pago se admiten?
         answer: >-
-          Tarjeta de crédito y PayPal. Se puede realizar en un pago único o en 4 plazos para los cursos profesionales.
+          Tarjeta de crédito y PayPal. Se puede realizar en un pago único o en 3 plazos mensuales.
       - question: ¿La factura lleva IVA ?
         answer: >-
           Sí. En Europa los precios serán más IVA. Se emite factura para cada curso.
@@ -167,8 +166,8 @@ sections:
           Sí. Se pueden comprar cupones para obtener ventajas de escalado. Disponibles próximamente.
       - question: ¿Cuánto tiempo puedo usar el curso?
         answer: >-
-          Fácil, es para siempre. Cada curso se compra una sola vez y se puede visionar indefinidamente.
-          Sin ataduras temporales. Con mejoras o actualizaciones incluidas.
+          Fácil, todo el tiempo. Cada curso se compra una sola vez y se puede visionar indefinidamente.
+          Sin ataduras temporales. Con mejoras y actualizaciones incluidas para siempre.
       - question: ¿Cuánto tiempo llevará completarlo?
         answer: >-
           Este es un curso intensivo. Según el nivel y el tiempo de práctica llevará entre 16 y 20 horas. Lo recomendable es dedicarle al menos 4 horas por semana y terminarlo en menos de un mes. Pero, recuerda, que lo tendrás aquí para siempre.

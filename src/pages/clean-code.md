@@ -15,10 +15,7 @@ sections:
     image: images/undraw_clean_up.svg
     title: Clean Code aplicado para desarrollos limpios y rentables
     content: >-
-      El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida el desarrollo para crear código limpio**.
-
-
-      Este curso transforma al programador en artesano del software.
+      Aprende a crear y rehacer aplicaciones limpias. Convierte en artesano del software y escribe código de mayor calidad.
 
     actions:
       - label: Ver el Tutorial gratuito
