@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.13.4](https://github.com/BitAdemy/bitademy-site/compare/v1.13.3...v1.13.4) (2020-04-16)
+
+
+### Bug Fixes
+
+* 🐛 yaml marging ([4f99663](https://github.com/BitAdemy/bitademy-site/commit/4f996637298d6de08116b6062bafbc62762bd853))
+
 ### [1.13.3](https://github.com/BitAdemy/bitademy-site/compare/v1.13.2...v1.13.3) (2020-04-16)
 
 ### [1.13.2](https://github.com/BitAdemy/bitademy-site/compare/v1.13.1...v1.13.2) (2020-04-16)
