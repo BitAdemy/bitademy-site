@@ -4,7 +4,7 @@ subtitle: >-
   Aprende en este curso a escribir aplicaciones limpias y aumenta tu valor.
 excerpt: >-
   Curso online para aprender las técnicas Clean Code y adoptar la filosofía Software Craftmanship.
-post_url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+post_url: /cursos/latam/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 img_path: images/undraw_clean_up.svg
 thumb_img_path: images/undraw_clean_up.svg
 date: '2020-03-20'
@@ -23,18 +23,18 @@ sections:
       Aprender a programar mejor y mejora tus desarrollos.
 
     actions:
-      - label: Un sólo pago de 59€
-        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-      - label: En tres plazos de 20€
-        url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
+      - label: Un sólo pago de 53$
+        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+      - label: En tres plazos de 18$
+        url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
 
   - section_id: call-to-action
     type: section_cta
     title: Calidad en un mundo distribuido, globalizado y competitivo.
     subtitle: Todo empieza por aprender las técnicas y asumir la responsabilidad para escribir código limpio.
     actions:
-      - label: ¿Nos visitas desde América latina?
-        url: /cursos/latam/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+      - label: ¿Nos visitas desde Europa?
+        url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
   - section_id: features
     type: section_features
     bg: gray
@@ -101,9 +101,8 @@ sections:
   - section_id: pricing
     type: section_pricing
     bg: gray
-    title: Planes de precios Europa.
-    subtitle: >-
-      🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón EN_CASA_40 sobre el precio oficial.
+    title: Planes de precios Latinoamérica.
+    subtitle: 🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón EN_CASA_40 sobre el precio oficial.
     pricingplans:
       - title: Comunidad
         price: 0 €
@@ -117,22 +116,22 @@ sections:
           - label: Empieza ya
             url: /tutorial/clean-code
       - title: Profesional
-        price: 59 €
-        full_price: 99 €
+        price: 53 $
+        full_price: 89 $
         details: |-
           * _Porque valoras tu tiempo..._
           * Videos con explicaciones y demostraciones
           * Videos con ejercicios propuestos y resueltos
           * Cuestionario de autoevaluación
           * Cheatsheets descargables
-          * **[También en 3 plazos de 20€](https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40)**
+          * **[También en 3 plazos de 18$](https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40)**
         highlight: true
         actions:
           - label: Inscríbete
-            url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
       - title: Tutor
-        price: 89 €
-        full_price: 149 €
+        price: 79 $
+        full_price: 129 $
         details: |-
           * _Porque quieres algo más..._
           * Foro para dudas con atención diaria del tutor
@@ -147,26 +146,26 @@ sections:
     title: Formación desde casa 🏡
     subtitle: 😷 40% de descuento durante la cuarentena.
     actions:
-      - label: Pago único 59€
-        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+      - label: Pago único 53$
+        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
 
-      - label: En tres plazos de 20€
-        url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
+      - label: En tres plazos de 18$
+        url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
   - section_id: faq
     type: section_faq
     bg: gray
     title: Preguntas frecuentes
     subtitle: 'Todo lo relacionado con tu inversión'
     faqitems:
-      - question: ¿Hay tarifas para Latinoamérica?
+      - question: ¿Hay tarifas para Europa?
         answer: >-
-          Sí, puedes consultarla en [este enlace](/cursos/latam/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
-      - question: ¿Se incluye el IVA ?
-        answer: >-
-          Sí. En Europa los precios incluyen el IVA y se emite factura para cada compra.
+          Sí, puedes consultarla en [este enlace](/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
       - question: ¿Qué formas de pago se admiten?
         answer: >-
           Tarjeta de crédito y PayPal. Se puede realizar en un pago único o en 3 plazos mensuales.
+      - question: ¿Se emiten facturas?
+        answer: >-
+          Sí. Se emite factura para cada compra.
       - question: ¿Hay cupones descuento ?
         answer: >-
           Sí. Durante la cuarentena 😷 tenemos activado el cupón EN_CASA_40. Asígnalo durante el proceso de pago para un descuento del 40%. Quédate en casa. 🏡
@@ -177,7 +176,7 @@ sections:
         answer: >-
           Fácil, todo el tiempo. Cada curso se compra una sola vez y se puede visionar indefinidamente.
           Sin ataduras temporales. Con mejoras y actualizaciones incluidas para siempre.
-      - question: ¿Cuánto tiempo me llevará completarlo?
+      - question: ¿Cuánto tiempo llevará completarlo?
         answer: >-
           Este es un curso intensivo. Según el nivel y el tiempo de práctica llevará entre 16 y 20 horas. Lo recomendable es dedicarle al menos 4 horas por semana y terminarlo en menos de un mes. Pero, recuerda, que lo tendrás aquí para siempre.
       - question: ¿Cuándo empiezo?
@@ -188,7 +187,7 @@ sections:
     title: Beneficio para el alumno. ¡Conviértete en artesano y aumenta tu valor!
     subtitle: Aprende a escribir y rehacer aplicaciones limpias.
     actions:
-      - label: Contenido detallado.
+      - label: Ver contenido detallado.
         url: /tutorial/clean-code/contenido
   - section_id: features
     type: section_features
@@ -214,7 +213,7 @@ sections:
 
           📦 Objetos y lógica de negocio
         actions:
-          - label: Ver contenido detallado.
+          - label: Contenido detallado.
             url: /tutorial/clean-code/contenido
 
       - title: ¿Este curso es para mi?
@@ -234,19 +233,19 @@ sections:
 
           > "Sí, este curso es para mi."
         actions:
-          - label: Empiezo ya y pago en tres plazos de 20€.
-            url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
+          - label: Empiezo ya y pago en tres plazos de 18$.
+            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
   - section_id: call-to-action
     type: section_cta
+
     title: Beneficio para la empresa. ¡Mejora la calidad de tus desarrollos!
     subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
     actions:
-      - label: Formar a mi equipo por 59€
-        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+      - label: Formar a mi equipo por 53$
+        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
 # menus:
 #   main:
 #     weight: 2
 #     title: Features
-
 template: landing
 ---
