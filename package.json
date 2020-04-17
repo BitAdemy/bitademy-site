@@ -1,14 +1,14 @@
 {
   "name": "bitademy",
   "description": "Bitademy site",
-  "version": "1.13.4",
+  "version": "1.14.0",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop p 8003 -o",
     "start": "npm run develop",
     "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
-    "release": "standard-version && git push --follow-tags origin master",
+    "deploy": "standard-version && git push --follow-tags origin master",
     "b-s": "gatsby build && gatsby serve"
   },
   "dependencies": {

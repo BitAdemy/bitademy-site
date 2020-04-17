@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.14.0](https://github.com/BitAdemy/bitademy-site/compare/v1.13.4...v1.14.0) (2020-04-17)
+
+
+### Features
+
+* ✍🏼 tutorial estructuras ([1cfc63c](https://github.com/BitAdemy/bitademy-site/commit/1cfc63cab908d6760b7b582e6e029f325ed2cd9b))
+* 🔊 new prices and eur usd pages ([c89c6a2](https://github.com/BitAdemy/bitademy-site/commit/c89c6a243257630b49d6ea1ee2ced8e4b3af4229))
+
+
+### Bug Fixes
+
+* ✏ spaces ([ec9db68](https://github.com/BitAdemy/bitademy-site/commit/ec9db6888fe7f3f03937a4adc3b5ab49d7c143f0))
+
 ### [1.13.4](https://github.com/BitAdemy/bitademy-site/compare/v1.13.3...v1.13.4) (2020-04-16)
 
 
