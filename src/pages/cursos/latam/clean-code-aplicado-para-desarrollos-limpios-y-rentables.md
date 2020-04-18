@@ -23,7 +23,7 @@ sections:
       Aprender a programar mejor y mejora tus desarrollos.
 
     actions:
-      - label: Quiero prender ya.
+      - label: Quiero aprender ya.
         url: https://aula.bitademy.com/p/precios_codigo-limpio
 
   - section_id: call-to-action
@@ -100,7 +100,7 @@ sections:
     type: section_pricing
     bg: gray
     title: Planes de precios Latinoamérica.
-    subtitle: 🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón EN_CASA_40 sobre el precio oficial.
+    subtitle: 🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón BIT_40 sobre el precio oficial.
     pricingplans:
       - title: Comunidad
         price: 0 €
@@ -166,7 +166,7 @@ sections:
           Sí. Se emite factura para cada compra.
       - question: ¿Hay cupones descuento ?
         answer: >-
-          Sí. Durante la cuarentena 😷 tenemos activado el cupón EN_CASA_40. Asígnalo durante el proceso de pago para un descuento del 40%. Quédate en casa. 🏡
+          Sí. Durante la cuarentena 😷 tenemos activado el cupón BIT_40. Asígnalo durante el proceso de pago para un descuento del 40%. Quédate en casa. 🏡
       - question: ¿Hay descuentos para grupos ?
         answer: >-
           Sí. Se pueden comprar cupones para obtener ventajas de escalado. Disponibles próximamente.
