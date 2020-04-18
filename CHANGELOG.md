@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.15.1](https://github.com/BitAdemy/bitademy-site/compare/v1.15.0...v1.15.1) (2020-04-18)
+
+
+### Bug Fixes
+
+*  typo BIT_40 ([d0e4a12](https://github.com/BitAdemy/bitademy-site/commit/d0e4a12e4a0160f6d6f818de089dba0a6cbc2c3f))
+
 ## [1.15.0](https://github.com/BitAdemy/bitademy-site/compare/v1.14.0...v1.15.0) (2020-04-18)
 
 
