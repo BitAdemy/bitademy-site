@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.15.0](https://github.com/BitAdemy/bitademy-site/compare/v1.14.0...v1.15.0) (2020-04-18)
+
+
+### Features
+
+* 🔊 pricing page ([dfa30ce](https://github.com/BitAdemy/bitademy-site/commit/dfa30ce4180bb562de563b135e0f99db1f1cd1b3))
+
 ## [1.14.0](https://github.com/BitAdemy/bitademy-site/compare/v1.13.4...v1.14.0) (2020-04-17)
 
 
