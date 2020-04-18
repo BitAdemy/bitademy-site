@@ -23,10 +23,8 @@ sections:
       Aprender a programar mejor y mejora tus desarrollos.
 
     actions:
-      - label: Un sólo pago de 53$
-        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-      - label: En tres plazos de 18$
-        url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
+      - label: Quiero prender ya.
+        url: https://aula.bitademy.com/p/precios_codigo-limpio
 
   - section_id: call-to-action
     type: section_cta
@@ -233,16 +231,16 @@ sections:
 
           > "Sí, este curso es para mi."
         actions:
-          - label: Empiezo ya y pago en tres plazos de 18$.
-            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+          - label: Empiezo ya.
+            url: https://aula.bitademy.com/p/precios_codigo-limpio
   - section_id: call-to-action
     type: section_cta
 
     title: Beneficio para la empresa. ¡Mejora la calidad de tus desarrollos!
     subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
     actions:
-      - label: Formar a mi equipo por 53$
-        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+      - label: Formar a mi equipo
+        url: https://aula.bitademy.com/p/precios_codigo-limpio
 # menus:
 #   main:
 #     weight: 2

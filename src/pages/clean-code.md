@@ -21,7 +21,7 @@ sections:
       - label: Ver el Tutorial gratuito
         url: /tutorial/clean-code
       - label: Hacer el curso
-        url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
+        url: https://aula.bitademy.com/p/precios_codigo-limpio
 # menus:
 #   main:
 #     weight: 2
