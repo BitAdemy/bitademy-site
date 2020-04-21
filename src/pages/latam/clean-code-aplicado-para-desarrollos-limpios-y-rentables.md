@@ -17,7 +17,6 @@ sections:
     content: >-
       El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida el desarrollo para crear código limpio**.
 
-
       Este curso transforma al programador en artesano del software.
 
       Aprender a programar mejor y mejora tus desarrollos.
@@ -127,18 +126,17 @@ sections:
         actions:
           - label: Inscríbete
             url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-      - title: Tutor
-        price: 79 $
-        full_price: 129 $
+      - title: Online directo
+        price: Desde 145 $
         details: |-
           * _Porque quieres algo más..._
-          * Foro para dudas con atención diaria del tutor
+          * Foro para dudas con el tutor
           * Revisión de la práctica final
           * Diploma de aprovechamiento
-          * EBook descargable
+          * Próxima convocatoria 15 de mayo
         actions:
-          - label: Próximamente...
-            url: /
+          - label: Infórmate
+            url: https://agorabinaria.typeform.com/to/ymWVLB
   - section_id: call-to-action
     type: section_cta
     title: Formación desde casa 🏡

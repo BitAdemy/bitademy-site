@@ -128,18 +128,18 @@ sections:
         actions:
           - label: Inscríbete
             url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-      - title: Online directo
-        price: Desde 145 €
+      - title: Tutor
+        price: 89 €
+        full_price: 149 €
         details: |-
           * _Porque quieres algo más..._
-          * Foro para dudas con el tutor
+          * Foro para dudas con atención diaria del tutor
           * Revisión de la práctica final
           * Diploma de aprovechamiento
-          * Bonificable FUNDAE
-          * Próxima convocatoria 15 de mayo
+          * EBook descargable
         actions:
-          - label: Infórmate
-            url: https://agorabinaria.typeform.com/to/ymWVLB
+          - label: Próximamente...
+            url: /
   - section_id: call-to-action
     type: section_cta
     title: Formación desde casa 🏡

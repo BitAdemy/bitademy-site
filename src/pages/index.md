@@ -53,8 +53,8 @@ sections:
     title: Ahora, más que nunca, hay que estar preparados.
     subtitle: Con 40% de descuento durante la cuarentena en el curso "Clean Code aplicado para desarrollos limpios y rentables" la distancia no será un problema.
     actions:
-      - label: 🏡 EN_CASA_40
-        url: https://sso.teachable.com/secure/459009/checkout/1647360/codigo-limpio?coupon_code=EN_CASA_40
+      - label: 🏡 EN CASA BIT_40
+        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
   - section_id: recent-posts
     type: section_courses
     bg: gray
