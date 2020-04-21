@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.16.0](https://github.com/BitAdemy/bitademy-site/compare/v1.15.1...v1.16.0) (2020-04-21)
+
+
+### Features
+
+* 🔊 latam fundae form ([832abed](https://github.com/BitAdemy/bitademy-site/commit/832abede35b3adbc39ed20caccbd583fcb637ec1))
+
+
+### Bug Fixes
+
+* 🚛 move latam ([3f6968e](https://github.com/BitAdemy/bitademy-site/commit/3f6968e75998099477f7b95b3f7c4998eea1c08f))
+
 ### [1.15.1](https://github.com/BitAdemy/bitademy-site/compare/v1.15.0...v1.15.1) (2020-04-18)
 
 
