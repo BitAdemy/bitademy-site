@@ -32,7 +32,7 @@ sections:
     subtitle: Todo empieza por aprender las técnicas y asumir la responsabilidad para escribir código limpio.
     actions:
       - label: ¿Nos visitas desde América latina?
-        url: /cursos/latam/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+        url: /latam/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
   - section_id: features
     type: section_features
     bg: gray
@@ -158,7 +158,7 @@ sections:
     faqitems:
       - question: ¿Hay tarifas para Latinoamérica?
         answer: >-
-          Sí, puedes consultarla en [este enlace](/cursos/latam/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
+          Sí, puedes consultarla en [este enlace](/latam/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
       - question: ¿Se incluye el IVA ?
         answer: >-
           Sí. En Europa los precios incluyen el IVA y se emite factura para cada compra.
