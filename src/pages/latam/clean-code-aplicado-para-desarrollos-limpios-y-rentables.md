@@ -133,7 +133,7 @@ sections:
           * Foro para dudas con el tutor
           * Revisión de la práctica final
           * Diploma de aprovechamiento
-          * Próxima convocatoria 15 de mayo
+          * **Próxima convocatoria 15 de mayo**
         actions:
           - label: Infórmate
             url: https://agorabinaria.typeform.com/to/ymWVLB
@@ -167,7 +167,7 @@ sections:
           Sí. Durante la cuarentena 😷 tenemos activado el cupón BIT_40. Asígnalo durante el proceso de pago para un descuento del 40%. Quédate en casa. 🏡
       - question: ¿Hay descuentos para grupos ?
         answer: >-
-          Sí. Se pueden comprar cupones para obtener ventajas de escalado. Disponibles próximamente.
+          Sí. Se pueden comprar cupones para obtener ventajas de escalado. [Solicita información](https://agorabinaria.typeform.com/to/ymWVLB)
       - question: ¿Cuánto tiempo puedo usar el curso?
         answer: >-
           Fácil, todo el tiempo. Cada curso se compra una sola vez y se puede visionar indefinidamente.

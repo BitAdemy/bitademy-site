@@ -136,7 +136,7 @@ sections:
           * Revisión de la práctica final
           * Diploma de aprovechamiento
           * Bonificable FUNDAE
-          * Próxima convocatoria 15 de mayo
+          * **Próxima convocatoria 15 de mayo**
         actions:
           - label: Infórmate
             url: https://agorabinaria.typeform.com/to/ymWVLB
@@ -170,7 +170,7 @@ sections:
           Sí. Durante la cuarentena 😷 tenemos activado el cupón BIT_40. Asígnalo durante el proceso de pago para un descuento del 40%. Quédate en casa. 🏡
       - question: ¿Hay descuentos para grupos ?
         answer: >-
-          Sí. Se pueden comprar cupones para obtener ventajas de escalado. Disponibles próximamente.
+          Sí. Se pueden comprar cupones para obtener ventajas de escalado. [Solicita información](https://agorabinaria.typeform.com/to/ymWVLB)
       - question: ¿Cuánto tiempo puedo usar el curso?
         answer: >-
           Fácil, todo el tiempo. Cada curso se compra una sola vez y se puede visionar indefinidamente.
@@ -239,8 +239,8 @@ sections:
     title: Beneficio para la empresa. ¡Mejora la calidad de tus desarrollos!
     subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
     actions:
-      - label: Formar a mi equipo
-        url: https://aula.bitademy.com/p/precios_codigo-limpio
+      - label: Quiero Formar a mi equipo
+        url: https://agorabinaria.typeform.com/to/ymWVLB
 # menus:
 #   main:
 #     weight: 2
