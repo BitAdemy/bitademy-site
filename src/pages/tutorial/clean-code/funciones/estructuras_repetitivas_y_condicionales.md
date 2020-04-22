@@ -14,6 +14,8 @@ laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION/src/examples/2-blocks
 previous: Declaración, asignación e invocación
 previous_url: tutorial/clean-code/funciones/declaracion_asignacion_e_invocacion
+next: Funciones puras y métodos de clase
+next_url: tutorial/clean-code/funciones/funciones_puras_y_metodos_de_clase
 sections:
   - section_id: call-to-action
     type: section_cta
