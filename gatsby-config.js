@@ -59,14 +59,14 @@ module.exports = {
         menus: require('./src/data/menus.json')
       }
     },
-    {
-      resolve: `gatsby-plugin-gtag`,
-      options: {
-        trackingId: `UA-153738218-1`,
-        head: false,
-        anonymize: false
-      }
-    },
+    // {
+    //   resolve: `gatsby-plugin-gtag`,
+    //   options: {
+    //     trackingId: `UA-153738218-1`,
+    //     head: false,
+    //     anonymize: false
+    //   }
+    // },
     // {
     //   resolve: `gatsby-plugin-manifest`,
     //   options: {

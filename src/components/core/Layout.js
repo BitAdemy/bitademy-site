@@ -36,7 +36,6 @@ export default class Body extends React.Component {
           />
           <meta name="twitter:site" content="@bit_ademy" />
           <meta name="twitter:creator" content="@bit_ademy" />
-
           <link
             rel="canonical"
             href={props.getSiteUrl(this.props) + '/' + props.getPageUrl(this.props)}
