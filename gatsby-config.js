@@ -66,7 +66,7 @@ module.exports = {
         head: false,
         anonymize: false
       }
-    }
+    },
     // {
     //   resolve: `gatsby-plugin-manifest`,
     //   options: {
@@ -81,5 +81,6 @@ module.exports = {
     //     icon: `static/images/ba.png`, // This path is relative to the root of the site.
     //   },
     // },
+    `gatsby-plugin-no-javascript`
   ]
 };
