@@ -4,6 +4,14 @@ export default function Scripts(props) {
   return (
     <React.Fragment>
       <script async src={cookieScriptUrl} type="text/javascript"></script>
+      <link rel="dns-prefetch" href="https://app.convertbox.com"></link>
+      <link rel="dns-prefetch" href="https://cdn.convertbox.com"></link>
+      <link rel="dns-prefetch" href="https://fonts.googleapis.com"></link>
+      <link rel="dns-prefetch" href="https://fonts.gstatic.com"></link>
+      <link rel="preconnect" href="https://app.convertbox.com"></link>
+      <link rel="preconnect" href="https://cdn.convertbox.com"></link>
+      <link rel="preconnect" href="https://fonts.googleapis.com"></link>
+      <link rel="preconnect" href="https://fonts.gstatic.com"></link>
       <script
         async
         src={convertBox.src}
