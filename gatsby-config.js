@@ -2,6 +2,7 @@ module.exports = {
   pathPrefix: '/',
   siteMetadata: require('./site-metadata.json'),
   plugins: [
+    `gatsby-plugin-preact`,
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
     'gatsby-plugin-netlify-cache',
