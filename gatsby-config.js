@@ -1,6 +1,6 @@
 module.exports = {
-  pathPrefix: '/',
-  siteMetadata: require('./site-metadata.json'),
+  pathPrefix: `/`,
+  siteMetadata: require(`./site-metadata.json`),
   plugins: [
     `gatsby-plugin-preact`,
     `gatsby-plugin-react-helmet`,
@@ -40,10 +40,10 @@ module.exports = {
         plugins: [
           `gatsby-remark-component`,
           {
-            resolve: 'gatsby-remark-external-links',
+            resolve: `gatsby-remark-external-links`,
             options: {
-              target: '_blank',
-              rel: 'nofollow noopener noreferrer'
+              target: `_blank`,
+              rel: `nofollow noopener noreferrer`
             }
           }
         ]
@@ -58,9 +58,9 @@ module.exports = {
       options: {
         sourceUrlPath: `fields.url`,
         pageContextProperty: `menus`,
-        menus: require('./src/data/menus.json')
+        menus: require(`./src/data/menus.json`)
       }
-    }
+    },
     // {
     //   resolve: `gatsby-plugin-gtag`,
     //   options: {
@@ -69,19 +69,19 @@ module.exports = {
     //     anonymize: false
     //   }
     // },
-    // {
-    //   resolve: `gatsby-plugin-manifest`,
-    //   options: {
-    //     name: `bitAdemy`,
-    //     short_name: `bitAdemy`,
-    //     start_url: `/`,
-    //     background_color: `#0098EE`,
-    //     theme_color: `#49FCD4`,
-    //     // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
-    //     // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
-    //     display: `standalone`,
-    //     icon: `static/images/ba.png`, // This path is relative to the root of the site.
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `bitAdemy`,
+        short_name: `bitAdemy`,
+        start_url: `/`,
+        background_color: `#0098EE`,
+        theme_color: `#49FCD4`,
+        // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
+        // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
+        display: `standalone`,
+        icon: `static/images/ba.png` // This path is relative to the root of the site.
+      }
+    }
   ]
 };
