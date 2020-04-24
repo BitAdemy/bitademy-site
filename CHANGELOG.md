@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.19.0](https://github.com/BitAdemy/bitademy-site/compare/v1.18.0...v1.19.0) (2020-04-24)
+
+
+### Features
+
+* 🔊 social pages ([2b3ff73](https://github.com/BitAdemy/bitademy-site/commit/2b3ff733ba09f3bbb865ba4ef9d9bc975f2f03c6))
+* 🚄 dns-prefetch preconnect ([c2f90dd](https://github.com/BitAdemy/bitademy-site/commit/c2f90ddd8e15cf4be747de6b9ce0c4f47dcc58fd))
+
 ## [1.18.0](https://github.com/BitAdemy/bitademy-site/compare/v1.17.4...v1.18.0) (2020-04-22)
 
 
