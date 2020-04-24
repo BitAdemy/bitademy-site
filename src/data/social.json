@@ -9,6 +9,16 @@
       "type": "linkedin",
       "title": "LinkedIn",
       "url": "https://www.linkedin.com/company/bitademy/"
+    },
+    {
+      "type": "facebook",
+      "title": "Facebook",
+      "url": "https://www.facebook.com/bitAdemy"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "url": "https://www.instagram.com/bitademy/"
     }
   ]
 }
