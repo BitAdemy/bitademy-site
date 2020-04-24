@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.20.0](https://github.com/BitAdemy/bitademy-site/compare/v1.19.1...v1.20.0) (2020-04-24)
+
+
+### Features
+
+* 🤷🏼‍♂️ no convertbox script ([df1aa39](https://github.com/BitAdemy/bitademy-site/commit/df1aa39cc22a624ef55bc01f0f92fc496fae4062))
+* 🚄 no cookie script from code ([da8fe5b](https://github.com/BitAdemy/bitademy-site/commit/da8fe5b3949da767fe7c492aa921b97d5868a3f0))
+
 ### [1.19.1](https://github.com/BitAdemy/bitademy-site/compare/v1.19.0...v1.19.1) (2020-04-24)
 
 ## [1.19.0](https://github.com/BitAdemy/bitademy-site/compare/v1.18.0...v1.19.0) (2020-04-24)
