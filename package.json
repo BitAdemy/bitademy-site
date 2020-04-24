@@ -21,7 +21,6 @@
     "gatsby-plugin-manifest": "^2.3.3",
     "gatsby-plugin-netlify-cache": "^1.2.0",
     "gatsby-plugin-no-javascript": "^2.0.5",
-    "gatsby-plugin-offline": "^3.1.2",
     "gatsby-plugin-preact": "^3.2.3",
     "gatsby-plugin-react-helmet": "^3.2.1",
     "gatsby-plugin-robots-txt": "^1.5.0",
@@ -50,6 +49,7 @@
   },
   "devDependencies": {
     "eslint": "^6.8.0",
+    "gatsby-plugin-remove-serviceworker": "^1.0.0",
     "prettier": "^2.0.2",
     "standard-version": "^7.1.0"
   }

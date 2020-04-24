@@ -5,10 +5,12 @@ module.exports = {
     `gatsby-plugin-preact`,
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
-    'gatsby-plugin-netlify-cache',
-    'gatsby-plugin-sitemap',
+    `gatsby-plugin-netlify-cache`,
+    `gatsby-plugin-sitemap`,
+    `gatsby-plugin-robots-txt`,
     // `gatsby-plugin-offline`,
-    'gatsby-plugin-robots-txt',
+    `gatsby-plugin-remove-serviceworker`,
+    `gatsby-plugin-no-javascript`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -58,7 +60,7 @@ module.exports = {
         pageContextProperty: `menus`,
         menus: require('./src/data/menus.json')
       }
-    },
+    }
     // {
     //   resolve: `gatsby-plugin-gtag`,
     //   options: {
@@ -81,6 +83,5 @@ module.exports = {
     //     icon: `static/images/ba.png`, // This path is relative to the root of the site.
     //   },
     // },
-    `gatsby-plugin-no-javascript`
   ]
 };
