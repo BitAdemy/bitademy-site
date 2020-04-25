@@ -25,14 +25,16 @@ sections:
     actions:
       - label: Quiero aprender ya.
         url: https://aula.bitademy.com/p/precios_codigo-limpio
-
   - section_id: call-to-action
     type: section_cta
-    title: Calidad en un mundo distribuido, globalizado y competitivo.
-    subtitle: Todo empieza por aprender las técnicas y asumir la responsabilidad para escribir código limpio.
+    title: Formación desde casa 🏡
+    subtitle: 😷 40% de descuento durante la cuarentena.
     actions:
-      - label: ¿Nos visitas desde América latina?
-        url: /latam/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+      - label: Pago único 59€
+        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+
+      - label: En tres plazos de 20€
+        url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
   - section_id: features
     type: section_features
     bg: gray
@@ -139,26 +141,20 @@ sections:
           * **Próxima convocatoria 15 de mayo**
         actions:
           - label: Infórmate
-            url: https://agorabinaria.typeform.com/to/ymWVLB
+            url: /info/fundae
   - section_id: call-to-action
     type: section_cta
-    title: Formación desde casa 🏡
-    subtitle: 😷 40% de descuento durante la cuarentena.
+    title: Calidad en un mundo distribuido, globalizado y competitivo.
+    subtitle: Todo empieza por aprender las técnicas y asumir la responsabilidad para escribir código limpio.
     actions:
-      - label: Pago único 59€
-        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-
-      - label: En tres plazos de 20€
-        url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
+      - label: ¿Nos visitas desde América latina?
+        url: /info/latam/
   - section_id: faq
     type: section_faq
     bg: gray
     title: Preguntas frecuentes
     subtitle: 'Todo lo relacionado con tu inversión'
     faqitems:
-      - question: ¿Hay tarifas para Latinoamérica?
-        answer: >-
-          Sí, puedes consultarla en [este enlace](/latam/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
       - question: ¿Se incluye el IVA ?
         answer: >-
           Sí. En Europa los precios incluyen el IVA y se emite factura para cada compra.
@@ -171,6 +167,9 @@ sections:
       - question: ¿Hay descuentos para grupos ?
         answer: >-
           Sí. Se pueden comprar cupones para obtener ventajas de escalado. [Solicita información](https://agorabinaria.typeform.com/to/ymWVLB)
+      - question: ¿Hay tarifas para Latinoamérica?
+        answer: >-
+          Sí, puedes consultarla en [este enlace](/info/latam/)
       - question: ¿Cuánto tiempo puedo usar el curso?
         answer: >-
           Fácil, todo el tiempo. Cada curso se compra una sola vez y se puede visionar indefinidamente.
