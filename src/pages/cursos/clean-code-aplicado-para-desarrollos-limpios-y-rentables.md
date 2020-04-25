@@ -20,7 +20,7 @@ sections:
 
       Este curso transforma al programador en artesano del software.
 
-      Aprender a programar mejor y mejora tus desarrollos.
+      Aprende a programar mejor y mejora tus desarrollos.
 
     actions:
       - label: Quiero aprender ya.
@@ -122,7 +122,7 @@ sections:
           * Videos con explicaciones y demostraciones
           * Videos con ejercicios propuestos y resueltos
           * Cuestionario de autoevaluación
-          * Cheatsheets descargables
+          * Documentación descargable
           * **[También en 3 plazos de 20€](https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40)**
         highlight: true
         actions:

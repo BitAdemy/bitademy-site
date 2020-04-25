@@ -18,10 +18,10 @@ sections:
       Aprende a crear y rehacer aplicaciones limpias. Convierte en artesano del software y escribe código de mayor calidad.
 
     actions:
-      - label: Ver el Tutorial gratuito
-        url: /tutorial/clean-code
-      - label: Hacer el curso
-        url: https://aula.bitademy.com/p/precios_codigo-limpio
+      - label: Modalidades y precios Europa
+        url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+      - label: Modalidades y precios América latina
+        url: /latam/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 # menus:
 #   main:
 #     weight: 2
