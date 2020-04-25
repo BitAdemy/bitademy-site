@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.22.0](https://github.com/BitAdemy/bitademy-site/compare/v1.21.0...v1.22.0) (2020-04-25)
+
+
+### Features
+
+* 🔊 mejoras marketing copys ([f8e75e6](https://github.com/BitAdemy/bitademy-site/commit/f8e75e64cecaeba96f1650f202681ea3e3e1f5b4))
+
 ## [1.21.0](https://github.com/BitAdemy/bitademy-site/compare/v1.20.1...v1.21.0) (2020-04-24)
 
 
