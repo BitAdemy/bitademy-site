@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.23.0](https://github.com/BitAdemy/bitademy-site/compare/v1.22.0...v1.23.0) (2020-04-25)
+
+
+### Features
+
+* 🔊 fundae latam ([dfc650d](https://github.com/BitAdemy/bitademy-site/commit/dfc650d1fe34e0a3bf01902efd8d243dff543de0))
+
 ## [1.22.0](https://github.com/BitAdemy/bitademy-site/compare/v1.21.0...v1.22.0) (2020-04-25)
 
 
