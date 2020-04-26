@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.24.0](https://github.com/BitAdemy/bitademy-site/compare/v1.23.0...v1.24.0) (2020-04-26)
+
+
+### Features
+
+* 🔊 publi fundae ([b0bd70b](https://github.com/BitAdemy/bitademy-site/commit/b0bd70b8b7c9911ba170c1cb46b036b8179786b0))
+
 ## [1.23.0](https://github.com/BitAdemy/bitademy-site/compare/v1.22.0...v1.23.0) (2020-04-25)
 
 
