@@ -1,5 +1,5 @@
 import React from 'react';
-import { Layout } from '../components/index';
+import { Layout, SectionCta } from '../components/index';
 import { htmlToReact, props, safePrefix } from '../utils';
 
 export default class Page extends React.Component {
@@ -27,6 +27,11 @@ export default class Page extends React.Component {
               )}
               <div className="post-content">{htmlToReact(props.getPageHtml(this.props))}</div>
             </article>
+            <SectionCta
+              key="call-to-action"
+              {...this.props}
+              section={props.getPageFirstSection(this.props)}
+              site={this.props.pageContext.site}></SectionCta>
           </div>
         </div>
       </Layout>

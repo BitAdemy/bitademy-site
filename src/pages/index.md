@@ -37,7 +37,7 @@ sections:
           El tiempo es nuestro bien más preciado. **Invierte el tiempo de la manera más rentable.**
 
 
-          Cosas útiles en el menor tiempo. Sin convocatorias ni esperas.
+          Cosas útiles en el menor tiempo. Sin convocatorias ni esperas. Aunque también puedes [bonificarlos por FUNDAE](/info/fundae)
 
           > _"Preparación para aprender rápido lo que se necesita y cuando se necesita."_
       - title: Optimizado para el desarrollo profesional.
@@ -50,11 +50,13 @@ sections:
           > _"Todo el mundo valora mejor a quien resuelve problemas."_
   - section_id: call-to-action
     type: section_cta
-    title: Ahora, más que nunca, hay que estar preparados.
-    subtitle: Con 40% de descuento durante la cuarentena en el curso "Clean Code aplicado para desarrollos limpios y rentables" la distancia no será un problema.
+    title: 😷 Ahora, más que nunca, hay que estar preparados.
+    subtitle: 🏡 Con 40% de descuento durante la cuarentena en el curso "Clean Code aplicado para desarrollos limpios y rentables" la distancia no será un problema.
     actions:
-      - label: 🏡 EN CASA CLEAN_CODE BIT_40
+      - label: EUROPA 59€
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+      - label: AMERICA 53$
+        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
   - section_id: recent-posts
     type: section_courses
     bg: gray
