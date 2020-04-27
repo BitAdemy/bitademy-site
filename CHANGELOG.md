@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.26.0](https://github.com/BitAdemy/bitademy-site/compare/v1.25.1...v1.26.0) (2020-04-27)
+
+
+### Features
+
+* 🗨 no external plugin for social sharing ([df78b0a](https://github.com/BitAdemy/bitademy-site/commit/df78b0a90361479b45a65e6999d9b1299eab04aa))
+
 ### [1.25.1](https://github.com/BitAdemy/bitademy-site/compare/v1.25.0...v1.25.1) (2020-04-27)
 
 ## [1.25.0](https://github.com/BitAdemy/bitademy-site/compare/v1.24.0...v1.25.0) (2020-04-27)
