@@ -21,29 +21,29 @@ sections:
 template: tutorial
 ---
 
-### 🏷️ [Estilo y nombrado.](tutorial/clean-code/nombres/estilo_y_nombrado)
+### 🏷️ [Estilo y nombrado.](../nombres/estilo_y_nombrado)
 
-#### ✨ [Estilo y orden](tutorial/clean-code/nombres/estilo_y_orden)
+#### ✨ [Estilo y orden](../nombres/estilo_y_orden)
 
-#### 📏 [Tamaños y límites](tutorial/clean-code/nombres/tamanos_y_limites)
+#### 📏 [Tamaños y límites](../nombres/tamanos_y_limites)
 
-#### 📫 [Definiciones con sustantivos](tutorial/clean-code/nombres/definiciones_con_sustantivos)
+#### 📫 [Definiciones con sustantivos](../nombres/definiciones_con_sustantivos)
 
-#### 💪 [Acciones con verbos](tutorial/clean-code/nombres/acciones_con_verbos)
-
----
-
-### 🔀 [Instrucciones, bloques y funciones.](tutorial/clean-code/funciones)
-
-#### 👉 [Declaración, asignación e invocación](tutorial/clean-code/funciones/declaracion_asignacion_e_invocacion)
-
-#### ➰ [Estructuras repetitivas y condicionales](tutorial/clean-code/funciones/estructuras_repetitivas_y_condicionales)
-
-#### 🧩 [Funciones puras y métodos de clase](tutorial/clean-code/funciones/funciones_puras_y_metodos_de_clase)
+#### 💪 [Acciones con verbos](../nombres/acciones_con_verbos)
 
 ---
 
-### 🗂️ [Estructuras de datos.](tutorial/clean-code/datos/)
+### 🔀 [Instrucciones, bloques y funciones.](../funciones)
+
+#### 👉 [Declaración, asignación e invocación](../funciones/declaracion_asignacion_e_invocacion)
+
+#### ➰ [Estructuras repetitivas y condicionales](../funciones/estructuras_repetitivas_y_condicionales)
+
+#### 🧩 [Funciones puras y métodos de clase](../funciones/funciones_puras_y_metodos_de_clase)
+
+---
+
+### 🗂️ [Estructuras de datos.](../datos/)
 
 #### 🗃️ Cohesion de primitivos
 
