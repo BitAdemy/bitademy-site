@@ -1,5 +1,5 @@
 ---
-title: 📚 Tabla de contendido detallado
+title: 📚 Tabla de contendido detallado de clean code
 subtitle: >-
   Clean Code aplicado para desarrollos limpios y rentables.
 excerpt: >-
@@ -21,7 +21,7 @@ sections:
 template: tutorial
 ---
 
-## 🏷️ Estilo y nombrado.
+### 🏷️ Estilo y nombrado.
 
 #### ✨ Estilo y orden
 
@@ -33,7 +33,7 @@ template: tutorial
 
 ---
 
-## 🔀 Instrucciones, bloques y funciones.
+### 🔀 Instrucciones, bloques y funciones.
 
 #### 👉 Declaración, asignación e invocación
 
@@ -43,7 +43,7 @@ template: tutorial
 
 ---
 
-## 🗂️ Estructuras de datos.
+### 🗂️ Estructuras de datos.
 
 #### 🗃️ Cohesion de primitivos
 
@@ -51,7 +51,7 @@ template: tutorial
 
 ---
 
-## 📦 Objetos y lógica de negocio.
+### 📦 Objetos y lógica de negocio.
 
 #### 🧱 Cohesión de funciones
 
@@ -59,7 +59,7 @@ template: tutorial
 
 ---
 
-## ✒️ Artesanía del software.
+### ✒️ Artesanía del software.
 
 #### 📝 Hacer las cosas bien
 

@@ -51,6 +51,6 @@ Voy dejarte unas instrucciones en un idioma humano para que las sigas y escribas
 
 Pero las ventajas de escribir código limpio no terminan en el propio código. Adquirir **la disciplina para escribir código limpio te convierte en mejor profesional**. En un artesano o artesana del software.
 
-> "El código limpio parece escrito por alguien a quien le importa."
+> _"El código limpio parece escrito por alguien a quien le importa."_
 >
 > -- ✍️ **Robert C. Martin**
