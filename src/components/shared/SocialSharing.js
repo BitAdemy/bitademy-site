@@ -1,5 +1,4 @@
 import React from 'react';
-import { Facebook, Linkedin, Twitter } from 'react-social-sharing';
 import { props } from '../../utils';
 
 export default class SocialSharing extends React.Component {
@@ -9,14 +8,40 @@ export default class SocialSharing extends React.Component {
 
   render() {
     return (
-      <div className="outer-micro margin-left margin-right">
-        <span className="inner-micro margin-left margin-right">
-          <span className="margin-left margin-right">
-            <Twitter simple link={this.production_url + this.post_url} message={this.message} />
-            <Facebook simple link={this.production_url + this.post_url} />
-            <Linkedin simple link={this.production_url + this.post_url} message={this.message} />
-          </span>
-        </span>
+      <div className="outer-micro">
+        <div>
+          <a
+            href={
+              'https://twitter.com/intent/tweet/?text=' +
+              this.message +
+              '&url=' +
+              this.production_url +
+              this.post_url
+            }
+            target="_blank">
+            🗨 En Twitter
+          </a>
+        </div>
+        <div>
+          <a
+            href={
+              'https://www.facebook.com/sharer/sharer.php?u=' + this.production_url + this.post_url
+            }
+            target="_blank">
+            🗨 En Facebook
+          </a>
+        </div>
+        <div>
+          <a
+            href={
+              'https://www.linkedin.com/sharing/share-offsite/?url=' +
+              this.production_url +
+              this.post_url
+            }
+            target="_blank">
+            🗨 En LinkedIn
+          </a>
+        </div>
       </div>
     );
   }

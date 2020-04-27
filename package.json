@@ -43,7 +43,6 @@
     "react-helmet": "^5.2.1",
     "react-html-parser": "^2.0.2",
     "react-script-tag": "^1.1.2",
-    "react-social-sharing": "^3.0.1",
     "rehype-react": "^3.0.2",
     "sprintf-js": "^1.1.2"
   },
