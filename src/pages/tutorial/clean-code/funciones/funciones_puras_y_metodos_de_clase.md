@@ -14,6 +14,8 @@ laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION/src/examples/3-functions
 previous: Estructuras repetitivas y condicionales
 previous_url: tutorial/clean-code/funciones/estructuras_repetitivas_y_condicionales
+next: Datos
+next_url: tutorial/clean-code/datos/
 sections:
   - section_id: call-to-action
     type: section_cta

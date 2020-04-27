@@ -10,9 +10,11 @@ export default class SocialSharing extends React.Component {
   render() {
     return (
       <div className="outer-micro">
-        <Twitter simple link={this.production_url + this.post_url} message={this.message} />
-        <Facebook simple link={this.production_url + this.post_url} />
-        <Linkedin simple link={this.production_url + this.post_url} message={this.message} />
+        <span className="inner-micro margin-left margin-right">
+          <Twitter simple link={this.production_url + this.post_url} message={this.message} />
+          <Facebook simple link={this.production_url + this.post_url} />
+          <Linkedin simple link={this.production_url + this.post_url} message={this.message} />
+        </span>
       </div>
     );
   }
