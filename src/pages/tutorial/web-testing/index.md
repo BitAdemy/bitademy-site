@@ -9,7 +9,7 @@ img_path: images/undraw_clean_up.png
 thumb_img_path: images/undraw_clean_up.png
 date: '2020-04-27'
 next: Contenido detallado
-next_url: /tutorial/wed-testing/contenido/
+next_url: /tutorial/web-testing/contenido/
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -20,6 +20,8 @@ sections:
         url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
 template: tutorial
 ---
+
+##### [Ir al índice de contenido detallado](/tutorial/web-testing/contenido/)
 
 > _"Codifica como si la persona que mantendrá tu código fuera un psicópata violento que sabe dónde vives.."_
 >
@@ -34,6 +36,8 @@ La detección temprana de errores, la validación de las funcionalidades y la me
 Y la responsabilidad es compartida: cliente, empresa y programador. **Cumple con tu responsabilidad** de generar código correcto y fiable.
 
 Claro que hay un proceso de aprendizaje y adopción. En este curso te mostraremos los fundamentos y las técnicas para incluirlos inmediatamente y mejorar la calidad de tus programas.
+
+##### [Ir al índice de contenido detallado](/tutorial/web-testing/contenido/)
 
 > _"Los desarrolladores no tienen que justificar las pruebas y la refactorización; porque esas disciplinas aumentan su eficiencia y la productividad"_
 >

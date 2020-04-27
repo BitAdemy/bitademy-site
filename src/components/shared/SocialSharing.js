@@ -19,7 +19,7 @@ export default class SocialSharing extends React.Component {
               this.post_url
             }
             target="_blank">
-            🗨 En Twitter
+            🔗 En Twitter
           </a>
         </div>
         <div>
@@ -28,7 +28,7 @@ export default class SocialSharing extends React.Component {
               'https://www.facebook.com/sharer/sharer.php?u=' + this.production_url + this.post_url
             }
             target="_blank">
-            🗨 En Facebook
+            🔗 En Facebook
           </a>
         </div>
         <div>
@@ -39,7 +39,7 @@ export default class SocialSharing extends React.Component {
               this.post_url
             }
             target="_blank">
-            🗨 En LinkedIn
+            🔗 En LinkedIn
           </a>
         </div>
       </div>

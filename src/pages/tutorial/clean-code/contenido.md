@@ -21,29 +21,29 @@ sections:
 template: tutorial
 ---
 
-### 🏷️ Estilo y nombrado.
+### 🏷️ [Estilo y nombrado.](tutorial/clean-code/nombres/estilo_y_nombrado)
 
-#### ✨ Estilo y orden
+#### ✨ [Estilo y orden](tutorial/clean-code/nombres/estilo_y_orden)
 
-#### 📏 Tamaños y límites
+#### 📏 [Tamaños y límites](tutorial/clean-code/nombres/tamanos_y_limites)
 
-#### 📫 Definiciones con sustantivos
+#### 📫 [Definiciones con sustantivos](tutorial/clean-code/nombres/definiciones_con_sustantivos)
 
-#### 💪 Acciones con verbos
-
----
-
-### 🔀 Instrucciones, bloques y funciones.
-
-#### 👉 Declaración, asignación e invocación
-
-#### ➰ Estructuras repetitivas y condicionales
-
-#### 🧩 Funciones puras y métodos de clase
+#### 💪 [Acciones con verbos](tutorial/clean-code/nombres/acciones_con_verbos)
 
 ---
 
-### 🗂️ Estructuras de datos.
+### 🔀 [Instrucciones, bloques y funciones.](tutorial/clean-code/funciones)
+
+#### 👉 [Declaración, asignación e invocación](tutorial/clean-code/funciones/declaracion_asignacion_e_invocacion)
+
+#### ➰ [Estructuras repetitivas y condicionales](tutorial/clean-code/funciones/estructuras_repetitivas_y_condicionales)
+
+#### 🧩 [Funciones puras y métodos de clase](tutorial/clean-code/funciones/funciones_puras_y_metodos_de_clase)
+
+---
+
+### 🗂️ [Estructuras de datos.](tutorial/clean-code/datos/)
 
 #### 🗃️ Cohesion de primitivos
 

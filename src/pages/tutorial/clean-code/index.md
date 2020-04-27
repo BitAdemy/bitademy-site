@@ -23,6 +23,12 @@ sections:
 template: tutorial
 ---
 
+##### [Ir al índice de contenido detallado](/tutorial/clean-code/contenido/)
+
+> _"Los programas deben escribirse para que la gente los lea, y de paso para que las máquinas los ejecuten."_
+>
+> ✍🏼 Harold Abelson
+
 Inicio mis cursos preguntando a los alumnos **¿Para quién escribes código?**. Asistiendo a un curso sobre Código Limpio y haciendo yo hincapié en el _quién_ de la pregunta se cuidan de contestar lo que muchos piensan: ~~_el código se escribe para un ordenador_~~.
 
 Pero si fuese así, **¿Qué sentido tienen los diversos lenguajes de programación?** ¿Por qué hay tantos? ¿Por qué han evolucionado desde el bajo nivel del código máquina hasta los actuales lenguajes de alto nivel?
@@ -54,3 +60,5 @@ Pero las ventajas de escribir código limpio no terminan en el propio código. A
 > _"El código limpio parece escrito por alguien a quien le importa."_
 >
 > -- ✍️ **Robert C. Martin**
+
+##### [Ir al índice de contenido detallado](/tutorial/clean-code/contenido/)
