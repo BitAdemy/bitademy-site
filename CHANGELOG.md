@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.30.0](https://github.com/BitAdemy/bitademy-site/compare/v1.29.1...v1.30.0) (2020-04-28)
+
+
+### Features
+
+* ✍🏼 tutorial testing y contenido indice ([d146a36](https://github.com/BitAdemy/bitademy-site/commit/d146a360f0dfb47bde3205b1c2968cb44abc7dd6))
+* 🔊 cursos video ([966af84](https://github.com/BitAdemy/bitademy-site/commit/966af8469ef0e88354ffde26869ecc54ff466c36))
+
 ### [1.29.1](https://github.com/BitAdemy/bitademy-site/compare/v1.29.0...v1.29.1) (2020-04-28)
 
 
