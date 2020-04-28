@@ -130,13 +130,14 @@ sections:
         actions:
           - label: Inscríbete
             url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-      - title: Online directo
+      - title: Tutorizado
         price: Desde 145 €
         details: |-
           * _Porque quieres algo más..._
           * Foro para dudas con el tutor
           * Revisión de la práctica final
           * Diploma de aprovechamiento
+          * Formatos en directo o en video
           * Bonificable FUNDAE
           * **Próxima convocatoria 15 de mayo**
         actions:

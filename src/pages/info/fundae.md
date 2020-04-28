@@ -42,9 +42,53 @@ template: page
 
 # La formación es un derecho
 
+Para ayudar a la hora de impulsar la formación para las empresas de España, el BOE del pasado 17/04 de 2020 concluyen que:
+
+> _"se podrá impartir en su totalidad mediante «aula virtual», considerándose en todo caso como formación presencial"._
+>
+> 📖 BOE 17/04 de 2020
+
+Es el mejor momento para formar a tus empleados usando los fondos recaudados por la seguridad social.
+
+BitAdemy está capacitada para ofrecerte formación bonificable. Podemos ayudarte a formar a tu equipo.
+
+## La formación en tecnología es imprescindible, pero requiere calidad.
+
 Tu principal apuesta de progreso es un equipo ilusionado y capacitado; un buen equipo es la clave de un buen desarrollo.
 
-## Convocatorias abiertas
+Los instructores de BitAdemy son profesionales en activo que transmiten su experiencia real a los alumnos.
+
+Sólo hay algo peor que no formarse, y es hacerlo mal perdiendo el tiempo.
+
+Nuestros cursos ofrecen la garantía de la experiencia. Consulta referencias.
+
+## Formatos
+
+Todos los cursos bonificables tienen que impartirse en convocatorias con **fechas fijas**. BitAdemy imparte sus cursos con distintos _partners_ que los ofrecen dos modalidades diferentes:
+
+### ⌚ Horario fijo en directo
+
+- Son cursos **similares a los presenciales**.
+- Tiene un calendario y **horario fijos**.
+- El profesor imparte **la clase en directo**.
+- Los alumnos tienen la oportunidad de **preguntar en directo**.
+
+### ⏱ Horario libre en video
+
+- Son cursos **similares a un video tutorial**.
+- Tiene un calendario, pero **el horario es libre**.
+- El profesor graba y difunde **la clase en video**.
+- Los alumnos tienen la oportunidad de **preguntar via foro**.
+- Los alumnos deben realizar una **práctica que será evaluada**.
+
+### 💹 Características comunes
+
+- Material y documentación **descargable**.
+- Cuestionario de auto **evaluación**.
+- Diploma de **aprovechamiento**.
+- Cuestionario de **calidad FUNDAE**.
+
+## 📆 Convocatorias abiertas
 
 <table>
     <caption>Próximas convocatorias On Line</caption>
@@ -61,7 +105,7 @@ Tu principal apuesta de progreso es un equipo ilusionado y capacitado; un buen e
       <td>Código Limpio
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
       <td>15 de mayo</td>
-      <td>Horario fijo</td>
+      <td>Horario fijo en directo</td>
       <td>145 €</td>
     </tr>
     <tr>
@@ -69,14 +113,22 @@ Tu principal apuesta de progreso es un equipo ilusionado y capacitado; un buen e
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
       <td>26 de mayo</td>
-      <td>Horario fijo</td>
+      <td>Horario fijo en directo</td>
       <td>145 €</td>
     </tr>
     <tr>
       <td>Código Limpio
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
       <td>26 de mayo</td>
-      <td>Horario libre</td>
+      <td>Horario libre en video</td>
+      <td>Pendiente</td>
+    </tr>
+    <tr>
+      <td>Testing web
+      <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
+      </td>
+      <td>junio</td>
+      <td>Horario libre en directo</td>
       <td>Pendiente</td>
     </tr>
   </tbody>
@@ -84,4 +136,25 @@ Tu principal apuesta de progreso es un equipo ilusionado y capacitado; un buen e
   </tfoot>
 </table>
 
-> "Consulta la posibilidad de impartirlos a medida para tu empresa."
+## 🏢 Ediciones privadas
+
+Además de las convocatorias abiertas, ofrecemos la posibilidad de realizar el curso **específicamente para tu empresa.**
+
+- **Temario** ajustado.
+- **Calendario** a convenir.
+- **Modalidad** en directo o en video.
+- **Asesoramiento** y gestión FUNDAE.
+
+## 🗽Formación libre no bonificada
+
+Por supuesto cualquier de los cursos se puede realizar en video.
+
+- **En el momento** deseado.
+- **Sin esperas** por convocatorias.
+- **Sin límites** de plazas.
+- **Económico** y escalable en precios.
+
+### Cursos disponibles
+
+- [Clean Code aplicado para desarrollos limpios y rentables](https://www.bitademy.com/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
+- [Testing de aplicaciones web fácil y productivo para todos](https://www.bitademy.com/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/)
