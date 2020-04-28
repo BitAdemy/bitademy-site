@@ -42,7 +42,7 @@ template: page
 
 # La formación es un derecho
 
-Para ayudar a la hora de impulsar la formación para las empresas de España, el BOE del pasado 17/04 de 2020 concluyen que:
+Para ayudar a la hora de impulsar la **formación para las empresas de España**, el BOE del pasado 17/04 de 2020 concluyen que:
 
 > _"se podrá impartir en su totalidad mediante «aula virtual», considerándose en todo caso como formación presencial"._
 >
@@ -50,30 +50,30 @@ Para ayudar a la hora de impulsar la formación para las empresas de España, el
 
 Es el mejor momento para formar a tus empleados usando los fondos recaudados por la seguridad social.
 
-BitAdemy está capacitada para ofrecerte formación bonificable. Podemos ayudarte a formar a tu equipo.
+BitAdemy está capacitada para ofrecerte **formación bonificable**. Podemos ayudarte a formar a tu equipo.
 
 ## La formación en tecnología es imprescindible, pero requiere calidad.
 
 Tu principal apuesta de progreso es un equipo ilusionado y capacitado; un buen equipo es la clave de un buen desarrollo.
 
-Los instructores de BitAdemy son profesionales en activo que transmiten su experiencia real a los alumnos.
+Los instructores de BitAdemy son **profesionales en activo que transmiten su experiencia real** a los alumnos.
 
 Sólo hay algo peor que no formarse, y es hacerlo mal perdiendo el tiempo.
 
-Nuestros cursos ofrecen la garantía de la experiencia. Consulta referencias.
+Nuestros cursos ofrecen la **garantía de la experiencia**. [Consulta referencias](https://agorabinaria.typeform.com/to/ymWVLB).
 
 ## Formatos
 
 Todos los cursos bonificables tienen que impartirse en convocatorias con **fechas fijas**. BitAdemy imparte sus cursos con distintos _partners_ que los ofrecen dos modalidades diferentes:
 
-### ⌚ Horario fijo en directo
+#### ⌚ Horario fijo en directo
 
 - Son cursos **similares a los presenciales**.
 - Tiene un calendario y **horario fijos**.
 - El profesor imparte **la clase en directo**.
 - Los alumnos tienen la oportunidad de **preguntar en directo**.
 
-### ⏱ Horario libre en video
+#### ⏱ Horario libre en video
 
 - Son cursos **similares a un video tutorial**.
 - Tiene un calendario, pero **el horario es libre**.
@@ -81,14 +81,20 @@ Todos los cursos bonificables tienen que impartirse en convocatorias con **fecha
 - Los alumnos tienen la oportunidad de **preguntar via foro**.
 - Los alumnos deben realizar una **práctica que será evaluada**.
 
-### 💹 Características comunes
+#### 💹 Características comunes
 
 - Material y documentación **descargable**.
 - Cuestionario de auto **evaluación**.
 - Diploma de **aprovechamiento**.
 - Cuestionario de **calidad FUNDAE**.
 
-## 📆 Convocatorias abiertas
+> _"Podemos ayudarte a escoger la mejor opción"_
+>
+> [Consúltanos sin compromiso](https://agorabinaria.typeform.com/to/ymWVLB)
+
+## Convocatorias
+
+#### 📆 Abiertas al público en fechas fijas
 
 <table>
     <caption>Próximas convocatorias On Line</caption>
@@ -141,7 +147,7 @@ Todos los cursos bonificables tienen que impartirse en convocatorias con **fecha
   </tfoot>
 </table>
 
-## 🏢 Ediciones privadas
+#### 🏢 Ediciones privadas para tu empresa
 
 Además de las convocatorias abiertas, ofrecemos la posibilidad de realizar el curso **específicamente para tu empresa.**
 
@@ -150,7 +156,7 @@ Además de las convocatorias abiertas, ofrecemos la posibilidad de realizar el c
 - **Modalidad** en directo o en video.
 - **Asesoramiento** y gestión FUNDAE.
 
-## 🗽Formación libre no bonificada
+### 🗽Formación libre no bonificada
 
 Por supuesto cualquier de los cursos se puede realizar en video.
 

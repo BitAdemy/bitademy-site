@@ -13,15 +13,15 @@ sections:
       Modalidades adaptadas a cada situación. El momento y el lugar son una opción que escoges tú.
 
 
-      Curos en video a tu ritmo o en convocatorias con asistencia. Bonificables en España o con precios especiales para América.
+      Cursos en video a tu ritmo o en convocatorias con asistencia. Bonificables en España o con precios especiales para América.
 
       >_"Escoge bien para aprender y aumentar tu valor."_
 
-    # actions:
-    #   - label: Curso sobre código limpio
-    #     url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
-    #   - label: Curso sobre pruebas web
-    #     url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
+    actions:
+      - label: Para empresas españolas
+        url: /info/fundae/
+      - label: Para asistentes de América latina
+        url: /info/latam/
   - section_id: features
     type: section_features
     bg: gray
@@ -29,25 +29,6 @@ sections:
     subtitle: >-
       Cursos profesionales on line para tu empresa en cualquier país
     featureslist:
-      - title: Fundae, formación bonificada para empresas españolas
-        image: images/undraw_wallet.svg
-        content: >-
-          La formación es un derecho y _"se podrá impartir en su totalidad mediante «aula virtual», considerándose en todo caso como formación presencial"_ **BOE 17/04**
-
-
-          Son cursos sujetos a calendario pero con distintas modalidades adaptables.
-
-          > _"Bonificables, por supuesto."_
-        actions:
-          - label: Convocatorias y condiciones Fundae
-            url: /info/fundae/
-      - title: Latinoamérica
-        image: images/undraw_the_world_is_mine.svg
-        content: >-
-          Precios especiales para países latinoamericanos. Queremos acercar **el derecho a la formación** a todos los participantes de América Latina.
-        actions:
-          - label: Ver precios latinoamericanos
-            url: /info/latam/
       - title: Cursos en video
         image: images/undraw_youtube_tutorial.svg
         content: >-
@@ -60,6 +41,32 @@ sections:
         actions:
           - label: Ver catálogo de cursos
             url: /cursos/
+      - title: Fundae, formación bonificada para empresas españolas
+        image: images/undraw_wallet.svg
+        content: >-
+          La formación es un derecho y _"se podrá impartir en su totalidad mediante «aula virtual», considerándose en todo caso como formación presencial"_ **BOE 17/04**
+
+
+          Son cursos **sujetos a calendario** pero con distintas modalidades adaptables.
+
+          > _"Bonificables, por supuesto."_
+        actions:
+          - label: Convocatorias y condiciones Fundae
+            url: /info/fundae/
+      - title: Latinoamérica
+        image: images/undraw_the_world_is_mine.svg
+        content: >-
+          Precios especiales para países latinoamericanos. Queremos acercar **el derecho a la formación** a todos los participantes de América Latina.
+        actions:
+          - label: Ver precios latinoamericanos
+            url: /info/latam/
+  - section_id: call-to-action
+    type: section_cta
+    title: Podemos ayudarte
+    subtitle: Formarse bien empieza por escoger la mejor opción.
+    actions:
+      - label: Consúltanos sin compromiso
+        url: https://agorabinaria.typeform.com/to/ymWVLB
 menus:
   main:
     weight: 5
