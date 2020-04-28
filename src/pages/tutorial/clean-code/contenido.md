@@ -21,15 +21,15 @@ sections:
 template: tutorial
 ---
 
-### 🏷️ [Estilo y nombrado.](../nombres/estilo_y_nombrado)
+### 🏷️ [Estilo y nombrado.](./nombres/estilo_y_nombrado)
 
-#### ✨ [Estilo y orden](../nombres/estilo_y_orden)
+#### ✨ [Estilo y orden](./nombres/estilo_y_orden)
 
-#### 📏 [Tamaños y límites](../nombres/tamanos_y_limites)
+#### 📏 [Tamaños y límites](./nombres/tamanos_y_limites)
 
-#### 📫 [Definiciones con sustantivos](../nombres/definiciones_con_sustantivos)
+#### 📫 [Definiciones con sustantivos](./nombres/definiciones_con_sustantivos)
 
-#### 💪 [Acciones con verbos](../nombres/acciones_con_verbos)
+#### 💪 [Acciones con verbos](./nombres/acciones_con_verbos)
 
 ---
 
