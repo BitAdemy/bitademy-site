@@ -33,19 +33,19 @@ template: tutorial
 
 ---
 
-### 🔀 [Instrucciones, bloques y funciones.](../funciones)
+### 🔀 [Instrucciones, bloques y funciones.](./funciones)
 
-#### 👉 [Declaración, asignación e invocación](../funciones/declaracion_asignacion_e_invocacion)
+#### 👉 [Declaración, asignación e invocación](./funciones/declaracion_asignacion_e_invocacion)
 
-#### ➰ [Estructuras repetitivas y condicionales](../funciones/estructuras_repetitivas_y_condicionales)
+#### ➰ [Estructuras repetitivas y condicionales](./funciones/estructuras_repetitivas_y_condicionales)
 
-#### 🧩 [Funciones puras y métodos de clase](../funciones/funciones_puras_y_metodos_de_clase)
+#### 🧩 [Funciones puras y métodos de clase](./funciones/funciones_puras_y_metodos_de_clase)
 
 ---
 
-### 🗂️ [Estructuras de datos.](../datos/)
+### 🗂️ [Estructuras de datos.](./datos/)
 
-#### 🗃️ [Cohesion de primitivos](../datos/cohesion_de_primitivos)
+#### 🗃️ [Cohesion de primitivos](./datos/cohesion_de_primitivos)
 
 #### 🔱 Condiciones y algoritmos
 
