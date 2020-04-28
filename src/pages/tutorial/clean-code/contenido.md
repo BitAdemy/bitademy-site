@@ -45,7 +45,7 @@ template: tutorial
 
 ### 🗂️ [Estructuras de datos.](../datos/)
 
-#### 🗃️ Cohesion de primitivos
+#### 🗃️ [Cohesion de primitivos](../datos/cohesion_de_primitivos)
 
 #### 🔱 Condiciones y algoritmos
 

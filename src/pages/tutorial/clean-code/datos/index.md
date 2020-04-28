@@ -14,6 +14,8 @@ laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/DATA
 previous: Funciones puras y métodos de clase
 previous_url: tutorial/clean-code/funciones/funciones_puras_y_metodos_de_clase
+next: Cohesion de primitivos
+next_url: tutorial/clean-code/datos/cohesion_de_primitivos
 sections:
   - section_id: call-to-action
     type: section_cta
