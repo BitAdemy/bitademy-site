@@ -13,7 +13,7 @@ up_url: tutorial/web-testing
 next: Software que funciona
 next_url: /tutorial/web-testing/software-que-funciona/
 sections:
-  - section_id: call-to-actionw
+  - section_id: call-to-action
     type: section_cta
     title: Garantiza tus desarrollos
     subtitle: Testing de aplicaciones web fácil y productivo para todos.
@@ -23,11 +23,11 @@ sections:
 template: tutorial
 ---
 
-### ✅ [TEST Software que funciona.](../software-que-funciona)
+### ✅ [TEST Software que funciona.](https://www.bitademy.com/tutorial/web-testing/software-que-funciona)
 
-#### 🔀 [Tipos de test](../tipos-de-pruebas)
+#### 🔀 [Tipos de test](https://www.bitademy.com/tutorial/web-testing/tipos-de-pruebas)
 
-#### 👨🏼‍🏫 [Filosofía y patrones](../filosofia-y-patrones)
+#### 👨🏼‍🏫 [Filosofía y patrones](https://www.bitademy.com/tutorial/web-testing/filosofia-y-patrones)
 
 ---
 

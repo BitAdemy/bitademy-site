@@ -10,8 +10,8 @@ thumb_img_path: images/undraw_science.png
 date: '2020-04-28'
 up: Tutorial WebTesting
 up_url: tutorial/web-testing
-previous: Testing web
-previous_url: tutorial/web-testing/
+previous: Contenido
+previous_url: tutorial/web-testing/contenido
 next: Tipos de pruebas
 next_url: /tutorial/web-testing/tipos-de-pruebas/
 sections:
