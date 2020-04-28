@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.28.0](https://github.com/BitAdemy/bitademy-site/compare/v1.27.2...v1.28.0) (2020-04-28)
+
+
+### Features
+
+* ✍🏼 tutorial primitivos ([3cc8074](https://github.com/BitAdemy/bitademy-site/commit/3cc807444489712f5b74ba34c305a488b9f9d26e))
+
 ### [1.27.2](https://github.com/BitAdemy/bitademy-site/compare/v1.27.1...v1.27.2) (2020-04-27)
 
 
