@@ -130,7 +130,7 @@ sections:
         actions:
           - label: Próximamente
             url: http://eepurl.com/gLTXxT
-      - title: Online directo
+      - title: Tutorizado
         price: Desde 145 €
         details: |-
           * _Porque quieres algo más..._

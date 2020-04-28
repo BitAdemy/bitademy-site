@@ -52,7 +52,7 @@ Es el mejor momento para formar a tus empleados usando los fondos recaudados por
 
 BitAdemy está capacitada para ofrecerte **formación bonificable**. Podemos ayudarte a formar a tu equipo.
 
-## La formación en tecnología es imprescindible, pero requiere calidad.
+#### La formación en tecnología es imprescindible, pero requiere calidad.
 
 Tu principal apuesta de progreso es un equipo ilusionado y capacitado; un buen equipo es la clave de un buen desarrollo.
 
@@ -156,7 +156,7 @@ Además de las convocatorias abiertas, ofrecemos la posibilidad de realizar el c
 - **Modalidad** en directo o en video.
 - **Asesoramiento** y gestión FUNDAE.
 
-### 🗽Formación libre no bonificada
+### 🗽 Formación libre no bonificada
 
 Por supuesto cualquier de los cursos se puede realizar en video.
 

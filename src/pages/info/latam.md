@@ -39,7 +39,7 @@ sections:
         actions:
           - label: Empieza ya
             url: /tutorial/clean-code
-      - title: Profesional
+      - title: Video
         price: 53 $
         full_price: 89 $
         details: |-
@@ -53,7 +53,7 @@ sections:
         actions:
           - label: Inscríbete
             url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-      - title: Online directo
+      - title: Tutorizado
         price: Desde 145 $
         details: |-
           * _Porque quieres algo más..._
