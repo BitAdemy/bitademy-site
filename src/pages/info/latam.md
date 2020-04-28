@@ -4,7 +4,7 @@ subtitle: >-
   Cursos con precios especiales para países latinoamericanos.
 excerpt: >-
   Tarifas para Latinoamérica. Tarifas de cursos con precios especiales para países latinoamericanos.
-post_url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+post_url: /info/latam/
 img_path: images/undraw_the_world_is_mine.svg
 thumb_img_path: images/undraw_the_world_is_mine.svg
 date: '2020-03-20'

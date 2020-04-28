@@ -97,6 +97,7 @@ Todos los cursos bonificables tienen que impartirse en convocatorias con **fecha
       <th>Curso</th>
       <th>Fecha</th>
       <th>Modo</th>
+      <th>Duración</th>
       <th>Importe</th>
     </tr>
   </thead>
@@ -106,6 +107,7 @@ Todos los cursos bonificables tienen que impartirse en convocatorias con **fecha
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
       <td>15 de mayo</td>
       <td>Horario fijo en directo</td>
+      <td>8 horas</td>
       <td>145 €</td>
     </tr>
     <tr>
@@ -114,6 +116,7 @@ Todos los cursos bonificables tienen que impartirse en convocatorias con **fecha
       </td>
       <td>26 de mayo</td>
       <td>Horario fijo en directo</td>
+      <td>8 horas</td>
       <td>145 €</td>
     </tr>
     <tr>
@@ -121,6 +124,7 @@ Todos los cursos bonificables tienen que impartirse en convocatorias con **fecha
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
       <td>26 de mayo</td>
       <td>Horario libre en video</td>
+      <td>4 semanas</td>
       <td>Pendiente</td>
     </tr>
     <tr>
@@ -128,7 +132,8 @@ Todos los cursos bonificables tienen que impartirse en convocatorias con **fecha
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
       <td>junio</td>
-      <td>Horario libre en directo</td>
+      <td>Horario libre en video</td>
+      <td>4 semanas</td>
       <td>Pendiente</td>
     </tr>
   </tbody>

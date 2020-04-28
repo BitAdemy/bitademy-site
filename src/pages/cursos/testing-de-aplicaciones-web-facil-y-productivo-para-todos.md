@@ -116,7 +116,7 @@ sections:
         actions:
           - label: Próximamente
             url: http://eepurl.com/gLTXxT
-      - title: Profesional
+      - title: Video
         price: 59 €
         full_price: 99 €
         details: |-

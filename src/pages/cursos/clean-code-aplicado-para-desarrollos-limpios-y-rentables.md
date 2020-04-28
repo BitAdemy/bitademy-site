@@ -116,7 +116,7 @@ sections:
         actions:
           - label: Empieza ya
             url: /tutorial/clean-code
-      - title: Profesional
+      - title: Video
         price: 59 €
         full_price: 99 €
         details: |-
