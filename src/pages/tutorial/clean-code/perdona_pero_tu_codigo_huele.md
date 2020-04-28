@@ -14,8 +14,8 @@ up: Tutorial Clean Code
 up_url: tutorial/clean-code
 next: Software que funciona
 next_url: tutorial/clean-code/software_que_funciona
-previous: Clean Code aplicado
-previous_url: tutorial/clean-code
+previous: Contenido
+previous_url: tutorial/clean-code/contenido
 sections:
   - section_id: call-to-action
     type: section_cta

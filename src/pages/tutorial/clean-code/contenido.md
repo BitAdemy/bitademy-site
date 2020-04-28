@@ -10,6 +10,10 @@ thumb_img_path: images/undraw_clean_up.png
 date: '2020-04-04'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
+previous: Clean Code aplicado
+previous_url: tutorial/clean-code/
+next: Perdona pero... tu código huele
+next_url: /tutorial/clean-code/perdona_pero_tu_codigo_huele/
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -20,6 +24,12 @@ sections:
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: tutorial
 ---
+
+### 🏁 [Introducción](../)
+
+#### 🤢 [Perdona pero... tu código huele.](../perdona_pero_tu_codigo_huele)
+
+#### ✅ [Software que funciona](../nombres/software_que_funciona)
 
 ### 🏷️ [Estilo y nombrado.](../nombres/estilo_y_nombrado)
 

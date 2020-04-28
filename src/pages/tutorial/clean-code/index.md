@@ -10,8 +10,8 @@ thumb_img_path: images/undraw_clean_up.png
 date: '2020-04-01'
 preview: Preview video gratis
 preview_url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
-next: Perdona pero... tu código huele
-next_url: /tutorial/clean-code/perdona_pero_tu_codigo_huele/
+next: Contenido
+next_url: /tutorial/clean-code/contenido/
 sections:
   - section_id: call-to-action
     type: section_cta

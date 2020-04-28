@@ -14,6 +14,8 @@ sections:
     actions:
       - label: Tutorial de Código limpio
         url: /tutorial/clean-code
+      - label: Tutorial de Testing de aplicaciones web
+        url: /tutorial/web-testing
   - section_id: features
     type: section_features
     bg: gray

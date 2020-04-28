@@ -10,8 +10,10 @@ thumb_img_path: images/undraw_science.png
 date: '2020-04-27'
 up: Tutorial WebTesting
 up_url: tutorial/web-testing
+next: Software que funciona
+next_url: /tutorial/web-testing/software-que-funciona/
 sections:
-  - section_id: call-to-action
+  - section_id: call-to-actionw
     type: section_cta
     title: Garantiza tus desarrollos
     subtitle: Testing de aplicaciones web fácil y productivo para todos.
@@ -21,11 +23,11 @@ sections:
 template: tutorial
 ---
 
-### ✅ TEST Software que funciona.
+### ✅ [TEST Software que funciona.](../software-que-funciona)
 
-#### 🔀 Tipos de test
+#### 🔀 [Tipos de test](../tipos-de-pruebas)
 
-#### 👨🏼‍🏫 Filosofía y patrones
+#### 👨🏼‍🏫 [Filosofía y patrones](../filosofia-y-patrones)
 
 ---
 

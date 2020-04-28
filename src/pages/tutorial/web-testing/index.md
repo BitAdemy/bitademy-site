@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Tutorial para aprender las técnicas TDD y pruebas de software de aplicaciones web.
 post_url: tutorial/web-testing
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/undraw_science.png
+thumb_img_path: images/undraw_science.png
 date: '2020-04-27'
 next: Contenido detallado
 next_url: /tutorial/web-testing/contenido/
@@ -23,7 +23,7 @@ template: tutorial
 
 ##### [Ir al índice de contenido detallado](/tutorial/web-testing/contenido/)
 
-> _"Codifica como si la persona que mantendrá tu código fuera un psicópata violento que sabe dónde vives.."_
+> _"Codifica como si la persona que mantendrá tu código fuera un psicópata violento que sabe dónde vives."_
 >
 > ✍🏼 Martin Golding
 
@@ -36,6 +36,34 @@ La detección temprana de errores, la validación de las funcionalidades y la me
 Y la responsabilidad es compartida: cliente, empresa y programador. **Cumple con tu responsabilidad** de generar código correcto y fiable.
 
 Claro que hay un proceso de aprendizaje y adopción. En este curso te mostraremos los fundamentos y las técnicas para incluirlos inmediatamente y mejorar la calidad de tus programas.
+
+## 🛠 Herramientas
+
+- Utilidades para probar aplicaciones desarrolladas con tecnología web que se verán o mencionarán en este tutorial.
+
+### Puppeteer
+
+[Puppeteer](https://pptr.dev/) es excelente para manipular y simular cualquier actividad con el navegador ideal para _e2e_ no funcional.
+
+### Cypress
+
+[Cypress](https://www.cypress.io/) es un framework de pruebas funcionales de integración o _e2e_. Se ejecuta en el navegador independiente del código bajo prueba.
+
+### Jest
+
+[JEST](https://jestjs.io/) es un framework muy popular porque requiere _zero configuration_. Es muy ligero y sencillo. Ideal para _unit testing_ y _TDD_.
+
+### Otros
+
+- **[Playwright](https://github.com/microsoft/playwright)** automatizador de diversos navegadores al estilo Puppeteer.
+
+- **[Karma](https://karma-runner.github.io/latest/index.html)** es un ejecutador de pruebas muy interesante para integración continua.
+
+- **[Jasmine](https://jasmine.github.io/)** muy completo y bueno para user-behavior por su expresividad
+
+- **[Mocha](https://mochajs.org/)** muy utilizado para NodeJS.
+
+- **[Chai](https://www.chaijs.com/)** librería muy adecuada para BDD con NodeJS.
 
 ##### [Ir al índice de contenido detallado](/tutorial/web-testing/contenido/)
 
