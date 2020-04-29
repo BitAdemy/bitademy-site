@@ -10,10 +10,12 @@ thumb_img_path: images/undraw_clean_up.png
 date: '2020-04-28'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
-laboratory: Laboratorio
-laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/DATA/src/examples/1-structures
 previous: Datos
 previous_url: tutorial/clean-code/datos/
+next: Condiciones y algoritmos
+next_url: tutorial/clean-code/datos/condiciones_y_algoritmos
+laboratory: Laboratorio
+laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/DATA/src/examples/1-structures
 sections:
   - section_id: call-to-action
     type: section_cta

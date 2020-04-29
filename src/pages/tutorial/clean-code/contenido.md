@@ -31,6 +31,8 @@ template: tutorial
 
 #### ✅ [Software que funciona](https://www.bitademy.com/tutorial/clean-code/nombres/software_que_funciona)
 
+---
+
 ### 🏷️ [Estilo y nombrado.](https://www.bitademy.com/tutorial/clean-code/nombres/estilo_y_nombrado)
 
 #### ✨ [Estilo y orden](https://www.bitademy.com/tutorial/clean-code/nombres/estilo_y_orden)
@@ -57,7 +59,7 @@ template: tutorial
 
 #### 🗃️ [Cohesion de primitivos](https://www.bitademy.com/tutorial/clean-code/datos/cohesion_de_primitivos)
 
-#### 🔱 Condiciones y algoritmos
+#### 🔱 [Condiciones y algoritmos](https://www.bitademy.com/tutorial/clean-code/datos/condiciones_y_algoritmos)
 
 ---
 
