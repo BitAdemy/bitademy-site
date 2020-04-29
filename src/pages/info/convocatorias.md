@@ -7,7 +7,7 @@ excerpt: >-
 post_url: /info/convocatorias/
 img_path: images/undraw_calendar.svg
 thumb_img_path: images/undraw_calendar.svg
-date: '2020-03-20'
+date: '2020-04-20'
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -127,14 +127,18 @@ Además de las convocatorias abiertas, ofrecemos la posibilidad de realizar cual
 
 ### 🗽 Formación libre no bonificada
 
-Por supuesto cualquiera de los cursos se puede realizar [en video](https://www.bitademy.com/info/video/) sin la participación del tutor; y por tanto **sin calendario**.
+Por supuesto cualquiera de los cursos se puede realizar en video sin la participación del tutor; y por tanto **sin calendario**.
+
+> Estos son cursos para realizar a tu propio ritmo.
+>
+> [Más información sobre en Video tutoriales](https://www.bitademy.com/info/video/)
 
 - **En el momento** deseado.
 - **Sin esperas** por convocatorias.
 - **Sin límites** de plazas.
 - **Económico** y escalable en precios.
 
-### Cursos disponibles
+### Catálogo de cursos disponibles
 
 - [Clean Code aplicado para desarrollos limpios y rentables](https://www.bitademy.com/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
 - [Testing de aplicaciones web fácil y productivo para todos](https://www.bitademy.com/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/)

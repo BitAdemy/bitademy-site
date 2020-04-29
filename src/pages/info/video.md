@@ -70,7 +70,7 @@ sections:
   - section_id: recent-posts
     type: section_courses
     bg: gray
-    title: Cursos disponibles
+    title: Catálogo de cursos disponibles
   - section_id: call-to-action
     type: section_cta
     title: ¿Quieres más?

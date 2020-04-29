@@ -12,8 +12,10 @@ sections:
     content: >-
       Cursos de : CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS...
     actions:
-      - label: Aumenta el valor de tus desarrollos
+      - label: Ver cursos
         url: /cursos
+      - label: Ver modalidades
+        url: /info
   - section_id: features
     type: section_features
     bg: gray
@@ -65,7 +67,7 @@ sections:
     subtitle: Una solución para cada situación.
     actions:
       - label: Fundae para empresas españolas
-        url: /info/latam/
+        url: /info/fundae/
       - label: Ofertas para Latinoamérica
         url: /info/latam/
   - section_id: recent-posts
@@ -74,12 +76,12 @@ sections:
     title: Cursos
   - section_id: call-to-action
     type: section_cta
-    title: 😷 Ahora, más que nunca, hay que estar preparados.
-    subtitle: 🏡 Con 40% de descuento durante la cuarentena en el curso "Clean Code aplicado para desarrollos limpios y rentables" la distancia no será un problema.
+    title: Modalidades.
+    subtitle: A tu ritmo o en grupo con tutor.
     actions:
-      - label: EUROPA 59€
-        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-      - label: AMERICA 53$
-        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+      - label: Video tutorial
+        url: /info/video/
+      - label: Por convocatoria
+        url: /info/convocatorias/
 template: landing
 ---

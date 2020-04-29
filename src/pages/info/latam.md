@@ -63,6 +63,10 @@ sections:
         actions:
           - label: Infórmate
             url: https://agorabinaria.typeform.com/to/ymWVLB
+  - section_id: recent-posts
+    type: section_courses
+    bg: gray
+    title: Catálogo de cursos disponibles
   - section_id: call-to-action
     type: section_cta
     title: Código limpio desde casa 🏡

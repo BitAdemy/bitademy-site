@@ -65,6 +65,10 @@ sections:
           Los instructores de BitAdemy son **profesionales en activo que transmiten su experiencia real** a los alumnos.
 
           > _"Sólo hay algo peor que no formarse, y es hacerlo mal perdiendo el tiempo."_
+  - section_id: recent-posts
+    type: section_courses
+    bg: gray
+    title: Catálogo de Cursos disponibles
   - section_id: call-to-action
     type: section_cta
     title: Podemos ayudarte.
