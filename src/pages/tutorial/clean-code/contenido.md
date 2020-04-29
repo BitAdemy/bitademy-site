@@ -29,7 +29,7 @@ template: tutorial
 
 #### 🤢 [Perdona pero... tu código huele.](https://www.bitademy.com/tutorial/clean-code/perdona_pero_tu_codigo_huele)
 
-#### ✅ [Software que funciona](https://www.bitademy.com/tutorial/clean-code/nombres/software_que_funciona)
+#### ✅ [Software que funciona](https://www.bitademy.com/tutorial/clean-code/software_que_funciona)
 
 ---
 
