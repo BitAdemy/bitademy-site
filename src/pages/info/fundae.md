@@ -7,29 +7,69 @@ excerpt: >-
 post_url: /info/fundae/
 img_path: images/undraw_wallet.svg
 thumb_img_path: images/undraw_wallet.svg
-date: '2020-03-20'
+date: '2020-04-29'
 sections:
-  # - section_id: features
-  #   type: section_content
-  #   bg: gray
-  #   image: images/undraw_wallet.svg
-  #   title: Cursos bonificables FUNDAE
-  #   content: >-
-  #     Formación para trabajadores en activo con cargo a las aportaciones previas a la seguridad social. **La formación es un derecho** y la principal apuesta de progreso. Un equipo ilusionado y capacitado es la clave de un buen desarrollo.
+  - section_id: features
+    type: section_content
+    bg: gray
+    image: images/undraw_wallet.svg
+    title: Cursos bonificables FUNDAE
+    content: >-
+      Formación **para trabajadores en activo** con cargo a las aportaciones previas a la seguridad social española.
 
-  #   actions:
-  #     - label: Solicita información para tu empresa
-  #       url: https://agorabinaria.typeform.com/to/ymWVLB
-  # - section_id: features
-  #   type: section_features
-  #   bg: gray
-  #   title: Convocatorias abiertas y a medida
-  #   subtitle: >-
-  #     Próximamente...
+    actions:
+      - label: Solicita información para tu empresa
+        url: https://agorabinaria.typeform.com/to/ymWVLB
+      - label: Ver convocatorias
+        url: info/convocatorias
+  - section_id: features
+    type: section_features
+    bg: gray
+    title: La formación es un derecho
+    subtitle: >-
+      Porque es la principal apuesta de progreso.
+    featureslist:
+      - title: Legalidad
+        image: images/undraw_judge.svg
+        content: >-
+          Para ayudar a la hora de impulsar la **formación para las empresas de España**, el BOE del pasado 17/04 de 2020 concluyen que:
+
+          > _"se podrá impartir en su totalidad mediante «aula virtual», considerándose en todo caso como formación presencial"._ 📖 BOE 17/04 de 2020
+      - title: Administración
+        image: images/undraw_contract.svg
+        content: >-
+          Los **cursos bonificables** han de impartirse siguiendo un conjunto de normas estrictas.
+
+
+          Las plataformas de nuestros _partners_ tecnológicos están **certificadas** y cumplen con todos los requisitos
+
+
+          Te buscamos ayuda en cualquier **trámite administrativo**.
+
+      - title: Convocatorias
+        image: images/undraw_calendar.svg
+        content: >-
+          Todas las ediciones cuenta con la participación del tutor del curso. Están **sujetas a calendarios con plazas** limitadas.
+
+
+          Las ediciones se realizan en **convocatorias abiertas o a medida** para tu empresa.
+
+        actions:
+          - label: Ver calendario de convocatorias
+            url: /info/convocatorias
+      - title: Tecnología y calidad
+        image: images/undraw_co-workers.svg
+        content: >-
+          Tu principal apuesta de progreso es un **equipo ilusionado y capacitado**; un buen equipo es la clave de un buen desarrollo.
+
+
+          Los instructores de BitAdemy son **profesionales en activo que transmiten su experiencia real** a los alumnos.
+
+          > _"Sólo hay algo peor que no formarse, y es hacerlo mal perdiendo el tiempo."_
   - section_id: call-to-action
     type: section_cta
     title: Podemos ayudarte.
-    subtitle: Busquemos la mejor opción.
+    subtitle: Encuentra la mejor opción para tu empresa.
     actions:
       - label: Pongámonos en contacto
         url: https://agorabinaria.typeform.com/to/ymWVLB
@@ -37,7 +77,7 @@ sections:
 #   main:
 #     weight: 2
 #     title: Features
-template: page
+template: landing
 ---
 
 # La formación es un derecho
@@ -61,111 +101,3 @@ Los instructores de BitAdemy son **profesionales en activo que transmiten su exp
 Sólo hay algo peor que no formarse, y es hacerlo mal perdiendo el tiempo.
 
 Nuestros cursos ofrecen la **garantía de la experiencia**. [Consulta referencias](https://agorabinaria.typeform.com/to/ymWVLB).
-
-## Formatos
-
-Todos los cursos bonificables tienen que impartirse en convocatorias con **fechas fijas**. BitAdemy imparte sus cursos con distintos _partners_ que los ofrecen dos modalidades diferentes:
-
-#### ⌚ Horario fijo en directo
-
-- Son cursos **similares a los presenciales**.
-- Tiene un calendario y **horario fijos**.
-- El profesor imparte **la clase en directo**.
-- Los alumnos tienen la oportunidad de **preguntar en directo**.
-
-#### ⏱ Horario libre en video
-
-- Son cursos **similares a un video tutorial**.
-- Tiene un calendario, pero **el horario es libre**.
-- El profesor graba y difunde **la clase en video**.
-- Los alumnos tienen la oportunidad de **preguntar via foro**.
-- Los alumnos deben realizar una **práctica que será evaluada**.
-
-#### 💹 Características comunes
-
-- Material y documentación **descargable**.
-- Cuestionario de auto **evaluación**.
-- Diploma de **aprovechamiento**.
-- Cuestionario de **calidad FUNDAE**.
-
-> _"Podemos ayudarte a escoger la mejor opción"_
->
-> [Consúltanos sin compromiso](https://agorabinaria.typeform.com/to/ymWVLB)
-
-## Convocatorias
-
-#### 📆 Abiertas al público en fechas fijas
-
-<table>
-    <caption>Próximas convocatorias On Line</caption>
-  <thead>
-    <tr>
-      <th>Curso</th>
-      <th>Fecha</th>
-      <th>Modo</th>
-      <th>Duración</th>
-      <th>Importe</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Código Limpio
-        <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
-      <td>15 de mayo</td>
-      <td>Horario fijo en directo</td>
-      <td>8 horas</td>
-      <td>145 €</td>
-    </tr>
-    <tr>
-      <td>Testing web
-      <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
-      </td>
-      <td>26 de mayo</td>
-      <td>Horario fijo en directo</td>
-      <td>8 horas</td>
-      <td>145 €</td>
-    </tr>
-    <tr>
-      <td>Código Limpio
-        <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
-      <td>26 de mayo</td>
-      <td>Horario libre en video</td>
-      <td>4 semanas</td>
-      <td>Pendiente</td>
-    </tr>
-    <tr>
-      <td>Testing web
-      <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
-      </td>
-      <td>junio</td>
-      <td>Horario libre en video</td>
-      <td>4 semanas</td>
-      <td>Pendiente</td>
-    </tr>
-  </tbody>
-  <tfoot>
-  </tfoot>
-</table>
-
-#### 🏢 Ediciones privadas para tu empresa
-
-Además de las convocatorias abiertas, ofrecemos la posibilidad de realizar el curso **específicamente para tu empresa.**
-
-- **Temario** ajustado.
-- **Calendario** a convenir.
-- **Modalidad** en directo o en video.
-- **Asesoramiento** y gestión FUNDAE.
-
-### 🗽 Formación libre no bonificada
-
-Por supuesto cualquier de los cursos se puede realizar en video.
-
-- **En el momento** deseado.
-- **Sin esperas** por convocatorias.
-- **Sin límites** de plazas.
-- **Económico** y escalable en precios.
-
-### Cursos disponibles
-
-- [Clean Code aplicado para desarrollos limpios y rentables](https://www.bitademy.com/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
-- [Testing de aplicaciones web fácil y productivo para todos](https://www.bitademy.com/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/)

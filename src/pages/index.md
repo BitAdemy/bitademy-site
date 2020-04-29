@@ -28,8 +28,6 @@ sections:
           Los lenguajes, los frameworks y las herramientas son perecederos. **Para obtener calidad a largo plazo hay que centrarse en lo que no cambia.**
 
 
-          Ni cursos enlatados, ni fechas fijas, ni guiones oficiales ni burocracia. Todo al grano.
-
           > _"Las técnicas, las buenas prácticas y los fundamentos son útiles para siempre."_
       - title: En el menor tiempo posible
         image: images/undraw_in_no_time.svg
@@ -37,7 +35,7 @@ sections:
           El tiempo es nuestro bien más preciado. **Invierte el tiempo de la manera más rentable.**
 
 
-          Cosas útiles en el menor tiempo. Sin convocatorias ni esperas. Aunque también puedes [bonificarlos por FUNDAE](/info/fundae)
+          Te enseñamos cosas útiles en el menor tiempo mediante **ejemplos y prácticas**.
 
           > _"Preparación para aprender rápido lo que se necesita y cuando se necesita."_
       - title: Optimizado para el desarrollo profesional.
@@ -45,9 +43,22 @@ sections:
         content: >-
           **Problema, solución y aplicación práctica.** Cursos creados tras miles de horas de experiencia empresarial y docente.
 
-          Aprender con un objetivo: crear mejores programas.
+
+          Aprender con un objetivo: **crear mejores programas**.         Podemos impartirlo a la medida de tu empresa.
 
           > _"Todo el mundo valora mejor a quien resuelve problemas."_
+      - title: Modalidades adaptables.
+        image: images/undraw_decide.svg
+        content: >-
+          **Estudia a tu ritmo**, sin fechas fijas, ni guiones oficiales ni burocracia. Todo al grano.
+
+
+          O intégrate en una **convocatoria tutorizada** y evaluada. Que además puede [bonificarse por FUNDAE](/info/fundae)
+
+          > _"Solo o acompañado, tú decides."_
+        actions:
+          - label: Más información
+            url: /info/
   - section_id: call-to-action
     type: section_cta
     title: 😷 Ahora, más que nunca, hay que estar preparados.
