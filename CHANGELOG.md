@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.33.0](https://github.com/BitAdemy/bitademy-site/compare/v1.32.0...v1.33.0) (2020-04-29)
+
+
+### Features
+
+* 🔊 paginas cursos y precios ([afe394e](https://github.com/BitAdemy/bitademy-site/commit/afe394e33eb24fb0d88beb4e18e5a204827f0310))
+
 ## [1.32.0](https://github.com/BitAdemy/bitademy-site/compare/v1.31.0...v1.32.0) (2020-04-29)
 
 
