@@ -39,8 +39,8 @@ sections:
 
           > _"Aprende a tu ritmo cuando lo necesites."_
         actions:
-          - label: Ver catálogo de cursos
-            url: /cursos/
+          - label: Más sobre video tutoriales
+            url: /info/video/
       - title: Convocatorias
         image: images/undraw_calendar.svg
         content: >-

@@ -9,9 +9,8 @@ img_path: images/undraw_the_world_is_mine.svg
 thumb_img_path: images/undraw_the_world_is_mine.svg
 date: '2020-03-20'
 sections:
-  - section_id: features
-    type: section_content
-    bg: gray
+  - section_id: hero
+    type: section_hero
     image: images/undraw_the_world_is_mine.svg
     title: Tarifas para América latina
     content: >-

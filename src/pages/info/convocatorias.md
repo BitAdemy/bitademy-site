@@ -127,7 +127,7 @@ Además de las convocatorias abiertas, ofrecemos la posibilidad de realizar cual
 
 ### 🗽 Formación libre no bonificada
 
-Por supuesto cualquiera de los cursos se puede realizar en video sin la participación del tutor; y por tanto **sin calendario**.
+Por supuesto cualquiera de los cursos se puede realizar [en video](https://www.bitademy.com/info/video/) sin la participación del tutor; y por tanto **sin calendario**.
 
 - **En el momento** deseado.
 - **Sin esperas** por convocatorias.

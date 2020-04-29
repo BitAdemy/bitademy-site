@@ -50,15 +50,28 @@ sections:
       - title: Modalidades adaptables.
         image: images/undraw_decide.svg
         content: >-
-          **Estudia a tu ritmo**, sin fechas fijas, ni guiones oficiales ni burocracia. Todo al grano.
+          [**Estudia a tu ritmo**](/info/video/), sin fechas fijas, ni guiones oficiales ni burocracia. Todo al grano.
 
 
-          O intégrate en una **convocatoria tutorizada** y evaluada. Que además puede [bonificarse por FUNDAE](/info/fundae)
+          O intégrate en una [**convocatoria tutorizada**](/info/convocatorias/) y evaluada.
 
           > _"Solo o acompañado, tú decides."_
         actions:
-          - label: Más información
+          - label: Ver opciones
             url: /info/
+  - section_id: call-to-action
+    type: section_cta
+    title: España y América latina.
+    subtitle: Una solución para cada situación.
+    actions:
+      - label: Fundae para empresas españolas
+        url: /info/latam/
+      - label: Ofertas para Latinoamérica
+        url: /info/latam/
+  - section_id: recent-posts
+    type: section_courses
+    bg: gray
+    title: Cursos
   - section_id: call-to-action
     type: section_cta
     title: 😷 Ahora, más que nunca, hay que estar preparados.
@@ -68,9 +81,5 @@ sections:
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
       - label: AMERICA 53$
         url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-  - section_id: recent-posts
-    type: section_courses
-    bg: gray
-    title: Cursos
 template: landing
 ---

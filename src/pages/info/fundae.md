@@ -9,9 +9,8 @@ img_path: images/undraw_wallet.svg
 thumb_img_path: images/undraw_wallet.svg
 date: '2020-04-29'
 sections:
-  - section_id: features
-    type: section_content
-    bg: gray
+  - section_id: hero
+    type: section_hero
     image: images/undraw_wallet.svg
     title: Cursos bonificables FUNDAE
     content: >-

@@ -12,17 +12,19 @@ sections:
     content: >-
       Desde casa y cuando quieras. Nuestros talleres son prácticos, cortos y eficaces.
 
+      Temáticas y modalidades para todos.
+
       >_"Escoge bien para aprender y aumentar tu valor."_
 
     actions:
-      - label: Curso sobre código limpio
-        url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
-      - label: Curso sobre pruebas web
-        url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
+      - label: Video curso
+        url: /info/video/
+      - label: Por convocatorias
+        url: /info/convocatorias/
   - section_id: features
     type: section_features
     bg: gray
-    title: Cursos para mejorar la calidad de tu software
+    title: Catálogo de Cursos para mejorar la calidad de tus desarrollos
     subtitle: >-
       Centrados en los fundamentos de la programación
     featureslist:
@@ -50,6 +52,15 @@ sections:
         actions:
           - label: Saber mas de pruebas web
             url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
+  - section_id: call-to-action
+    type: section_cta
+    title: España y América latina.
+    subtitle: Una solución para cada situación.
+    actions:
+      - label: Fundae para empresas españolas
+        url: /info/fundae/
+      - label: Ofertas para Latinoamérica
+        url: /info/latam/
 menus:
   main:
     weight: 2
