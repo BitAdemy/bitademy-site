@@ -23,24 +23,18 @@ sections:
       Aprende a programar mejor y mejora tus desarrollos.
 
     actions:
-      - label: Quiero programar mejor.
+      - label: Quiero aprender ya.
         url: https://aula.bitademy.com/p/precios_codigo-limpio
   - section_id: call-to-action
     type: section_cta
-    title: Formación desde tu casa 🏡
+    title: Formación desde casa 🏡
     subtitle: 😷 40% de descuento durante la cuarentena.
     actions:
-      - label: 1 pago de 59€
+      - label: Pago único 59€
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
 
-      - label: 3 plazos de 20€
+      - label: En tres plazos de 20€
         url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
-
-      - label: 1 pago de 53$
-        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-
-      - label: 3 plazos de 18$
-        url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
   - section_id: features
     type: section_features
     bg: gray
@@ -97,55 +91,45 @@ sections:
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
-          Dos modalidades:  [cursos en video a tu ritmo](/info/video) o [tutorizados en convocatorias](/info/convocatorias)
+          Paga solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
 
 
-          Para hacerlo más fácil te ofrecemos el pago en tres plazos y tarifas adaptadas para [América Latina](/info/latam).
+          **Descuentos para grupos de empresa.** Sin papeleos ni burocracia.
 
-
-          Siempre pagas solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
-        actions:
-          - label: Preguntas frecuentes
-            url: /info/faq
   - section_id: pricing
     type: section_pricing
     bg: gray
-    title: Precios 🌍Europa € / 🌎América $.
+    title: 🌍 Planes de precios Europa.
     subtitle: >-
       🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón BIT_40 sobre el precio oficial.
     pricingplans:
       - title: Comunidad
-        price: 0€/0$
+        price: 0 €
         details: |-
           * _Porque el conocimiento es libre..._
-          * [Blog Tutorial](/tutorial/clean-code/contenido)
+          * [Blog Tutorial](/tutorial/clean-code)
           * [Repositorio de ejemplos](https://github.com/labsAdemy/CleanCodeLab/)
           * [Redes sociales](https://twitter.com/bit_ademy)
           * [Newsletter mensual](http://eepurl.com/gLTXxT)
         actions:
           - label: Empieza ya
             url: /tutorial/clean-code
-      - title: Video a tu ritmo
-        price: 59€/53$
-        full_price: 99€/89$
+      - title: Video
+        price: 59 €
+        full_price: 99 €
         details: |-
           * _Porque valoras tu tiempo..._
           * Videos con explicaciones y demostraciones
           * Videos con ejercicios propuestos y resueltos
           * Cuestionario de autoevaluación
           * Documentación descargable
-        highlight: false
+          * **[También en 3 plazos de 20€](https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40)**
+        highlight: true
         actions:
-          - label: Europa 1 x 59 €
+          - label: Inscríbete
             url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-          - label: Europa 3 x 20 €
-            url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
-          - label: América 1 x 53 $
-            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-          - label: América 3 x 18 $
-            url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
       - title: Tutorizado
         price: Desde 145 €
         details: |-
@@ -153,13 +137,56 @@ sections:
           * Foro para dudas con el tutor
           * Revisión de la práctica final
           * Diploma de aprovechamiento
-          * Formatos en directo o pre grabado
-          * Participación en grupo
-          * Bonificable [FUNDAE](/info/fundae)
-          * **[Próxima convocatoria 15 de mayo](/info/convocatorias)**
+          * Formatos en directo o en video
+          * Bonificable FUNDAE
+          * **Próxima convocatoria 15 de mayo**
+        actions:
+          - label: Infórmate
+            url: /info/fundae
+  - section_id: pricing
+    type: section_pricing
+    bg: gray
+    title: 🌎 Planes de precios América.
+    subtitle: >-
+      🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón BIT_40 sobre el precio oficial.
+    pricingplans:
+      - title: Comunidad
+        price: 0 $
+        details: |-
+          * _Porque el conocimiento es libre..._
+          * [Blog Tutorial](/tutorial/clean-code)
+          * [Repositorio de ejemplos](https://github.com/labsAdemy/CleanCodeLab/)
+          * [Redes sociales](https://twitter.com/bit_ademy)
+          * [Newsletter mensual](http://eepurl.com/gLTXxT)
+        actions:
+          - label: Empieza ya
+            url: /tutorial/clean-code
+      - title: Video
+        price: 53 $
+        full_price: 89 $
+        details: |-
+          * _Porque valoras tu tiempo..._
+          * Videos con explicaciones y demostraciones
+          * Videos con ejercicios propuestos y resueltos
+          * Cuestionario de autoevaluación
+          * Documentación descargable
+          * **[También en 3 plazos de 18$](https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40)**
+        highlight: true
+        actions:
+          - label: Inscríbete
+            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+      - title: Tutorizado
+        price: Desde 145 $
+        details: |-
+          * _Porque quieres algo más..._
+          * Foro para dudas con el tutor
+          * Revisión de la práctica final
+          * Diploma de aprovechamiento
+          * **Próxima convocatoria 15 de mayo**
         actions:
           - label: Infórmate
             url: https://agorabinaria.typeform.com/to/ymWVLB
+
   - section_id: call-to-action
     type: section_cta
     title: Beneficio para el alumno. ¡Conviértete en artesano y aumenta tu valor!
@@ -211,7 +238,7 @@ sections:
 
           > "Sí, este curso es para mi."
         actions:
-          - label: Venga, empiezo ya.
+          - label: Empiezo ya.
             url: https://aula.bitademy.com/p/precios_codigo-limpio
   - section_id: call-to-action
     type: section_cta

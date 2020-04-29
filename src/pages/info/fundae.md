@@ -82,25 +82,3 @@ sections:
 #     title: Features
 template: landing
 ---
-
-# La formación es un derecho
-
-Para ayudar a la hora de impulsar la **formación para las empresas de España**, el BOE del pasado 17/04 de 2020 concluyen que:
-
-> _"se podrá impartir en su totalidad mediante «aula virtual», considerándose en todo caso como formación presencial"._
->
-> 📖 BOE 17/04 de 2020
-
-Es el mejor momento para formar a tus empleados usando los fondos recaudados por la seguridad social.
-
-BitAdemy está capacitada para ofrecerte **formación bonificable**. Podemos ayudarte a formar a tu equipo.
-
-#### La formación en tecnología es imprescindible, pero requiere calidad.
-
-Tu principal apuesta de progreso es un equipo ilusionado y capacitado; un buen equipo es la clave de un buen desarrollo.
-
-Los instructores de BitAdemy son **profesionales en activo que transmiten su experiencia real** a los alumnos.
-
-Sólo hay algo peor que no formarse, y es hacerlo mal perdiendo el tiempo.
-
-Nuestros cursos ofrecen la **garantía de la experiencia**. [Consulta referencias](https://agorabinaria.typeform.com/to/ymWVLB).

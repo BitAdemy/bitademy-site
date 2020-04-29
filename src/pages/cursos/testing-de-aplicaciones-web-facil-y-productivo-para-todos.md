@@ -29,10 +29,10 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Disponible próximamente!
-    subtitle: Mantente informado en nuestra newsletter.
+    subtitle: Mantente informado.
     actions:
-      - label: Subscribirme
-        url: http://eepurl.com/gLTXxT
+      - label: Me interesa
+        url: https://agorabinaria.typeform.com/to/ymWVLB
   - section_id: features
     type: section_features
     bg: gray
@@ -91,45 +91,50 @@ sections:
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
-          Paga solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
+          Dos modalidades:  [cursos en video a tu ritmo](/info/video) o [tutorizados en convocatorias](/info/convocatorias)
 
 
-          **Descuentos para grupos de empresa.** Sin papeleos ni burocracia.
+          Para hacerlo más fácil te ofrecemos el pago en tres plazos y tarifas adaptadas para [América Latina](/info/latam).
 
+
+          Siempre pagas solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
+        actions:
+          - label: Preguntas frecuentes
+            url: /info/faq
   - section_id: pricing
     type: section_pricing
     bg: gray
-    title: Planes de precios Europa.
+    title: Precios 🌍Europa € / 🌎América $.
     subtitle: >-
       🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón BIT_40 sobre el precio oficial.
     pricingplans:
       - title: Comunidad
-        price: 0 €
+        price: 0€/0$
         details: |-
           * _Porque el conocimiento es libre..._
-          * Blog Tutorial
+          * [Blog Tutorial](/tutorial/web-testing/contenido)
           * Repositorio de ejemplos
           * [Redes sociales](https://twitter.com/bit_ademy)
           * [Newsletter mensual](http://eepurl.com/gLTXxT)
         actions:
-          - label: Próximamente
-            url: http://eepurl.com/gLTXxT
+          - label: Empieza ya
+            url: /tutorial/web-testing
       - title: Video
-        price: 59 €
-        full_price: 99 €
+        price: 59€/53$
+        full_price: 99€/89$
         details: |-
           * _Porque valoras tu tiempo..._
           * Videos con explicaciones y demostraciones
           * Videos con ejercicios propuestos y resueltos
           * Cuestionario de autoevaluación
           * Documentación descargable
-          * **También en 3 plazos de 20€**
-        highlight: true
+          * **También en 3 plazos de 20€ o 18$**
+        highlight: false
         actions:
           - label: Próximamente
-            url: http://eepurl.com/gLTXxT
+            url: https://agorabinaria.typeform.com/to/ymWVLB
       - title: Tutorizado
         price: Desde 145 €
         details: |-
@@ -137,49 +142,13 @@ sections:
           * Foro para dudas con el tutor
           * Revisión de la práctica final
           * Diploma de aprovechamiento
-          * Bonificable FUNDAE
-          * **Próxima convocatoria 26 de mayo**
+          * Formatos en directo o pre grabado
+          * Participación en grupo
+          * Bonificable [FUNDAE](/info/fundae)
+          * **[Próxima convocatoria 26 de mayo](/info/convocatorias)**
         actions:
           - label: Infórmate
-            url: /info/fundae
-  - section_id: call-to-action
-    type: section_cta
-    title: Calidad en un mundo distribuido, globalizado y competitivo.
-    subtitle: Todo empieza por aprender las técnicas y asumir la responsabilidad para escribir software que funciona.
-    actions:
-      - label: ¿Nos visitas desde América latina?
-        url: /info/latam/
-  - section_id: faq
-    type: section_faq
-    bg: gray
-    title: Preguntas frecuentes
-    subtitle: 'Todo lo relacionado con tu inversión'
-    faqitems:
-      - question: ¿Se incluye el IVA ?
-        answer: >-
-          Sí. En Europa los precios incluyen el IVA y se emite factura para cada compra.
-      - question: ¿Qué formas de pago se admiten?
-        answer: >-
-          Tarjeta de crédito y PayPal. Se puede realizar en un pago único o en 3 plazos mensuales.
-      - question: ¿Hay cupones descuento ?
-        answer: >-
-          Sí. Durante la cuarentena 😷 tenemos activado el cupón BIT_40. Asígnalo durante el proceso de pago para un descuento del 40%. Quédate en casa. 🏡
-      - question: ¿Hay descuentos para grupos ?
-        answer: >-
-          Sí. Se pueden comprar cupones para obtener ventajas de escalado. [Solicita información](https://agorabinaria.typeform.com/to/ymWVLB)
-      - question: ¿Hay tarifas para Latinoamérica?
-        answer: >-
-          Sí, puedes consultarla en [este enlace](/info/latam/)
-      - question: ¿Cuánto tiempo puedo usar el curso?
-        answer: >-
-          Fácil, todo el tiempo. Cada curso se compra una sola vez y se puede visionar indefinidamente.
-          Sin ataduras temporales. Con mejoras y actualizaciones incluidas para siempre.
-      - question: ¿Cuánto tiempo me llevará completarlo?
-        answer: >-
-          Este es un curso intensivo. Según el nivel y el tiempo de práctica llevará entre 16 y 20 horas. Lo recomendable es dedicarle al menos 4 horas por semana y terminarlo en menos de un mes. Pero, recuerda, que lo tendrás aquí para siempre.
-      - question: ¿Cuándo empiezo?
-        answer: >-
-          Ya. Cuando quieras. Cuando puedas. No dependemos de fechas inicio fin. No tienes que esperar por tus compañeros ni adaptarte a horarios.
+            url: https://agorabinaria.typeform.com/to/ymWVLB
   - section_id: call-to-action
     type: section_cta
     title: Beneficio para el alumno. ¡Ejecuta tus tests y duerme tranquilo!
@@ -231,7 +200,7 @@ sections:
 
           > "Sí, este curso es para mi."
         actions:
-          - label: Empiezo ya.
+          - label: Vale, me interesa.
             url: https://agorabinaria.typeform.com/to/ymWVLB
   - section_id: call-to-action
     type: section_cta
