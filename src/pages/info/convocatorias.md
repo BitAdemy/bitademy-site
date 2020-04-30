@@ -56,7 +56,7 @@ template: page
       <td>26 de mayo</td>
       <td>⏱ Libre en video</td>
       <td>4 semanas</td>
-      <td>135 €</td>
+      <td>150 €</td>
     </tr>
     <tr>
       <td>Testing web
@@ -65,7 +65,7 @@ template: page
       <td>junio</td>
       <td>⏱ Libre en video</td>
       <td>4 semanas</td>
-      <td>135 €</td>
+      <td>150 €</td>
     </tr>
   </tbody>
   <tfoot>
