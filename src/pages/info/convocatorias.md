@@ -1,5 +1,5 @@
 ---
-title: Convocatorias de cursos con tutor
+title: Convocatorias con tutor
 subtitle: >-
   Cursos tutorizados. Formación asistida con tutor en directo o via chat.
 excerpt: >-
@@ -19,14 +19,10 @@ sections:
 template: page
 ---
 
-# Calendario de cursos
-
-Las ediciones de cursos con tutor están sujetas a un calendario de convocatorias.
-
-#### 📆 Convocatorias Abiertas al público en fechas fijas
+# 📆 Calendario de cursos
 
 <table>
-    <caption>Próximas ediciones On Line</caption>
+    <caption>Precios +IVA en Europa</caption>
   <thead>
     <tr>
       <th>Curso</th>
@@ -43,7 +39,7 @@ Las ediciones de cursos con tutor están sujetas a un calendario de convocatoria
       <td>15 de mayo</td>
       <td>⌚ Fijo en directo</td>
       <td>8 horas</td>
-      <td>145 €</td>
+      <td>120 €</td>
     </tr>
     <tr>
       <td>Testing web
@@ -52,7 +48,7 @@ Las ediciones de cursos con tutor están sujetas a un calendario de convocatoria
       <td>26 de mayo</td>
       <td>⌚ Fijo en directo</td>
       <td>8 horas</td>
-      <td>145 €</td>
+      <td>120 €</td>
     </tr>
     <tr>
       <td>Código Limpio
@@ -60,7 +56,7 @@ Las ediciones de cursos con tutor están sujetas a un calendario de convocatoria
       <td>26 de mayo</td>
       <td>⏱ Libre en video</td>
       <td>4 semanas</td>
-      <td>Pendiente</td>
+      <td>135 €</td>
     </tr>
     <tr>
       <td>Testing web
@@ -69,12 +65,14 @@ Las ediciones de cursos con tutor están sujetas a un calendario de convocatoria
       <td>junio</td>
       <td>⏱ Libre en video</td>
       <td>4 semanas</td>
-      <td>Pendiente</td>
+      <td>135 €</td>
     </tr>
   </tbody>
   <tfoot>
   </tfoot>
 </table>
+
+> Las ediciones de cursos con tutor están sujetas a un calendario de convocatorias y a límites mínimos y máximos de alumnos.
 
 ## Formatos
 

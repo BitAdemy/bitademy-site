@@ -22,9 +22,6 @@ sections:
 
       Aprende a programar mejor y mejora tus desarrollos.
 
-    actions:
-      - label: Quiero programar mejor.
-        url: https://aula.bitademy.com/p/precios_codigo-limpio
   - section_id: call-to-action
     type: section_cta
     title: Formación desde tu casa 🏡
@@ -97,13 +94,14 @@ sections:
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
+          Pagas solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
+
+
           Dos modalidades:  [cursos en video a tu ritmo](/info/video) o [tutorizados en convocatorias](/info/convocatorias)
 
 
-          Para hacerlo más fácil te ofrecemos el pago en tres plazos y tarifas adaptadas para [América Latina](/info/latam).
+          Para hacerlo más fácil te ofrecemos el pago en tres plazos y tarifas adaptadas para América Latina.
 
-
-          Siempre pagas solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
         actions:
@@ -112,61 +110,37 @@ sections:
   - section_id: pricing
     type: section_pricing
     bg: gray
-    title: Precios 🌍Europa € / 🌎América $.
+    title: Precios Video curso.
     subtitle: >-
       🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón BIT_40 sobre el precio oficial.
     pricingplans:
-      - title: Comunidad
-        price: 0€/0$
-        details: |-
-          * _Porque el conocimiento es libre..._
-          * [Blog Tutorial](/tutorial/clean-code/contenido)
-          * [Repositorio de ejemplos](https://github.com/labsAdemy/CleanCodeLab/)
-          * [Redes sociales](https://twitter.com/bit_ademy)
-          * [Newsletter mensual](http://eepurl.com/gLTXxT)
-        actions:
-          - label: Empieza ya
-            url: /tutorial/clean-code
-      - title: Video a tu ritmo
-        price: 59€/53$
-        full_price: 99€/89$
-        details: |-
-          * _Porque valoras tu tiempo..._
-          * Videos con explicaciones y demostraciones
-          * Videos con ejercicios propuestos y resueltos
-          * Cuestionario de autoevaluación
-          * Documentación descargable
+      - title: 🌍 Europa
+        price: 59 €/
+        full_price: 99 €
+        details:
         highlight: false
         actions:
-          - label: Europa 1 x 59 €
+          - label: 1 sólo pago de 59 €
             url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-          - label: Europa 3 x 20 €
+          - label: En 3 pagos de 20 €
             url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
-          - label: América 1 x 53 $
-            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-          - label: América 3 x 18 $
-            url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
-      - title: Tutorizado
-        price: Desde 145 €
-        details: |-
-          * _Porque quieres algo más..._
-          * Foro para dudas con el tutor
-          * Revisión de la práctica final
-          * Diploma de aprovechamiento
-          * Formatos en directo o pre grabado
-          * Participación en grupo
-          * Bonificable [FUNDAE](/info/fundae)
-          * **[Próxima convocatoria 15 de mayo](/info/convocatorias)**
+      - title: 🌎 América
+        price: 53 $
+        full_price: 89 $
+        details:
+        highlight: false
         actions:
-          - label: Infórmate
-            url: https://agorabinaria.typeform.com/to/ymWVLB
+          - label: 1 sólo pago de 53 $
+            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+          - label: En 3 pagos de 18 $
+            url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
   - section_id: call-to-action
     type: section_cta
-    title: Beneficio para el alumno. ¡Conviértete en artesano y aumenta tu valor!
-    subtitle: Aprende a escribir y rehacer aplicaciones limpias.
+    title: ¿Quieres algo más?
+    subtitle: Convocatorias con tutorías, evaluaciones y aprendizaje en grupo.
     actions:
-      - label: Contenido detallado.
-        url: /tutorial/clean-code/contenido
+      - label: Consulta precio y calendario
+        url: /info/convocatorias
   - section_id: features
     type: section_features
     bg: gray
@@ -215,15 +189,12 @@ sections:
             url: https://aula.bitademy.com/p/precios_codigo-limpio
   - section_id: call-to-action
     type: section_cta
-    title: Beneficio para la empresa. ¡Mejora la calidad de tus desarrollos!
+    title: Empresas.
     subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
     actions:
-      - label: Quiero Formar a mi equipo
+      - label: Quiero formar a mi equipo
         url: https://agorabinaria.typeform.com/to/ymWVLB
-# menus:
-#   main:
-#     weight: 2
-#     title: Features
-
+      - label: Bonificar por Fundae
+        url: /info/fundae/
 template: landing
 ---

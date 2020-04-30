@@ -23,13 +23,16 @@ sections:
 
       Aprende a probar tu código y mejora tus desarrollos.
 
+    actions:
+      - label: Disponible próximamente
+        url: /
   - section_id: call-to-action
     type: section_cta
-    title: Disponible en modo tutorizado
-    subtitle: Próximamente en video.
+    title: Disponible próximamente!
+    subtitle: Mantente informado.
     actions:
-      - label: Calendario
-        url: /info/convocatorias
+      - label: Me interesa
+        url: https://agorabinaria.typeform.com/to/ymWVLB
   - section_id: features
     type: section_features
     bg: gray
@@ -111,12 +114,18 @@ sections:
       - title: 🌍 Europa
         price: 59 €/
         full_price: 99 €
+        details:
+        highlight: false
         details: |-
           * _Próximamente..._
           * **También en 3 plazos de 20€ o 18$**
       - title: 🌎 América
         price: 53 $
         full_price: 89 $
+        details: |-
+          * _Próximamente..._
+          * **También en 3 plazos de 20€ o 18$**
+        highlight: false
         details: |-
           * _Próximamente..._
           * **También en 3 plazos de 20€ o 18$**
