@@ -1,7 +1,7 @@
 ---
 title: 🎓 Pablo Sánchez Hortas
 subtitle: >-
-  Clean Code aplicado para desarrollos limpios y rentables.
+  🎖 Diploma bitAdemy Online emitido el 30 de abril de 2020.
 excerpt: >-
   Pablo Sánchez Hortas diploma curso Clean Code aplicado para desarrollos limpios y rentables.
 post_url: /diplomas/clean-code/pablo-sanchez-hortas/
@@ -18,6 +18,6 @@ sections:
 template: page
 ---
 
-### [📗 Contenido del curso](/tutorial/clean-code/contenido)
+#### [📗 Clean Code aplicado para desarrollos limpios y rentables](/tutorial/clean-code/contenido)
 
-### [🎖 Descarga diploma PDF](/images/diplomas/bitademy-diploma-clean_code-pablo_sanchez_hortas.pdf)
+#### [📜 Descarga diploma PDF](https://www.bitademy.com/images/diplomas/bitademy-diploma-clean_code-pablo_sanchez_hortas.pdf)
