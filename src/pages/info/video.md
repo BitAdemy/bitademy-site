@@ -4,7 +4,7 @@ subtitle: >-
   Cursos prácticos en video para realizar a tu ritmo.
 excerpt: >-
   Video tutoriales. Cursos prácticos en video para realizar a tu ritmo.
-post_url: /info/vide/
+post_url: /info/video/
 img_path: images/undraw_youtube_tutorial.svg
 thumb_img_path: images/undraw_youtube_tutorial.svg
 date: '2020-04-29'
@@ -73,11 +73,11 @@ sections:
     title: Catálogo de cursos disponibles
   - section_id: call-to-action
     type: section_cta
-    title: ¿Quieres más?
+    title: ¿Quieres algo más?
     subtitle: Tutorías, evaluaciones y aprendizaje en grupo...
     actions:
       - label: Cursos por convocatorias
-        url: /info/convocatorias/
+        url: /info/tutorizado/
 # menus:
 #   main:
 #     weight: 2

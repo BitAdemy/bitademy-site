@@ -14,13 +14,7 @@ sections:
 
       Temáticas y modalidades para todos.
 
-      >_"Escoge bien para aprender y aumentar tu valor."_
-
-    actions:
-      - label: Video curso
-        url: /info/video/
-      - label: Por convocatorias
-        url: /info/convocatorias/
+      >_"Elige para aprender y aumentar tu valor."_
   - section_id: features
     type: section_features
     bg: gray
@@ -54,13 +48,13 @@ sections:
             url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
   - section_id: call-to-action
     type: section_cta
-    title: España y América latina.
+    title: Modalidades.
     subtitle: Una solución para cada situación.
     actions:
-      - label: Fundae para empresas españolas
-        url: /info/fundae/
-      - label: Ofertas para Latinoamérica
-        url: /info/latam/
+      - label: Video a mi ritmo
+        url: /info/video/
+      - label: Tutorizado en convocatorias
+        url: /info/tutorizado/
 menus:
   main:
     weight: 2

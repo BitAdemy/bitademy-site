@@ -63,25 +63,25 @@ sections:
             url: /info/
   - section_id: call-to-action
     type: section_cta
-    title: España y América latina.
-    subtitle: Una solución para cada situación.
+    title: Modalidades.
+    subtitle: Por tu cuenta o en grupo con tutor.
     actions:
-      - label: Fundae para empresas españolas
-        url: /info/fundae/
-      - label: Ofertas para Latinoamérica
-        url: /info/latam/
+      - label: Video
+        url: /info/video/
+      - label: Con tutor
+        url: /info/tutorizado/
   - section_id: recent-posts
     type: section_courses
     bg: gray
     title: Cursos
   - section_id: call-to-action
     type: section_cta
-    title: Modalidades.
-    subtitle: A tu ritmo o en grupo con tutor.
+    title: España y América latina.
+    subtitle: Soluciones únicas en un mundo global.
     actions:
-      - label: Video tutorial
-        url: /info/video/
-      - label: Por convocatoria
-        url: /info/convocatorias/
+      - label: Fundae para empresas españolas
+        url: /info/fundae/
+      - label: Ofertas para Latinoamérica
+        url: /info/latam/
 template: landing
 ---

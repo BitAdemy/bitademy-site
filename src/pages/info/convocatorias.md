@@ -1,7 +1,7 @@
 ---
 title: Convocatorias de cursos con tutor
 subtitle: >-
-  Formación con tutor en directo o via chat.
+  Cursos tutorizados. Formación asistida con tutor en directo o via chat.
 excerpt: >-
   Convocatorias cursos tutorizados. Formación con tutor ern directo o via chat.
 post_url: /info/convocatorias/
@@ -16,14 +16,10 @@ sections:
     actions:
       - label: Pongámonos en contacto
         url: https://agorabinaria.typeform.com/to/ymWVLB
-# menus:
-#   main:
-#     weight: 2
-#     title: Features
 template: page
 ---
 
-# Cursos tutorizados
+# Calendario de cursos
 
 Las ediciones de cursos con tutor están sujetas a un calendario de convocatorias.
 
@@ -88,14 +84,6 @@ BitAdemy imparte estos cursos con distintos _partners_ que los ofrecen dos forma
 >
 > [Más información sobre _Fundae_](https://www.bitademy.com/info/fundae/)
 
-#### ⌚ Horario fijo en directo
-
-- Son cursos **similares a los presenciales**.
-- Tiene un calendario y **horario fijos**.
-- El profesor imparte **la clase en directo**.
-- Los alumnos tienen la oportunidad de **preguntar en directo**.
-- La duración se expresa en **horas en directo**.
-
 #### ⏱ Horario libre en video
 
 - Son cursos **similares a un video tutorial**.
@@ -104,6 +92,14 @@ BitAdemy imparte estos cursos con distintos _partners_ que los ofrecen dos forma
 - Los alumnos tienen la oportunidad de **preguntar via foro**.
 - Los alumnos deben realizar una **práctica que será evaluada**.
 - La duración se expresa en **semanas de atención**.
+
+#### ⌚ Horario fijo en directo
+
+- Son cursos **similares a los presenciales**.
+- Tiene un calendario y **horario fijos**.
+- El profesor imparte **la clase en directo**.
+- Los alumnos tienen la oportunidad de **preguntar en directo**.
+- La duración se expresa en **horas en directo**.
 
 #### 💹 Características comunes
 

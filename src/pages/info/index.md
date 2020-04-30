@@ -15,13 +15,8 @@ sections:
 
       Bonificables en **España** o con precios especiales para **América**.
 
-      >_"Escoge bien para aprender y aumentar tu valor."_
+      >_"Elige para aprender y aumentar tu valor."_
 
-    # actions:
-    #   - label: Fundae
-    #     url: /info/fundae/
-    #   - label: Ofertas para América latina
-    #     url: /info/latam/
   - section_id: features
     type: section_features
     bg: gray
@@ -41,16 +36,18 @@ sections:
         actions:
           - label: Más sobre video tutoriales
             url: /info/video/
-      - title: Convocatorias
+      - title: Tutorizados
         image: images/undraw_calendar.svg
         content: >-
           Ediciones de cursos con la **participación del tutor**. Se realizan en fechas determinadas y con **plazas limitadas**.
 
 
-          Pueden realizarse **a medida** para tu empresa y son bonificables por _Fundae_.
+          Pueden realizarse **a medida** para tu empresa y son bonificables por [_Fundae_](/info/fundae).
 
           > _"Aprende en grupo con la guía de un tutor."_
         actions:
+          - label: Más sobre tutorizado
+            url: /info/tutorizado/
           - label: Ver convocatorias
             url: /info/convocatorias/
       - title: Fundae
@@ -81,6 +78,10 @@ sections:
         actions:
           - label: Ver precios latinoamericanos
             url: /info/latam/
+  - section_id: recent-posts
+    type: section_courses
+    bg: gray
+    title: Catálogo de cursos disponibles
   - section_id: call-to-action
     type: section_cta
     title: Podemos ayudarte
