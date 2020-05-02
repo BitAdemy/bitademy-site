@@ -19,13 +19,15 @@ template: page
 
 ## Misión
 
-La vocación de **bitAdemy** es ayudar a las empresas y programadores profesionales a ser más productivos.
+La vocación de **bitAdemy** es ayudar a las empresas y programadores profesionales a ser más productivos. Para ello se centra en la difusión de **técnicas de desarrollo de software prácticas y rentables**.
+
+Si crees que tú o tu equipo necesita mejorar su desempeño, esta es tu academia online de calidad.
 
 ## Productos y servicios
 
 Los contenidos están centrados en fundamentos y buenas prácticas. Pensando siempre en **aumentar tu valor**.
 
-Talleres online cortos y asequibles. Impartidos por profesionales experimentados.
+Talleres online cortos y asequibles. Impartidos por **profesionales experimentados**.
 
 Esperamos que nuestros **cursos y tutoriales** te resulten útiles.
 

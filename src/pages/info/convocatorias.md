@@ -1,9 +1,9 @@
 ---
-title: Convocatorias con tutor
+title: Calendario de Convocatorias
 subtitle: >-
   Cursos tutorizados. Formación asistida con tutor en directo o via chat.
 excerpt: >-
-  Convocatorias cursos tutorizados. Formación con tutor ern directo o via chat.
+  Calendario de cursos tutorizados. Formación con tutor en directo o via chat.
 post_url: /info/convocatorias/
 img_path: images/undraw_calendar.svg
 thumb_img_path: images/undraw_calendar.svg
@@ -76,7 +76,7 @@ template: page
 
 ## Formatos
 
-BitAdemy imparte estos cursos con distintos _partners_ que los ofrecen dos formatos diferentes. En un caso se emiten en directo y por tanto tienen horario fijo. En el otro se accede a vídeos y pueden realizarse en cualquier momento, pero dentro de un rango de fechas. En ambos casos el tutor está disponible para resolver cualquier duda.
+**BitAdemy** imparte estos cursos con distintos _partners_ para ofrecértelos en **dos formatos** diferentes. En un caso **se emiten en directo** y por tanto tienen horario fijo. En el otro **se accede a vídeos** y pueden realizarse en cualquier momento, pero dentro de un rango de fechas. En ambos casos el tutor está disponible para resolver cualquier duda.
 
 > Estas ediciones son bonificables por **Fundae** para las empresas españolas que lo soliciten.
 >
@@ -125,7 +125,7 @@ Por supuesto cualquiera de los cursos se puede realizar en video sin la particip
 
 > Estos son cursos para realizar a tu propio ritmo.
 >
-> [Más información sobre en Video tutoriales](https://www.bitademy.com/info/video/)
+> [Más información sobre Video tutoriales](https://www.bitademy.com/info/video/)
 
 - **En el momento** deseado.
 - **Sin esperas** por convocatorias.

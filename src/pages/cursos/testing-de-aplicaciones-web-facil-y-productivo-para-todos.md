@@ -113,13 +113,13 @@ sections:
         full_price: 99 €
         details: |-
           * _Próximamente..._
-          * **También en 3 plazos de 20€ o 18$**
+          * **También en 3 plazos de 20€**
       - title: 🌎 América
         price: 53 $
         full_price: 89 $
         details: |-
           * _Próximamente..._
-          * **También en 3 plazos de 20€ o 18$**
+          * **También en 3 plazos de 18$**
   - section_id: call-to-action
     type: section_cta
     title: ¿Quieres algo más?
