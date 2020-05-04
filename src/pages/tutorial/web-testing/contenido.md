@@ -10,8 +10,6 @@ thumb_img_path: images/undraw_science.png
 date: '2020-04-27'
 up: Tutorial WebTesting
 up_url: tutorial/web-testing
-next: Software que funciona
-next_url: /tutorial/web-testing/software-que-funciona/
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -31,7 +29,7 @@ template: tutorial
 
 ---
 
-### 🌐 E2E: Pruebas externas de principio a fin.
+### 🌐 E2E: [Pruebas externas de principio a fin.](https://www.bitademy.com/tutorial/web-testing/e2e)
 
 #### 🎭 Pruebas de aplicaciones web con **Puppeteer**
 
