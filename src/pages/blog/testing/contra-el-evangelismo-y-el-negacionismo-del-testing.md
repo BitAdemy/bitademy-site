@@ -61,7 +61,7 @@ Repasa la lista de características de un buen software: eficaz, fiable, manteni
 Por supuesto que las pruebas requieren tiempo. Claro, y esfuerzo de aprendizaje, y también disciplina. Y todo eso al final tiene un coste. Para no enfrentar ese coste los individuos y las organizaciones han desarrollado su propio catálogo de excusas.
 
 - ❌ _Las pruebas son inútiles porque pruebo lo que ya sé._
-- ❌ _Bufff.. Requieren demasiado esfuerzo._
+- ❌ _Buff... Requieren demasiado esfuerzo._
 - ❌ _No dudo de mi código. Eso es para novatos._
 - ❌ _Nadie me las pide. Sólo me hablan de fechas y funcionalidades._
 - ❌ _Nadie las valora. Mi jefe, mi cliente no sabe ni de qué le hablo._
