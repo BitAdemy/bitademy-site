@@ -12,6 +12,8 @@ up: Tutorial Clean Code
 up_url: tutorial/clean-code
 previous: Cohesion de primitivos
 previous_url: tutorial/clean-code/datos/cohesion_de_primitivos
+next: Objetos y lógica de negocio
+next_url: tutorial/clean-code/objetos/
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/DATA/src/examples/2-algorithms
 sections:

@@ -63,7 +63,7 @@ template: tutorial
 
 ---
 
-### 📦 Objetos y lógica de negocio.
+### 📦 [Objetos y lógica de negocio.](https://www.bitademy.com/tutorial/clean-code/objetos/)
 
 #### 🧱 Cohesión de funciones
 
