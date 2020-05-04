@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.41.0](https://github.com/BitAdemy/bitademy-site/compare/v1.40.0...v1.41.0) (2020-05-04)
+
+
+### Features
+
+* ✍🏼 blog confinamiento ([15fc158](https://github.com/BitAdemy/bitademy-site/commit/15fc15800c6e9cd61a49e73e43a135dada9ba312))
+* ✍🏼 tutorial object ([1a62c02](https://github.com/BitAdemy/bitademy-site/commit/1a62c0212bc06b163d52280dc83947034a9de281))
+* 🚧 puppeteer tutorial ([c5b05dd](https://github.com/BitAdemy/bitademy-site/commit/c5b05dd07dd2795d502a275fb5eb470aa4439bbc))
+
 ## [1.40.0](https://github.com/BitAdemy/bitademy-site/compare/v1.39.0...v1.40.0) (2020-05-04)
 
 
