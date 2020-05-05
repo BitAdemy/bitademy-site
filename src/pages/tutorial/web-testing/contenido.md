@@ -31,7 +31,7 @@ template: tutorial
 
 ### 🌐 E2E: [Pruebas externas de principio a fin.](https://www.bitademy.com/tutorial/web-testing/e2e)
 
-#### 🎭 Pruebas de aplicaciones web con **Puppeteer**
+#### 🎭 [Pruebas de aplicaciones web con **Puppeteer**](https://www.bitademy.com/tutorial/web-testing/e2e/pruebas-de-aplicaciones-web-con-puppeteer)
 
 #### 🤖 Automatización, web scraping y rendimiento.
 
