@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.42.0](https://github.com/BitAdemy/bitademy-site/compare/v1.41.0...v1.42.0) (2020-05-05)
+
+
+### Features
+
+* 🤑 promo clean code ([d6ff958](https://github.com/BitAdemy/bitademy-site/commit/d6ff958724f25c51776e143f9ffd0c9324851018))
+
+
+### Bug Fixes
+
+* 🔧 exclude promo subfolders from sitemap ([1f95456](https://github.com/BitAdemy/bitademy-site/commit/1f954566a68d53d354133c3d0302fcce29721136))
+
 ## [1.41.0](https://github.com/BitAdemy/bitademy-site/compare/v1.40.0...v1.41.0) (2020-05-04)
 
 
