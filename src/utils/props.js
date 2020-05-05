@@ -53,6 +53,7 @@ export const props = {
   getTutorialNextUrl: props => getUrl(_.get(props, frontmatter + 'next_url')),
   getTutorialPrevious: props => _.get(props, frontmatter + 'previous'),
   getTutorialPreviousUrl: props => getUrl(_.get(props, frontmatter + 'previous_url')),
+  hideMenu: props => _.get(props, frontmatter + 'hide_menu'),
   isBlogOrLanding: props => ['landing', 'blog'].includes(_.get(props, frontmatter + 'template')),
   isCurrentMenuItem: (props, item) => _.get(props, context + 'url') === _.get(item, 'url')
 };

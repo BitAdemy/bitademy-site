@@ -32,26 +32,39 @@ export default class Header extends React.Component {
                   <span className="screen-reader-text">Open Menu</span>
                   <span className="icon-close" aria-hidden="true" />
                 </button>
-                <ul className="menu">
-                  {_.map(props.getPageMainMenu(this.props), (item, item_idx) => (
-                    <li
-                      key={item_idx}
-                      className={
-                        'menu-item ' +
-                        (props.isCurrentMenuItem(this.props, item) ? ' current-menu-item' : '')
-                      }>
-                      <Link to={safePrefix(_.get(item, 'url'))}>{_.get(item, 'title')}</Link>
-                    </li>
-                  ))}
-                  {props.getSiteHeaderMenuActions(this.props) &&
-                    _.map(props.getSiteHeaderMenuActions(this.props), (action, action_idx) => (
-                      <li key={action_idx} className="menu-item menu-button">
-                        <Link to={safePrefix(_.get(action, 'url'))} className="button">
-                          {_.get(action, 'label')}
-                        </Link>
+                {props.hideMenu(this.props) === true ? (
+                  <ul className="menu">
+                    {props.getSiteHeaderMenuActions(this.props) &&
+                      _.map(props.getSiteHeaderMenuActions(this.props), (action, action_idx) => (
+                        <li key={action_idx} className="menu-item menu-button">
+                          <Link to={safePrefix(_.get(action, 'url'))} className="button">
+                            {_.get(action, 'label')}
+                          </Link>
+                        </li>
+                      ))}
+                  </ul>
+                ) : (
+                  <ul className="menu">
+                    {_.map(props.getPageMainMenu(this.props), (item, item_idx) => (
+                      <li
+                        key={item_idx}
+                        className={
+                          'menu-item ' +
+                          (props.isCurrentMenuItem(this.props, item) ? ' current-menu-item' : '')
+                        }>
+                        <Link to={safePrefix(_.get(item, 'url'))}>{_.get(item, 'title')}</Link>
                       </li>
                     ))}
-                </ul>
+                    {props.getSiteHeaderMenuActions(this.props) &&
+                      _.map(props.getSiteHeaderMenuActions(this.props), (action, action_idx) => (
+                        <li key={action_idx} className="menu-item menu-button">
+                          <Link to={safePrefix(_.get(action, 'url'))} className="button">
+                            {_.get(action, 'label')}
+                          </Link>
+                        </li>
+                      ))}
+                  </ul>
+                )}
               </div>
             </nav>
             <button id="menu-open" className="menu-toggle">

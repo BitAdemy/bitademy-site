@@ -6,7 +6,12 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
     `gatsby-plugin-netlify-cache`,
-    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        exclude: [`/promo/*`]
+      }
+    },
     `gatsby-plugin-robots-txt`,
     // `gatsby-plugin-offline`,
     `gatsby-plugin-remove-serviceworker`,
