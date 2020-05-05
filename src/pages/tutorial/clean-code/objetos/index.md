@@ -4,14 +4,16 @@ subtitle: >-
   Muchas clases pequeñas bien encapsuladas.
 excerpt: >-
   Objetos y lógica de negocio. Muchas clases pequeñas bien encapsuladas.
-post_url: tutorial/clean-code/datos/
+post_url: tutorial/clean-code/objetos/
 img_path: images/undraw_clean_up.png
 thumb_img_path: images/undraw_clean_up.png
-date: '2020-04-27'
+date: '2020-05-04'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
 previous: Condiciones y algoritmos
 previous_url: tutorial/clean-code/datos/condiciones_y_algoritmos
+next: Cohesión de funciones
+next_url: tutorial/clean-code/objetos/cohesion_de_funciones/
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/OBJECT
 sections:

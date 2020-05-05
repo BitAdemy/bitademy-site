@@ -27,13 +27,13 @@ template: tutorial
 
 ### 🏁 [Introducción](https://www.bitademy.com/tutorial/clean-code/)
 
-#### 🤢 [Perdona pero... tu código huele.](https://www.bitademy.com/tutorial/clean-code/perdona_pero_tu_codigo_huele)
+#### 🤢 [Perdona pero... tu código huele.](https://www.bitademy.com/tutorial/clean-code/perdona_pero_tu_codigo_huele/)
 
-#### ✅ [Software que funciona](https://www.bitademy.com/tutorial/clean-code/software_que_funciona)
+#### ✅ [Software que funciona](https://www.bitademy.com/tutorial/clean-code/software_que_funciona/)
 
 ---
 
-### 🏷️ [Estilo y nombrado.](https://www.bitademy.com/tutorial/clean-code/nombres/estilo_y_nombrado)
+### 🏷️ [Estilo y nombrado.](https://www.bitademy.com/tutorial/clean-code/nombres/estilo_y_nombrado/)
 
 #### ✨ [Estilo y orden](https://www.bitademy.com/tutorial/clean-code/nombres/estilo_y_orden)
 
@@ -45,27 +45,27 @@ template: tutorial
 
 ---
 
-### 🔀 [Instrucciones, bloques y funciones.](https://www.bitademy.com/tutorial/clean-code/funciones)
+### 🔀 [Instrucciones, bloques y funciones.](https://www.bitademy.com/tutorial/clean-code/funciones/)
 
-#### 👉 [Declaración, asignación e invocación](https://www.bitademy.com/tutorial/clean-code/funciones/declaracion_asignacion_e_invocacion)
+#### 👉 [Declaración, asignación e invocación](https://www.bitademy.com/tutorial/clean-code/funciones/declaracion_asignacion_e_invocacion/)
 
-#### ➰ [Estructuras repetitivas y condicionales](https://www.bitademy.com/tutorial/clean-code/funciones/estructuras_repetitivas_y_condicionales)
+#### ➰ [Estructuras repetitivas y condicionales](https://www.bitademy.com/tutorial/clean-code/funciones/estructuras_repetitivas_y_condicionales/)
 
-#### 🧩 [Funciones puras y métodos de clase](https://www.bitademy.com/tutorial/clean-code/funciones/funciones_puras_y_metodos_de_clase)
+#### 🧩 [Funciones puras y métodos de clase](https://www.bitademy.com/tutorial/clean-code/funciones/funciones_puras_y_metodos_de_clase/)
 
 ---
 
 ### 🗂️ [Estructuras de datos.](https://www.bitademy.com/tutorial/clean-code/datos/)
 
-#### 🗃️ [Cohesion de primitivos](https://www.bitademy.com/tutorial/clean-code/datos/cohesion_de_primitivos)
+#### 🗃️ [Cohesion de primitivos](https://www.bitademy.com/tutorial/clean-code/datos/cohesion_de_primitivos/)
 
-#### 🔱 [Condiciones y algoritmos](https://www.bitademy.com/tutorial/clean-code/datos/condiciones_y_algoritmos)
+#### 🔱 [Condiciones y algoritmos](https://www.bitademy.com/tutorial/clean-code/datos/condiciones_y_algoritmos/)
 
 ---
 
 ### 📦 [Objetos y lógica de negocio.](https://www.bitademy.com/tutorial/clean-code/objetos/)
 
-#### 🧱 Cohesión de funciones
+#### 🧱 [Cohesión de funciones](https://www.bitademy.com/tutorial/clean-code/objetos/cohesion_de_funciones/)
 
 #### ⚒️ Principios sólidos para finales flexibles
 
