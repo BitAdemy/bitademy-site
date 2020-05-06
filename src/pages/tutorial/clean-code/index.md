@@ -43,7 +43,7 @@ Sobre todo porque casi siempre tu principal lector será tu yo del futuro.
 
 ## 🏁 Introducción
 
-Voy dejarte unas instrucciones en un idioma humano para que las sigas y escribas mejor código.
+Voy a dejarte unas instrucciones en un idioma humano para que las sigas y escribas mejor código.
 
 1 - **Programar es expresar procesos con detalle en un lenguaje no ambiguo** que entiendan las máquinas.
 
