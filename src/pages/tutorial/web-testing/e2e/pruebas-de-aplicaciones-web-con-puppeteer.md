@@ -45,7 +45,7 @@ Lo que sí que respetaré será la estructura básica de un test. La famosa _tri
 
 La sección de preparación de cualquier test debe dejarlo listo para la ejecución de pruebas. Habitualmente **se preparan objetos** de negocio, ficheros, servicios o como en este caso se configura _Puppeteer_ para visitar páginas en modo oculto.
 
-```js
+```javascript
 async function arrangeBrowser() {
   console.info(`arranging browser `);
   const browser = await puppeteer.launch({

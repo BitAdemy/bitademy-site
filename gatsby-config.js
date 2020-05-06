@@ -50,6 +50,12 @@ module.exports = {
               target: `_blank`,
               rel: `nofollow noopener noreferrer`
             }
+          },
+          {
+            resolve: `gatsby-remark-highlight-code`,
+            options: {
+              terminal: 'carbon'
+            }
           }
         ]
       }
