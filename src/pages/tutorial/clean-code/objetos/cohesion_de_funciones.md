@@ -12,6 +12,8 @@ up: Tutorial Clean Code
 up_url: tutorial/clean-code
 previous: Objetos y lógica de negocio
 previous_url: tutorial/clean-code/objetos/
+next: Principios sólidos para finales flexibles
+next_url: tutorial/clean-code/objetos/principios_solidos_para_finales_flexibles/
 sections:
   - section_id: call-to-action
     type: section_cta
