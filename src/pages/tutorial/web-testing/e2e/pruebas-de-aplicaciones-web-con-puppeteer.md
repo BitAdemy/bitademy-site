@@ -124,7 +124,7 @@ Si nuestra afirmación sobre el resultado real es la esperada, entonces habremos
 
 > En este tutorial por simplicidad empleamos la librería propia de Node; pero te recomiendo que valores usar otras más potentes como [chai](https://www.chaijs.com/) o la que usaremos más adelante: [jest](https://jestjs.io/).
 
-## After
+### After
 
 Es muy recomendable disponer de una sección que limpie cualquier efecto secundario de una prueba. Estos métodos se ejecutan después de realizarse y en inglés son simplemente `after`.
 
@@ -140,8 +140,44 @@ async function afterAll(browser, numErrors) {
 }
 ```
 
-Podemos usarlo para informar al usuario, o cualquier otro proceso, que el ejercicio ha finalizado pasando o no las pruebas. En [el laboratorio](https://github.com/LabsAdemy/WebTesting_e2e-puppeteer_Labs) tienes un ejemplo más completo de lo que es capaz Puppeteer.
+También podemos usar esta sección para informar al usuario, o a cualquier otro proceso, de que el ejercicio ha finalizado pasando o no las pruebas.
 
-##
+### Interacción
 
-🚧 work in progress 🚧
+_Puppeteer_ no sólo permite visitar páginas, si no que **simula la interacción de un usuario**. Desde hacer click en un enlace hasta cubrir formularios complejos.
+
+**Cuando la interacción se complica**, es decir cuando queremos hacer una prueba funcional, yo **prefiero usar** una herramienta más adecuada como **[Cypress](https://www.cypress.io/)**. Pero, hay situaciones de poca interacción y que resuelve muy bien Puppeteer.
+
+Por ejemplo, permite hacer _logIn_ en un sitio autenticado, o cubrir pequeños formularios. Para ver la sintaxis necesaria te muestro cómo probar un formulario de suscripción a una _newsletter_; que además es algo muy similar a una pantalla de _logIn_.
+
+```js
+async function itShouldAllowSubscribe(pagePuppet) {
+  try {
+    console.info(`it Should Allow Subscribe`);
+    await actSelect(pagePuppet, '#MERGE0');
+    await actType(pagePuppet, 'puppet@bitademy.com');
+    await actClick(pagePuppet, '#subscribe-form > button');
+    return 0;
+  } catch (error) {
+    console.warn({ error });
+    return 1;
+  }
+}
+
+async function actSelect(pagePuppet, selector) {
+  await pagePuppet.evaluate(function (selector) {
+    return document.querySelector(selector).scrollBy(0, 10);
+  }, selector);
+  await pagePuppet.focus(selector);
+}
+
+async function actType(pagePuppet, value) {
+  await pagePuppet.keyboard.type(value);
+}
+
+async function actClick(pagePuppet, selector) {
+  await pagePuppet.click(selector);
+}
+```
+
+> En [el laboratorio](https://github.com/LabsAdemy/WebTesting_e2e-puppeteer_Labs) tienes más ejemplos de lo que es capaz _Puppeteer_. Y si aún quieres más puede mirar este otro repositorio aún más completo [AtomicBuilders/muon](https://github.com/AtomicBuilders/muon)
