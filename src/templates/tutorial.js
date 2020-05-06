@@ -1,8 +1,7 @@
-import { defineCustomElements as deckDeckGoHighlightElement } from '@deckdeckgo/highlight-code/dist/loader';
 import React from 'react';
 import { Layout, SectionCta, TutorialHeader, TutorialMetaData } from '../components/index';
 import { htmlToReact, props } from '../utils';
-deckDeckGoHighlightElement();
+
 export default class Tutorial extends React.Component {
   render() {
     return (

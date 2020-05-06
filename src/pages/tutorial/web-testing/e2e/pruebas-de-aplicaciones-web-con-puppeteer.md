@@ -142,4 +142,6 @@ async function afterAll(browser, numErrors) {
 
 Podemos usarlo para informar al usuario, o cualquier otro proceso, que el ejercicio ha finalizado pasando o no las pruebas. En [el laboratorio](https://github.com/LabsAdemy/WebTesting_e2e-puppeteer_Labs) tienes un ejemplo más completo de lo que es capaz Puppeteer.
 
+##
+
 🚧 work in progress 🚧

@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 import { Scripts } from './components';
+
 export default function HTML(props) {
   return (
     <html {...props.htmlAttributes} lang="es">
