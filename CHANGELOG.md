@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.44.0](https://github.com/BitAdemy/bitademy-site/compare/v1.43.0...v1.44.0) (2020-05-06)
+
+
+### Features
+
+* ✍🏼 tutorial puppeteer ([c853afb](https://github.com/BitAdemy/bitademy-site/commit/c853afba8da8d4b09ae658baf33a09c09a641590))
+
+
+### Bug Fixes
+
+* 🤬code color impossible ([5c3054b](https://github.com/BitAdemy/bitademy-site/commit/5c3054b2902e061b21a59d9082c3b8d117dcc348))
+
 ## [1.43.0](https://github.com/BitAdemy/bitademy-site/compare/v1.42.0...v1.43.0) (2020-05-05)
 
 
