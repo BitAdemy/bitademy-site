@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.48.0](https://github.com/BitAdemy/bitademy-site/compare/v1.47.0...v1.48.0) (2020-05-07)
+
+
+### Features
+
+* 📚 estilo y nombrado ([9372c76](https://github.com/BitAdemy/bitademy-site/commit/9372c760db5e564e58f2bb3ffe484872bea8c631))
+
 ## [1.47.0](https://github.com/BitAdemy/bitademy-site/compare/v1.46.0...v1.47.0) (2020-05-07)
 
 
