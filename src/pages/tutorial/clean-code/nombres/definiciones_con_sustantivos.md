@@ -47,7 +47,7 @@ Al hablar de claridad en el código nos referimos a **mostrar en el lenguaje esc
 
 Así que el lenguaje de programación, per se, no nos va a ayudar a expresar la intención que tenemos durante el desarrollo. Tenemos que **enriquecer ese lenguaje, idioma, con un vocabulario propio** del modelo que estamos codificando.
 
-Nuestra primera parada en la creación de este lenguaje (idioma) serán **los sustantivos**. Es posible que en tu juego parezca el concepto de partida, jugador o puntuación. En una tienda online tendremos pedidos, artículos y precios. Las aplicaciones de gestión empresarial hablarán de clientes, proveedores, facturas, citas o presupuestos.
+Nuestra primera parada en la creación de este lenguaje (idioma) serán **los sustantivos**. Es posible que en tu juego aparezca el concepto de partida, jugador o puntuación. En una tienda online tendremos pedidos, artículos y precios. Las aplicaciones de gestión empresarial hablarán de clientes, proveedores, facturas, citas o presupuestos.
 
 Normalmente los conceptos de negocio que acabo de recitar forman parte de una análisis más o menos formal del dominio del sistema. Suelen ser los nombres asignados a las entidades y sus atributos. En muchos casos aparecen en las bases de datos (estados congelados de uno o varios programas) o se accede a ellos mediante APIS (estados remotos de los programas).
 
