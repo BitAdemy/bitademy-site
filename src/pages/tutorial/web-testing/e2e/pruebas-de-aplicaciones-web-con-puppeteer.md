@@ -43,13 +43,14 @@ Lo que sí que respetaré será la estructura básica de un test. La famosa _tri
 
 ### Arrange
 
-La sección de preparación de cualquier test debe dejarlo listo para la ejecución de pruebas. Habitualmente **se preparan objetos** de negocio, ficheros, servicios o como en este caso se configura _Puppeteer_ para visitar páginas en modo oculto.
+La sección de preparación de cualquier test debe dejarlo listo para la ejecución de pruebas. Habitualmente **se preparan objetos** de negocio, ficheros, servicios o como en este caso se configura _Puppeteer_ para visitar páginas en modo oculto y ala resloción que determinemos.
 
 ```javascript
 async function arrangeBrowser() {
   console.info(`arranging browser `);
   const browser = await puppeteer.launch({
-    headless: true
+    headless: true,
+    defaultViewport: { width: 1920, height: 1080 }
   });
   const pagePuppet = await browser.newPage();
   return { browser, pagePuppet };
@@ -61,24 +62,33 @@ A partir de este momento ya empezamos con **lo que debería ocurrir**. Son los h
 En los casos más básicos se puede optar por un simple `try catch` que detecte errores. Por ejemplo para comprobar si una página existe o no.
 
 ```js
-async function itShouldExist(pagePuppet, pageUrl) {
-  console.info(`it Should Exist a page: ${pageUrl}`);
+module.exports = async function itShouldExist(pagePuppet) {
+  let errors = 1;
+  const inputPageUrl = 'https://www.bitademy.com';
+  console.info(`GIVEN the url: ${inputPageUrl}`);
   try {
-    await pagePuppet.goto(pageUrl, { waitUntil: 'networkidle2' });
-    return 0;
+    console.info(`  WHEN is visited`);
+    await pagePuppet.goto(inputPageUrl, { waitUntil: 'networkidle2' });
+    console.info(`    THEN it Should Exist a page: ${inputPageUrl}`);
+    errors = 0;
   } catch (error) {
     console.warn({ error });
-    return 1;
   }
-}
+  assertTrue(errors == 0, `Could not visit the url: ${inputPageUrl}`);
+  return errors;
+};
 ```
 
-Aunque mucho más habitual será **actuar y comprobar**. Por ejemplo si la página existe pero queremos comprobar que es la adecuada. Para ello se usan dos secciones. En la primera actuamos sobre el sistema y en la segunda comprobamos el resultado.
+Fíjate en la auditoria tan explícita que se hace. En un test siempre querrás saber lo que está pasando. Recuerda que es una herramienta para el desarrollador, es decir, para ti. Así que haz que te resulte cómoda, agradable y util.
+
+Para homogenizar los mensajes te propongo que uses la terminología que tomo prestada del BDD. Se basa en usar los tres sucesos de toda prueba. _Given, when, then_. Es decir **dada** una situación de partida, **cuando** el usuario realiza una acción, **entonces** el sistema debería responder adecuadamente.
+
+Este caso de **intentar** es habitual, aunque mucho más habitual será **actuar y comprobar**. Por ejemplo si la página existe pero queremos comprobar que es la adecuada. Para ello se usan dos secciones. En la primera actuamos sobre el sistema y en la segunda comprobamos el resultado.
 
 ```js
 async function itShouldHaveTitle(pagePuppet) {
+  console.info(`GIVEN a page`);
   const expected = 'bitAdemy';
-  console.info(`it Should Have Title: ${expected}`);
   ...
 }
 ```
@@ -92,6 +102,7 @@ El ejemplo más sencillo con _Puppeteer_ podría ser algo así.
 ```js
 async function itShouldHaveTitle(pagePuppet) {
   ...
+  console.info(`  WHEN we get its title`);
   const actual = await actGetTitle(pagePuppet);
   ...
 }
@@ -107,14 +118,16 @@ Estamos ya en la delicada fase de comprobación. En esencia queremos saber si al
 ```js
 async function itShouldHaveTitle(pagePuppet) {
   ...
+  console.info(`    THEN it Should Have Title: ${expected}`);
   return assertEqual(actual, expected);
 }
 function assertEqual(actual, expected) {
   try {
     assert.strictEqual(actual, expected);
+    console.info(`      🟩 SUCCESS`);
     return 0;
   } catch (error) {
-    console.warn({ error });
+    console.info(`      🔴 FAIL: expected ${error.expected} but got ${error.actual} `);
     return 1;
   }
 }
@@ -132,9 +145,9 @@ Es muy recomendable disponer de una sección que limpie cualquier efecto secunda
 async function afterAll(browser, numErrors) {
   await browser.close();
   if (numErrors) {
-    console.warn(`there are ${numErrors} site errors`);
+    console.warn(`🔴 FAIL: there are ${numErrors} site errors`);
   } else {
-    console.info('test completed successfully');
+    console.info('🟩 SUCCESS: all tests completed successfully');
   }
   process.exit(numErrors);
 }
@@ -151,18 +164,24 @@ _Puppeteer_ no sólo permite visitar páginas, si no que **simula la interacció
 Por ejemplo, permite hacer _logIn_ en un sitio autenticado, o cubrir pequeños formularios. Para ver la sintaxis necesaria te muestro cómo probar un formulario de suscripción a una _newsletter_; que además es algo muy similar a una pantalla de _logIn_.
 
 ```js
-async function itShouldAllowSubscribe(pagePuppet) {
+module.exports = async function itShouldAllowSubscribe(pagePuppet) {
+  let errors = 1;
+  console.info(`GIVEN a page with a subscribe form `);
   try {
-    console.info(`it Should Allow Subscribe`);
+    console.info(`  WHEN we select the input `);
     await actSelect(pagePuppet, '#MERGE0');
+    console.info(`  AND WHEN we type at the selected input `);
     await actType(pagePuppet, 'puppet@bitademy.com');
+    console.info(`  AND WHEN we click on the subscribe button `);
     await actClick(pagePuppet, '#subscribe-form > button');
-    return 0;
+    console.info(`    THEN it Should Allow Subscribe`);
+    errors = 0;
   } catch (error) {
     console.warn({ error });
-    return 1;
   }
-}
+  assertTrue(errors == 0, `Could not complete subscribe process`);
+  return errors;
+};
 
 async function actSelect(pagePuppet, selector) {
   await pagePuppet.evaluate(function (selector) {
@@ -178,6 +197,23 @@ async function actType(pagePuppet, value) {
 async function actClick(pagePuppet, selector) {
   await pagePuppet.click(selector);
 }
+```
+
+### Imagen
+
+Con _Puppeteer_ podemos **capturar instantáneas y guardarlas** en distintos formatos en cualquier momento de la ejecución de un test. Es habitual usarlas para hacer un seguimiento de los cambios de apariencia con el tiempo. Y mucho más importante, usarlo para comprobar cómo se visualiza a **distintas resoluciones o simuladores de dispositivos**.
+
+La sintaxis no puede ser más sencilla. Cuidado que te puedes enganchar y llenar un disco en un par de tardes.
+
+```js
+module.exports = async function takeScreenshot(pagePuppet) {
+  const timeStamp = new Date().getTime();
+  const shotPath = path.join(process.cwd(), 'images', `${timeStamp}.png`);
+  await pagePuppet.screenshot({
+    path: shotPath,
+    fullPage: true
+  });
+};
 ```
 
 > En [el laboratorio](https://github.com/LabsAdemy/WebTesting_e2e-puppeteer_Labs) tienes más ejemplos de lo que es capaz _Puppeteer_. Y si aún quieres más puede mirar este otro repositorio aún más completo [AtomicBuilders/muon](https://github.com/AtomicBuilders/muon)
