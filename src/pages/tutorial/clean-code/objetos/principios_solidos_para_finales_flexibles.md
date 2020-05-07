@@ -12,6 +12,8 @@ up: Tutorial Clean Code
 up_url: tutorial/clean-code
 previous: Cohesión de funciones
 previous_url: tutorial/clean-code/objetos/cohesion_de_funciones/
+next: Artesanía
+next_url: tutorial/clean-code/artesania/
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/OBJECT/src/examples/
 sections:

@@ -43,7 +43,7 @@ Lo que sí que respetaré será la estructura básica de un test. La famosa _tri
 
 ### Arrange
 
-La sección de preparación de cualquier test debe dejarlo listo para la ejecución de pruebas. Habitualmente **se preparan objetos** de negocio, ficheros, servicios o como en este caso se configura _Puppeteer_ para visitar páginas en modo oculto y ala resloción que determinemos.
+La sección de preparación de cualquier test debe dejarlo listo para la ejecución de pruebas. Habitualmente **se preparan objetos** de negocio, ficheros, servicios o como en este caso se configura _Puppeteer_ para visitar páginas en modo oculto y a la resolución que determinemos.
 
 ```javascript
 async function arrangeBrowser() {
