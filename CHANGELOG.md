@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.49.0](https://github.com/BitAdemy/bitademy-site/compare/v1.48.0...v1.49.0) (2020-05-07)
+
+
+### Features
+
+* ✍🏼 artesania tutorial ([fd7a615](https://github.com/BitAdemy/bitademy-site/commit/fd7a6158a4a5eb1629bb20697531cfd1a6a33738))
+
 ## [1.48.0](https://github.com/BitAdemy/bitademy-site/compare/v1.47.0...v1.48.0) (2020-05-07)
 
 
