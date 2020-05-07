@@ -8,7 +8,7 @@ post_url: blog/
 img_path: images/undraw_blog.svg
 menus:
   main:
-    weight: 4
+    weight: 2
     title: Blog
   secondary:
     weight: 1

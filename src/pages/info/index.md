@@ -16,7 +16,11 @@ sections:
       Bonificables en **España** o con precios especiales para **América**.
 
       >_"Elige para aprender y aumentar tu valor."_
-
+    actions:
+      - label: Ver catálogo
+        url: /cursos/
+      - label: Ver convocatorias
+        url: /info/convocatorias/
   - section_id: features
     type: section_features
     bg: gray
@@ -92,6 +96,9 @@ sections:
 menus:
   main:
     weight: 5
-    title: Info
+    title: Modos
+  secondary:
+    weight: 3
+    title: Modalidades
 template: landing
 ---

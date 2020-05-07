@@ -97,7 +97,7 @@ sections:
           Pagas solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
 
 
-          Dos modalidades:  [cursos en video a tu ritmo](/info/video) o [tutorizados en convocatorias](/info/convocatorias)
+          Dos modalidades:  [💻 cursos en video a tu ritmo](/info/video) o también [👨🏼‍💻 tutorizados en convocatorias](/info/convocatorias)
 
 
           Para hacerlo más fácil te ofrecemos el pago en tres plazos y tarifas adaptadas para América Latina.
@@ -110,14 +110,17 @@ sections:
   - section_id: pricing
     type: section_pricing
     bg: gray
-    title: Precios Video curso.
+    title: Precios y descuentos.
     subtitle: >-
-      🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón BIT_40 sobre el precio oficial.
+      🏡 Cursos para hacer en video, con o sin tutor.
     pricingplans:
       - title: 🌍 Europa
         price: 59 €/
         full_price: 99 €
-        details:
+        details: >-
+          - IVA ya incluido
+
+          - Descuento 4😷%
         highlight: false
         actions:
           - label: 1 sólo pago de 59 €
@@ -127,19 +130,33 @@ sections:
       - title: 🌎 América
         price: 53 $
         full_price: 89 $
-        details:
+        details: >-
+          - Libre de impuestos
+
+          - Descuento 4😷%
         highlight: false
         actions:
           - label: 1 sólo pago de 53 $
             url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
           - label: En 3 pagos de 18 $
             url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
+      - title: 👨🏼‍💻 Tutorizado
+        price: 150 €
+        full_price: 185 €
+        details: >-
+          - IVA NO incluido
+
+          - Bonificable [FUNDAE](/info/fundae) 💸
+        highlight: true
+        actions:
+          - label: 📅 Inicio 25 de mayo
+            url: https://trainingit.es//curso-clean-code?promo=bitAdemy
   - section_id: call-to-action
     type: section_cta
     title: ¿Quieres algo más?
     subtitle: Convocatorias con tutorías, evaluaciones y aprendizaje en grupo.
     actions:
-      - label: Consulta precio y calendario
+      - label: Consulta precios y calendario
         url: /info/convocatorias
   - section_id: features
     type: section_features

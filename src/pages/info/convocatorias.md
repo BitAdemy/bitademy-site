@@ -16,6 +16,10 @@ sections:
     actions:
       - label: Pongámonos en contacto
         url: https://agorabinaria.typeform.com/to/ymWVLB
+menus:
+  main:
+    weight: 6
+    title: Convocatorias
 template: page
 ---
 
@@ -45,7 +49,7 @@ template: page
       <td>Testing web
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
-      <td>26 de mayo</td>
+      <td>25 de mayo</td>
       <td>⌚ Fijo en directo</td>
       <td>8 horas</td>
       <td>120 €</td>
@@ -53,10 +57,10 @@ template: page
     <tr>
       <td>Código Limpio
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
-      <td>26 de mayo</td>
+      <td>25 de mayo</td>
       <td>⏱ Libre en video</td>
-      <td>4 semanas</td>
-      <td>150 €</td>
+      <td>5 semanas</td>
+      <td><a href="https://trainingit.es//curso-clean-code?promo=bitAdemy">150 € 🛒</a></td>
     </tr>
     <tr>
       <td>Testing web
@@ -64,7 +68,7 @@ template: page
       </td>
       <td>junio</td>
       <td>⏱ Libre en video</td>
-      <td>4 semanas</td>
+      <td>5 semanas</td>
       <td>150 €</td>
     </tr>
   </tbody>

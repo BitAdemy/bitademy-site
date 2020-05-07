@@ -15,6 +15,11 @@ sections:
       Temáticas y modalidades para todos.
 
       >_"Elige para aprender y aumentar tu valor."_
+    actions:
+      - label: Código limpio
+        url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+      - label: Web Testing
+        url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
   - section_id: features
     type: section_features
     bg: gray
@@ -57,7 +62,7 @@ sections:
         url: /info/tutorizado/
 menus:
   main:
-    weight: 2
+    weight: 4
     title: Cursos
 template: landing
 ---
