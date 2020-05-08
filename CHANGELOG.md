@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.50.0](https://github.com/BitAdemy/bitademy-site/compare/v1.49.0...v1.50.0) (2020-05-08)
+
+
+### Features
+
+* 👨🏼‍🎓 dimploma roberto balseiro ([d632285](https://github.com/BitAdemy/bitademy-site/commit/d6322856578d191d1cb847f6b95ce6de036dff60))
+
+
+### Bug Fixes
+
+* 🖨 icons ([e7982ff](https://github.com/BitAdemy/bitademy-site/commit/e7982ffb8de40900a6784aee2438cec640918773))
+
 ## [1.49.0](https://github.com/BitAdemy/bitademy-site/compare/v1.48.0...v1.49.0) (2020-05-07)
 
 
