@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.53.0](https://github.com/BitAdemy/bitademy-site/compare/v1.52.0...v1.53.0) (2020-05-08)
+
+
+### Features
+
+* ✍ tutorial artesano bien ([7c3d4a3](https://github.com/BitAdemy/bitademy-site/commit/7c3d4a32bab42fa380710312b98eae4b2c8a6425))
+* 📚 pdf 3 4 ([5b18711](https://github.com/BitAdemy/bitademy-site/commit/5b18711f61b430a8c4b1302c598ca27fff410067))
+
 ## [1.52.0](https://github.com/BitAdemy/bitademy-site/compare/v1.51.0...v1.52.0) (2020-05-08)
 
 
