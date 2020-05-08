@@ -1,6 +1,8 @@
 # Clean Code
 
-## Funciones.
+## 🔀 2 - Funciones.
+
+### Claridad con el menor esfuerzo.
 
 ![Código limpio](../../static../../static/images/undraw_clean_up.png)
 
