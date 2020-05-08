@@ -18,6 +18,8 @@ sections:
 template: page
 ---
 
-#### [📗 Clean Code aplicado para desarrollos limpios y rentables](/tutorial/clean-code/contenido)
+### Contenido y descargas
 
-#### [📜 Descarga diploma PDF](https://www.bitademy.com/images/diplomas/bitademy-diploma-clean_code-pablo_sanchez_hortas.pdf)
+#### [📖 Clean Code aplicado para desarrollos limpios y rentables](/tutorial/clean-code/contenido)
+
+#### [🖨 Descarga diploma PDF](https://www.bitademy.com/images/diplomas/bitademy-diploma-clean_code-pablo_sanchez_hortas.pdf)
