@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.51.0](https://github.com/BitAdemy/bitademy-site/compare/v1.50.0...v1.51.0) (2020-05-08)
+
+
+### Features
+
+* ✍🏼tutorial lighthouse ([b98182f](https://github.com/BitAdemy/bitademy-site/commit/b98182faa14a1f0ee52ae53ef1ec82ea0c6286ec))
+
 ## [1.50.0](https://github.com/BitAdemy/bitademy-site/compare/v1.49.0...v1.50.0) (2020-05-08)
 
 
