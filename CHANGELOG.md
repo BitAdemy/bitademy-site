@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.51.0](https://github.com/BitAdemy/bitademy-site/compare/v1.50.0...v1.51.0) (2020-05-08)
+
+
+### Features
+
+* ✍🏼tutorial lighthouse ([b98182f](https://github.com/BitAdemy/bitademy-site/commit/b98182faa14a1f0ee52ae53ef1ec82ea0c6286ec))
+
+## [1.50.0](https://github.com/BitAdemy/bitademy-site/compare/v1.49.0...v1.50.0) (2020-05-08)
+
+
+### Features
+
+* 👨🏼‍🎓 dimploma roberto balseiro ([d632285](https://github.com/BitAdemy/bitademy-site/commit/d6322856578d191d1cb847f6b95ce6de036dff60))
+
+
+### Bug Fixes
+
+* 🖨 icons ([e7982ff](https://github.com/BitAdemy/bitademy-site/commit/e7982ffb8de40900a6784aee2438cec640918773))
+
+## [1.49.0](https://github.com/BitAdemy/bitademy-site/compare/v1.48.0...v1.49.0) (2020-05-07)
+
+
+### Features
+
+* ✍🏼 artesania tutorial ([fd7a615](https://github.com/BitAdemy/bitademy-site/commit/fd7a6158a4a5eb1629bb20697531cfd1a6a33738))
+
 ## [1.48.0](https://github.com/BitAdemy/bitademy-site/compare/v1.47.0...v1.48.0) (2020-05-07)
 
 

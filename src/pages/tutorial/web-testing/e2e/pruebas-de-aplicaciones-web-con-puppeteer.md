@@ -7,9 +7,11 @@ excerpt: >-
 post_url: tutorial/web-testing/e2e/pruebas-de-aplicaciones-web-con-puppeteer
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
-date: '2020-05-04'
+date: '2020-05-07'
 previous: E2E
 previous_url: tutorial/web-testing/e2e
+next: Pruebas de rendimiento web con Lighthouse
+next_url: tutorial/web-testing/e2e/pruebas-de-rendimiento-web-con-lighthouse
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/WebTesting_e2e-puppeteer_Labs
 sections:
@@ -43,7 +45,7 @@ Lo que sí que respetaré será la estructura básica de un test. La famosa _tri
 
 ### Arrange
 
-La sección de preparación de cualquier test debe dejarlo listo para la ejecución de pruebas. Habitualmente **se preparan objetos** de negocio, ficheros, servicios o como en este caso se configura _Puppeteer_ para visitar páginas en modo oculto y ala resloción que determinemos.
+La sección de preparación de cualquier test debe dejarlo listo para la ejecución de pruebas. Habitualmente **se preparan objetos** de negocio, ficheros, servicios o como en este caso se configura _Puppeteer_ para visitar páginas en modo oculto y a la resolución que determinemos.
 
 ```javascript
 async function arrangeBrowser() {
