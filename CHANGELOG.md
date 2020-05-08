@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.52.0](https://github.com/BitAdemy/bitademy-site/compare/v1.51.0...v1.52.0) (2020-05-08)
+
+
+### Features
+
+* 📚 funcitons pdf ([48f20c5](https://github.com/BitAdemy/bitademy-site/commit/48f20c51f0b285c185744e2adeca1a75550781f0))
+
 ## [1.51.0](https://github.com/BitAdemy/bitademy-site/compare/v1.50.0...v1.51.0) (2020-05-08)
 
 
