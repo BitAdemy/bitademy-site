@@ -7,9 +7,11 @@ excerpt: >-
 post_url: tutorial/web-testing/e2e/pruebas-de-aplicaciones-web-con-puppeteer
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
-date: '2020-05-04'
+date: '2020-05-07'
 previous: E2E
 previous_url: tutorial/web-testing/e2e
+next: Pruebas de rendimiento web con Lighthouse
+next_url: tutorial/web-testing/e2e/pruebas-de-rendimiento-web-con-lighthouse
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/WebTesting_e2e-puppeteer_Labs
 sections:
