@@ -1,6 +1,8 @@
 # Clean Code
 
-## Estilo y nombrado.
+## 🏷️ 1 - Estilo y nombrado
+
+### Claridad con el menor esfuerzo.
 
 ![Código limpio](../../static../../static/images/undraw_clean_up.png)
 
@@ -10,7 +12,7 @@
 
 <div class="page"/>
 
-# 1 - Estilo y nombrado
+# 🏷️ 1 - Estilo y nombrado
 
 ## Claridad con el menor esfuerzo.
 

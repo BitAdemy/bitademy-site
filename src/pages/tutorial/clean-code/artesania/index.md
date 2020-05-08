@@ -12,6 +12,8 @@ up: Tutorial Clean Code
 up_url: tutorial/clean-code
 previous: Principios sólidos para finales flexibles
 previous_url: tutorial/clean-code/objetos/principios_solidos_para_finales_flexibles/
+next: Hacer las cosas bien
+next_url: tutorial/clean-code/artesania/hacer_las_cosas_bien
 sections:
   - section_id: call-to-action
     type: section_cta
