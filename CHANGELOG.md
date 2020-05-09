@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.54.0](https://github.com/BitAdemy/bitademy-site/compare/v1.53.0...v1.54.0) (2020-05-09)
+
+
+### Features
+
+* ✍🏼 tutorial disciplina ([735d42f](https://github.com/BitAdemy/bitademy-site/commit/735d42fcf19ee8fe4029fcbf738e50f13e91945b))
+
 ## [1.53.0](https://github.com/BitAdemy/bitademy-site/compare/v1.52.0...v1.53.0) (2020-05-08)
 
 
