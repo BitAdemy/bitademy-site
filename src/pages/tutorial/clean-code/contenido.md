@@ -73,8 +73,8 @@ template: tutorial
 
 ### ✒️ [Artesanía del software.](https://www.bitademy.com/tutorial/clean-code/artesania/)
 
-#### 📝 [Hacer las cosas bien](https://www.bitademy.com/tutorial/clean-code/hacer_las_cosas_bien/)
+#### 📝 [Hacer las cosas bien](https://www.bitademy.com/tutorial/clean-code/artesania/hacer_las_cosas_bien/)
 
-#### ✒️ [Disciplina y buenos hábitos](https://www.bitademy.com/tutorial/clean-code/disciplina_y_buenos_habitos/)
+#### ✒️ [Disciplina y buenos hábitos](https://www.bitademy.com/tutorial/clean-code/artesania/disciplina_y_buenos_habitos/)
 
 ---
