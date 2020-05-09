@@ -67,14 +67,14 @@ template: tutorial
 
 #### 🧱 [Cohesión de funciones](https://www.bitademy.com/tutorial/clean-code/objetos/cohesion_de_funciones/)
 
-#### ⚒️ Principios sólidos para finales flexibles
+#### ⚒️ [Principios sólidos para finales flexibles](https://www.bitademy.com/tutorial/clean-code/objetos/principios_solidos_para_finales_flexibles/)
 
 ---
 
-### ✒️ Artesanía del software.
+### ✒️ [Artesanía del software.](https://www.bitademy.com/tutorial/clean-code/artesania/)
 
-#### 📝 Hacer las cosas bien
+#### 📝 [Hacer las cosas bien](https://www.bitademy.com/tutorial/clean-code/hacer_las_cosas_bien/)
 
-#### ✒️ Disciplina y buenos hábitos
+#### ✒️ [Disciplina y buenos hábitos](https://www.bitademy.com/tutorial/clean-code/disciplina_y_buenos_habitos/)
 
 ---
