@@ -12,6 +12,8 @@ up: Tutorial Clean Code
 up_url: tutorial/clean-code
 previous: Artesanía, La mejora constante
 previous_url: tutorial/clean-code/artesania/
+next: Disciplina y buenos hábitos.
+next_url: tutorial/clean-code/artesania/disciplina_y_buenos_habitos
 sections:
   - section_id: call-to-action
     type: section_cta
