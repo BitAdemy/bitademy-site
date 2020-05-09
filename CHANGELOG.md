@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.55.1](https://github.com/BitAdemy/bitademy-site/compare/v1.55.0...v1.55.1) (2020-05-09)
+
+
+### Bug Fixes
+
+* 🔗 artresania ([75a8fd7](https://github.com/BitAdemy/bitademy-site/commit/75a8fd70277ca92535c03e33055fe7c70ca4f49d))
+
 ## [1.55.0](https://github.com/BitAdemy/bitademy-site/compare/v1.54.0...v1.55.0) (2020-05-09)
 
 
