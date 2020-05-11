@@ -38,9 +38,8 @@ template: page
   </thead>
   <tbody>
     <tr>
-      <td>Código Limpio
-        <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
-      <td>15 de mayo</td>
+      <td>Código Limpio</td>
+      <td><strike>15 de mayo</strike></td>
       <td>⌚ Fijo en directo</td>
       <td>8 horas</td>
       <td>120 €</td>

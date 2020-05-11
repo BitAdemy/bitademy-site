@@ -1,13 +1,13 @@
 ---
 title: Clean Code aplicado para desarrollos limpios y rentables
 subtitle: >-
-  Aprende en este curso a escribir aplicaciones limpias y aumenta tu valor.
+  Haz que tu equipo desarrolle aplicaciones limpias y aumenta tu valor.
 excerpt: >-
   Curso online para aprender las técnicas Clean Code y adoptar la filosofía Software Craftmanship.
-post_url: /promo/euro/video/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+post_url: /promo/euro/fundae/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 img_path: images/undraw_clean_up.svg
 thumb_img_path: images/undraw_clean_up.svg
-date: '2020-05-05'
+date: '2020-05-11'
 sections:
   - section_id: features
     type: section_hero
@@ -20,14 +20,13 @@ sections:
 
       Este curso transforma al programador en artesano del software.
 
-      Aprende a programar mejor y mejora tus desarrollos.
+      Enseña a tu equipo a programar mejor y mejora tus desarrollos.
 
     actions:
-      - label: 1 pago de 59 €
-        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-
-      - label: 3 plazos de 20 €
-        url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
+      - label: Empezar el 25 de mayo
+        url: https://trainingit.es//curso-clean-code?promo=bitAdemy
+      - label: Pongámonos en contacto
+        url: https://agorabinaria.typeform.com/to/ymWVLB
   - section_id: features
     type: section_features
     bg: gray
@@ -60,7 +59,6 @@ sections:
           He visto y escrito código que haría vomitar a una cabra. Pero también he aprendido a hacerlo mejor cada día.
 
           > _"Con mi guía y algo de disciplina vas a crear grandes aplicaciones limpias."_
-
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
@@ -76,15 +74,18 @@ sections:
           ✒ : 5 ilustraciones poster de referencia.
 
 
-          📋: 4 ejercicios prácticos propuestos y resueltos.
+          📋: 4 ejercicios prácticos propuestos y corregidos.
+
+
+          🤷🏼‍♂️: Foro de preguntas al profesor.
 
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
-          Pagas solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
+          Pagas por alumno y tienes 5 semanas con la **atención diaria del profesor.**
 
 
-          Para hacerlo más fácil te ofrecemos el pago en tres plazos.
+          Para hacerlo más fácil puedes bonificarlo por [**FUNDAE**](/info/fundae).
 
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
@@ -94,26 +95,21 @@ sections:
   - section_id: pricing
     type: section_pricing
     bg: gray
-    title: Precios Video curso.
+    title: Precios por alumno curso.
     subtitle: >-
-      🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón BIT_40 sobre el precio oficial.
+      🏡 Descuento 35€ bitAdemy. Y extra para grupos.
     pricingplans:
-      - title: Pago único
-        price: 59 €/
-        full_price: 99 €
-        details:
+      - title: 👨🏼‍💻 Tutorizado
+        price: 150 €
+        full_price: 185 €
+        details: >-
+          - IVA NO incluido
+
+          - Bonificable [FUNDAE](/info/fundae) 💸
         highlight: true
         actions:
-          - label: 1 sólo pago de 59 €
-            url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-      - title: En tres meses
-        price: 20 €/
-        full_price: 34 €
-        details:
-        highlight: false
-        actions:
-          - label: En 3 pagos de 20 €
-            url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
+          - label: 📅 Inicio 25 de mayo
+            url: https://trainingit.es//curso-clean-code?promo=bitAdemy
   - section_id: call-to-action
     type: section_cta
     title: Para equipos.
@@ -126,7 +122,7 @@ sections:
     bg: gray
     title: Al terminar este curso
     subtitle: >-
-      Serás consciente del valor del buen código. La calidad de tu trabajo va a mejorar y se reflejará en tu reconocimiento laboral.
+      El alumno será consciente del valor del buen código. La calidad de su trabajo va a mejorar y se reflejará en el rendimiento general.
     featureslist:
       - title: Contenido
         image: images/undraw_project_completed.svg
@@ -148,34 +144,32 @@ sections:
           - label: Ver contenido detallado.
             url: /tutorial/clean-code/contenido
 
-      - title: ¿Este curso es para mi?
+      - title: ¿Este curso nos vale?
         image: images/undraw_faq.svg
         content: >-
-          👨‍💻 Inicio mi carrera en la programación
+          👨‍💻 Para el que inicia carrera en la programación
 
 
-          👴 Mantengo código heredado
+          👴 Mantiene código heredado
 
 
-          🙋‍♂️ Lidero un equipo
+          🙋‍♂️ Lidera un equipo
 
 
-          👨‍💼 Creo que puedo hacerlo mejor
+          👨‍💼 Cree que puede hacerlo mejor
 
 
           > "Sí, este curso es para mi."
         actions:
-          - label: Venga, empiezo ya por 59 €
-            url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-          - label: Venga, empiezo y pago poco a poco 3 x 20 €
-            url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
+          - label: Venga, empiezo ya por 150 €
+            url: https://trainingit.es//curso-clean-code?promo=bitAdemy
   - section_id: call-to-action
     type: section_cta
-    title: ¿Quieres algo más?
-    subtitle: Disponible también en convocatorias con tutorías, evaluaciones y aprendizaje en grupo.
+    title: ¿No quieres calendario?
+    subtitle: Disponible también en video.
     actions:
-      - label: Consulta precio y calendario
-        url: /info/convocatorias
+      - label: Cada uno a su ritmo
+        url: /promo/euro/video/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 hide_menu: true
 template: landing
 ---
