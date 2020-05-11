@@ -62,6 +62,7 @@ GatsbyJS.
 ### Email marketing:
 
 MailChimp.
+ConvertBox.
 
 ## Ejercicio de sus derechos
 
@@ -75,4 +76,4 @@ Declaras haber sido informado de las condiciones sobre protección de datos de c
 
 En cualquier momento puedo modificar la presente política para adaptarla a novedades legislativas o jurisprudenciales así como a prácticas de la industria. En dichos supuestos, anunciaré en esta página los cambios introducidos con razonable antelación a su puesta en práctica.
 
-Última revisión el 25/03/2020
+Última revisión el 11/05/2020

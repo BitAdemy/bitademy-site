@@ -81,6 +81,10 @@ un servicio analítico de web prestado por Google, Inc. con domicilio en los Est
 NOMBRE DURACIÓN PREDETERMINADA FINALIDAD Y DOMINIO
 **ut**utma, **utmb, **utmc, \_\_utmz 2 años a partir de la configuración o actualización Google Analytics ,Permite analizar el tráfico de la web y obtener estadísticas de navegación. Más información.
 
+### ConvertBox,
+
+un servicio de marketing online prestado por NetClicks Ltd. [bajo estas condiciones](https://convertbox.com/cookie-policy/)
+
 ## Desactivar las cookies
 
 Puedes permitir, bloquear o eliminar las cookies instaladas en su equipo mediante la configuración de las opciones del navegador instalado en su ordenador.
@@ -93,4 +97,4 @@ A continuación puedes acceder a la configuración de los navegadores webs más 
 Al desactivar a eliminar las cookies, parte de la web no funcionará o la calidad de la página puede verse afectada.
 Si tiene dudas sobre esta política de cookies, puede contactar con Alberto Basalo en albertobasalo@hotmail.com
 
-Última revisión el 25/03/2020
+Última revisión el 11/05/2020
