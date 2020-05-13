@@ -33,7 +33,7 @@ template: tutorial
 
 #### 🎭 [Pruebas de aplicaciones web con **Puppeteer**](https://www.bitademy.com/tutorial/web-testing/e2e/pruebas-de-aplicaciones-web-con-puppeteer)
 
-#### 🤖 Automatización, web scraping y rendimiento.
+#### 🤖 [Pruebas de rendimiento web con **Lighthouse**](https://www.bitademy.com/tutorial/web-testing/e2e/pruebas-de-rendimiento-web-con-lighthouse)
 
 ---
 

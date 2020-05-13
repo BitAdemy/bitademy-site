@@ -8,6 +8,8 @@ post_url: tutorial/web-testing/e2e/pruebas-de-aplicaciones-web-con-puppeteer
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
 date: '2020-05-07'
+up: Tutorial WebTesting
+up_url: tutorial/web-testing
 previous: E2E
 previous_url: tutorial/web-testing/e2e
 next: Pruebas de rendimiento web con Lighthouse

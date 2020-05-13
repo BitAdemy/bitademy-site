@@ -8,6 +8,8 @@ post_url: tutorial/web-testing/e2e
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
 date: '2020-05-04'
+up: Tutorial WebTesting
+up_url: tutorial/web-testing
 previous: Filosofía y patrones
 previous_url: tutorial/web-testing/filosofia-y-patrones
 next: Pruebas de aplicaciones web con Puppeteer
