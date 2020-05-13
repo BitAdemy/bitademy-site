@@ -37,7 +37,7 @@ template: tutorial
 
 ---
 
-### 🧪 Pruebas funcionales
+### 🧪 [Pruebas funcionales](https://www.bitademy.com/tutorial/web-testing/functional)
 
 #### 🌲 Pruebas funcionales web con **Cypress**
 
