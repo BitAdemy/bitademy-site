@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.60.1](https://github.com/BitAdemy/bitademy-site/compare/v1.60.0...v1.60.1) (2020-05-13)
+
+
+### Bug Fixes
+
+* ✍🏼 cita intro ([5ac66d5](https://github.com/BitAdemy/bitademy-site/commit/5ac66d5895dbf02ecf18cf48d3e75aba9dcc09a8))
+* ✍🏼 minor typo and copys ([b0d582b](https://github.com/BitAdemy/bitademy-site/commit/b0d582bae77a6ec214be44cb85fb2ed969e0a6de))
+
 ## [1.60.0](https://github.com/BitAdemy/bitademy-site/compare/v1.59.0...v1.60.0) (2020-05-13)
 
 
