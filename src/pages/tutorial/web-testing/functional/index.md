@@ -23,13 +23,17 @@ sections:
 template: tutorial
 ---
 
-> _"Si un usuario final percibe una mal rendimiento en tu website, su siguiente click probablemente sea en tu-competencia.com"_
+> _"La calidad no es un acto, es un hábito"_
 >
-> -- ✍️ **Ian Molyneaux**
+> -- ✍️ **Aristóteles**
+
+La mínima garantía de calidad es que algo funcione conforme a lo esperado; es decir que pase un test funcional. Pero desde antiguo se sabe que esto sólo es válido si es constante. Para que se convierta en hábito nada mejor que hacerlo **sencillo, cómodo y agradable.**
 
 Las pruebas E2E pueden, y deben, incorporar comprobaciones funcionales. Hasta ahora habíamos visto situaciones muy básicas en las que una herramienta libre y gratuita como _Puppeteer_ se defendía muy bien.
 
-Pero cuando probamos funcionalidades complejas, se nos complica la el uso continuado de la sintaxis asíncrona. Incluso con el _async/await_. Tampoco _Puppeteer_ trae de fábrica funciones adaptadas al testing. Se le tienen que añadir ayudas como [la Integración con Jest](https://jestjs.io/docs/en/puppeteer), o con otros frameworks de testing como _Mocha_ o _Jasmine_.
+Pero, cuando probamos funcionalidades complejas se nos complica el uso continuado de la sintaxis asíncrona. Incluso con el moderno _async/await_. Tampoco _Puppeteer_ trae de fábrica funciones adaptadas al testing. Se le tienen que añadir ayudas como [la Integración con Jest](https://jestjs.io/docs/en/puppeteer), o con otros frameworks de testing como _Mocha_ o _Jasmine_.
+
+Nada de esto contribuye a integrar el hábito de la prueba funcional constante. Y **sin ese hábito no hay calidad**.
 
 ## Cypress
 
