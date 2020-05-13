@@ -29,7 +29,7 @@ template: tutorial
 
 La mínima garantía de calidad es que algo funcione conforme a lo esperado; es decir que pase un test funcional. Pero desde antiguo se sabe que esto sólo es válido si es constante. Para que se convierta en hábito nada mejor que hacerlo **sencillo, cómodo y agradable.**
 
-Las pruebas E2E pueden, y deben, incorporar comprobaciones funcionales. Hasta ahora habíamos visto situaciones muy básicas en las que una herramienta libre y gratuita como _Puppeteer_ se defendía muy bien.
+Las pruebas E2E pueden, y deben, incorporar comprobaciones funcionales. Hasta ahora [habíamos visto situaciones muy básica](https://www.bitademy.com/tutorial/web-testing/e2e/pruebas-de-rendimiento-web-con-lighthouse) en las que una herramienta libre y gratuita como _Puppeteer_ se defendía muy bien.
 
 Pero, cuando probamos funcionalidades complejas se nos complica el uso continuado de la sintaxis asíncrona. Incluso con el moderno _async/await_. Tampoco _Puppeteer_ trae de fábrica funciones adaptadas al testing. Se le tienen que añadir ayudas como [la Integración con Jest](https://jestjs.io/docs/en/puppeteer), o con otros frameworks de testing como _Mocha_ o _Jasmine_.
 
@@ -37,11 +37,13 @@ Nada de esto contribuye a integrar el hábito de la prueba funcional constante. 
 
 ## Cypress
 
-_Cypress_ es un framework para pruebas funcionales e2e. En este sentido es mucho más potente y cómodo de utilizar que _Puppeteer_ que no deja de ser un automatizador de navegadores. El fallo es que... _Cypress_ es de pago; pero lo bueno es que tiene una buena parte gratis que es más suficiente para las pruebas funcionales.
+_[Cypress](https://www.cypress.io/)_ es un framework para pruebas funcionales _e2e_. En este sentido es mucho más potente y cómodo de utilizar que _Puppeteer_ que no deja de ser un automatizador de navegadores. El fallo es que... _Cypress_ es de pago; pero lo bueno es que tiene **una buena parte gratis que es más suficiente** para las pruebas funcionales.
+
+Y desde luego es de lo más sencillo, cómodo y agradable de usar. Ideal para convertirlo en hábito de uso.
 
 ### Instalar Cypress
 
-Instalarlo es muy sencillo. Partimos de una aplicación Node y agregamos la dependencia.
+Instalarlo es trivial. Partimos de una aplicación _Node_ y agregamos la dependencia. Puedes hacerlo con _npm_ o con _yarn_ y guardarlo como dependencia principal o para desarrollo.
 
 ```terminal
 yarn add cypress
@@ -54,11 +56,11 @@ Así que una vez instalado, se habrá creado una carpeta en la ruta `cypress\int
 
 ## Test funcionales
 
-Las pruebas funcionales de aplicaciones web, son un tipo _e2e_ que va más allá de las superficialidad de _surfear_ con un navegador automatizado. También controlan los navegadores y por supuesto que simulan el comportamiento del usuario en ellos: hacer clic, escribir, desplazarse, etc.
+Las **pruebas funcionales de aplicaciones web**, son un tipo _e2e_ que va más allá de las superficialidad de _surfear_ con un navegador automatizado. También controlan los navegadores y por supuesto que simulan el comportamiento del usuario en ellos: hacer clic, escribir, desplazarse, etc.
 
-Son consideradas como de integración, porque evidentemente para su ejecución deben coordinarse distintos servicios. Pero lo diferencial es que:
+Son consideradas como de integración porque evidentemente para su ejecución deben coordinarse distintos servicios. Pero lo diferencial es que:
 
-> las pruebas funcionales aseguran que determinados escenarios realmente funcionen desde el punto de vista de un usuario final.
+> Las pruebas funcionales aseguran que determinados escenarios realmente funcionen desde el punto de vista de un usuario final.
 
 ### Probar funcionalidades web con Cypress
 
@@ -75,11 +77,11 @@ describe('Funcionalidad que se pretende probar', () => {
 });
 ```
 
-Es tan importante, o más, prestar atención al texto que reciben en el primer parámetro como al código que se ejecutará. Recuerda que el usuario final de este programa eres tú. Hazte un favor a ti mismo y especifica el texto de la manera más clara posible.
+Es tan importante, o más, **prestar atención al texto** que reciben en el primer parámetro como al código que se ejecutará. Recuerda que el usuario final de este programa eres tú. Hazte un favor a ti mismo y especifica el texto de la manera más clara posible.
 
 #### Actuaciones y aserciones
 
-Dentro de las anteriores funciones irá el código propiamente dicho. Ahora ya usaremos _Cypress_ como una librería mas y hab´ra que familiarizarse con su API. Aunque tu editor puede ayudarte en eso.
+Dentro de las anteriores funciones irá el código propiamente dicho. Ahora ya usaremos _Cypress_ como una librería mas y habrá que familiarizarse con su API. Aunque tu editor puede ayudarte en eso.
 
 ```js
 /// <reference types="Cypress" />
@@ -107,7 +109,7 @@ En el primer caso, la aplicación arranca en _start_ y las pruebas en algo tipo 
 
 En [el laboratorio](https://github.com/LabsAdemy/WebTesting_e2e-functional_cypress_Labs) he optado por esta aproximación, un repositorio independiente para la prueba funcional. Adaptadlo a vuestro gusto o situación particular.
 
-### El Hola mundo con Cypress
+### Hola mundo con Cypress
 
 Para que lo veas todo junto te propongo que te crees un fichero `cypress\integration\examples\0.0_hello-world.spec.js` y escribas esto en él.
 
