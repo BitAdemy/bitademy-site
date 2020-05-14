@@ -37,11 +37,11 @@ template: tutorial
 
 ---
 
-### 🧪 [Pruebas funcionales](https://www.bitademy.com/tutorial/web-testing/functional)
+### 🌲 [Pruebas funcionales con **Cypress**](https://www.bitademy.com/tutorial/web-testing/functional)
 
-#### 🌲 Pruebas funcionales web con **Cypress**
+#### 🎪 [Pruebas de comportamiento](https://www.bitademy.com/tutorial/web-testing/functional/pruebas-de-comportamiento)
 
-#### 🎪 Automatización y usos avanzados
+#### 🧪 Automatización y usos avanzados
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: 🧪 Pruebas funcionales
+title: 🌲 Pruebas funcionales con Cypress
 subtitle: >-
   Cypress para comprobación funcional interactiva.
 excerpt: >-
-  Pruebas funcionales. Cypress para comprobación funcional interactiva.
+  Pruebas funcionales con Cypress. Cypress para comprobación funcional interactiva.
 post_url: tutorial/web-testing/functional
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
@@ -12,6 +12,8 @@ up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Pruebas de rendimiento web con Lighthouse
 previous_url: tutorial/web-testing/e2e/pruebas-de-rendimiento-web-con-lighthouse
+next: Pruebas de comportamiento
+next_url: tutorial/web-testing/functional/pruebas-de-comportamiento
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -127,3 +129,41 @@ describe('Visiting the url https://www.bitademy.com', () => {
 Si no lo habías hecho antes lanza el _runner_ con el comando `cypress open` o el script equivalente... y espera que te muestre el panel de administrador con todos los tests disponibles.
 
 Selecciona el `0.0_hello-world` y disfruta.
+
+### Más acciones y comprobaciones
+
+Para familiarizarte un poco más con la sintaxis de _Cypress_ te dejo la versión extendida de este _Hola Mundo_. Incluye las acciones más comunes como el simular clicks, navegar entre páginas, rellenar formularios... y comprobar contenidos.
+
+De los textos que se incluyen en las funciones se deduce claramente **la intención del desarrollador**. Es un caso dónde la documentación forma parte del programa. **No es un comentario, es un dato.**
+
+Este es el `cypress\integration\examples\0.1_hello-world.spec.js`
+
+```js
+describe('Visiting the url https://www.bitademy.com', () => {
+  before(() => cy.visit('https://www.bitademy.com'));
+  it('should have an h2 on the hero header with text _Aprender a programar mejor_', () => {
+    cy.get('#hero > div > div > div.cell.block-content > h2').should(
+      'contain',
+      'Aprender a programar mejor'
+    );
+  });
+  it('should navigate to courses page', () => cy.contains('Cursos').click());
+  it('should have an h2 on the hero header with text _Cursos online de calidad_', () => {
+    cy.get('#hero > div > div > div.cell.block-content > h2').should(
+      'contain',
+      'Cursos online de calidad'
+    );
+  });
+  it('should allow me to subscribe to the newsletter, but detect that it is invalid', () => {
+    cy.get('#MERGE0').type('learn@bitademy.com');
+    cy.get('#subscribe-form > .button').click();
+    cy.get('.errorText').contains('learn@bitademy.com ya está suscrito');
+  });
+});
+```
+
+#### Before and after
+
+Si no tienes experiencia previa con frameworks de test, te habrá sorprendido la función `before()`. Esta y sus hermanas _beforeAll, after y afterAll_ ejecutan la función que reciben como _callback_ en los momentos adecuados. Sus nombres no dejan lugar a dudas.
+
+Se usan para establecer un escenario en el que se desarrollarán las pruebas, definiendo o inicializando variables. No reciben textos informativos. Si quieres dejar rastro tienes que escribir en la consola, en un log...
