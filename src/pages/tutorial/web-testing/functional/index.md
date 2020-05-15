@@ -14,6 +14,8 @@ previous: Pruebas de rendimiento web con Lighthouse
 previous_url: tutorial/web-testing/e2e/pruebas-de-rendimiento-web-con-lighthouse
 next: Pruebas de comportamiento
 next_url: tutorial/web-testing/functional/pruebas-de-comportamiento
+laboratory: Laboratorio
+laboratory_url: https://github.com/LabsAdemy/WebTesting_e2e-functional_cypress_Labs
 sections:
   - section_id: call-to-action
     type: section_cta

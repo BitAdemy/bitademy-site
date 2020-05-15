@@ -41,7 +41,7 @@ template: tutorial
 
 #### 🎪 [Pruebas de comportamiento](https://www.bitademy.com/tutorial/web-testing/functional/pruebas-de-comportamiento)
 
-#### 🧪 Automatización y usos avanzados
+#### 🧪 [Limpieza de pruebas](https://www.bitademy.com/tutorial/web-testing/functional/limpieza-de-pruebas)
 
 ---
 

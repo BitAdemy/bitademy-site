@@ -12,6 +12,10 @@ up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Pruebas funcionales con Cypress
 previous_url: tutorial/web-testing/functional
+next: Limpieza de pruebas
+next_url: tutorial/web-testing/functional/limpieza-de-pruebas
+laboratory: Laboratorio
+laboratory_url: https://github.com/LabsAdemy/WebTesting_e2e-functional_cypress_Labs/tree/master/cypress/integration/basic
 sections:
   - section_id: call-to-action
     type: section_cta
