@@ -116,7 +116,7 @@ Hay frameworks que transforman el comentario en código, siguiendo normas de leg
 
 ### Textos significativos y descriptivos
 
-Si quieres entender de un algo de un vistazo, mejor que sea conciso:
+Si quieres entender algo de un vistazo, mejor que sea conciso:
 
 ```js
 describe(`GIVEN: the proton tasks web app`, () => {
@@ -135,7 +135,7 @@ En el anterior ejemplo se aplican algunas de las prácticas recomendadas. Poco a
 
 ### Variables y funciones
 
-Nunca viene mal empezar con una sección para declara variables o constantes.
+Nunca viene mal empezar con una sección para declarar variables o constantes.
 
 ```js
 let sutUrl;
@@ -156,7 +156,7 @@ function arrangeTest() {
 }
 ```
 
-Y hablando de las funciones, y recordando a la _Triple A_, te propongo que todas empiecen por uno de esos tres verbos. Como en el siguiente ejemplo.
+Y hablando de las funciones, y recordando a la _Triple A_, te propongo que todas empiecen por uno de esos tres verbos `Arrange-Act-Assert`. Como en el siguiente ejemplo.
 
 ```js
 function arrangeTest() {
@@ -185,7 +185,7 @@ En _Cypress_ nos ofrecen un fichero de configuración: el `cypress.json`. Aquí 
 
 Incluso puedes sobrescribir en tu máquina local con valores específicos en un fichero llamado `cypress.env.json` que no debes subir al repositorio remoto ni a producción.
 
-La idea es que puedas adaptar fácilmente los tests a distintos entornos. Teniendo una configuración para integración
+La idea es que puedas **adaptar fácilmente los tests a distintos entornos**. Teniendo una configuración para integración
 
 ```json
 {
@@ -210,7 +210,7 @@ En cualquier caso puedes acceder a la configuración usando el comando `Cypress.
 
 #### Datos enviados y esperados
 
-Esto también tiene su lugar y su nombre: `fixtures`. Se trata de que para lleves a ciertos fichero los datos que vas a usar como parámetros de entrada o como muestras esperadas.
+En _Cypres_ también tienen su lugar y su nombre: `fixtures`. Se trata de que para lleves a ciertos fichero los datos que vas a usar como parámetros de entrada o como muestras esperadas.
 
 Es clave **usar este tipo de convenios para no sobrecargar el cerebro** del siguiente lector. Todo debe ser claro y evidente para todos.
 
