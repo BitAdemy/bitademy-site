@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.64.0](https://github.com/BitAdemy/bitademy-site/compare/v1.63.0...v1.64.0) (2020-05-18)
+
+
+### Features
+
+* 🖌 sticky header ([9c8c7a6](https://github.com/BitAdemy/bitademy-site/commit/9c8c7a6da3b5c06a6507fe4b1fd5c23b0efdce7c))
+
 ## [1.63.0](https://github.com/BitAdemy/bitademy-site/compare/v1.62.1...v1.63.0) (2020-05-18)
 
 
