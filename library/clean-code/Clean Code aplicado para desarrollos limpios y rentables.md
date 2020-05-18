@@ -1,23 +1,25 @@
-
 ![Código limpio](../../static/images/citas/Portada-Clean-Code.png)
-
 <div class="page"/>
 
 # Clean Code
 
 ## Aprende a escribir aplicaciones limpias y aumenta tu valor.
 
-### Por Alberto Basalo
+### Por [Alberto Basalo](https://www.linkedin.com/in/albertobasalo)
 
-#### Para bitAdemy
+#### Para [bitAdemy](https://www.bitademy.com)
+
+##### Soporte del curos online:
+
+[Clean Code aplicado para desarrollos limpios y rentables](https://www.bitademy.com/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
 
 <div class="page"/>
 
-# 📚 Tabla de contendido detallado de clean code
+# 📚 índice de contendido
 
 #### Clean Code aplicado para desarrollos limpios y rentables.
 
-## 🏁 0 - Introducción
+## 🏁 0 - Introducción.
 
 #### 🤢 0.1 - Perdona pero... tu código huele
 
@@ -61,17 +63,18 @@
 
 <div class="page"/>
 
+![Código limpio](../../static/images/citas/0-clean-code.png)
+
+<div class="page"/>
+
 # 0 - Introducción
 
 ## Aprende a escribir aplicaciones limpias y aumenta tu valor.
 
-![Código limpio](../../static/images/citas/0-clean-code.png)
 
 > _"Los programas deben escribirse para que la gente los lea, y de paso para que las máquinas los ejecuten."_
 >
 > ✍🏼 Harold Abelson
-
-<div class="page"/>
 
 Inicio mis cursos preguntando a los alumnos **¿Para quién escribes código?**. Asistiendo a un curso sobre Código Limpio y haciendo yo hincapié en el _quién_ de la pregunta se cuidan de contestar lo que muchos piensan: ~~_el código se escribe para un ordenador_~~.
 
@@ -101,11 +104,13 @@ Voy a dejarte unas instrucciones en un idioma humano para que las sigas y escrib
 
 Pero las ventajas de escribir código limpio no terminan en el propio código. Adquirir **la disciplina para escribir código limpio te convierte en mejor profesional**. En un artesano o artesana del software.
 
-![Código limpio](../../static/images/citas/0.1-clean-code.png)
-
 > _"El código limpio parece escrito por alguien que se preocupa."_
 >
 > -- ✍️ **Robert C. Martin**
+
+<div class="page"/>
+
+![Código limpio](../../static/images/citas/0.1-clean-code.png)
 
 <div class="page"/>
 
@@ -179,17 +184,17 @@ Si lo que queremos es que el código se entienda, entonces nunca jamás debemos 
 
 <div class="page"/>
 
+![Código limpio](../../static/images/citas/0.2-clean-code.png)
+
+<div class="page"/>
+
 # ✅ 0.2 - Software que funciona
 
 ## Mejora tu código sin miedo.
 
-![Código limpio](../../static/images/citas/0.2-clean-code.png)
-
 > _"Codifica como si la persona que mantendrá tu código fuera un psicópata violento que sabe dónde vives."_
 >
 > -- ✍️ **Martin Golding**
-
-<div class="page"/>
 
 Nos cuesta hacer las cosas. Y mucho más hacerlas bien. ¿Y ahora nos dicen que las mejoremos? Ni loco 😵. ~~_Si funciona no lo toques_~~.
 
@@ -236,6 +241,10 @@ Tras la broma, una pequeña reflexión de despedida del padre del **Clean Code**
 > _Si funciona, y tienes pruebas, tócalo."_
 >
 > -- ✍️ **Robert C. Martin**
+
+<div class="page"/>
+
+![Código limpio](../../static/images/citas/1.0-clean-code.png)
 
 <div class="page"/>
 
@@ -696,6 +705,10 @@ const client = clients.selectByNameAndCountry(name, country);
 
 <div class="page"/>
 
+![Código limpio](../../static/images/citas/2.0-clean-code.png)
+
+<div class="page"/>
+
 # 🔀 2 - Funciones
 
 ## Claridad con el menor esfuerzo.
@@ -719,6 +732,10 @@ En las próximas entradas de este tutorial prestaremos especial atención a las 
 > _"A veces, la implementación más elegante es solo una función. No es un método. No es una clase. No es un framework. Solo una función."_
 >
 > -- ✍️ **John Carmack**
+
+<div class="page"/>
+
+![Código limpio](../../static/images/citas/2.1-clean-code.png)
 
 <div class="page"/>
 
@@ -808,6 +825,10 @@ En resumen:
 > Usa características del lenguaje para evitar tratar nulos y valores por defecto._
 
 Considera la posibilidad de **automatizar la detección de su incumplimiento** usando algún tipo de _linter_ o chequeador estático.
+
+<div class="page"/>
+
+![Código limpio](../../static/images/citas/2.2-clean-code.png)
 
 <div class="page"/>
 
@@ -924,6 +945,10 @@ Para cumplir estos límites
 - 💼 Más **reglas de negocio** descritas en las funciones
 
 - 💬 **Cero** necesidad de comentarios
+
+<div class="page"/>
+
+![Código limpio](../../static/images/citas/2.3-clean-code.png)
 
 <div class="page"/>
 
@@ -1528,3 +1553,12 @@ Para adquirir esos valores se necesita disciplina, y la disciplina es cuestión 
 > _El profesionalismo y la artesanía provienen de valores que impulsa la **DISCIPLINA**."_
 >
 > -- ✍️ **Robert C. Martin**
+
+<div class="page"/>
+
+> Muchas gracias, espero que te resulte útil.
+> ✍🏼 [Alberto Basalo](https://www.linkedin.com/in/albertobasalo)
+
+### Para [bitAdemy](https://www.bitademy.com)
+
+## [Clean Code aplicado para desarrollos limpios y rentables](https://www.bitademy.com/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)

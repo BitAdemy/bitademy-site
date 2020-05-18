@@ -18,8 +18,3 @@ export default function Scripts(props) {
     </React.Fragment>
   );
 }
-// const convertBox = {
-//   src: 'https://cdn.convertbox.com/convertbox/js/embed.js',
-//   id: 'app-convertbox-script',
-//   data_uuid: 'b3e703fb-a9f2-41c4-8db3-b114b7899c4c'
-// };
