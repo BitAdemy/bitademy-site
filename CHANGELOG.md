@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.63.0](https://github.com/BitAdemy/bitademy-site/compare/v1.62.1...v1.63.0) (2020-05-18)
+
+
+### Features
+
+* ✨ menu with minimal js ([3c62fc6](https://github.com/BitAdemy/bitademy-site/commit/3c62fc6e00c79e38ba2916f93498c7e269e9af18))
+
 ### [1.62.1](https://github.com/BitAdemy/bitademy-site/compare/v1.62.0...v1.62.1) (2020-05-15)
 
 
