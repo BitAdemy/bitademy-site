@@ -12,6 +12,8 @@ up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Pruebas de comportamiento
 previous_url: tutorial/web-testing/functional/pruebas-de-comportamiento
+next: Pruebas unitarias con Jest
+next_url: tutorial/web-testing/unit
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/WebTesting_e2e-functional_cypress_Labs/tree/master/cypress/integration/pro
 sections:

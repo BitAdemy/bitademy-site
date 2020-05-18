@@ -45,11 +45,11 @@ template: tutorial
 
 ---
 
-### 🔬 Pruebas unitarias
+### 🔬 Pruebas unitarias con **Jest**
 
-#### 🏰 Pruebas sobre código _legacy_ con **Jest**
+#### 🏰 Pruebas sobre código _legacy_
 
-#### 🏇🏼 Probando código asíncrono
+#### 🏇🏼 Pruebas de integración y código asíncrono
 
 ---
 
