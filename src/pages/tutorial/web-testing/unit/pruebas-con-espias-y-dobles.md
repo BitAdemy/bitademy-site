@@ -1,6 +1,5 @@
 ---
 title: 🕵🏼‍♂️ Pruebas con espías y dobles
-  Pruebas de sistemas legacy complejos.
 excerpt: >-
   Pruebas con espías y dobles. Pruebas de sistemas legacy complejos.
 post_url: tutorial/web-testing/unit/pruebas-con-espias-y-dobles
