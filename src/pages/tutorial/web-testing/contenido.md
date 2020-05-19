@@ -45,9 +45,9 @@ template: tutorial
 
 ---
 
-### 🔬 [Pruebas unitarias con **Jest**](http://localhost:8003/tutorial/web-testing/unit)
+### 🔬 [Pruebas unitarias con **Jest**](https://www.bitademy.com/tutorial/web-testing/unit)
 
-#### 🏰 Pruebas sobre código _legacy_
+#### 🕵🏼‍♂️ [Pruebas con espías y dobles](https://www.bitademy.com/tutorial/web-testing/unit/pruebas-con-espias-y-dobles)
 
 #### 🏇🏼 Pruebas de integración y código asíncrono
 

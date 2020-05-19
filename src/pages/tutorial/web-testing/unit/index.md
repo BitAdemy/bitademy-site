@@ -12,8 +12,10 @@ up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Limpieza de pruebas
 previous_url: tutorial/web-testing/functional/limpieza-de-pruebas
+next: Pruebas con espías y dobles
+next_url: tutorial/web-testing/unit/pruebas-con-espias-y-dobles
 laboratory: Laboratorio
-laboratory_url: https://github.com/LabsAdemy/WebTesting_unit_Labs
+laboratory_url: https://github.com/LabsAdemy/WebTesting_unit_Labs/tree/master/src/unit/basic
 sections:
   - section_id: call-to-action
     type: section_cta
