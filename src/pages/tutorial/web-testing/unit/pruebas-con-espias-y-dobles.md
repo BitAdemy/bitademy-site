@@ -10,6 +10,8 @@ up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Pruebas unitarias con Jest
 previous_url: tutorial/web-testing/unit
+next: Pruebas de código asíncrono
+next_url: tutorial/web-testing/unit/pruebas-de-codigo-asincrono
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/WebTesting_unit_Labs/tree/master/src/unit/legacy
 sections:

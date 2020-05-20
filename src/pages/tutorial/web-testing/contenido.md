@@ -49,7 +49,7 @@ template: tutorial
 
 #### 🕵🏼‍♂️ [Pruebas con espías y dobles](https://www.bitademy.com/tutorial/web-testing/unit/pruebas-con-espias-y-dobles)
 
-#### 🏇🏼 Pruebas de integración y código asíncrono
+#### 🏇🏼 [Pruebas de código asíncrono](https://www.bitademy.com/tutorial/web-testing/unit/pruebas-de-codigo-asincrono)
 
 ---
 
