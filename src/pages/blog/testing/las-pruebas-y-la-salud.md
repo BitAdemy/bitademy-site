@@ -3,7 +3,7 @@ title: Las pruebas y la salud
 subtitle: >-
   La detección temprana de problemas es su mejor solución.
 excerpt: >-
-  No me gustan los dogmas ni el inmovilismo. Tampoco en lo que se refiere a hacer pruebas de software. Puedes hacer buen software sin ellas. Pero con pruebas lo harás mucho mejor.
+  La detección temprana de problemas es su mejor solución. Las pruebas del software son la mejor inversión en calidad, fiabilidad y certidumbre. Todo ello mejora tu salud.
 post_url: blog/testing/las-pruebas-y-la-salud
 img_path: images/las-pruebas-y-la-salud.jpg
 img_size: inner-micro
