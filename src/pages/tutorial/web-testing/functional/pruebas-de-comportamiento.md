@@ -72,7 +72,7 @@ Para acomodar estos tres eventos a _Cypress_ necesitarás algo más de contexto.
 
 Esta función es similar a `describe` pero se usa como un agrupador de nivel inferior. Específicamente yo la uso para definir distintos **escenarios de prueba**. Este sería un esqueleto típico que incluye dichas funciones funciones.
 
-```js
+```
 describe('Funcionalidad que se pretende probar', () => {
   context('Escenario o situación prevista', () => {
     it('Lo que debería ocurrir', () => {});
@@ -82,7 +82,7 @@ describe('Funcionalidad que se pretende probar', () => {
 
 Entonces estas tres funciones son... ¿_la triple AAA_?. No exactamente pero sí, efectivamente tiene cierta equivalencia con estas tres funciones. Veámoslo con el _Hola Mundo_.
 
-```js
+```
 describe('Visiting the url https://www.bitademy.com', () => {
   // Arrange
   const sutUrl = 'https://www.bitademy.com';
@@ -116,7 +116,7 @@ _GWT_ es una fórmula fácil de recordar y que nos narra en lenguaje humano lo q
 
 Aplicándolo a nuestro ejemplo, quedaría algo así:
 
-```js
+```
 describe('GIVEN: the url https://www.bitademy.com', () => {
   // Arrange
   const sutUrl = 'https://www.bitademy.com';

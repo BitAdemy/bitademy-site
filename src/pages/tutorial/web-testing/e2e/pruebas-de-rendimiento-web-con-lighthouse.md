@@ -47,7 +47,7 @@ Seguiremos las misma premisas que empleamos con [Puppeteer para las pruebas bás
 
 Esta fase es un poco tediosa, pero te puede valer para todos los tests que hagas con _Lighthouse_. En esencia lanza una instancia de _Chrome_ y se conecta a ella. Es en esa instancia en la que se cargará tu página usando _Puppeteer_ y contra la que se lanzarán las peticiones de métricas.
 
-```js
+```
 async function arrangeBrowser() {
   const chrome = await launchChrome();
   console.info(`chrome.port : ${chrome.port}`);
@@ -76,7 +76,7 @@ Esta fase es más simple, aunque aquí si que tendrás que trabajar cada test. _
 
 Mi propuesta minimalista y enfocada al paso de la prueba es que pidas una métrica concreta y la valides contra un resultado esperado.
 
-```js
+```
 async function actGetReport(url) {
   lh_desktop_config.settings.skipAudits = null;
   lh_desktop_config.settings.onlyAudits = ['speed-index'];
@@ -102,7 +102,7 @@ Vale, pedir una sola métrica quizá sea poco realista. Pero recuerda dos cosas 
 
 Esta es la parte más sencilla. Determina el umbral de rendimiento aceptable y compáralo con el resultado obtenido. Por ejemplo yo aquí estoy midiendo el _speed-index_ , que es el criterio principal, y lo comparo contra el umbral que recomiendan en google.
 
-```js
+```
 module.exports = async function itShouldBeFast() {
   const inputPageUrl = 'https://www.bitademy.com';
   const { chrome, browser } = await arrangeBrowser();
@@ -122,7 +122,7 @@ module.exports = async function itShouldBeFast() {
 
 Al acabar tus pruebas deberías liberar los recursos, que3 en este caso es simplemente desconectar y cerrar la instancia de _chrome_
 
-```js
+```
 async function afterAll({ chrome, browser }) {
   browser.disconnect();
   await chrome.kill();

@@ -107,7 +107,7 @@ En [el laboratorio](https://github.com/LabsAdemy/WebTesting_e2e-functional_cypre
 
 ### Intención, comentarios y otras historias
 
-Hay frameworks que transforman el comentario en código, siguiendo normas de leguajes formales. Está fuera del alcance de este rurorial. Yo os propongo que al menos encabecéis las pruebas con una declaración de intenciones:
+Hay frameworks que transforman el comentario en código, siguiendo normas de leguajes formales. Está fuera del alcance de este tutorial. Yo os propongo que al menos encabecéis las pruebas con una declaración de intenciones:
 
 ```js
 // FEATURE:     the app should have a well formed html
@@ -120,7 +120,7 @@ Hay frameworks que transforman el comentario en código, siguiendo normas de leg
 
 Si quieres entender algo de un vistazo, mejor que sea conciso:
 
-```js
+```
 describe(`GIVEN: the proton tasks web app`, () => {
   arrangeTest();
   context(`WHEN: I visit the url ${Cypress.env(baseUrl)} `, () => {
@@ -139,7 +139,7 @@ En el anterior ejemplo se aplican algunas de las prácticas recomendadas. Poco a
 
 Nunca viene mal empezar con una sección para declarar variables o constantes.
 
-```js
+```
 let sutUrl;
 let expectedTitle;
 let selectorHeader;
@@ -148,7 +148,7 @@ let selectorH1;
 
 La asignación de valore irá en alguno de los métodos de preparación
 
-```js
+```
 function arrangeTest() {
   ignoreParcelError();
   sutUrl = Cypress.env('baseUrl');
@@ -160,7 +160,7 @@ function arrangeTest() {
 
 Y hablando de las funciones, y recordando a la _Triple A_, te propongo que todas empiecen por uno de esos tres verbos `Arrange-Act-Assert`. Como en el siguiente ejemplo.
 
-```js
+```
 function arrangeTest() {
   ignoreParcelError();
   sutUrl = Cypress.env('baseUrl');
@@ -189,7 +189,7 @@ Incluso puedes sobrescribir en tu máquina local con valores específicos en un 
 
 La idea es que puedas **adaptar fácilmente los tests a distintos entornos**. Teniendo una configuración para integración
 
-```json
+```
 {
   "chromeWebSecurity": false,
   "baseUrl": "https://labsademy.github.io/ProtonTasks/",
@@ -199,7 +199,7 @@ La idea es que puedas **adaptar fácilmente los tests a distintos entornos**. Te
 ```
 Y otra para desarrollo
 
-```json
+```
 {
   "chromeWebSecurity": false,
   "baseUrl": "http://localhost:1234",
@@ -258,7 +258,7 @@ En cualquier caso, _escriptarlo_ es así de fácil, y la configuración a su fic
   "scripts": {
     "start": "cypress open",
     "test": "cypress run"
-  },
+  }
 ```
 
 > En definitiva, las pruebas son código y merecen un respeto. _Cypress_ te ofrece lo necesario para que sean fáciles de entender y mantener.

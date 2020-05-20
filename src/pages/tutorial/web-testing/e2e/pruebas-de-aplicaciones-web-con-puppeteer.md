@@ -49,7 +49,7 @@ Lo que sí que respetaré será la estructura básica de un test. La famosa _tri
 
 La sección de preparación de cualquier test debe dejarlo listo para la ejecución de pruebas. Habitualmente **se preparan objetos** de negocio, ficheros, servicios o como en este caso se configura _Puppeteer_ para visitar páginas en modo oculto y a la resolución que determinemos.
 
-```javascript
+```
 async function arrangeBrowser() {
   console.info(`arranging browser `);
   const browser = await puppeteer.launch({
@@ -65,7 +65,7 @@ A partir de este momento ya empezamos con **lo que debería ocurrir**. Son los h
 
 En los casos más básicos se puede optar por un simple `try catch` que detecte errores. Por ejemplo para comprobar si una página existe o no.
 
-```js
+```
 module.exports = async function itShouldExist(pagePuppet) {
   let errors = 1;
   const inputPageUrl = 'https://www.bitademy.com';
@@ -89,7 +89,7 @@ Para homogenizar los mensajes te propongo que uses la terminología que tomo pre
 
 Este caso de **intentar** es habitual, aunque mucho más habitual será **actuar y comprobar**. Por ejemplo si la página existe pero queremos comprobar que es la adecuada. Para ello se usan dos secciones. En la primera actuamos sobre el sistema y en la segunda comprobamos el resultado.
 
-```js
+```
 async function itShouldHaveTitle(pagePuppet) {
   console.info(`GIVEN a page`);
   const expected = 'bitAdemy';
@@ -103,7 +103,7 @@ En esta sección actuamos contra el sistema de pruebas, en este caso la página 
 
 El ejemplo más sencillo con _Puppeteer_ podría ser algo así.
 
-```js
+```
 async function itShouldHaveTitle(pagePuppet) {
   ...
   console.info(`  WHEN we get its title`);
@@ -119,7 +119,7 @@ async function actGetTitle(pagePuppet) {
 
 Estamos ya en la delicada fase de comprobación. En esencia queremos saber si algo es o no cierto y para ello **realizamos una afirmación**; lo que se denomina en inglés `assert`.
 
-```js
+```
 async function itShouldHaveTitle(pagePuppet) {
   ...
   console.info(`    THEN it Should Have Title: ${expected}`);
@@ -145,7 +145,7 @@ Si nuestra afirmación sobre el resultado real es la esperada, entonces habremos
 
 Es muy recomendable disponer de una sección que limpie cualquier efecto secundario de una prueba. Estos métodos se ejecutan después de realizarse y en inglés son simplemente `after`.
 
-```js
+```
 async function afterAll(browser, numErrors) {
   await browser.close();
   if (numErrors) {
@@ -167,7 +167,7 @@ _Puppeteer_ no sólo permite visitar páginas, si no que **simula la interacció
 
 Por ejemplo, permite hacer _logIn_ en un sitio autenticado, o cubrir pequeños formularios. Para ver la sintaxis necesaria te muestro cómo probar un formulario de suscripción a una _newsletter_; que además es algo muy similar a una pantalla de _logIn_.
 
-```js
+```
 module.exports = async function itShouldAllowSubscribe(pagePuppet) {
   let errors = 1;
   console.info(`GIVEN a page with a subscribe form `);
@@ -209,7 +209,7 @@ Con _Puppeteer_ podemos **capturar instantáneas y guardarlas** en distintos for
 
 La sintaxis no puede ser más sencilla. Cuidado que te puedes enganchar y llenar un disco en un par de tardes.
 
-```js
+```
 module.exports = async function takeScreenshot(pagePuppet) {
   const timeStamp = new Date().getTime();
   const shotPath = path.join(process.cwd(), 'images', `${timeStamp}.png`);

@@ -72,7 +72,7 @@ Como la mayoría de los frameworks de pruebas, _Cypress_ nos ofrece la conocida 
 
 #### Describe it
 
-```js
+```
 describe('Funcionalidad que se pretende probar', () => {
   // Código de preparación y actuación pruebas
   it('Lo que debería ocurrir', () => {
@@ -87,7 +87,7 @@ Es tan importante, o más, **prestar atención al texto** que reciben en el prim
 
 Dentro de las anteriores funciones irá el código propiamente dicho. Ahora ya usaremos _Cypress_ como una librería mas y habrá que familiarizarse con su API. Aunque tu editor puede ayudarte en eso.
 
-```js
+```
 /// <reference types="Cypress" />
 
 // Actuaciones como un usuario
@@ -100,7 +100,7 @@ cy.title().should('include', 'bitAdemy');
 
 La ejecución es recomendable lanzarla desde el _package.json_. Os muestro dos alternativas. Podéis instalar _Cypress_ y ejecutar las pruebas desde el mismo repositorio que la aplicación que estáis probando. O podéis crear una aplicación de pruebas independiente.
 
-```json
+```
 {
   "scripts": {
     "test:e2e": "cypress open",
@@ -117,7 +117,7 @@ En [el laboratorio](https://github.com/LabsAdemy/WebTesting_e2e-functional_cypre
 
 Para que lo veas todo junto te propongo que te crees un fichero `cypress\integration\examples\0.0_hello-world.spec.js` y escribas esto en él.
 
-```js
+```
 /// <reference types="Cypress" />
 
 describe('Visiting the url https://www.bitademy.com', () => {
@@ -140,7 +140,7 @@ De los textos que se incluyen en las funciones se deduce claramente **la intenci
 
 Este es el `cypress\integration\examples\0.1_hello-world.spec.js`
 
-```js
+```
 describe('Visiting the url https://www.bitademy.com', () => {
   before(() => cy.visit('https://www.bitademy.com'));
   it('should have an h2 on the hero header with text _Aprender a programar mejor_', () => {
