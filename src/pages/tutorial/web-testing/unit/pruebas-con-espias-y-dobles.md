@@ -45,7 +45,7 @@ Se trata de una clase `BankClient` que utiliza a otras para su operativa. Una `A
 
 Con lo que sabemos de _Jest_ es fácil entender esta prueba; y entendiendo esta prueba es fácil adivinar la funcionalidad del programa. Mira en el código de [legacy-integration.spec.js](https://github.com/LabsAdemy/WebTesting_unit_Labs/blob/master/src/unit/legacy/tests/legacy-integration.spec.js)
 
-```js
+```
 import { BankClient } from '../bank-client';
 
 let sutBankClient;
@@ -91,7 +91,7 @@ El caso más sencillo sólo pretende **sustituir a cada dependencia por un objet
 
 Esto es el concepto de **espía**, alguien que nos cuenta lo que ocurre. Montar este sistema de espionaje con _Jest_ es relativamente simple, pero se entiende mejor con un ejemplo:
 
-```js
+```
 import { Account } from '../account';
 import { BankClient } from '../bank-client';
 jest.mock('./account');
@@ -123,7 +123,7 @@ En muchas situaciones no es suficiente saber que se ha llamado a algo, ni siquie
 
 El siguiente ejemplo usa un espía para la gestión del crédito, pero necesita **un doble para simular** el balance de la cuenta.
 
-```js
+```
 import { Account } from '../account';
 import { BankClient } from '../bank-client';
 import { Loan } from '../loan';

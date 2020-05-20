@@ -37,7 +37,7 @@ template: tutorial
 
 #### Alto nivel
 
-```js
+```
 import { BankClient } from '../bank-client';
 let sut;
 describe('GIVEN: a BankClient system', () => {
@@ -57,7 +57,7 @@ describe('GIVEN: a BankClient system', () => {
 
 #### Bajo nivel
 
-```js
+```
 import { getAllTransactions, postTransaction } from '../bank-service';
 describe('GIVEN: a connected Bank service', () => {
   beforeAll(() => {
@@ -80,10 +80,13 @@ describe('GIVEN: a connected Bank service', () => {
 
 ### Con servicios mock
 
-```js
+```
 import { BankClient } from '../bank-client';
+
 import { postTransaction } from '../bank-service';
+
 jest.mock('../bank-service');
+
 let sut;
 
 describe('GIVEN: a BankClient class', () => {
@@ -105,7 +108,7 @@ describe('GIVEN: a BankClient class', () => {
 
 ### Con llamadas mock
 
-```js
+```
 import { getAllTransactions } from '../bank-service';
 
 describe('GIVEN: a disconnected Bank service', () => {
@@ -122,7 +125,7 @@ describe('GIVEN: a disconnected Bank service', () => {
 
 ### Con respuestas fake
 
-```js
+```
 import { getAllTransactions } from '../bank-service';
 
 describe('GIVEN: a mocked Bank service', () => {
@@ -135,12 +138,15 @@ describe('GIVEN: a mocked Bank service', () => {
       ])
     );
   });
+
   test('WHEN: i ask for all transactions THEN it returns the expected array', async () => {
     const actual = await getAllTransactions();
+
     const expected = [
       { id: 1, amount: 1 },
       { id: 2, amount: 20 }
     ];
+
     expect(actual).toEqual(expected);
   });
 });

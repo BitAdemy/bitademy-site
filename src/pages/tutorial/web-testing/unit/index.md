@@ -101,7 +101,7 @@ Aquí le decimos que se lancen todas las pruebas, que vigile los cambios para re
 
 Vamos a realizar un conjunto de pruebas muy sencillo. Dado un código en JavaScript como este:
 
-```js
+```
 export const basic = {
   balance: 0,
   deposit(amount) {
@@ -117,7 +117,7 @@ Ya lo sé, es muy básico; pero esto es solo un _Hola Mundo_. Lo puedes ver en [
 
 ### Hola Mundo
 
-```js
+```
 import { basic } from './basic';
 
 test('basic exists', () => {
@@ -147,7 +147,7 @@ A mi me gusta tomar prestado el _Given When Then_ de las pruebas de comportamien
 
 Estos son ejemplos un poco más elaborados, pero igualmente sencillos. Lo importante es que el resultado sea significativo. Y que el código que lo acompañe responda a las expectativas.
 
-```js
+```
 describe('GIVEN: a basic object', () => {
   test('WHEN: read the balance THEN returns 0', () => {
     expect(basic.balance).toEqual(0);
@@ -174,7 +174,7 @@ Fíjate también en la nomenclatura propuesta para las variables. Además de acl
 
 Vas a tener ocasiones en las que la preparación de la pruebas sea compleja. En otros casos será la propia prueba la que sea compleja. Vamos a ver estas dos situaciones, aunque por supuesto sigamos en un escenario muy básico.
 
-```js
+```
 describe('GIVEN: a basic object with a previous balance of 6', () => {
   beforeEach(() => {
     basic.balance = 0;
@@ -204,7 +204,7 @@ Aquí hacemos uso de la función `beforeEach()` de _Jest_ que te permite ejecuta
 
 Lo sé me encantan los acrónimos. Tengo poca memoria y es una manera de acordarme y empezar con una estructura. Aquí lo voy a hacer creando unas funciones de ayuda que iré invocando o asignando según necesite.
 
-```js
+```
 describe('GIVEN: a basic object with a previous balance of 10 WHEN: i ask for a borrow of 4', () => {
   beforeAll(() => {
     arrangeBalance();
@@ -239,7 +239,7 @@ Estas micro funciones cumplen varios cometidos. Al tener nombre dejan un rastro 
 
 **Todo código puede fallar**. Pero si la la excepción ya es esperada, entonces la prueba debe también comprobar que lo excepcional funciona como se espera.
 
-```js
+```
   borrow(amount) {
     if (amount + this.disposed > this.balance) {
       throw "you can't request so much credit";
@@ -251,7 +251,7 @@ Estas micro funciones cumplen varios cometidos. Al tener nombre dejan un rastro 
 
 Esta función comprueba una condición lógica y lanza un error si no se cumple. Debemos capturar ese error y asegurar que se lanza cuando es preciso.
 
-```js
+```
 describe('GIVEN: a basic object with a previous balance of 10 WHEN: i ask for a borrow of 40', () => {
   beforeAll(() => {
     arrangeBalance();
@@ -286,7 +286,7 @@ Como siempre, te sugiero que _escriptes_ todos tus comando de consola.
 
 Solicitar el informe de cobertura de código es así de simple; pero necesita que en la configuración le especifique qué umbrales consideras aptos. Yo suelo utilizar algo así en el `jest.config.js`:
 
-```js
+```
 module.exports = {
   coverageThreshold: {
     global: {
@@ -296,6 +296,7 @@ module.exports = {
     },
   },
 }
+
 ```
 
 En el se incluyen el famoso 80% para líneas, ramas condicionales y funciones. Si estás empezando con las pruebas no te obsesiones con esta métrica. Cada test que hagas estarás más cerca del objetivo: **tener confianza en tu código y dormir tranquilamente**.
