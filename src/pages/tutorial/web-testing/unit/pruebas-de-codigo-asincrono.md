@@ -9,7 +9,7 @@ date: '2020-05-20'
 up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Pruebas con espías y dobles
-previous_url: tutorial/web-testing/pruebas-con-espias-y-dobles
+previous_url: tutorial/web-testing/unit/pruebas-con-espias-y-dobles
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/WebTesting_unit_Labs/tree/master/src/unit/async
 sections:
