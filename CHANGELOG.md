@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.73.0](https://github.com/BitAdemy/bitademy-site/compare/v1.72.0...v1.73.0) (2020-05-21)
+
+
+### Features
+
+* ✍🏼 tutorial tdd ([8433d5e](https://github.com/BitAdemy/bitademy-site/commit/8433d5e562493a21910d89521c6ac47e33577aa7))
+
 ## [1.72.0](https://github.com/BitAdemy/bitademy-site/compare/v1.71.0...v1.72.0) (2020-05-21)
 
 
