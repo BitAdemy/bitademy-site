@@ -43,7 +43,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          // `gatsby-remark-component`,
+          `gatsby-remark-component`,
           `gatsby-remark-prismjs`,
           {
             resolve: `gatsby-remark-external-links`,
