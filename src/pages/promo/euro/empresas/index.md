@@ -2,7 +2,7 @@
 title: Formación de calidad para empresas
 excerpt: >-
   Cursos a distancia para aprender a vuestro ritmo.
-post_url: /promo/euro/empresa/
+post_url: /promo/euro/empresas/
 img_path: images/logo.png
 sections:
   - section_id: hero

@@ -4,7 +4,7 @@ subtitle: >-
   Haz que tu equipo desarrolle aplicaciones limpias y aumenta tu valor.
 excerpt: >-
   Curso online para aprender las técnicas Clean Code y adoptar la filosofía Software Craftmanship.
-post_url: /promo/euro/empresa/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+post_url: /promo/euro/empresas/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 img_path: images/undraw_clean_up.svg
 thumb_img_path: images/undraw_clean_up.svg
 date: '2020-05-11'
