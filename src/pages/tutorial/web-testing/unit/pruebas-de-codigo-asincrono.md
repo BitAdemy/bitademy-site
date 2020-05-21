@@ -1,7 +1,9 @@
 ---
 title: 🏇🏼 Pruebas de código asíncrono
-excerpt: >-
+subtitle: >-
   Pruebas con llamadas a servicios remotos.
+excerpt: >-
+  Pruebas de código asíncrono. Pruebas con llamadas a servicios remotos.
 post_url: tutorial/web-testing/unit/pruebas-de-codigo-asincrono
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
