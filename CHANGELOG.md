@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.70.0](https://github.com/BitAdemy/bitademy-site/compare/v1.69.4...v1.70.0) (2020-05-21)
+
+
+### Features
+
+* ✍🏼 tutorial jest async ([1afb084](https://github.com/BitAdemy/bitademy-site/commit/1afb0840106bd14522580531f7805f51c36843bc))
+* 👨🏼‍🎤 better code look ([207240a](https://github.com/BitAdemy/bitademy-site/commit/207240a2c31aeb91ef0eedfe75e8c45d324e3446))
+
 ### [1.69.4](https://github.com/BitAdemy/bitademy-site/compare/v1.69.3...v1.69.4) (2020-05-20)
 
 ### [1.69.3](https://github.com/BitAdemy/bitademy-site/compare/v1.69.2...v1.69.3) (2020-05-20)
