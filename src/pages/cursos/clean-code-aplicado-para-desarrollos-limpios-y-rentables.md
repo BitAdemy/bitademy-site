@@ -18,25 +18,26 @@ sections:
       El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida el desarrollo para crear código limpio**.
 
 
-      Este curso transforma al programador en artesano del software.
+      Este curso **transforma al programador en artesano** del software.
 
-      Aprende a programar mejor y mejora tus desarrollos.
+
+      Aprende a programar mejor e **impulsa tu carrera**.
 
   - section_id: call-to-action
     type: section_cta
     title: Formación desde tu casa 🏡
     subtitle: 😷 40% de descuento durante la cuarentena.
     actions:
-      - label: 1 pago de 59€
+      - label: 🌍 1 pago de 59€
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
 
-      - label: 3 plazos de 20€
+      - label: 🌍 3 plazos de 20€
         url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
 
-      - label: 1 pago de 53$
+      - label: 🌎 1 pago de 53$
         url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
 
-      - label: 3 plazos de 18$
+      - label: 🌎 3 plazos de 18$
         url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
   - section_id: features
     type: section_features
@@ -64,7 +65,7 @@ sections:
         content: >-
           Hola, soy **Alberto Basalo**.
 
-          He sido programador durante más de 7 años en Zara, otros 4 arquitecto de software para Tous y desde 2011 dirijo mi propia consultora. En total más de 20 años en la industria del software en grandes y pequeñas empresas.
+          He sido programador durante más de 7 años en **Zara**, otros 4 arquitecto de software para Tous y desde 2011 dirijo mi propia consultora. En total más de 20 años en la industria del software en grandes y pequeñas empresas.
 
 
           He visto y escrito código que haría vomitar a una cabra. Pero también he aprendido a hacerlo mejor cada día.
@@ -202,8 +203,8 @@ sections:
 
           > "Sí, este curso es para mi."
         actions:
-          - label: Venga, empiezo ya.
-            url: https://aula.bitademy.com/p/precios_codigo-limpio
+          - label: Prueba gratis.
+            url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
   - section_id: call-to-action
     type: section_cta
     title: Empresas.
