@@ -63,7 +63,7 @@ De aquí sacaremos directamente las cadenas de texto que acompañan a las prueba
 
 Las pruebas **TDD son pruebas para programadores**. Las hacemos por nuestro propio bien. Sin que nos las pidan, sin esperar que las valoren.
 
-> Hacemos las pruebas para estar seguros de hacer lo que se nos pide, nada da más, pero bien hecho.
+> Hacemos las pruebas para estar seguros de hacer lo que se pide, nada más, pero bien hecho.
 
 La estructura, los textos y el cómo se hacen debe ser a nuestro gusto. Yo te propongo seguir con la estructura _AAA_ y el nombrado _GWT_. Pero repito, estas pruebas son para ti, es posible que no las vea nadie que no vea el código. Están al mismo nivel.
 

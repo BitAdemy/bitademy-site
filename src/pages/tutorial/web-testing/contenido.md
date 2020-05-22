@@ -55,6 +55,4 @@ template: tutorial
 
 ### 🧬 [TDD: desarrollo guiado por las pruebas](https://www.bitademy.com/tutorial/web-testing/tdd)
 
-#### ♻ Red-Green-Refactor.
-
-#### 📈 Mejores resultados y mejor diseño.
+#### 📈 [Mejores resultados y mejor diseño.](https://www.bitademy.com/tutorial/web-testing/tdd/mejores-resultados-y-mejor-diseno)
