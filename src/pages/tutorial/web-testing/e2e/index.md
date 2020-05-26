@@ -1,5 +1,5 @@
 ---
-title: E2E Pruebas externas de principio a fin
+title: 🌐 E2E Pruebas externas de principio a fin
 subtitle: >-
   Puppeteer para comprobación de existencia, navegación, tamaño, velocidad y otras métricas.
 excerpt: >-

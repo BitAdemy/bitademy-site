@@ -72,7 +72,7 @@ async function connectToChrome(chrome) {
 
 ### Act
 
-Esta fase es más simple, aunque aquí si que tendrás que trabajar cada test. _Lighthouse_ es capaza de tomar cientos de métricas y generar informes _json_ o _html_. Eso está muy bien, pero exige que algo o alguien los procese después.
+Esta fase es más simple, aunque aquí si que tendrás que trabajar cada test. _Lighthouse_ es capaz de tomar cientos de métricas y generar informes _json_ o _html_. Eso está muy bien, pero exige que algo o alguien los procese después.
 
 Mi propuesta minimalista y enfocada al paso de la prueba es que pidas una métrica concreta y la valides contra un resultado esperado.
 
