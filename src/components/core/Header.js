@@ -58,7 +58,9 @@ export default class Header extends React.Component {
                     {props.getSiteHeaderMenuActions(this.props) &&
                       _.map(props.getSiteHeaderMenuActions(this.props), (action, action_idx) => (
                         <li key={action_idx} className="menu-item menu-button">
-                          <Link to={safePrefix(_.get(action, 'url'))} className="button">
+                          <Link
+                            to={safePrefix(_.get(action, 'url'))}
+                            className="button tag-cta-header">
                             {_.get(action, 'label')}
                           </Link>
                         </li>

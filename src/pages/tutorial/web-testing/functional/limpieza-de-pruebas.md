@@ -43,7 +43,7 @@ Aunque, efectivamente, las pruebas son un tipo de código muy concreto que tiene
 
 ### Comentarios
 
-En las pruebas el texto de salida es muy importante; no es un adorno, es parte de la solución. Debemos aprovechar ese mismo texto para que **aclarar en código la intención de la prueba**. No hacen falta más comentarios.
+En las pruebas el texto de salida es muy importante; no es un adorno, es parte de la solución. Debemos aprovechar ese mismo texto para **aclarar en código la intención de la prueba**. No hacen falta más comentarios.
 
 Excepcionalmente se admiten encabezados que definan las funcionalidades siguiendo algún patrón formal, tipo historia de usuario.
 
@@ -146,7 +146,7 @@ let selectorHeader;
 let selectorH1;
 ```
 
-La asignación de valore irá en alguno de los métodos de preparación
+La asignación de valores irá en alguno de los métodos de preparación
 
 ```
 function arrangeTest() {
