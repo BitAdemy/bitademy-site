@@ -18,7 +18,7 @@ sections:
 
     actions:
       - label: Solicita información para tu empresa
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
       - label: Ver convocatorias
         url: info/convocatorias
   - section_id: features
@@ -75,7 +75,7 @@ sections:
     subtitle: Encuentra la mejor opción para tu empresa.
     actions:
       - label: Pongámonos en contacto
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
 # menus:
 #   main:
 #     weight: 2

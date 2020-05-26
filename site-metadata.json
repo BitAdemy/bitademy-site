@@ -13,8 +13,8 @@
     "menu": {
       "actions": [
         {
-          "label": "📨 Subscribirme",
-          "url": "http://eepurl.com/gLTXxT"
+          "label": "💬 Contacto",
+          "url": "/contacto"
         }
       ]
     }

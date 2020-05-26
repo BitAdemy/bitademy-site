@@ -172,14 +172,14 @@ sections:
           > "Sí, este curso es para mi."
         actions:
           - label: Vale, me interesa.
-            url: https://agorabinaria.typeform.com/to/ymWVLB
+            url: /contacto
   - section_id: call-to-action
     type: section_cta
     title: Empresas.
     subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
     actions:
       - label: Quiero formar a mi equipo
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
       - label: Bonificar por Fundae
         url: /info/fundae/
 template: landing

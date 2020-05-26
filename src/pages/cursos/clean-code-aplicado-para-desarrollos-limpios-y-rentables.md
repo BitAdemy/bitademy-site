@@ -211,7 +211,7 @@ sections:
     subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
     actions:
       - label: Quiero formar a mi equipo
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
       - label: Bonificar por Fundae
         url: /info/fundae/
 template: landing

@@ -120,7 +120,7 @@ sections:
     subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
     actions:
       - label: Quiero cupones descuento para formar a mi equipo
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
   - section_id: features
     type: section_features
     bg: gray

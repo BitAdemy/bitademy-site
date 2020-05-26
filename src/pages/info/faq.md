@@ -32,7 +32,7 @@ sections:
           Sí. Durante la cuarentena 😷 tenemos activado el cupón BIT_40. Asígnalo durante el proceso de pago para un descuento del 40%. Quédate en casa. 🏡
       - question: ¿Hay descuentos para grupos ?
         answer: >-
-          Sí. Se pueden comprar cupones para obtener ventajas de escalado. [Solicita información](https://agorabinaria.typeform.com/to/ymWVLB)
+          Sí. Se pueden comprar cupones para obtener ventajas de escalado. [Solicita información](/contacto)
       - question: ¿Hay tarifas para Latinoamérica?
         answer: >-
           Sí, puedes consultarla en [este enlace](/info/latam/)
@@ -56,7 +56,7 @@ sections:
     subtitle: Encuentra la mejor opción para tu empresa.
     actions:
       - label: Pongámonos en contacto
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
 # menus:
 #   main:
 #     weight: 2

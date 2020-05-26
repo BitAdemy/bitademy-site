@@ -15,7 +15,7 @@ sections:
     subtitle: Busquemos la mejor opción.
     actions:
       - label: Pongámonos en contacto
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
 menus:
   main:
     weight: 6
@@ -111,7 +111,7 @@ template: page
 
 > _"Podemos ayudarte a escoger la mejor opción"_
 >
-> [Consúltanos sin compromiso](https://agorabinaria.typeform.com/to/ymWVLB)
+> [Consúltanos sin compromiso](/contacto)
 
 #### 🏢 Ediciones privadas para tu empresa
 

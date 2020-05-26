@@ -92,7 +92,7 @@ sections:
     subtitle: Formarse bien empieza por escoger la mejor opción.
     actions:
       - label: Consúltanos sin compromiso
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
 menus:
   main:
     weight: 5

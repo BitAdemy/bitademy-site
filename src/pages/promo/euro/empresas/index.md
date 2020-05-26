@@ -18,7 +18,7 @@ sections:
       >_"Elige para aprender y aumentar tu valor."_
     actions:
       - label: Pongámonos en contacto
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
   - section_id: features
     type: section_features
     bg: gray
@@ -77,7 +77,7 @@ sections:
     subtitle: Formarse bien empieza por escoger la mejor opción.
     actions:
       - label: Consúltanos sin compromiso
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
 hide_menu: true
 template: landing
 ---

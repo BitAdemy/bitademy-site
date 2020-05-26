@@ -188,7 +188,7 @@ sections:
           * **Próxima convocatoria 15 de mayo**
         actions:
           - label: Infórmate
-            url: https://agorabinaria.typeform.com/to/ymWVLB
+            url: /contacto
 
   - section_id: call-to-action
     type: section_cta
@@ -249,7 +249,7 @@ sections:
     subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
     actions:
       - label: Quiero Formar a mi equipo
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
 # menus:
 #   main:
 #     weight: 2

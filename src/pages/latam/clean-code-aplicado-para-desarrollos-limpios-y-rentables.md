@@ -108,7 +108,6 @@ sections:
           * [Blog Tutorial](/tutorial/clean-code)
           * [Repositorio de ejemplos](https://github.com/labsAdemy/CleanCodeLab/)
           * [Redes sociales](https://twitter.com/bit_ademy)
-          * [Newsletter mensual](http://eepurl.com/gLTXxT)
         actions:
           - label: Empieza ya
             url: /tutorial/clean-code
@@ -136,7 +135,7 @@ sections:
           * **Próxima convocatoria 15 de mayo**
         actions:
           - label: Infórmate
-            url: https://agorabinaria.typeform.com/to/ymWVLB
+            url: /contacto
   - section_id: call-to-action
     type: section_cta
     title: Formación desde casa 🏡
@@ -167,7 +166,7 @@ sections:
           Sí. Durante la cuarentena 😷 tenemos activado el cupón BIT_40. Asígnalo durante el proceso de pago para un descuento del 40%. Quédate en casa. 🏡
       - question: ¿Hay descuentos para grupos ?
         answer: >-
-          Sí. Se pueden comprar cupones para obtener ventajas de escalado. [Solicita información](https://agorabinaria.typeform.com/to/ymWVLB)
+          Sí. Se pueden comprar cupones para obtener ventajas de escalado. [Solicita información](/contacto)
       - question: ¿Cuánto tiempo puedo usar el curso?
         answer: >-
           Fácil, todo el tiempo. Cada curso se compra una sola vez y se puede visionar indefinidamente.

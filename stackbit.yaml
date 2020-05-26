@@ -227,6 +227,29 @@ models:
         name: menus
         label: Blog Menus
         description: Which menus should this page show up in
+  contact:
+    type: contact
+    label: Contact
+    template: contact
+    exclude: posts/**
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown below the page title.
+      - type: image
+        name: img_path
+        label: Image
+        description: The image shown below the page title.
+      - type: page_menus
+        name: menus
+        label: Page Menus
+        description: Which menus should this page show up in
   page:
     type: page
     label: Page

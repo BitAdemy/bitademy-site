@@ -26,7 +26,7 @@ sections:
       - label: Empezar el 25 de mayo
         url: https://trainingit.es//curso-clean-code?promo=bitAdemy
       - label: Pongámonos en contacto
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
   - section_id: features
     type: section_features
     bg: gray
@@ -116,7 +116,7 @@ sections:
     subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
     actions:
       - label: Quiero cupones descuento para formar a mi equipo
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
   - section_id: features
     type: section_features
     bg: gray

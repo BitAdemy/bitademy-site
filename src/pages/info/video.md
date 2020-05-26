@@ -66,7 +66,7 @@ sections:
     subtitle: Solicita información sobre cupones para empresas.
     actions:
       - label: Formar a mi equipo
-        url: https://agorabinaria.typeform.com/to/ymWVLB
+        url: /contacto
   - section_id: recent-posts
     type: section_courses
     bg: gray
