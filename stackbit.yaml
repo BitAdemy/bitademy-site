@@ -604,6 +604,10 @@ models:
         name: url
         label: Button URL
         widget: url
+      - type: string
+        name: name
+        label: Button TAG name
+        description: The TAG name of the button.
   site_menus:
     type: data
     file: menus.json

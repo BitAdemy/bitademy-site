@@ -7,7 +7,11 @@ export default class CtaButtons extends React.Component {
     return (
       <p className="block-buttons">
         {_.map(_.get(this.props, 'actions'), (action, action_idx) => (
-          <Link key={action_idx} to={safePrefix(_.get(action, 'url'))} className="button secondary">
+          <Link
+            key={action_idx}
+            to={safePrefix(_.get(action, 'url'))}
+            name={_.get(action, 'name')}
+            className="button secondary">
             {_.get(action, 'label')}
           </Link>
         ))}

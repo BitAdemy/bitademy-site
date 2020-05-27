@@ -14,8 +14,10 @@ sections:
     actions:
       - label: Ver cursos
         url: /cursos
+        name: home_hero_cursos
       - label: Ver modalidades
         url: /info
+        name: home_hero_info
   - section_id: features
     type: section_features
     bg: gray
@@ -61,6 +63,7 @@ sections:
         actions:
           - label: Ver opciones
             url: /info/
+            name: home_feature_info
   - section_id: call-to-action
     type: section_cta
     title: Modalidades.
@@ -68,8 +71,10 @@ sections:
     actions:
       - label: Video
         url: /info/video/
+        name: home_cta_video
       - label: Con tutor
         url: /info/tutorizado/
+        name: home_cta_tutor
   - section_id: recent-posts
     type: section_courses
     bg: gray
@@ -81,7 +86,9 @@ sections:
     actions:
       - label: Fundae para empresas españolas
         url: /info/fundae/
+        name: home_cta_fundae
       - label: Ofertas para Latinoamérica
         url: /info/latam/
+        name: home_cta_latam
 template: landing
 ---
