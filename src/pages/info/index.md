@@ -17,10 +17,12 @@ sections:
 
       >_"Elige para aprender y aumentar tu valor."_
     actions:
-      - label: Ver catálogo
+      - label: Ver cursos
         url: /cursos/
+        name: info_hero_cursos
       - label: Ver convocatorias
         url: /info/convocatorias/
+        name: info_hero_calendar
   - section_id: features
     type: section_features
     bg: gray
