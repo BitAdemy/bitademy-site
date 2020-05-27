@@ -10,7 +10,7 @@ export default class CtaButtons extends React.Component {
           <Link
             key={action_idx}
             to={safePrefix(_.get(action, 'url'))}
-            name={_.get(action, 'name')}
+            id={_.get(action, 'name')}
             className="button secondary">
             {_.get(action, 'label')}
           </Link>

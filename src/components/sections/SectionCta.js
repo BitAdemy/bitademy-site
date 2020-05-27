@@ -26,7 +26,7 @@ export default class SectionCta extends React.Component {
                   <Link
                     key={action_idx}
                     to={safePrefix(_.get(action, 'url'))}
-                    name={_.get(action, 'name')}
+                    id={_.get(action, 'name')}
                     className="button white large">
                     {_.get(action, 'label')}
                   </Link>
