@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.77.0](https://github.com/BitAdemy/bitademy-site/compare/v1.76.3...v1.77.0) (2020-05-27)
+
+
+### Features
+
+* ptromo tag ([559176f](https://github.com/BitAdemy/bitademy-site/commit/559176f4d86823763ee0e0adceb0ea931462d37e))
+
 ### [1.76.3](https://github.com/BitAdemy/bitademy-site/compare/v1.76.2...v1.76.3) (2020-05-27)
 
 
