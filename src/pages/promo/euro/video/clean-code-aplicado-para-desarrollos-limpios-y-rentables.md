@@ -25,9 +25,10 @@ sections:
     actions:
       - label: 1 pago de 59 €
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-
+        name: promo_video_clean-code_hero_1x59
       - label: 3 plazos de 20 €
         url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
+        name: promo_video_clean-code_hero_3x20
   - section_id: features
     type: section_features
     bg: gray
@@ -91,6 +92,7 @@ sections:
         actions:
           - label: Preguntas frecuentes
             url: /info/faq
+            name: promo_video_clean-code_faq
   - section_id: pricing
     type: section_pricing
     bg: gray
@@ -106,6 +108,7 @@ sections:
         actions:
           - label: 1 sólo pago de 59 €
             url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+            name: promo_video_clean-code_pricing_1x59
       - title: En tres meses
         price: 20 €/
         full_price: 34 €
@@ -114,6 +117,7 @@ sections:
         actions:
           - label: En 3 pagos de 20 €
             url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
+            name: promo_video_clean-code_pricing_3x20
   - section_id: call-to-action
     type: section_cta
     title: Para equipos.
@@ -121,6 +125,7 @@ sections:
     actions:
       - label: Quiero cupones descuento para formar a mi equipo
         url: /contacto
+        name: promo_video_clean-code_contact
   - section_id: features
     type: section_features
     bg: gray
@@ -147,7 +152,7 @@ sections:
         actions:
           - label: Ver contenido detallado.
             url: /tutorial/clean-code/contenido
-
+            name: promo_video_clean-code_content
       - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg
         content: >-
@@ -167,8 +172,10 @@ sections:
         actions:
           - label: Venga, empiezo ya por 59 €
             url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+            name: promo_video_clean-code_feat_1x59
           - label: Venga, empiezo y pago poco a poco 3 x 20 €
             url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
+            name: promo_video_clean-code_feat_3x20
   - section_id: call-to-action
     type: section_cta
     title: ¿Quieres algo más?
@@ -176,6 +183,7 @@ sections:
     actions:
       - label: Consulta precio y calendario
         url: /info/convocatorias
+        name: promo_video_clean-code_calendar
 hide_menu: true
 template: landing
 ---
