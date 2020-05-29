@@ -60,7 +60,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Oferta Cuarentena.
-    subtitle: 40% de descuento. Aprende con seguridad.😷
+    subtitle: 40% de descuento, antes 99€ Aprende con seguridad.😷
     actions:
       - label: 1 sólo pago de 59 €
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40

@@ -22,11 +22,11 @@ sections:
 
       Aprende a programar mejor e **impulsa tu carrera**.
     actions:
-      - label: 🌍 Europa 59€
+      - label: 🌍 Oferta Europa 59€
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
         name: cursos_clean-code_hero_59€
 
-      - label: 🌎 América 53$
+      - label: 🌎 Oferta América 53$
         url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
         name: cursos_clean-code_hero_53$
   - section_id: features

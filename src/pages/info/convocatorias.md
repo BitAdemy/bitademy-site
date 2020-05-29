@@ -39,7 +39,7 @@ template: page
   <tbody>
     <tr>
       <td>Código Limpio</td>
-      <td><strike>15 de mayo</strike></td>
+      <td>Septiembre</td>
       <td>⌚ Fijo en directo</td>
       <td>8 horas</td>
       <td>120 €</td>
@@ -48,7 +48,7 @@ template: page
       <td>Testing web
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
-      <td>25 de mayo</td>
+      <td>Septiembre</td>
       <td>⌚ Fijo en directo</td>
       <td>8 horas</td>
       <td>120 €</td>
@@ -56,7 +56,7 @@ template: page
     <tr>
       <td>Código Limpio
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
-      <td>25 de mayo</td>
+      <td>22 de junio</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td><a href="https://trainingit.es//curso-clean-code?promo=bitAdemy">150 € 🛒</a></td>
@@ -65,7 +65,7 @@ template: page
       <td>Testing web
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
-      <td>junio</td>
+      <td>22 de junio</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td>150 €</td>
