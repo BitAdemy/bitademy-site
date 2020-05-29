@@ -9,36 +9,24 @@ img_path: images/undraw_clean_up.svg
 thumb_img_path: images/undraw_clean_up.svg
 date: '2020-03-20'
 sections:
-  - section_id: features
-    type: section_content
-    bg: gray
+  - section_id: hero
+    type: section_hero
     image: images/undraw_clean_up.svg
     title: Clean Code aplicado para desarrollos limpios y rentables
     content: >-
-      El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida el desarrollo para crear código limpio**.
+      Es desagradable trabajar con código descuidado, lioso, sucio.
 
 
-      Este curso **transforma al programador en artesano** del software.
+      **La artesanía del software cuida el desarrollo para crear código limpio**.
 
 
       Aprende a programar mejor e **impulsa tu carrera**.
-
-  - section_id: call-to-action
-    type: section_cta
-    title: Formación desde tu casa 🏡
-    subtitle: 😷 40% de descuento durante la cuarentena.
     actions:
-      - label: 🌍 1 pago de 59€
+      - label: 🌍 Europa 59€
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
 
-      - label: 🌍 3 plazos de 20€
-        url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
-
-      - label: 🌎 1 pago de 53$
+      - label: 🌎 América 53$
         url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-
-      - label: 🌎 3 plazos de 18$
-        url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
   - section_id: features
     type: section_features
     bg: gray
@@ -71,10 +59,42 @@ sections:
           He visto y escrito código que haría vomitar a una cabra. Pero también he aprendido a hacerlo mejor cada día.
 
           > _"Con mi guía y algo de disciplina vas a crear grandes aplicaciones limpias."_
+  - section_id: pricing
+    type: section_pricing
+    bg: gray
+    title: Precios y descuentos.
+    subtitle: >-
+      🏡 Cursos para hacer en video a tu ritmo.
+    pricingplans:
+      - title: 🌎 América
+        price: 53 $
+        full_price: 89 $
+        details: >-
+          - Libre de impuestos
 
+          - Descuento 4😷%
+        highlight: false
         actions:
-          - label: Conocer a Alberto Basalo
-            url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13532772
+          - label: 1 sólo pago de 53 $
+            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+      - title: 🌍 Europa
+        price: 59 €/
+        full_price: 99 €
+        details: >-
+          - IVA ya incluido
+
+          - Descuento 4😷%
+        highlight: false
+        actions:
+          - label: 1 sólo pago de 59 €
+            url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+  - section_id: features
+    type: section_features
+    bg: gray
+    title: Al terminar este curso
+    subtitle: >-
+      Serás consciente del valor del buen código. La calidad de tu trabajo va a mejorar y se reflejará en tu reconocimiento laboral.
+    featureslist:
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
@@ -91,81 +111,6 @@ sections:
 
 
           📋: 4 ejercicios prácticos propuestos y resueltos.
-
-      - title: ¿Cuánto invierto?
-        image: images/undraw_invest.svg
-        content: >-
-          Pagas solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
-
-
-          Dos modalidades:  [💻 cursos en video a tu ritmo](/info/video) o también [👨🏼‍💻 tutorizados en convocatorias](/info/convocatorias)
-
-
-          Para hacerlo más fácil te ofrecemos el pago en tres plazos y tarifas adaptadas para América Latina.
-
-
-          > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
-        actions:
-          - label: Preguntas frecuentes
-            url: /info/faq
-  - section_id: pricing
-    type: section_pricing
-    bg: gray
-    title: Precios y descuentos.
-    subtitle: >-
-      🏡 Cursos para hacer en video, con o sin tutor.
-    pricingplans:
-      - title: 🌍 Europa
-        price: 59 €/
-        full_price: 99 €
-        details: >-
-          - IVA ya incluido
-
-          - Descuento 4😷%
-        highlight: false
-        actions:
-          - label: 1 sólo pago de 59 €
-            url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-          - label: En 3 pagos de 20 €
-            url: https://sso.teachable.com/secure/459009/checkout/1852524/codigo-limpio?coupon_code=BIT_40
-      - title: 🌎 América
-        price: 53 $
-        full_price: 89 $
-        details: >-
-          - Libre de impuestos
-
-          - Descuento 4😷%
-        highlight: false
-        actions:
-          - label: 1 sólo pago de 53 $
-            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-          - label: En 3 pagos de 18 $
-            url: https://sso.teachable.com/secure/459009/checkout/1852525/codigo-limpio?coupon_code=BIT_40
-      - title: 👨🏼‍💻 Tutorizado
-        price: 150 €
-        full_price: 185 €
-        details: >-
-          - IVA NO incluido
-
-          - Bonificable [FUNDAE](/info/fundae) 💸
-        highlight: true
-        actions:
-          - label: 📅 Inicio 25 de mayo
-            url: https://trainingit.es//curso-clean-code?promo=bitAdemy
-  - section_id: call-to-action
-    type: section_cta
-    title: ¿Quieres algo más?
-    subtitle: Convocatorias con tutorías, evaluaciones y aprendizaje en grupo.
-    actions:
-      - label: Consulta precios y calendario
-        url: /info/convocatorias
-  - section_id: features
-    type: section_features
-    bg: gray
-    title: Al terminar este curso
-    subtitle: >-
-      Serás consciente del valor del buen código. La calidad de tu trabajo va a mejorar y se reflejará en tu reconocimiento laboral.
-    featureslist:
       - title: Contenido
         image: images/undraw_project_completed.svg
         content: >-
@@ -185,7 +130,20 @@ sections:
         actions:
           - label: Ver contenido detallado.
             url: /tutorial/clean-code/contenido
+      - title: ¿Cuánto invierto?
+        image: images/undraw_invest.svg
+        content: >-
+          Pagas solo por lo que necesitas. Sin papeleos ni esperas.
 
+
+          Sin ataduras ni suscripciones. **Inviertes una vez utilizas para siempre.**
+
+          Con la garantía de devolución si no te resulta útil.
+
+          > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
+        actions:
+          - label: Preguntas frecuentes
+            url: /info/faq
       - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg
         content: >-

@@ -4,7 +4,7 @@ subtitle: >-
   Aprende en este curso a escribir aplicaciones limpias y aumenta tu valor.
 excerpt: >-
   Curso online para aprender las técnicas Clean Code y adoptar la filosofía Software Craftmanship.
-post_url: /promo/euro/video/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+post_url: /promo/latam/video/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 img_path: images/undraw_clean_up.svg
 thumb_img_path: images/undraw_clean_up.svg
 date: '2020-05-29'
@@ -22,8 +22,8 @@ sections:
 
       Aprende a programar mejor e **impulsa tu carrera**.
     actions:
-      - label: Ahora por sólo 59€
-        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+      - label: Ahora por sólo 53$
+        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
   - section_id: features
     type: section_features
     bg: gray
@@ -61,8 +61,8 @@ sections:
     title: Oferta Cuarentena.
     subtitle: 40% de descuento. Aprende con seguridad.😷
     actions:
-      - label: 1 sólo pago de 59 €
-        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+      - label: 1 sólo pago de 53 $
+        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
   - section_id: features
     type: section_features
     bg: gray
