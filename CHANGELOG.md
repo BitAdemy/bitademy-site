@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.81.0](https://github.com/BitAdemy/bitademy-site/compare/v1.80.1...v1.81.0) (2020-05-29)
+
+
+### Features
+
+* 📐 tags for metrics ([2e460fe](https://github.com/BitAdemy/bitademy-site/commit/2e460feb11e24d6bec0a4908a6a3fdcbf3015bc1))
+
 ### [1.80.1](https://github.com/BitAdemy/bitademy-site/compare/v1.80.0...v1.80.1) (2020-05-29)
 
 ## [1.80.0](https://github.com/BitAdemy/bitademy-site/compare/v1.79.0...v1.80.0) (2020-05-29)
