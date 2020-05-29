@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.78.0](https://github.com/BitAdemy/bitademy-site/compare/v1.77.1...v1.78.0) (2020-05-29)
+
+
+### Features
+
+* 🏪 home marketing ([c5fc498](https://github.com/BitAdemy/bitademy-site/commit/c5fc498faedbb3586cb44573142490bd5df783bf))
+* 🗺   menu ([8fc9a7c](https://github.com/BitAdemy/bitademy-site/commit/8fc9a7cfdcbe4182310d50d89ce09fd293d6c379))
+
 ### [1.77.1](https://github.com/BitAdemy/bitademy-site/compare/v1.77.0...v1.77.1) (2020-05-27)
 
 ## [1.77.0](https://github.com/BitAdemy/bitademy-site/compare/v1.76.3...v1.77.0) (2020-05-27)
