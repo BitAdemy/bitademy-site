@@ -102,6 +102,9 @@ sections:
 
 
           📦 Objetos y lógica de negocio
+        actions:
+          - label: Descarga temario detallado.
+            url: https://www.bitademy.com/docs/temarios/temario_clean-code.pdf
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-

@@ -128,8 +128,8 @@ sections:
 
           📦 Objetos y lógica de negocio
         actions:
-          - label: Ver contenido detallado.
-            url: /tutorial/clean-code/contenido
+          - label: Descarga temario detallado.
+            url: https://www.bitademy.com/docs/temarios/temario_clean-code.pdf
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
@@ -138,12 +138,10 @@ sections:
 
           Sin ataduras ni suscripciones. **Inviertes una vez utilizas para siempre.**
 
+
           Con la garantía de devolución si no te resulta útil.
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
-        actions:
-          - label: Preguntas frecuentes
-            url: /info/faq
       - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg
         content: >-
