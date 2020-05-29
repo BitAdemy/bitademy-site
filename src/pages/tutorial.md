@@ -32,7 +32,7 @@ sections:
             url: /
 menus:
   main:
-    weight: 3
+    weight: 2
     title: Tutoriales
 template: landing
 ---

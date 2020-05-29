@@ -62,7 +62,7 @@ sections:
         url: /info/tutorizado/
 menus:
   main:
-    weight: 4
+    weight: 1
     title: Cursos
 template: landing
 ---

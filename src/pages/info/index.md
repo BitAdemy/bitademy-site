@@ -96,11 +96,8 @@ sections:
       - label: Consúltanos sin compromiso
         url: /contacto
 menus:
-  main:
-    weight: 5
-    title: Modos
   secondary:
     weight: 3
-    title: Modalidades
+    title: Saber más
 template: landing
 ---

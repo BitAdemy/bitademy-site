@@ -17,8 +17,8 @@ sections:
       - label: Pongámonos en contacto
         url: /contacto
 menus:
-  main:
-    weight: 6
+  secondary:
+    weight: 4
     title: Convocatorias
 template: page
 ---

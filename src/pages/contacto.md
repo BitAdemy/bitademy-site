@@ -8,7 +8,7 @@ post_url: /
 img_path: images/logo.png
 menus:
   secondary:
-    weight: 4
+    weight: 6
     title: Contacto
 template: contact
 ---

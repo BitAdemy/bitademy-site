@@ -8,7 +8,7 @@ post_url: /
 img_path: images/alberto_artisan.jpg
 menus:
   secondary:
-    weight: 2
+    weight: 5
     title: Conócenos
 template: page
 ---
