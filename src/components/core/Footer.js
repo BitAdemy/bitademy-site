@@ -13,7 +13,7 @@ export default class Footer extends React.Component {
             <div className="footer-widgets">
               <div className="widget footer-branding">
                 <p className="site-logo">
-                  <Link to={safePrefix('/')}>
+                  <Link to={safePrefix('/')} id={'footer_menu_logo'}>
                     <img src={safePrefix(props.getSiteFooterLogoImg(this.props))} alt="Logo" />
                   </Link>
                 </p>
@@ -34,7 +34,9 @@ export default class Footer extends React.Component {
                             _.get(this.props, 'pageContext.menus.secondary'),
                             (item, item_idx) => (
                               <li key={item_idx}>
-                                <Link to={safePrefix(_.get(item, 'url'))}>
+                                <Link
+                                  to={safePrefix(_.get(item, 'url'))}
+                                  id={'footer_menu_' + _.get(item, 'title')}>
                                   {_.get(item, 'title')}
                                 </Link>
                               </li>
@@ -82,6 +84,7 @@ export default class Footer extends React.Component {
                   <Link
                     key={link_idx}
                     to={_.get(link, 'url')}
+                    id={'footer_menu_' + _.get(link, 'text')}
                     {...(_.get(link, 'new_window') ? { target: '_blank', rel: 'noopener' } : null)}>
                     {_.get(link, 'text')}
                   </Link>

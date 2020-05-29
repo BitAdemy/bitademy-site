@@ -24,9 +24,11 @@ sections:
     actions:
       - label: 🌍 Europa 59€
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+        name: cursos_clean-code_hero_59€
 
       - label: 🌎 América 53$
         url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+        name: cursos_clean-code_hero_53$
   - section_id: features
     type: section_features
     bg: gray
@@ -77,6 +79,7 @@ sections:
         actions:
           - label: 1 sólo pago de 53 $
             url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+            name: cursos_clean-code_pricing_53$
       - title: 🌍 Europa
         price: 59 €/
         full_price: 99 €
@@ -88,6 +91,7 @@ sections:
         actions:
           - label: 1 sólo pago de 59 €
             url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+            name: cursos_clean-code_pricing_59€
   - section_id: features
     type: section_features
     bg: gray
@@ -130,6 +134,7 @@ sections:
         actions:
           - label: Descarga temario detallado.
             url: https://www.bitademy.com/docs/temarios/temario_clean-code.pdf
+            name: cursos_clean-code_temario
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
@@ -161,6 +166,7 @@ sections:
         actions:
           - label: Prueba gratis.
             url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
+            name: cursos_clean-code_aula_gratis
   - section_id: call-to-action
     type: section_cta
     title: Empresas.
@@ -168,7 +174,9 @@ sections:
     actions:
       - label: Quiero formar a mi equipo
         url: /contacto
+        name: cursos_clean-code_cta_empresas
       - label: Bonificar por Fundae
         url: /info/fundae/
+        name: cursos_clean-code_cta_fundae
 template: landing
 ---

@@ -37,7 +37,10 @@ export default class Header extends React.Component {
                     {props.getSiteHeaderMenuActions(this.props) &&
                       _.map(props.getSiteHeaderMenuActions(this.props), (action, action_idx) => (
                         <li key={action_idx} className="menu-item menu-button">
-                          <Link to={safePrefix(_.get(action, 'url'))} className="button">
+                          <Link
+                            to={safePrefix(_.get(action, 'url'))}
+                            className="button"
+                            id={'header_menu_' + _.get(action, 'label')}>
                             {_.get(action, 'label')}
                           </Link>
                         </li>
@@ -52,7 +55,11 @@ export default class Header extends React.Component {
                           'menu-item ' +
                           (props.isCurrentMenuItem(this.props, item) ? ' current-menu-item' : '')
                         }>
-                        <Link to={safePrefix(_.get(item, 'url'))}>{_.get(item, 'title')}</Link>
+                        <Link
+                          to={safePrefix(_.get(item, 'url'))}
+                          id={'header_menu_' + _.get(item, 'title')}>
+                          {_.get(item, 'title')}
+                        </Link>
                       </li>
                     ))}
                     {props.getSiteHeaderMenuActions(this.props) &&
@@ -60,6 +67,7 @@ export default class Header extends React.Component {
                         <li key={action_idx} className="menu-item menu-button">
                           <Link
                             to={safePrefix(_.get(action, 'url'))}
+                            id={'header_menu_' + _.get(action, 'label')}
                             className="button tag-cta-header">
                             {_.get(action, 'label')}
                           </Link>

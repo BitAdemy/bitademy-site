@@ -52,7 +52,7 @@ sections:
     actions:
       - label: Código más limpio por sólo 59 €
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-        name: home_clean-code_cta_1x59
+        name: home_clean-code_cta_59€
   - section_id: recent-posts
     type: section_courses
     bg: gray

@@ -24,6 +24,7 @@ sections:
     actions:
       - label: Ahora por sólo 59€
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+        name: promo_euro_video_clean-code_hero_59€
   - section_id: features
     type: section_features
     bg: gray
@@ -63,6 +64,7 @@ sections:
     actions:
       - label: 1 sólo pago de 59 €
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+        name: promo_euro_video_clean-code_cta_59€
   - section_id: features
     type: section_features
     bg: gray
@@ -105,6 +107,7 @@ sections:
         actions:
           - label: Descarga temario detallado.
             url: https://www.bitademy.com/docs/temarios/temario_clean-code.pdf
+            name: promo_euro_video_clean-code_temario
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
@@ -135,6 +138,7 @@ sections:
         actions:
           - label: Prueba gratis.
             url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
+            name: promo_euro_video_clean-code_aula_gratis
 hide_menu: true
 template: landing
 ---

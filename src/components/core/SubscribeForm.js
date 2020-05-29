@@ -7,7 +7,6 @@ export default class SubscribeForm extends React.Component {
         name="subscribeForm"
         method="POST"
         action="https://bitademy.us4.list-manage.com/subscribe/post"
-        id="subscribe-form"
         className="subscribe-form">
         <input type="hidden" name="u" value="c8ad2d2e7d02c26e32ce4cded"></input>
         <input type="hidden" name="id" value="b67e4d2339"></input>
@@ -28,7 +27,7 @@ export default class SubscribeForm extends React.Component {
             />
           </label>
         </div>
-        <button className="button tag-cta-footer-subscribe" type="submit">
+        <button className="button tag-cta-footer-subscribe" id="footer_subscribe" type="submit">
           📨 Suscribirme
         </button>
       </form>
