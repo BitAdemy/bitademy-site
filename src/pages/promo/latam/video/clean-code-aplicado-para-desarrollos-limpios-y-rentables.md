@@ -77,7 +77,7 @@ sections:
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
-📹: 4 horas de videos.
+          📹: 4 horas de videos.
 
 
           📖: 22 documentos guía en pdf.
