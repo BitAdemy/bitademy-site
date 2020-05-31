@@ -14,13 +14,14 @@ sections:
     image: images/undraw_clean_up.svg
     title: Clean Code aplicado para desarrollos limpios y rentables
     content: >-
-      Es desagradable trabajar con código descuidado, lioso, sucio.
+      **¿Cuánto tiempo pasas manteniendo código descuidado, difícil con defectos?** Eso es trabajar con código sucio.
 
 
-      **La artesanía del software cuida el desarrollo para crear código limpio**.
+      Para un trabajo más tranquilo y provechoso la solución es **escribir mejor código de forma sencilla y clara**.
 
 
-      Aprende a programar mejor e **impulsa tu carrera**.
+
+      Aprende las técnicas de artesanía del software para programar mejor e **impulsa tu carrera**.
     actions:
       - label: Ahora por sólo 59€
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
