@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.89.0](https://github.com/BitAdemy/bitademy-site/compare/v1.88.0...v1.89.0) (2020-06-01)
+
+
+### Features
+
+* ⚖ reduce images ([183dd6e](https://github.com/BitAdemy/bitademy-site/commit/183dd6e5e2ffa4eb74458e5c370f8fbe8f2d8568))
+
 ## [1.88.0](https://github.com/BitAdemy/bitademy-site/compare/v1.87.1...v1.88.0) (2020-06-01)
 
 
