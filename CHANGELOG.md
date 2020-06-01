@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.87.0](https://github.com/BitAdemy/bitademy-site/compare/v1.86.0...v1.87.0) (2020-06-01)
+
+
+### Features
+
+* 📚 temario clean code ([e2bba56](https://github.com/BitAdemy/bitademy-site/commit/e2bba56e9eb4a133b08a3ad72ebbe6ea64e66513))
+
 ## [1.86.0](https://github.com/BitAdemy/bitademy-site/compare/v1.85.0...v1.86.0) (2020-06-01)
 
 
