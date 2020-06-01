@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.90.0](https://github.com/BitAdemy/bitademy-site/compare/v1.89.1...v1.90.0) (2020-06-01)
+
+
+### Features
+
+* ✨ imgen psicopata ([a302eeb](https://github.com/BitAdemy/bitademy-site/commit/a302eeb407c36230a73bac9e421ea60bd4015a7c))
+
 ### [1.89.1](https://github.com/BitAdemy/bitademy-site/compare/v1.89.0...v1.89.1) (2020-06-01)
 
 ## [1.89.0](https://github.com/BitAdemy/bitademy-site/compare/v1.88.0...v1.89.0) (2020-06-01)
