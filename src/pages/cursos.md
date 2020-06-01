@@ -18,8 +18,10 @@ sections:
     actions:
       - label: Código limpio
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+        name: cursos_hero_clean-code
       - label: Web Testing
         url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
+        name: cursos_hero_web-testing
   - section_id: features
     type: section_features
     bg: gray
@@ -39,6 +41,7 @@ sections:
         actions:
           - label: Saber más de Código limpio
             url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+            name: cursos_feature_clean-code
       - title: Testing de aplicaciones web fácil y productivo para todos
         image: images/undraw_science.svg
         content: >-
@@ -51,6 +54,7 @@ sections:
         actions:
           - label: Saber mas de pruebas web
             url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
+            name: cursos_feature_web-testing
   - section_id: call-to-action
     type: section_cta
     title: Modalidades.
@@ -58,8 +62,10 @@ sections:
     actions:
       - label: Video a mi ritmo
         url: /info/video/
+        name: cursos_cta_video
       - label: Tutorizado en convocatorias
         url: /info/tutorizado/
+        name: cursos_cta_convocatorias
 menus:
   main:
     weight: 1

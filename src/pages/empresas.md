@@ -19,6 +19,7 @@ sections:
     actions:
       - label: Pongámonos en contacto
         url: /contacto
+        name: empresas_hero_contacto
   - section_id: features
     type: section_features
     bg: gray
@@ -38,8 +39,10 @@ sections:
         actions:
           - label: Más sobre video tutoriales
             url: /info/video/
+            name: empresas_feature_video
           - label: Solicita presupuesto
             url: /contacto/
+            name: empresas_feature_presupuesto
       - title: Tutorizados
         image: images/undraw_calendar.svg
         content: >-
@@ -52,8 +55,10 @@ sections:
         actions:
           - label: Más sobre tutorizado
             url: /info/tutorizado/
+            name: empresas_feature_tutorizado
           - label: Ver convocatorias
             url: /info/convocatorias/
+            name: empresas_feature_convocatorias
       - title: Fundae
         image: images/undraw_wallet.svg
         content: >-
@@ -69,6 +74,7 @@ sections:
         actions:
           - label: Condiciones Fundae
             url: /info/fundae/
+            name: empresas_feature_fundae
   - section_id: recent-posts
     type: section_courses
     bg: gray
@@ -80,6 +86,7 @@ sections:
     actions:
       - label: Consúltanos sin compromiso
         url: /contacto
+        name: empresas_cta_contacto
 menus:
   main:
     weight: 2
