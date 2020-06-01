@@ -33,16 +33,16 @@ sections:
       - question: ¿Hay descuentos para grupos ?
         answer: >-
           Sí. Se pueden comprar cupones para obtener ventajas de escalado. [Solicita información](/contacto)
-      - question: ¿Hay tarifas para Latinoamérica?
+            - question: ¿Porqué hay tarifas para Latinoamérica?
         answer: >-
-          Sí, puedes consultarla en [este enlace](/info/latam/)
+          Por cuestiones legales, de impuestos y por que queremos hacer nuestros productos accesibles a todo el mundo.
       - question: ¿Cuánto tiempo puedo usar el curso?
         answer: >-
           Fácil, todo el tiempo. Cada curso se compra una sola vez y se puede visionar indefinidamente.
           Sin ataduras temporales. Con mejoras y actualizaciones incluidas para siempre.
       - question: ¿Cuánto tiempo me llevará completarlo?
         answer: >-
-          Este es un curso intensivo. Según el nivel y el tiempo de práctica llevará entre 16 y 20 horas. Lo recomendable es dedicarle al menos 4 horas por semana y terminarlo en menos de un mes. Pero, recuerda, que lo tendrás aquí para siempre.
+          Son cursos intensivos. Según el nivel y el tiempo de práctica llevará entre 16 y 20 horas. Lo recomendable es dedicarle al menos 4 horas por semana y terminarlo en menos de un mes. Pero, recuerda, que lo tendrás aquí para siempre.
       - question: ¿Cuándo empiezo?
         answer: >-
           Ya. Cuando quieras. Cuando puedas. No dependemos de fechas inicio fin. No tienes que esperar por tus compañeros ni adaptarte a horarios.

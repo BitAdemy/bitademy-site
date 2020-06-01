@@ -29,7 +29,10 @@ sections:
           Saber programar ya no es suficiente. Para tener una exitosa carrera profesional **tienes que programar bien**.
 
 
-          En bitAdemy **te enseñamos a programar mejor** mediante explicaciones, ejemplos y practicas basadas en experiencias reales de programadores reales.
+          En bitAdemy **te enseñamos a programar mejor** mediante explicaciones, ejemplos y prácticas basadas en experiencias reales de programadores reales.
+
+
+          Aprende con nosotros y convierte en un artesano del software más buscado y mejor valorado.
 
 
           > _"Las técnicas, las buenas prácticas y los fundamentos son útiles para siempre."_
@@ -44,6 +47,8 @@ sections:
 
           Te enseñamos cosas útiles, sin fechas fijas, ni guiones oficiales ni burocracia. **Todo al grano**.
 
+          El dinero no es problema, nosotros como casi todos, te lo devolvemos si no te gusta. Pero tu tiempo es sólo tuyo y lo respetamos al máximo.
+
           > _"Preparación para aprender rápido lo que se necesita y cuando se necesita."_
   - section_id: call-to-action
     type: section_cta
@@ -56,6 +61,6 @@ sections:
   - section_id: recent-posts
     type: section_courses
     bg: gray
-    title: Cursos
+    title: Catálogo de Cursos
 template: landing
 ---

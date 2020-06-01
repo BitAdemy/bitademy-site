@@ -95,9 +95,6 @@ sections:
     actions:
       - label: Consúltanos sin compromiso
         url: /contacto
-menus:
-  secondary:
-    weight: 3
-    title: Saber más
+        name: cursos_cta_contacto
 template: landing
 ---
