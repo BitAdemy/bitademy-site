@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Perdona pero... tu código huele. Lo primero es admitir que todo código es mejorable.
 post_url: tutorial/clean-code/perdona_pero_tu_codigo_huele
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/citas/0.1-clean-code.png
+thumb_img_path: images/citas/0.1-clean-code.png
 date: '2020-04-02'
 preview: Preview video gratis
 preview_url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13532771

@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Software que funciona. Mejora tu código sin miedo.
 post_url: tutorial/clean-code/software_que_funciona
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/citas/0.2-clean-code.png
+thumb_img_path: images/citas/0.2-clean-code.png
 date: '2020-04-03'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
@@ -29,9 +29,11 @@ sections:
 template: tutorial
 ---
 
-> _"Codifica como si la persona que mantendrá tu código fuera un psicópata violento que sabe dónde vives."_
+!["Codifica como si la persona que mantendrá tu código fuera un psicópata violento que sabe dónde vives." ✍🏼 Martin Golding](/images/citas/0.2-clean-code.png)
+
+<!-- > _"Codifica como si la persona que mantendrá tu código fuera un psicópata violento que sabe dónde vives."_
 >
-> -- ✍️ **Martin Golding**
+> -- ✍️ **Martin Golding** -->
 
 Nos cuesta hacer las cosas. Y mucho más hacerlas bien. ¿Y ahora nos dicen que las mejoremos? Ni loco 😵. ~~_Si funciona no lo toques_~~.
 
@@ -61,7 +63,7 @@ _No quiero hacer tests!!_ Vale, pero tampoco abandones tu camino hacia el códig
 
 ### Si funciona...
 
-Todo **el código de muestra de este curso va acompañado de sus tests**. En los laboratorios tienes todo lo necesario para ejecutarlos. Tanto si ya eres un maestro del testing como si estás empezando puedes mejorar el código y hacer las prácticas propuestas con tranquilidad.
+Todo **el código de muestra de este curso va acompañado de sus tests**. En los laboratorios tienes todo lo necesario para ejecutarlos. Tanto si ya eres un maestro del testing, como si estás empezando, puedes mejorar el código y hacer las prácticas propuestas con tranquilidad.
 
 ![No siempre pruebo mi código... pero cuando lo hago, es en producción](https://academiabinaria.github.io/clean-code-TS/assets/test-production.jpeg)
 
