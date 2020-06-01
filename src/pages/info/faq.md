@@ -33,7 +33,7 @@ sections:
       - question: ¿Hay descuentos para grupos ?
         answer: >-
           Sí. Se pueden comprar cupones para obtener ventajas de escalado. [Solicita información](/contacto)
-            - question: ¿Porqué hay tarifas para Latinoamérica?
+      - question: ¿Porqué hay tarifas para Latinoamérica?
         answer: >-
           Por cuestiones legales, de impuestos y por que queremos hacer nuestros productos accesibles a todo el mundo.
       - question: ¿Cuánto tiempo puedo usar el curso?
