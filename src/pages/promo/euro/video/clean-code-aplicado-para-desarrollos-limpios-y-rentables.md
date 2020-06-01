@@ -14,14 +14,13 @@ sections:
     image: images/undraw_clean_up.svg
     title: Clean Code aplicado para desarrollos limpios y rentables
     content: >-
-      **¿Cuánto tiempo pasas manteniendo código descuidado, difícil con defectos?** Eso es trabajar con código sucio.
+      **¿Cuánto tiempo mantienes código descuidado, difícil, con defectos?** El código sucio es agotador e improductivo.
 
 
-      Para un trabajo más tranquilo y provechoso la solución es **escribir mejor código de forma sencilla y clara**.
+      Para un trabajo más tranquilo y provechoso **escribe mejor código de forma sencilla**.
 
 
-
-      Aprende las técnicas de artesanía del software para programar mejor e **impulsa tu carrera**.
+      Con las técnicas de artesanía del software **aprende a escribir código limpio e impulsa tu carrera**.
     actions:
       - label: Ahora por sólo 59€
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
@@ -44,8 +43,10 @@ sections:
 
           - Adoptar la **disciplina profesional** de un artesano del software.
 
+          - Aumentar la **productividad personal** y con ella la **rentabilidad empresarial**.
 
-          > _"El código limpio parece escrito por alguien que se ha preocupado de hacerlo bien. Alguien con más valía profesional."_
+
+          > _"El código limpio es más agradable de leer y fácil de entender. Es mejor."_
 
       - title: ¿Quién lo imparte?
         image: images/undraw_professor.svg
@@ -61,7 +62,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Oferta Cuarentena.
-    subtitle: 40% de descuento, antes 99€ Aprende con seguridad.😷
+    subtitle: 40% de descuento, antes 99€. Aprende con seguridad.😷
     actions:
       - label: 1 sólo pago de 59 €
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
@@ -85,26 +86,25 @@ sections:
           ⌨: 16 demostraciones en código.
 
 
-          ✒ : 5 ilustraciones poster de referencia.
-
-
           📋: 4 ejercicios prácticos propuestos y resueltos.
-      - title: Contenido
-        image: images/undraw_project_completed.svg
-        content: >-
-          El curso se divide en cuatro grandes bloques de actuación práctica sobre el código. Con un tema extra motivacional de profesionalismo y artesanía del software.
 
 
-          🏷️ Estilo y nombrado
+          📚: 5 grandes bloques:
 
 
-          🔀 Instrucciones, bloques y funciones
+              🏷️ Estilo y nombrado
 
 
-          🗂️ Estructuras de datos
+              🔀 Instrucciones, bloques y funciones
 
 
-          📦 Objetos y lógica de negocio
+              🗂️ Estructuras de datos
+
+
+              📦 Objetos y lógica de negocio
+
+
+              👩🏼‍🍳 Artesanía del software
         actions:
           - label: Descarga temario detallado.
             url: https://www.bitademy.com/docs/temarios/temario_clean-code.pdf
@@ -112,12 +112,13 @@ sections:
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
-          Pagas solo por lo que necesitas. Sin papeleos ni esperas.
+          Pagas solo por lo que necesitas. Sin papeleos ni esperas. Sin ataduras ni suscripciones.
 
 
-          Sin ataduras ni suscripciones. **Inviertes una vez utilizas para siempre.**
+           **Inviertes una vez utilizas para siempre.** Recibirás todas las actualizaciones y novedades.
 
-          Con la garantía de devolución si no te resulta útil.
+
+          Descuentos para grupos y con la garantía de devolución si no te resulta útil.
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
       - title: ¿Este curso es para mi?
@@ -134,6 +135,8 @@ sections:
 
           👨‍💼 Creo que puedo hacerlo mejor
 
+
+          🈸 En cualquier lenguaje
 
           > "Sí, este curso es para mi."
         actions:
