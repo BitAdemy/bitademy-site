@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.92.0](https://github.com/BitAdemy/bitademy-site/compare/v1.91.0...v1.92.0) (2020-06-04)
+
+
+### Features
+
+* 🔊 promo empresas clean code ([d5d5296](https://github.com/BitAdemy/bitademy-site/commit/d5d529657cd6796f17946154f897c0c8e729ae7b))
+
 ## [1.91.0](https://github.com/BitAdemy/bitademy-site/compare/v1.90.0...v1.91.0) (2020-06-04)
 
 
