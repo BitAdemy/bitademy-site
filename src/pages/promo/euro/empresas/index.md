@@ -7,18 +7,19 @@ img_path: images/logo.png
 sections:
   - section_id: hero
     type: section_hero
-    image: images/undraw_select_option.svg
-    title: Cursos online de calidad
+    image: images/undraw_shared_workspace.svg
+    title: Cursos online profesionales
     content: >-
       Cursos en video **a vuestro ritmo** o en convocatorias **con asistencia** del tutor.
 
 
       Bonificables y con descuentos para grupos.
 
-      >_"Elige para aprender y aumentar tu valor."_
+      >_"Formación de calidad."_
     actions:
       - label: Pongámonos en contacto
         url: /contacto
+        name: promo_empresas_hero_contacto
   - section_id: features
     type: section_features
     bg: gray
@@ -29,7 +30,7 @@ sections:
       - title: Cursos en video
         image: images/undraw_youtube_tutorial.svg
         content: >-
-          Son video tutoriales que podéis realizar en cualquier momento. Pensados para **optimizar vuestro tiempo** y el dinero.
+          Son video tutoriales que podéis realizar en cualquier momento. Pensados para **optimizar vuestro tiempo**.
 
 
           Dispones de todo lo necesario para aprender, **sin esperas** ni condiciones.
@@ -38,6 +39,10 @@ sections:
         actions:
           - label: Más sobre video tutoriales
             url: /info/video/
+            name: promo_empresas_feature_video
+          - label: Solicita presupuesto
+            url: /contacto/
+            name: promo_empresas_feature_presupuesto
       - title: Tutorizados
         image: images/undraw_calendar.svg
         content: >-
@@ -50,8 +55,10 @@ sections:
         actions:
           - label: Más sobre tutorizado
             url: /info/tutorizado/
+            name: promo_empresas_feature_tutorizado
           - label: Ver convocatorias
             url: /info/convocatorias/
+            name: promo_empresas_feature_convocatorias
       - title: Fundae
         image: images/undraw_wallet.svg
         content: >-
@@ -67,6 +74,7 @@ sections:
         actions:
           - label: Condiciones Fundae
             url: /info/fundae/
+            name: promo_empresas_feature_fundae
   - section_id: recent-posts
     type: section_courses
     bg: gray
@@ -78,6 +86,7 @@ sections:
     actions:
       - label: Consúltanos sin compromiso
         url: /contacto
+        name: promo_empresas_cta_contacto
 hide_menu: true
 template: landing
 ---
