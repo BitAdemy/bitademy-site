@@ -21,7 +21,7 @@ sections:
     type: section_cta
     title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
-    actions:w
+    actions:
       - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: tutorial

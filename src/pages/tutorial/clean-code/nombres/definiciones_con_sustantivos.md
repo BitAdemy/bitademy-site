@@ -27,9 +27,7 @@ sections:
 template: tutorial
 ---
 
-> _"Da sentido mediante los nombres."_
->
-> -- ✍️ **Quien lo vaya a leer**
+!["Da sentido mediante los nombres." ✍🏼 Cualquier lector](/images/citas/1.3-clean-code.png)
 
 ## 🌄 Objetivo: Claridad
 

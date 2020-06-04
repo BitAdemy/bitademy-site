@@ -27,9 +27,7 @@ sections:
 template: tutorial
 ---
 
-> _"No me gusta usar las barras de desplazamiento para leer tu código."_
->
-> -- ✍️ **Quien lo vaya a leer**
+!["No me gusta usar las barras de desplazamiento para leer tu código." ✍🏼 Cualquier lector](/images/citas/1.2-clean-code.png)
 
 ## 👕 Código con Reglas de Estilo
 

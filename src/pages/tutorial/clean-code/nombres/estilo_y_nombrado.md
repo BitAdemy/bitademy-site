@@ -29,7 +29,7 @@ sections:
 template: tutorial
 ---
 
-<!-- !["Solo hay dos cosas difíciles en Informática: invalidar la caché y nombrar las cosas." ✍🏼 Phil Karlton](/images/citas/1.0-clean-code.png) -->
+!["Solo hay dos cosas difíciles en Informática: invalidar la caché y nombrar las cosas." ✍🏼 Phil Karlton](/images/citas/1.0-clean-code.png)
 
 Esta cita parece una broma, pero no lo es. Primero respecto a la caché; todo el mundo sabe crear una. Pero invalidarla es casi un arte. ¿Con qué criterio? ¿uso reciente, peso, reutilización tiempo de cálculo, tase de refresco? **Cada caso requiere atención especial.**
 

@@ -27,9 +27,7 @@ sections:
 template: tutorial
 ---
 
-> _"Expresa la lógica con verbos."_
->
-> -- ✍️ **Quien lo vaya a leer**
+!["Expresa la lógica con verbos." ✍🏼 Cualquier lector](/images/citas/1.4-clean-code.png)
 
 ## 🌄 Objetivo: Claridad
 

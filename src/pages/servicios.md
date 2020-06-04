@@ -18,11 +18,11 @@ sections:
       >_"Aprender y aumenta tu valor."_
     actions:
       - label: Tutoriales
-            url: /tutorial/
-            name: servicios_hero_tutorial
+        url: /tutorial/
+        name: servicios_hero_tutorial
       - label: El bitBlog
-            url: /blog/
-            name: servicios_hero_blog
+        url: /blog/
+        name: servicios_hero_blog
   - section_id: features
     type: section_features
     bg: gray
