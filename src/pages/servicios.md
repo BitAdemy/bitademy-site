@@ -16,6 +16,13 @@ sections:
       Aprende con nosotros **los fundamentos y las buenas prácticas** que te resultarán útiles en tu carrera en la programación.
 
       >_"Aprender y aumenta tu valor."_
+    actions:
+      - label: Tutoriales
+            url: /tutorial/
+            name: servicios_hero_tutorial
+      - label: El bitBlog
+            url: /blog/
+            name: servicios_hero_blog
   - section_id: features
     type: section_features
     bg: gray
@@ -63,7 +70,7 @@ sections:
 
 
           Queremos acercar el _derecho a la formación_ a todos los participantes de **América Latina**.
-      - title: Cursos
+      - title: Modalidades de Cursos
         image: images/undraw_youtube_tutorial.svg
         content: >-
           Todos los cursos han sido testados e impartidos cientos de horas. Contenido ajustado, metodología práctica.
