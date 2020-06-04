@@ -1,32 +1,30 @@
 ---
 title: Clean Code aplicado para desarrollos limpios y rentables
 subtitle: >-
-  Haz que tu equipo desarrolle aplicaciones limpias y aumenta tu valor.
+  Aprende en este curso a escribir aplicaciones limpias y aumenta tu valor.
 excerpt: >-
   Curso online para aprender las técnicas Clean Code y adoptar la filosofía Software Craftmanship.
 post_url: /promo/euro/empresas/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 img_path: images/undraw_clean_up.svg
 thumb_img_path: images/undraw_clean_up.svg
-date: '2020-05-11'
+date: '2020-06-04'
 sections:
-  - section_id: features
+  - section_id: hero
     type: section_hero
-    # bg: gray
     image: images/undraw_clean_up.svg
     title: Clean Code aplicado para desarrollos limpios y rentables
     content: >-
-      El código descuidado huele mal y empeora con el tiempo. **La artesanía del software cuida el desarrollo para crear código limpio**.
+      **¿Cuánto tiempo mantienes código descuidado, difícil, con defectos?** El código sucio es agotador e improductivo.
 
 
-      Este curso transforma al programador en artesano del software.
+      Para un trabajo más tranquilo y provechoso **escribe mejor código de forma sencilla**.
 
-      Enseña a tu equipo a programar mejor y mejora tus desarrollos.
 
+      Con las técnicas de artesanía del software **aprende a escribir código limpio e impulsa tu carrera**.
     actions:
-      - label: Empezar el 25 de mayo
-        url: https://trainingit.es//curso-clean-code?promo=bitAdemy
-      - label: Pongámonos en contacto
-        url: /contacto
+      - label: Ahora por sólo 59€
+        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+        name: promo_euro_empresas_clean-code_hero_59€
   - section_id: features
     type: section_features
     bg: gray
@@ -45,20 +43,37 @@ sections:
 
           - Adoptar la **disciplina profesional** de un artesano del software.
 
+          - Aumentar la **productividad personal** y con ella la **rentabilidad empresarial**.
 
-          > _"El código limpio parece escrito por alguien que se ha preocupado de hacerlo bien. Alguien con más valía profesional."_
+
+          > _"El código limpio es más agradable de leer y fácil de entender. Es mejor."_
 
       - title: ¿Quién lo imparte?
         image: images/undraw_professor.svg
         content: >-
           Hola, soy **Alberto Basalo**.
 
-          He sido programador durante más de 7 años en Zara, otros 4 arquitecto de software para Tous y desde 2011 dirijo mi propia consultora. En total más de 20 años en la industria del software en grandes y pequeñas empresas.
+          He sido programador durante más de 7 años en **Zara**, otros 4 arquitecto de software para Tous y desde 2011 dirijo mi propia consultora. En total más de 20 años en la industria del software en grandes y pequeñas empresas.
 
 
           He visto y escrito código que haría vomitar a una cabra. Pero también he aprendido a hacerlo mejor cada día.
 
           > _"Con mi guía y algo de disciplina vas a crear grandes aplicaciones limpias."_
+  - section_id: call-to-action
+    type: section_cta
+    title: Servicios para empresas.
+    subtitle: Descuentos para grupos y convocatorias bonificables FUNDAE
+    actions:
+      - label: Consultar
+        url: /contacto
+        name: promo_euro_empresas_clean-code_cta_contacto
+  - section_id: features
+    type: section_features
+    bg: gray
+    title: Al terminar este curso
+    subtitle: >-
+      Tu equipo será consciente del valor del buen código. La calidad de tu trabajo va a mejorar y se reflejará en tu reconocimiento laboral.
+    featureslist:
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
@@ -71,105 +86,63 @@ sections:
           ⌨: 16 demostraciones en código.
 
 
-          ✒ : 5 ilustraciones poster de referencia.
+          📋: 4 ejercicios prácticos propuestos y resueltos.
 
 
-          📋: 4 ejercicios prácticos propuestos y corregidos.
+          📚: 5 grandes bloques:
 
 
-          🤷🏼‍♂️: Foro de preguntas al profesor.
+              🏷️ Estilo y nombrado
 
+
+              🔀 Instrucciones, bloques y funciones
+
+
+              🗂️ Estructuras de datos
+
+
+              📦 Objetos y lógica de negocio
+
+
+              👩🏼‍🍳 Artesanía del software
+        actions:
+          - label: Descarga temario detallado.
+            url: https://www.bitademy.com/docs/temarios/temario_clean-code.pdf
+            name: promo_euro_empresas_clean-code_temario
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
-          Pagas por alumno y tienes 5 semanas con la **atención diaria del profesor.**
+          Pagas solo por lo que necesitas. Sin papeleos ni esperas. Sin ataduras ni suscripciones.
 
 
-          Para hacerlo más fácil puedes bonificarlo por [**FUNDAE**](/info/fundae).
+           **Inviertes una vez utilizas para siempre.** Recibirás todas las actualizaciones y novedades.
 
+
+          Descuentos para grupos y con la garantía de devolución si no te resulta útil.
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
-        actions:
-          - label: Preguntas frecuentes
-            url: /info/faq
-  - section_id: pricing
-    type: section_pricing
-    bg: gray
-    title: Precios por alumno curso.
-    subtitle: >-
-      🏡 Descuento 35€ bitAdemy. Y extra para grupos.
-    pricingplans:
-      - title: 👨🏼‍💻 Tutorizado
-        price: 150 €
-        full_price: 185 €
-        details: >-
-          - IVA NO incluido
-
-          - Bonificable [FUNDAE](/info/fundae) 💸
-        highlight: true
-        actions:
-          - label: 📅 Inicio 25 de mayo
-            url: https://trainingit.es//curso-clean-code?promo=bitAdemy
-  - section_id: call-to-action
-    type: section_cta
-    title: Para equipos.
-    subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
-    actions:
-      - label: Quiero cupones descuento para formar a mi equipo
-        url: /contacto
-  - section_id: features
-    type: section_features
-    bg: gray
-    title: Al terminar este curso
-    subtitle: >-
-      El alumno será consciente del valor del buen código. La calidad de su trabajo va a mejorar y se reflejará en el rendimiento general.
-    featureslist:
-      - title: Contenido
-        image: images/undraw_project_completed.svg
-        content: >-
-          El curso se divide en cuatro grandes bloques de actuación práctica sobre el código. Con un tema extra motivacional de profesionalismo y artesanía del software.
-
-
-          🏷️ Estilo y nombrado
-
-
-          🔀 Instrucciones, bloques y funciones
-
-
-          🗂️ Estructuras de datos
-
-
-          📦 Objetos y lógica de negocio
-        actions:
-          - label: Ver contenido detallado.
-            url: /tutorial/clean-code/contenido
-
-      - title: ¿Este curso nos vale?
+      - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg
         content: >-
-          👨‍💻 Para el que inicia carrera en la programación
+          👨‍💻 Inicio mi carrera en la programación
 
 
-          👴 Mantiene código heredado
+          👴 Mantengo código heredado
 
 
-          🙋‍♂️ Lidera un equipo
+          🙋‍♂️ Lidero un equipo
 
 
-          👨‍💼 Cree que puede hacerlo mejor
+          👨‍💼 Creo que puedo hacerlo mejor
 
+
+          🈸 En cualquier lenguaje
 
           > "Sí, este curso es para mi."
         actions:
-          - label: Venga, empiezo ya por 150 €
-            url: https://trainingit.es//curso-clean-code?promo=bitAdemy
-  - section_id: call-to-action
-    type: section_cta
-    title: ¿No quieres calendario?
-    subtitle: Disponible también en video.
-    actions:
-      - label: Cada uno a su ritmo
-        url: /promo/euro/video/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+          - label: Prueba gratis.
+            url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
+            name: promo_euro_empresas_clean-code_aula_gratis
 hide_menu: true
 template: landing
 ---
