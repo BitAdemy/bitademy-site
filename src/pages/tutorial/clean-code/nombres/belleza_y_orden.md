@@ -1,10 +1,10 @@
 ---
-title: ✨Estilo y orden.
+title: ✨Belleza y orden.
 subtitle: >-
   Código agradable, bonito, elegante.
 excerpt: >-
   Estilo y orden. Código agradable, bonito, elegante.
-post_url: tutorial/clean-code/nombres/estilo_y_orden
+post_url: tutorial/clean-code/nombres/belleza_y_orden
 img_path: images/undraw_clean_up.png
 thumb_img_path: images/undraw_clean_up.png
 date: '2020-04-07'
@@ -21,17 +21,17 @@ sections:
     type: section_cta
     title: Mejora tus desarrollos
     subtitle: Clean Code aplicado para desarrollos limpios y rentables.
-    actions:
+    actions:w
       - label: Curso online
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: tutorial
 ---
 
-> _"Cada línea de código debe parecer escrita por la misma persona, sin importar el número de participantes."_
->
-> -- ✍️ **Quien lo vaya a leer**
+!["El tiempo dedicado a la lectura es muy superior al dedicado a la escritura. Leemos código antiguo para escribir código nuevo. Facilitar la lectura es facilitar la escritura." ✍🏼 Robert C. Martin](/images/citas/1.1-clean-code.png)
 
-Esta cita la firmaría cualquier lector de código. Seguro que conoces **esa sensación de abrir un fichero e inmediatamente saber quien es su autor**. Es como un rastro, un olorcillo que dejó detrás de si. Y casi nunca es bueno.
+Si algo favorece la lectura es la homogeneidad. Un libro, una revista o un blog, deben mantener una coherencia en su capítulos, sus páginas y sus párrafos. En nuestros programas el objetivo es que _cada línea de código parezca escrita por la misma persona_.
+
+Este deseo la firmaría cualquier lector de código. Seguro que conoces **esa sensación de abrir un fichero e inmediatamente saber quien es su autor**. Es como un rastro, un olorcillo que dejó detrás de si. Y casi nunca es bueno.
 
 Resulta muy desagradable cuando cada fichero huele distinto al anterior. Así que lo primero será **hacer la experiencia de lectura un poco más placentera**. Sensación íntimamente relacionada con la belleza.
 

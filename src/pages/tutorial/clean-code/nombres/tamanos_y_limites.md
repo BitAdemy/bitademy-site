@@ -12,8 +12,8 @@ up: Tutorial Clean Code
 up_url: tutorial/clean-code
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/blob/NAME/docs/size-config.md
-previous: Estilo y orden
-previous_url: tutorial/clean-code/nombres/estilo_y_orden
+previous: Belleza y orden
+previous_url: tutorial/clean-code/nombres/belleza_y_orden
 next: Definiciones con sustantivos
 next_url: tutorial/clean-code/nombres/definiciones_con_sustantivos
 sections:

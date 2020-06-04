@@ -35,7 +35,7 @@ template: tutorial
 
 ### 🏷️ [Estilo y nombrado.](https://www.bitademy.com/tutorial/clean-code/nombres/estilo_y_nombrado/)
 
-#### ✨ [Estilo y orden](https://www.bitademy.com/tutorial/clean-code/nombres/estilo_y_orden)
+#### ✨ [Belleza y orden](https://www.bitademy.com/tutorial/clean-code/nombres/belleza_y_orden)
 
 #### 📏 [Tamaños y límites](https://www.bitademy.com/tutorial/clean-code/nombres/tamanos_y_limites)
 

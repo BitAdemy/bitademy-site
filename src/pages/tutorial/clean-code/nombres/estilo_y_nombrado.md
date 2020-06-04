@@ -16,8 +16,8 @@ laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/CleanCodeLab/tree/NAME
 previous: Software que funciona
 previous_url: tutorial/clean-code/software_que_funciona
-next: Estilo y orden
-next_url: tutorial/clean-code/nombres/estilo_y_orden
+next: Belleza y orden
+next_url: tutorial/clean-code/nombres/belleza_y_orden
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -29,9 +29,7 @@ sections:
 template: tutorial
 ---
 
-> _"Solo hay dos cosas difíciles en Informática: invalidar la caché y nombrar las cosas"_
->
-> -- ✍️ **Phil Karlton**
+<!-- !["Solo hay dos cosas difíciles en Informática: invalidar la caché y nombrar las cosas." ✍🏼 Phil Karlton](/images/citas/1.0-clean-code.png) -->
 
 Esta cita parece una broma, pero no lo es. Primero respecto a la caché; todo el mundo sabe crear una. Pero invalidarla es casi un arte. ¿Con qué criterio? ¿uso reciente, peso, reutilización tiempo de cálculo, tase de refresco? **Cada caso requiere atención especial.**
 
@@ -56,9 +54,3 @@ En los próximos temas estudiaremos detenidamente conceptos que permitan crear:
 - **Creando un idioma** para nuestro negocio.
 
 Te dejo con una reflexión que nos motiva a realizar este esfuerzo. La recompensa es clara porque **dedicamos más tiempo a leer que a escribir**. Así que ¡prestemos mayor atención a la escritura!
-
-> _"El tiempo dedicado a la lectura es muy superior al dedicado a la escritura.
-> Leemos código antiguo para escribir código nuevo.
-> Facilitar la lectura es facilita la escritura."_
->
-> -- ✍️ **Robert C. Martin**
