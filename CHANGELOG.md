@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.91.0](https://github.com/BitAdemy/bitademy-site/compare/v1.90.0...v1.91.0) (2020-06-04)
+
+
+### Features
+
+* 🔊 promo euro empresas ([32db890](https://github.com/BitAdemy/bitademy-site/commit/32db8909f33f85ebf17df60737d19b6a5f807e5e))
+
+
+### Bug Fixes
+
+* 🔧 tag cta ([9c07c81](https://github.com/BitAdemy/bitademy-site/commit/9c07c8108a58e679528616a52f0f55ce98a747c5))
+
 ## [1.90.0](https://github.com/BitAdemy/bitademy-site/compare/v1.89.1...v1.90.0) (2020-06-01)
 
 
