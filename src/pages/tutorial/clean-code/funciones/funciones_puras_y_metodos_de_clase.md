@@ -27,16 +27,19 @@ sections:
 template: tutorial
 ---
 
+!["Una función debería hacer una sola cosa, hacerla bien, y hacerla sólo ella." ✍🏼 Ley de Curly](/images/citas/2.3-clean-code.png)
+
+<!--
 > _"Una función debería hacer una sola cosa, hacerla bien, y hacerla sólo ella."_
 >
-> -- ✍️ **Ley de Curly**.
+> -- ✍️ **Ley de Curly**. -->
 
 Esta frase para enmarcar encierra la verdad esencial de este curso tutorial. **Las funciones son las piezas fundamentales de construcción de las aplicaciones** limpias. ¿Por qué? Porque son el conjunto mínimo de instrucciones que se le puede asignar un nombre y que se pueden reutilizar.
 
 Es decir, **claridad y reutilización en un mismo artefacto**. Normal que nos inciten a prestarle toda la atención, hasta conseguir los tres mandatos:
 
 - **Hacer una sola cosa:** Un único propósito especificado en su nombre
-- **Hacerla bien\_** Provista de test o al menos con facilidad para la prueba
+- **Hacerla bien:** Provista de test o al menos con facilidad para la prueba
 - **Hacerla sólo ella:** Nombrarla y situarla de forma que no se duplique su cometido accidentalmente
 
 Para conseguirlo podemos desgranar una serie de consejos y límites aplicables todas nuestras funciones.
@@ -48,15 +51,15 @@ Para conseguirlo podemos desgranar una serie de consejos y límites aplicables t
 - 🐫 _DRY_: Don´t Repeat yourself.
 - 🥚 con valores por defecto en sus argumentos si el lenguaje los soporta.
 - 🧐 sin condiciones complejas.
-- 🚩 ...sin flags: crea dos variantes con nombre específico.
+- 🚩 ...sin flags: mejor crea dos variantes con nombre específico.
 - 💬 ...sin comentarios. El nombre es el mejor comentario.
 
 ## ⚠️ Límites
 
 - ✅0**\_**0❌ _flags_
 - ✅1**\_**2❌ _argumentos_
-- ✅8\__\_\_12❌ \_complejidad ciclomática_
-- ✅16*\_\_24❌ \_instrucciones*
+- ✅8**\_**12❌ _complejidad ciclomática_
+- ✅16**\_**24❌ _instrucciones_
 
 ## 💧 Favorece el estilo funcional puro:
 
@@ -64,7 +67,7 @@ Para conseguirlo podemos desgranar una serie de consejos y límites aplicables t
 >
 > -- ✍️ **Alguien a quien le gustan las matemáticas**.
 
-_Disclaimer_: Puede que el repentino auge de la programación funcional te haga dudar de si esto es una cuestión de modas. No, no lo es. Los paradigmas de programación son clásicos y se deben aplicar consciente y coherentemente. Por supuesto que los lenguajes te predisponen en mayor o menor medida hacia la programación funcional, imperativa o la orientada a objetos.
+_Disclaimer_: Puede que el repentino auge de la programación funcional te haga dudar de si esto es una cuestión de modas. No, no lo es. Los paradigmas de programación son clásicos y se deben aplicar consciente y coherentemente. Por supuesto que los lenguajes te predisponen en mayor o menor medida hacia la programación funcional, la imperativa o a la orientada a objetos. Pero tú decides, y en JavaScript concretamente puedes hacer casi cualquier cosa.
 
 Pero este principio de pureza, obligatorio en programación funcional, es la antítesis de la globalización; y por tanto es una guía incluso en la programación con objetos.
 
@@ -104,13 +107,13 @@ En el paradigma de **Programación Orientada a Objetos**, a la función se le ll
 
   - los argumentos en métodos públicos son señal de dependencia exterior.
 
-- #### 1️⃣ un mismo nivel de abstracción: delega en funciones privadas
+- #### 1️⃣ un mismo nivel de abstracción => delega en funciones privadas.
 
   - las instrucciones en funciones públicas deberían llamar a funciones privadas.
 
-  - si un método tiene muchas instrucciones, es que tienen muchas responsabilidades
+  - si un método tiene muchas instrucciones, es que tienen muchas responsabilidades.
 
-  - debe delegarlas en otros métodos de ayuda
+  - debe delegarlas en otros métodos de ayuda.
 
 - #### ❎ retornando datos; nunca errores.
 
@@ -128,7 +131,7 @@ Nuestro reto es conseguir grandes aplicaciones a partir de muchas, muchísimas, 
 
   - ... o al menos un mismo nivel de abstracción.
 
-  - claramente definido en su nombre
+  - Todo claramente definido en su nombre
 
 * 💬 Sin comentarios.
   - ¿Me repito?. MAL!!! 😈

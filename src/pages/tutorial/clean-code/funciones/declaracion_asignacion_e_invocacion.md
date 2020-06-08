@@ -27,13 +27,19 @@ sections:
 template: tutorial
 ---
 
-> _"No soy un gran programador; Solo soy un buen programador con buenos hábitos"_
+!["No soy un gran programador; Solo soy un buen programador con buenos hábitos." ✍🏼 Kent Beck](/images/citas/2.1-clean-code.png)
+
+<!-- > _"No soy un gran programador; Solo soy un buen programador con buenos hábitos"_
 >
-> -- ✍️ **Kent Beck**
+> -- ✍️ **Kent Beck** -->
 
-Los buenos hábitos para programar, **la disciplina**, es lo que hace realmente bueno a un programador. Tras el habito de estilizar el código y nombrar correctamente variables y funciones, es hora de escribir instrucciones.
+Los buenos hábitos para programar, **la disciplina**, es lo que hace realmente bueno a un programador. Tras adquirir el habito de estilizar el código y nombrar correctamente variables y funciones, es hora de aprender nuevos hábitos para escribir mejores instrucciones.
 
-Si lo piensas, todas **las instrucciones** que le das a una máquina caen en alguna de estas tres categorías: declarar el nacimiento de un variable o función; asignar valores a dichos variables o invocar las funciones.
+Si lo piensas, todas **las instrucciones** que le das a una máquina caen en alguna de estas tres categorías:
+
+- declarar el nacimiento de un variable o función;
+- asignar valores a dichas variables
+- invocar las funciones ya creadas.
 
 No hay más, ni tampoco menos. Así que dediquémosle unos minutos.
 
@@ -58,7 +64,7 @@ Pues bien, una sola norma:
 
 ¿Qué significa sencilla?
 
-- Máximo 2 operadores aritméticos o booleanos.
+- Máximo 2 operadores aritméticos o booleanos (mejor 1).
 - Usa paréntesis para evidenciar el orden de ejecución.
 - Respeta el largo máximo de línea.
 - Deja espacio alrededor de los operadores para que la expresión _respire_...
@@ -85,15 +91,15 @@ En este caso, el uso del operador ternario se considera como si fuesen dos opera
 
 #### ⚠️ Operadores lógicos
 
-De nuevo, hay diferencias entre lenguajes. Los operadores _and_ , _or_, _not_ y familia no se representan siempre igual. El caso es que si abusas de notaciones muy concisas puedes estar entorpeciendo la incorporación de miembros junior; o dificultando la interpretación de una expresión demasiado _clever_
+De nuevo, aquí hay diferencias entre lenguajes. Los operadores _and_ , _or_, _not_ y familia no se representan siempre igual. El caso es que si abusas de notaciones muy concisas puedes estar entorpeciendo la incorporación de miembros junior; o dificultando la interpretación de una expresión demasiado _clever_
 
-Intenta evitar loos chequeos en busca nulos. Por ejemplo asignando valores por defecto en los argumentos de las funciones.
+Intenta evitar los chequeos en busca de nulos. Por ejemplo asignando valores por defecto en los argumentos de las funciones.
 
 - `value = value || defaultValue;`
 
 - `anObject && anObject.doSomething();`
 
-```javascript
+```
 // really? wtf!
 result = year % 400 === 0 ? true : year % 100 === 0 ? false : year % 4 === 0 ? true : false;
 ```
