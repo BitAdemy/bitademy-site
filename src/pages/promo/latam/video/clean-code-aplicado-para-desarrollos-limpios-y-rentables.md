@@ -14,13 +14,13 @@ sections:
     image: images/undraw_clean_up.svg
     title: Clean Code aplicado para desarrollos limpios y rentables
     content: >-
-      **¿Cuánto tiempo mantienes código descuidado, difícil, con defectos?** El código sucio es agotador e improductivo.
+      **¿Cuánto tiempo dedicas a mantener código descuidado, difícil, con defectos?** El código sucio es agotador e improductivo.
 
 
-       Para un trabajo más tranquilo y provechoso **escribe mejor código de forma sencilla**.
+      Para tener un trabajo más tranquilo y provechoso **escribe mejor código de forma sencilla**.
 
 
-       Con las técnicas de artesanía del software **aprende a escribir código limpio e impulsa tu carrera**.
+      Aprende las técnicas de la artesanía del software para **escribir código limpio e impulsar tu carrera**.
     actions:
       - label: Ahora por sólo 53$
         url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
@@ -77,19 +77,19 @@ sections:
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
-          📹: 4 horas de videos.
+          📹 4 horas de videos.
 
 
-          📖: 22 documentos guía en pdf.
+          📖 22 documentos guía en pdf.
 
 
-          ⌨: 16 demostraciones en código.
+          ⌨ 16 demostraciones en código.
 
 
-          📋: 4 ejercicios prácticos propuestos y resueltos.
+          📋 4 ejercicios prácticos propuestos y resueltos.
 
 
-          📚: 5 grandes bloques:
+          📚 5 grandes bloques:
 
 
               🏷️ Estilo y nombrado

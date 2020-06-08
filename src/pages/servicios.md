@@ -30,20 +30,6 @@ sections:
     subtitle: >-
       El momento y el lugar son una opción que escoges tú.
     featureslist:
-      - title: Blog
-        image: images/undraw_blog.svg
-        content: >-
-          Compartimos **nuestra visión sobre la tecnología, la empresa y los profesionales** del software.
-
-
-
-          Una mirada personal pero libre de prejuicios y fundamentalismos tecnológicos.
-
-          > _"La opinión también es formación."_
-        actions:
-          - label: El bitBlog
-            url: /blog/
-            name: servicios_features_blog
       - title: Tutoriales
         image: images/undraw_tutorial.svg
         content: >-
@@ -60,6 +46,20 @@ sections:
           - label: Tutoriales
             url: /tutorial/
             name: servicios_features_tutorial
+      - title: Blog
+        image: images/undraw_blog.svg
+        content: >-
+          Compartimos **nuestra visión sobre la tecnología, la empresa y los profesionales** del software.
+
+
+
+          Una mirada personal pero libre de prejuicios y fundamentalismos tecnológicos.
+
+          > _"La opinión también es formación."_
+        actions:
+          - label: El bitBlog
+            url: /blog/
+            name: servicios_features_blog
       - title: Latinoamérica
         image: images/undraw_the_world_is_mine.svg
         content: >-

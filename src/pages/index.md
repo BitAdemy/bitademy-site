@@ -10,7 +10,7 @@ sections:
     image: images/undraw_professor.svg
     title: Aprender a programar mejor
     content: >-
-      Cursos de : CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS...
+      Aprende CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS... con Alberto Basalo.
     actions:
       - label: Ver cursos
         url: /cursos
@@ -29,7 +29,7 @@ sections:
           Saber programar ya no es suficiente. Para tener una exitosa carrera profesional **tienes que programar bien**.
 
 
-          En bitAdemy **te enseñamos a programar mejor** mediante explicaciones, ejemplos y prácticas basadas en experiencias reales de programadores reales.
+          He creado bitAdemy **para enseñarte a programar mejor**, usando explicaciones, ejemplos y prácticas basadas en experiencias reales de programadores reales.
 
 
           Aprende con nosotros y convierte en un artesano del software más buscado y mejor valorado.
@@ -47,7 +47,7 @@ sections:
 
           Te enseñamos cosas útiles, sin fechas fijas, ni guiones oficiales ni burocracia. **Todo al grano**.
 
-          El dinero no es problema, nosotros como casi todos, te lo devolvemos si no te gusta. Pero tu tiempo es sólo tuyo y lo respetamos al máximo.
+          El dinero no es problema, te lo devolvemos si no te gusta. Pero tu tiempo es sólo tuyo y lo respetamos al máximo.
 
           > _"Preparación para aprender rápido lo que se necesita y cuando se necesita."_
   - section_id: call-to-action
