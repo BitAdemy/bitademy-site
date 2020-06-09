@@ -32,10 +32,10 @@ sections:
           He creado bitAdemy **para enseñarte a programar mejor**, usando explicaciones, ejemplos y prácticas basadas en experiencias reales de programadores reales.
 
 
-          Aprende con nosotros y convierte en un artesano del software más buscado y mejor valorado.
+          Conviértete en un **artesano del software**, un profesional buscado y valorado.
 
 
-          > _"Las técnicas, las buenas prácticas y los fundamentos son útiles para siempre."_
+          > _"Las técnicas, las buenas prácticas y los fundamentos que son útiles para siempre."_
       - title: En el menor tiempo posible
         image: images/undraw_in_no_time.svg
         content: >-
@@ -47,7 +47,7 @@ sections:
 
           Te enseñamos cosas útiles, sin fechas fijas, ni guiones oficiales ni burocracia. **Todo al grano**.
 
-          El dinero no es problema, te lo devolvemos si no te gusta. Pero tu tiempo es sólo tuyo y lo respetamos al máximo.
+          El dinero te lo devolvemos si no te gusta. Pero tu tiempo es sólo tuyo y lo respetamos al máximo.
 
           > _"Preparación para aprender rápido lo que se necesita y cuando se necesita."_
   - section_id: call-to-action

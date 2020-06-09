@@ -65,7 +65,7 @@ template: page
       <td>Testing web
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
-      <td>22 de junio</td>
+      <td>Septiembre</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td>150 €</td>

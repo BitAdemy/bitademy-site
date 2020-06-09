@@ -13,7 +13,7 @@ sections:
       Blog, tutoriales, descargables... todo **lo que necesitas para mejorar** como profesional del desarrollo.
 
 
-      Aprende con nosotros **los fundamentos y las buenas prácticas** que te resultarán útiles en tu carrera en la programación.
+      Aprende aquí y ahora **los fundamentos y las buenas prácticas** que te resultarán útiles en tu carrera en la programación.
 
       >_"Aprender y aumenta tu valor."_
     actions:
@@ -36,7 +36,7 @@ sections:
           La formación es un derecho, y debe ser libre y gratuita.
 
 
-          En bitAdemy estamos comprometidos y te ofrecemos todo el contenido de nuestros cursos en formato blog.
+          Con bitAdemy me comprometo a compartir mi experiencia y te ofrezco todo el contenido de los cursos en formato blog.
 
 
           **Gratis, sin suscripciones ni pagos**.
@@ -49,7 +49,7 @@ sections:
       - title: Blog
         image: images/undraw_blog.svg
         content: >-
-          Compartimos **nuestra visión sobre la tecnología, la empresa y los profesionales** del software.
+          Reflexiones con **mi visión sobre la tecnología, la empresa y los profesionales** del software.
 
 
 
@@ -63,19 +63,19 @@ sections:
       - title: Latinoamérica
         image: images/undraw_the_world_is_mine.svg
         content: >-
-          **Adaptamos los precios** de nuestros video cursos a la realidad económica de cada región.
+          **Los precios están adaptados** a la realidad económica de cada región.
 
 
-          Para ello tenemos ofertas especiales **para países latinoamericanos** expresadas en dólares americanos.
+          Aprovecha las ofertas especiales **para países latinoamericanos** expresadas en dólares americanos.
 
 
-          Queremos acercar el _derecho a la formación_ a todos los participantes de **América Latina**.
+          Objetivo: acercar el _derecho a la formación_ a todos los participantes de **América Latina**.
       - title: Modalidades de Cursos
         image: images/undraw_youtube_tutorial.svg
         content: >-
           Todos los cursos han sido testados e impartidos cientos de horas. Contenido ajustado, metodología práctica.
 
-          Los ofrecemos en dos modalidades:
+          Se ofrecen en dos modalidades:
 
 
           ### Video bajo demanda
@@ -131,9 +131,6 @@ sections:
         name: servicios_cta_contacto
 menus:
   main:
-    weight: 3
-    title: Servicios
-  secondary:
     weight: 3
     title: Servicios
 template: landing

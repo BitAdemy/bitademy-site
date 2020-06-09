@@ -13,7 +13,7 @@ sections:
       Cursos en video **a vuestro ritmo** o en convocatorias **con asistencia** del tutor.
 
 
-      Bonificables y con descuentos para grupos.
+      Sólo para empresas: Bonificación y descuentos para grupos.
 
       >_"Formación de calidad."_
     actions:
@@ -25,7 +25,7 @@ sections:
     bg: gray
     title: Modalidades y ofertas adaptadas a cada situación.
     subtitle: >-
-      El momento y el lugar son una opción que escoges tú.
+      El momento y el lugar son una opción para tu empresa.
     featureslist:
       - title: Cursos en video
         image: images/undraw_youtube_tutorial.svg
@@ -49,7 +49,7 @@ sections:
           Ediciones de cursos con la **participación del tutor**. Se realizan en fechas determinadas y con **plazas limitadas**.
 
 
-          Pueden realizarse **a medida** para tu empresa y son bonificables por [_Fundae_](/info/fundae).
+          Pueden realizarse **a medida para tu empresa** y son bonificables por [_Fundae_](/info/fundae).
 
           > _"Aprende en grupo con la guía de un tutor."_
         actions:
@@ -84,12 +84,15 @@ sections:
     title: Podemos ayudarte
     subtitle: Formarse bien empieza por escoger la mejor opción.
     actions:
-      - label: Consúltanos sin compromiso
+      - label: Consulta sin compromiso
         url: /contacto
         name: empresas_cta_contacto
 menus:
   main:
     weight: 2
+    title: Empresas
+  secondary:
+    weight: 3
     title: Empresas
 template: landing
 ---

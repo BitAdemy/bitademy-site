@@ -5,10 +5,6 @@ subtitle: >-
 excerpt: >-
   Temario curso de Código limpio. Aumenta tu valor con cursos de calidad.
 post_url: /promo/temarios/clean-code
-menus:
-  secondary:
-    weight: 5
-    title: Conócenos
 template: page
 ---
 

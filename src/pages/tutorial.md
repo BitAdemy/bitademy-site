@@ -30,5 +30,9 @@ sections:
         actions:
           - label: Próximamente...
             url: /
+menus:
+  secondary:
+    weight: 2
+    title: Tutoriales
 template: landing
 ---

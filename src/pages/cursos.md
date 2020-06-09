@@ -70,5 +70,8 @@ menus:
   main:
     weight: 1
     title: Cursos
+  secondary:
+    weight: 1
+    title: Cursos
 template: landing
 ---

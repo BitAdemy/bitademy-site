@@ -6,11 +6,6 @@
       "url": "/blog"
     },
     {
-      "type": "tutorial",
-      "title": "Tutoriales",
-      "url": "/tutorial"
-    },
-    {
       "type": "twitter",
       "title": "Twitter",
       "url": "https://twitter.com/bit_ademy"
