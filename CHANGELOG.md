@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.95.0](https://github.com/BitAdemy/bitademy-site/compare/v1.94.1...v1.95.0) (2020-06-11)
+
+
+### Features
+
+* 📢 curso web-testing ([c2ee5e9](https://github.com/BitAdemy/bitademy-site/commit/c2ee5e9622b6797883a6a4790a036cd886619004))
+
 ### [1.94.1](https://github.com/BitAdemy/bitademy-site/compare/v1.94.0...v1.94.1) (2020-06-09)
 
 ## [1.94.0](https://github.com/BitAdemy/bitademy-site/compare/v1.93.0...v1.94.0) (2020-06-08)
