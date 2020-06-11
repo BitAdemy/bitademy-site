@@ -9,27 +9,26 @@ img_path: images/undraw_science.svg
 thumb_img_path: images/undraw_science.svg
 date: '2020-06-20'
 sections:
-  - section_id: features
-    type: section_content
-    bg: gray
+  - section_id: hero
+    type: section_hero
     image: images/undraw_science.svg
     title: Testing de aplicaciones web fácil y productivo para todos
     content: >-
-      Las pruebas automáticas del software mejoran la calidad de los programas. **Reducen los bugs y los tiempos de mantenimiento**. Pero lo mejor es que pueden ser divertidas y desde luego rentables.
+      **¿Acabas de programar y duermes tranquilamente?** Alguna vez habrás sentido un escalofrío al desplegar tu web.
 
 
-      Este curso te enseña a realizar pruebas de manera sencilla y práctica.
+      Los tests **reducen la cantidad de bugs y mejoran el diseño del software**. Se pueden hacer de forma sencilla, incluso divertida; y desde luego rentable.
 
 
-      Aprende a probar tu código y mejora tus desarrollos.
-
-  - section_id: call-to-action
-    type: section_cta
-    title: Disponible en modo tutorizado
-    subtitle: Próximamente en video.
+      Sigue este curso y **aprende a probar tu código para ganar más confianza y tranquilidad.**
     actions:
-      - label: Calendario
-        url: /info/convocatorias
+      - label: 🌍 Oferta Europa 59€
+        url: https://sso.teachable.com/secure/459009/checkout/2052747/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+        name: cursos_web-testing_hero_59€
+
+      - label: 🌎 Oferta América 53$
+        url: https://sso.teachable.com/secure/459009/checkout/2052320/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+        name: cursos_web-testing_hero_53$
   - section_id: features
     type: section_features
     bg: gray
@@ -65,95 +64,91 @@ sections:
 
           > _"Con mi guía y algo de disciplina vas a ganar confianza en tu desarrollo."_
 
+  - section_id: pricing
+    type: section_pricing
+    bg: gray
+    title: Precios y descuentos.
+    subtitle: >-
+      🏡 Cursos para hacer en video a tu ritmo.
+    pricingplans:
+      - title: 🌎 América
+        price: 53 $
+        full_price: 89 $
+        details: >-
+          - Libre de impuestos
+
+          - Descuento 4😷%
+        highlight: false
         actions:
-          - label: Conocer a Alberto Basalo
-            url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13532772
+          - label: 1 sólo pago de 53 $
+            url: https://sso.teachable.com/secure/459009/checkout/2052320/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+            name: cursos_web-testing_pricing_53$
+      - title: 🌍 Europa
+        price: 59 €/
+        full_price: 99 €
+        details: >-
+          - IVA ya incluido
+
+          - Descuento 4😷%
+        highlight: false
+        actions:
+          - label: 1 sólo pago de 59 €
+            url: https://sso.teachable.com/secure/459009/checkout/2052747/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+            name: cursos_web-testing_pricing_59€
+  - section_id: features
+    type: section_features
+    bg: gray
+    title: Al terminar este curso
+    subtitle: >-
+      Serás consciente del valor de las pruebas. La calidad de tu trabajo va a mejorar y se reflejará en tu reconocimiento laboral y en tu confianza.
+    featureslist:
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
           📹: 4 horas de videos.
 
 
-          📖: 15 documentos guía en pdf.
+          📖: 22 documentos guía en pdf.
 
 
-          ⌨: 12 demostraciones en código.
-
-
-          ✒ : 5 ilustraciones poster de referencia.
+          ⌨: 16 demostraciones en código.
 
 
           📋: 4 ejercicios prácticos propuestos y resueltos.
 
+
+          📚: 5 grandes bloques:
+
+
+              ✅ Introducción a las pruebas
+
+
+              🌐 Pruebas _e2e_ con Puppeteer
+
+
+              🌲 Pruebas funcionales con Cypress
+
+
+              🔬 Pruebas de integración y unitarias con Jest
+
+
+              🧬 TDD, desarrollo guiado por las pruebas
+        # actions:
+        #   - label: Descarga temario detallado.
+        #     url: https://www.bitademy.com/docs/temarios/temario_web-testing.pdf
+        #     name: cursos_web-testing_temario
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
-          Pagas solo por lo que necesitas. Sin ataduras. **Inviertes una vez utilizas para siempre.**
+          Pagas solo por lo que necesitas. Sin papeleos ni esperas. Sin ataduras ni suscripciones.
 
 
-          Dos modalidades:  [cursos en video a tu ritmo](/info/video) o [tutorizados en convocatorias](/info/convocatorias)
+           **Inviertes una vez utilizas para siempre.** Recibirás todas las actualizaciones y novedades.
 
 
-          Para hacerlo más fácil te ofrecemos el pago en tres plazos y tarifas adaptadas para América Latina.
-
+          Descuentos para grupos y con la garantía de devolución si no te resulta útil.
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
-        actions:
-          - label: Preguntas frecuentes
-            url: /info/faq
-  - section_id: pricing
-    type: section_pricing
-    bg: gray
-    title: Precios 🌍Europa € / 🌎América $.
-    subtitle: >-
-      🏡 Mientras dure la cuarentena obtén un 4😷% de descuento con el cupón BIT_40 sobre el precio oficial.
-    pricingplans:
-      - title: 🌍 Europa
-        price: 59 €/
-        full_price: 99 €
-        details: |-
-          * _Próximamente..._
-          * **También en 3 plazos de 20€**
-      - title: 🌎 América
-        price: 53 $
-        full_price: 89 $
-        details: |-
-          * _Próximamente..._
-          * **También en 3 plazos de 18$**
-  - section_id: call-to-action
-    type: section_cta
-    title: ¿Quieres algo más?
-    subtitle: Convocatorias con tutorías, evaluaciones y aprendizaje en grupo.
-    actions:
-      - label: Consulta precio y calendario
-        url: /info/convocatorias
-  - section_id: features
-    type: section_features
-    bg: gray
-    title: Al terminar este curso
-    subtitle: >-
-      Serás consciente del valor de las pruebas. La calidad de tu trabajo va a mejorar y se reflejará en tu reconocimiento laboral.
-    featureslist:
-      - title: Contenido
-        image: images/undraw_project_completed.svg
-        content: >-
-          El curso se divide en cuatro grandes bloques de acercamiento al mundo de las pruebas. Con un tema extra motivacional y de fundamentos.
-
-
-          🌐 E2E: Pruebas externas de principio a fin
-
-
-          🧪 Pruebas funcionales
-
-
-          🔬 Pruebas unitarias
-
-
-          🧬 TDD: desarrollo guiado por las pruebas
-        actions:
-          - label: Ver contenido detallado.
-            url: /tutorial/web-testing/contenido
-
       - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg
         content: >-
@@ -169,18 +164,24 @@ sections:
           👨‍💼 Creo que puedo hacerlo mejor
 
 
+          🈸 En cualquier lenguaje
+
+
           > "Sí, este curso es para mi."
-        actions:
-          - label: Vale, me interesa.
-            url: /contacto
+        # actions:
+        #   - label: Prueba gratis.
+        #     url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
+        #     name: cursos_web-testing_aula_gratis
   - section_id: call-to-action
     type: section_cta
     title: Empresas.
-    subtitle: Haz que tu equipo aprenda y asuma la responsabilidad de escribir aplicaciones limpias.
+    subtitle: Haz que tu equipo aprenda y realice pruebas para aumentar la calidad y fiabilidad del software.
     actions:
       - label: Quiero formar a mi equipo
         url: /contacto
+        name: cursos_web-testing_cta_empresas
       - label: Bonificar por Fundae
         url: /info/fundae/
+        name: cursos_web-testing_cta_fundae
 template: landing
 ---
