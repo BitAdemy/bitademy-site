@@ -34,7 +34,7 @@ sections:
     bg: gray
     title: Introducción al testing con JavaScript
     subtitle: >-
-      La técnicas para probar aplicaciones web y descansar tranquilo.
+      Las fundamentos del testing y los frameworks de pruebas.
     featureslist:
       - title: Objetivos
         image: images/undraw_goals.svg
@@ -50,7 +50,7 @@ sections:
           - **Conocer las principales herramientas** y para qué se usa cada una. _Puppeteer, Cypress y Jest._
 
 
-          > _"Las pruebas forma parte del software."_
+          > _"Las pruebas detectan errores, mejoran el diseño y son rentables."_
 
       - title: ¿Quién lo imparte?
         image: images/undraw_professor.svg
@@ -123,7 +123,7 @@ sections:
               ✅ Introducción a las pruebas
 
 
-              🌐 Pruebas _e2e_ con Puppeteer
+              🌐 Pruebas e2e con Puppeteer
 
 
               🌲 Pruebas funcionales con Cypress
@@ -143,7 +143,7 @@ sections:
           Pagas solo por lo que necesitas. Sin papeleos ni esperas. Sin ataduras ni suscripciones.
 
 
-           **Inviertes una vez utilizas para siempre.** Recibirás todas las actualizaciones y novedades.
+          **Inviertes una vez utilizas para siempre.** Recibirás todas las actualizaciones y novedades.
 
 
           Descuentos para grupos y con la garantía de devolución si no te resulta útil.
@@ -175,7 +175,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Empresas.
-    subtitle: Haz que tu equipo aprenda y realice pruebas para aumentar la calidad y fiabilidad del software.
+    subtitle: Haz que tu equipo aprenda y realice pruebas para mayor calidad y fiabilidad del software.
     actions:
       - label: Quiero formar a mi equipo
         url: /contacto

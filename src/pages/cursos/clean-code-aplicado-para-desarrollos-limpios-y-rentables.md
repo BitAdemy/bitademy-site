@@ -142,7 +142,7 @@ sections:
           Pagas solo por lo que necesitas. Sin papeleos ni esperas. Sin ataduras ni suscripciones.
 
 
-           **Inviertes una vez utilizas para siempre.** Recibirás todas las actualizaciones y novedades.
+          **Inviertes una vez utilizas para siempre.** Recibirás todas las actualizaciones y novedades.
 
 
           Descuentos para grupos y con la garantía de devolución si no te resulta útil.

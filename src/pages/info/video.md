@@ -54,12 +54,12 @@ sections:
         price: 59 €
         full_price: 99 €
         details: |-
-          * **También en 3 plazos de 20€**
+          * **IVA incluido**
       - title: 🌎 América
         price: 53 $
         full_price: 89 $
         details: |-
-          * **También en 3 plazos de 18$**
+          * **Libre de impuestos**
   - section_id: call-to-action
     type: section_cta
     title: Descuentos para grupos

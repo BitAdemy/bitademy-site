@@ -23,7 +23,7 @@ sections:
     subtitle: >-
       Puedes hacerlo en directo, a tu ritmo o a medida.
     featureslist:
-      - title: A tu ritmo
+      - title: Sin horario
         image: images/undraw_developer_activity.svg
         content: >-
           - Son cursos **similares a un video tutorial**.
@@ -116,7 +116,7 @@ sections:
     subtitle: Adaptación de fechas, horario y temario.
     actions:
       - label: Contactar
-        url: /info/convocatorias/
+        url: /contacto/
 # menus:
 #   main:
 #     weight: 2

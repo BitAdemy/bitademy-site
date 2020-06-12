@@ -10,9 +10,11 @@ sections:
     image: images/undraw_select_option.svg
     title: Cursos online de calidad
     content: >-
-      Desde casa y cuando quieras. Nuestros talleres son prácticos, cortos y eficaces.
+      Desde casa y cuando quieras. Talleres  prácticos, cortos y eficaces.
 
-      Temáticas y modalidades para todos.
+
+      Fundamentos y buenas prácticas de programación.
+
 
       >_"Elige para aprender y aumentar tu valor."_
     actions:
@@ -64,7 +66,7 @@ sections:
         url: /info/video/
         name: cursos_cta_video
       - label: Tutorizado en convocatorias
-        url: /info/tutorizado/
+        url: /info/convocatorias/
         name: cursos_cta_convocatorias
 menus:
   main:
