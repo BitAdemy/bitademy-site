@@ -149,9 +149,9 @@ sections:
     title: Hacer pruebas de software es fácil y rentable, si sabes cómo.
     subtitle: Aprende a probar tu código para ganar confianza y tranquilidad.
     actions:
-      - label: Empieza ahora por sólo 53 $
+      - label: Empieza ahora por sólo 59 €
         url: https://sso.teachable.com/secure/459009/checkout/2052320/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
-        name: promo_euro_video_web-testing_footer_cta_53$
+        name: promo_euro_video_web-testing_footer_cta_59€
 hide_menu: true
 template: landing
 ---
