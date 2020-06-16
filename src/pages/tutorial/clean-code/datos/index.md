@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Abstracciones de información. Cohesiona variables y reduce la complejidad.
 post_url: tutorial/clean-code/datos/
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/citas/3.0-clean-code.png
+thumb_img_path: images/citas/3.0-clean-code.png
 date: '2020-04-27'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
@@ -27,9 +27,7 @@ sections:
 template: tutorial
 ---
 
-> _"Los malos programadores se preocupan por el código. Los buenos se preocupan por las estructuras de datos y sus relaciones."_
->
-> -- ✍️ **Linus Torvalds**.
+!["Los malos programadores se preocupan por el código. Los buenos se preocupan por las estructuras de datos y sus relaciones." ✍🏼 Linus Torvalds](/images/citas/3.0-clean-code.png)
 
 Esta frase lapidaria no me atrevería a ponerla si no viniese firmada por uno de los grandes de la programación. Quizás yo la hubiera suavizado diciendo que **las estructuras de datos nos ayudan a mejorar** nuestros programas.
 
@@ -44,9 +42,3 @@ Por un lado está la **cohesión de tipos primitivos** en estructuras que aporte
 Por otra parte tenemos el uso de **estructuras para simplificar condiciones lógicas** que de otro modo están _hard coded_ dificultando el mantenimiento.
 
 En cualquier caso se resuelve creando unas **estructuras muy simples**. Según el lenguaje (idioma) en el que programes puede que tengan nombre propio. Por ejemplo `struct` en _C#_ o un `object literal` de _JavaScript_. A veces requerirán una clase para darle cuerpo; pero **nunca expondrán métodos con lógica** de negocio. Esos son otros objetos que aún no tocan en este tutorial.
-
-Nos lo resume _Uncle Bob_ en dos máximas; aquí va la primera:
-
-> _"La estructura de datos expone sus propiedades y no tiene funciones significativas"_
->
-> -- ✍️ **Robert C. Martin**

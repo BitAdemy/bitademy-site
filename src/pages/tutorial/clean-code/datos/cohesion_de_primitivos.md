@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Cohesion de primitivos. Agrupación de variables con sentido de negocio.
 post_url: tutorial/clean-code/datos/cohesion_de_primitivos
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/3.1-clean-code.png
+thumb_img_path: images/3.1-clean-code.png
 date: '2020-04-28'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
@@ -27,9 +27,7 @@ sections:
 template: tutorial
 ---
 
-> _"Asigna un valor de negocio a lo que son datos sueltos."_
->
-> -- ✍️ **Alguien que ha programado mucho**
+!["Las estructuras de datos exponen sus propiedades y no tienen funciones significativas." ✍🏼 Robert C. Martin](/images/citas/3.1-clean-code.png)
 
 Este tema lo he titulado en positivo "Cohesión de primitivos". Suele relacionarse negativamente con el anti patrón o _bad smell **Primitive Obsession**_.
 
@@ -86,6 +84,12 @@ Para terminar, intenta establecer unos límites que te ayuden a detectar problem
 - 👉🏼 0 ↔ 1 👈🏼 _niveles de herencia_
 
 Son rangos de confianza para examinar objetivamente el código del equipo. Pero siempre con sentido común.
+
+Últimos consejos
+
+> _"Asigna un valor de negocio a lo que son datos sueltos."_
+>
+> -- ✍️ **Alguien que ha programado**
 
 > _"Crea muchas estructuras pequeñas, y agrúpalas en jerarquías cuando sea necesario."_
 >

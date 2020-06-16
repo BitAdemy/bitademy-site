@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Condiciones y algoritmos. Simplificación de algoritmos.
 post_url: tutorial/clean-code/datos/condiciones_y_algoritmos
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/3.2-clean-code.png
+thumb_img_path: images/3.2-clean-code.png
 date: '2020-04-29'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
@@ -27,9 +27,7 @@ sections:
 template: tutorial
 ---
 
-> _"Algoritmos + Estructuras de datos = Programas"_
->
-> -- ✍️ **Niklaus Wirth**
+!["Algoritmos + Estructuras de datos = Programas." ✍🏼 Niklaus Wirth](/images/citas/3.2-clean-code.png)
 
 ## 🤔 La lógica puede estar en los datos
 
