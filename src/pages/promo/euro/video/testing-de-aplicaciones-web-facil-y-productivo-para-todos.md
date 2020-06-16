@@ -65,7 +65,7 @@ sections:
     subtitle: 40% de descuento, antes 99€. Aprende con seguridad.😷
     actions:
       - label: 1 sólo pago de 59 €
-        url: https://sso.teachable.com/secure/459009/checkout/2052320/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+        url: https://sso.teachable.com/secure/459009/checkout/2052747/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
         name: promo_euro_video_web-testing_cta_59€
   - section_id: features
     type: section_features
@@ -150,7 +150,7 @@ sections:
     subtitle: Aprende a probar tu código para ganar confianza y tranquilidad.
     actions:
       - label: Empieza ahora por sólo 59 €
-        url: https://sso.teachable.com/secure/459009/checkout/2052320/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+        url: https://sso.teachable.com/secure/459009/checkout/2052747/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
         name: promo_euro_video_web-testing_footer_cta_59€
 hide_menu: true
 template: landing
