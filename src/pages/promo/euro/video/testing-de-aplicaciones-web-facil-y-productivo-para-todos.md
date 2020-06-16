@@ -28,7 +28,7 @@ sections:
   - section_id: features
     type: section_features
     bg: gray
-    title: Introducción al testing con JavaScript
+    title: Aprende desde cero a probar aplicaciones web.
     subtitle: >-
       Las fundamentos del testing y los frameworks de pruebas.
     featureslist:
@@ -140,10 +140,18 @@ sections:
 
 
           > "Sí, este curso es para mi."
-        # actions:
-        #   - label: Prueba gratis.
-        #     url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
-        #     name: cursos_web-testing_aula_gratis
+        actions:
+          - label: Prueba gratis.
+            url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/18124744
+            name: cursos_web-testing_aula_gratis
+  - section_id: call-to-action
+    type: section_cta
+    title: Hacer pruebas de software es fácil y rentable, si sabes cómo.
+    subtitle: Aprende a probar tu código para ganar confianza y tranquilidad.
+    actions:
+      - label: Empieza ahora por sólo 53 $
+        url: https://sso.teachable.com/secure/459009/checkout/2052320/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+        name: promo_euro_video_web-testing_footer_cta_53$
 hide_menu: true
 template: landing
 ---
