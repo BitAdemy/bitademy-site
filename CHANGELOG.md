@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.98.1](https://github.com/BitAdemy/bitademy-site/compare/v1.98.0...v1.98.1) (2020-06-16)
+
+
+### Bug Fixes
+
+* .🐛 precio euro ([9b61f33](https://github.com/BitAdemy/bitademy-site/commit/9b61f33f7a6cfb4a00eb0b783494421ed5e6f06b))
+
 ## [1.98.0](https://github.com/BitAdemy/bitademy-site/compare/v1.97.0...v1.98.0) (2020-06-16)
 
 
