@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.100.0](https://github.com/BitAdemy/bitademy-site/compare/v1.99.0...v1.100.0) (2020-06-18)
+
+
+### Features
+
+* 📓 temario testing ([0285f3a](https://github.com/BitAdemy/bitademy-site/commit/0285f3aab2b11f77e5fdf2cbf33b01dd6d83eadb))
+* 📢 copys empresas servicios ([2659a7c](https://github.com/BitAdemy/bitademy-site/commit/2659a7ce47f2270aa3785451db495d95e23a895f))
+
 ## [1.99.0](https://github.com/BitAdemy/bitademy-site/compare/v1.98.2...v1.99.0) (2020-06-16)
 
 
