@@ -79,11 +79,11 @@ sections:
           - Descuento 4😷%
         highlight: false
         actions:
-          - label: 1 sólo pago de 53 $
+          - label: 1 sólo pago de 53$
             url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
             name: cursos_clean-code_pricing_53$
       - title: 🌍 Europa
-        price: 59 €/
+        price: 59 €
         full_price: 99 €
         details: >-
           - IVA ya incluido
@@ -91,7 +91,7 @@ sections:
           - Descuento 4😷%
         highlight: false
         actions:
-          - label: 1 sólo pago de 59 €
+          - label: 1 sólo pago de 59€
             url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
             name: cursos_clean-code_pricing_59€
   - section_id: features

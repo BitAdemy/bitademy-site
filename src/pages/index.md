@@ -55,9 +55,9 @@ sections:
     title: Oferta Cuarentena.
     subtitle: 40% de descuento. Aprende con seguridad.😷
     actions:
-      - label: Código más limpio por sólo 59 €
-        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
-        name: home_cta_59€
+      - label: Cursos por 59€ o 53$
+        url: /cursos
+        name: home_cta_cursos
   - section_id: recent-posts
     type: section_courses
     bg: gray

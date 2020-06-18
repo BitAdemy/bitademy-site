@@ -64,7 +64,7 @@ sections:
     title: Oferta Cuarentena.
     subtitle: 40% de descuento, antes 89$. Aprende con seguridad.😷
     actions:
-      - label: 1 sólo pago de 53 $
+      - label: 1 sólo pago de 53$
         url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
         name: promo_latam_video_clean-code_cta_53$
   - section_id: features
@@ -144,6 +144,14 @@ sections:
           - label: Empieza gratis.
             url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
             name: promo_latam_video_clean-code_aula_gratis
+  - section_id: call-to-action
+    type: section_cta
+    title: Programar mejor, para trabajar mejor
+    subtitle: Aprende a desarrollar aplicaciones limpias.
+    actions:
+      - label: Empieza ahora por sólo 53$
+        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+        name: promo_latam_video_clean-code_footer_cta_53$
 hide_menu: true
 template: landing
 ---

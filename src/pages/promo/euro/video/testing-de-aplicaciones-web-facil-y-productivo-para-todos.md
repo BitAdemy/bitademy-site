@@ -64,7 +64,7 @@ sections:
     title: Oferta Cuarentena.
     subtitle: 40% de descuento, antes 99€. Aprende con seguridad.😷
     actions:
-      - label: 1 sólo pago de 59 €
+      - label: 1 sólo pago de 59€
         url: https://sso.teachable.com/secure/459009/checkout/2052747/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
         name: promo_euro_video_web-testing_cta_59€
   - section_id: features
@@ -149,7 +149,7 @@ sections:
     title: Hacer pruebas de software es fácil y rentable, si sabes cómo.
     subtitle: Aprende a probar tu código para ganar confianza y tranquilidad.
     actions:
-      - label: Empieza ahora por sólo 59 €
+      - label: Empieza ahora por sólo 59€
         url: https://sso.teachable.com/secure/459009/checkout/2052747/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
         name: promo_euro_video_web-testing_footer_cta_59€
 hide_menu: true
