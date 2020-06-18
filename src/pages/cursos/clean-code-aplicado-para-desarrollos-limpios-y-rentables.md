@@ -168,7 +168,7 @@ sections:
 
           > "Sí, este curso es para mi."
         actions:
-          - label: Prueba gratis.
+          - label: Empieza gratis.
             url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
             name: cursos_clean-code_aula_gratis
   - section_id: call-to-action

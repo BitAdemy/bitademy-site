@@ -23,7 +23,7 @@ template: tutorial
 
 ### ✅ [TEST Software que funciona.](https://www.bitademy.com/tutorial/web-testing/software-que-funciona)
 
-#### 🔀 [Tipos de test](https://www.bitademy.com/tutorial/web-testing/tipos-de-pruebas)
+#### 🔀 [Tipos de pruebas](https://www.bitademy.com/tutorial/web-testing/tipos-de-pruebas)
 
 #### 👨🏼‍🏫 [Filosofía y patrones](https://www.bitademy.com/tutorial/web-testing/filosofia-y-patrones)
 

@@ -105,10 +105,10 @@ sections:
 
 
               🧬 TDD, desarrollo guiado por las pruebas
-        # actions:
-        #   - label: Descarga temario detallado.
-        #     url: https://www.bitademy.com/docs/temarios/temario_web-testing.pdf
-        #     name: cursos_web-testing_temario
+        actions:
+          - label: Descarga temario detallado.
+            url: https://www.bitademy.com/docs/temarios/temario_web-testing.pdf
+            name: promo_euro_video_web-testing_temario
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
@@ -141,9 +141,9 @@ sections:
 
           > "Sí, este curso es para mi."
         actions:
-          - label: Prueba gratis.
+          - label: Empieza gratis.
             url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/18124744
-            name: cursos_web-testing_aula_gratis
+            name: promo_euro_video_web-testing_aula_gratis
   - section_id: call-to-action
     type: section_cta
     title: Hacer pruebas de software es fácil y rentable, si sabes cómo.
