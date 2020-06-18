@@ -15,7 +15,7 @@ sections:
 
       Aprende aquí y ahora **los fundamentos y las buenas prácticas** que te resultarán útiles en tu carrera en la programación.
 
-      >_"Aprender y aumenta tu valor."_
+      >_"Aprende y aumenta tu valor."_
     actions:
       - label: Tutoriales
         url: /tutorial/
@@ -70,13 +70,10 @@ sections:
 
 
           Objetivo: acercar el _derecho a la formación_ a todos los participantes de **América Latina**.
-      - title: Modalidades de Cursos
+      - title: Cursos
         image: images/undraw_youtube_tutorial.svg
         content: >-
-          Todos los cursos han sido testados e impartidos cientos de horas. Contenido ajustado, metodología práctica.
-
-          Se ofrecen en dos modalidades:
-
+          Todos los cursos han sido testados e impartidos cientos de horas. Contenido ajustado, metodología práctica. Diversas **modalidades**:
 
           ### Video bajo demanda
 
@@ -84,8 +81,18 @@ sections:
 
           ### Tutorizados en convocatorias
 
-          Ideal para empresas o si prefieres el contacto directo con el profesor.
+          Si prefieres el contacto directo con el profesor.
 
+          ### A medida
+
+          Para empresas que quieran ajustar temario y calendario.
+        actions:
+          - label: Más sobre tutorizado o a medida
+            url: /info/tutorizado/
+            name: servicios_feature_tutorizado
+          - label: Ver calendario de convocatorias
+            url: /info/convocatorias/
+            name: servicios_feature_convocatorias
   - section_id: faq
     type: section_faq
     bg: gray

@@ -33,7 +33,7 @@ sections:
           Son video tutoriales que podéis realizar en cualquier momento. Pensados para **optimizar vuestro tiempo**.
 
 
-          Dispones de todo lo necesario para aprender, **sin esperas** ni condiciones.
+          Dispones de todo lo necesario para aprender, **sin esperas** ni condiciones. **Descuentos** para grupos.
 
           > _"Incorpora alumnos a tu ritmo cuando lo necesites."_
         actions:
