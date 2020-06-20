@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.101.0](https://github.com/BitAdemy/bitademy-site/compare/v1.100.0...v1.101.0) (2020-06-20)
+
+
+### Features
+
+* ✍🏼 blog deuda tecnica ([dc11361](https://github.com/BitAdemy/bitademy-site/commit/dc113613a2c91b831452cfda19bd4efa3941355a))
+
+
+### Bug Fixes
+
+* 💰 precio y moneda sin separación ([fdf693c](https://github.com/BitAdemy/bitademy-site/commit/fdf693cbdbf3e886698fa02ecd545cd3ec2125f6))
+
 ## [1.100.0](https://github.com/BitAdemy/bitademy-site/compare/v1.99.0...v1.100.0) (2020-06-18)
 
 
