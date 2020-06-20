@@ -15,10 +15,12 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Mejora tus desarrollos
-    subtitle: Clean Code aplicado para desarrollos limpios y rentables.
+    subtitle: Cursos para desarrollos limpios y seguros.
     actions:
-      - label: Curso online
+      - label: Clean Code
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
+      - label: Web testing
+        url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
 template: post
 ---
 
