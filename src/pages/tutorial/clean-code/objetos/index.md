@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Objetos y lógica de negocio. Muchas clases pequeñas bien encapsuladas.
 post_url: tutorial/clean-code/objetos/
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/citas/4.0-clean-code.png
+thumb_img_path: images/citas/4.0-clean-code.png
 date: '2020-05-04'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
@@ -27,9 +27,7 @@ sections:
 template: tutorial
 ---
 
-> _"La encapsulación es importante. Pero la razón por la cual es importante es aún más importante. La encapsulación nos ayuda a razonar sobre nuestro código."_
->
-> -- ✍️ **Michael C. Feathers**.
+!["La encapsulación es importante. Pero la razón por la cual es importante es aún más importante. La encapsulación nos ayuda a razonar sobre nuestro código." ✍🏼 Michael C. Feathers](/images/citas/4.0-clean-code.png)
 
 Otra frase dura, aunque en este caso lo difícil es entenderla bien para luego aplicarla. Nos habla de _lógica de negocio_ y usa el término _encapsular_. Supongo que todo ello unido es lo que genera incomprensión. Vayamos por partes.
 

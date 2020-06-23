@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Principios sólidos para finales flexibles. SOLID: Principios para organizar clases.
 post_url: tutorial/clean-code/objetos/principios_solidos_para_finales_flexibles/
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/citas/4.2-clean-code.png
+thumb_img_path: images/citas/4.2-clean-code.png
 date: '2020-05-06'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
@@ -27,9 +27,7 @@ sections:
 template: tutorial
 ---
 
-> "No caigas en la flexibilidad innecesaria."
->
-> -- ✍️ **Steve Maguire-**
+!["No caigas en la flexibilidad innecesaria." ✍🏼 Steve Maguire](/images/citas/4.2-clean-code.png)
 
 Este acrónimo se hizo famoso por lo rotundo de su nombre y por la vehemencia con la que lo defiende su autor. Y porque bien aplicados mejoran mucho el flexibilidad del código. Pero antes de explicarlo lanzo una advertencia; y lo repetiré más tarde.
 

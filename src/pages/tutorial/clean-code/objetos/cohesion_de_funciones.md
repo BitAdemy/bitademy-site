@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Cohesión de funciones. Agrupación de funciones con sentido de negocio.
 post_url: tutorial/clean-code/objetos/cohesion_de_funciones/
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/citas/4.1-clean-code.png
+thumb_img_path: images/citas/4.1-clean-code.png
 date: '2020-05-05'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
@@ -25,9 +25,7 @@ sections:
 template: tutorial
 ---
 
-> _"Al diseñar nuestras clases debemos juntar las características relacionadas, de modo que cada vez que cambien sea por la misma razón. Y deberíamos separar las características que cambian por diferentes razones."_
->
-> -- ✍️ **Steve Fenton**
+!["Al diseñar nuestras clases debemos juntar las características relacionadas, de modo que cada vez que cambien sea por la misma razón. Y deberíamos separar las características que cambian por diferentes razones." ✍🏼 Steve Fenton](/images/citas/4.1-clean-code.png)
 
 Otra vez empezado fuerte con una frase que hay que desmenuzar para entenderla. La verdad es que casi todo hay que destriparlo para comprenderlo. Supongo que así pensaba _Jack the ripper_...
 
