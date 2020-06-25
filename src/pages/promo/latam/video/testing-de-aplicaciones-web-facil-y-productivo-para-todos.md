@@ -32,6 +32,32 @@ sections:
     subtitle: >-
       Las fundamentos del testing y los frameworks de pruebas.
     featureslist:
+      - title: ¿Por qué hacer test?
+        image: images/undraw_code_thinking.svg
+        content: >-
+          - Para reducir errores en producción
+
+          - Para escribir código bien diseñado
+
+          - Para documentar los procesos
+
+          - Para ganar tranquilidad
+
+
+          > _"Hacer pruebas te hace mejor profesional."_
+
+      - title: ¿Por qué este curso?
+        image: images/undraw_done.svg
+        content: >-
+          - Para aprender los fundamentos del testing
+
+          - Para conocer los trucos y recetas prácticos
+
+          - Para motivarte a incluir el testing en tu día a día
+
+
+          > _"Este curso te enseñará a programar mejor."_
+
       - title: Objetivos
         image: images/undraw_goals.svg
         content: >-
@@ -77,7 +103,7 @@ sections:
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
-          📹: 4 horas de videos.
+          📹: 5 horas de videos.
 
 
           📖: 22 documentos guía en pdf.
@@ -88,23 +114,23 @@ sections:
 
           📋: 4 ejercicios prácticos propuestos y resueltos.
 
+      - title: Temario
+        image: images/undraw_to_do.svg
+        content: >-
 
-          📚: 5 grandes bloques:
-
-
-              ✅ Introducción a las pruebas
-
-
-              🌐 Pruebas e2e con Puppeteer
+          ✅ Introducción a las pruebas
 
 
-              🌲 Pruebas funcionales con Cypress
+          🌐 Pruebas e2e con Puppeteer
 
 
-              🔬 Pruebas de integración y unitarias con Jest
+          🌲 Pruebas funcionales con Cypress
 
 
-              🧬 TDD, desarrollo guiado por las pruebas
+          🔬 Pruebas de integración y unitarias con Jest
+
+
+          🧬 TDD, desarrollo guiado por las pruebas
         actions:
           - label: Descarga temario detallado.
             url: https://www.bitademy.com/docs/temarios/temario_web-testing.pdf
@@ -121,6 +147,10 @@ sections:
           Descuentos para grupos y con la garantía de devolución si no te resulta útil.
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
+        actions:
+          - label: Ahora por sólo 53$ (Precio normal 89$)
+            url: https://sso.teachable.com/secure/459009/checkout/2052320/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+            name: cursos_web-testing_features_53$
       - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg
         content: >-
