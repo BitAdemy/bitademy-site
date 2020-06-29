@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Disciplina y buenos hábitos. Ni artista 👩‍🎨 ni operario/a 👨‍🏭
 post_url: tutorial/clean-code/artesania/disciplina_y_buenos_habitos
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/5.2-clean-code.png
+thumb_img_path: images/5.2-clean-code.png
 date: '2020-05-09'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
@@ -22,6 +22,8 @@ sections:
         url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 template: tutorial
 ---
+
+!["Practicar y disciplina." ✍🏼 Mancuso-Martin](/images/citas/5.2-clean-code.png)
 
 > _"Voy a hacer un buen trabajo._
 >
@@ -39,7 +41,7 @@ template: tutorial
 >
 > -- ✍️ **Sandro Mancuso**
 
-Estas dos frases encierran toda la sabiduría que necesitas para **desarrollar tu carrera en el mundo de la programación**.
+Para terminar el curso tutorial he escogido dos frases que encierran toda la sabiduría que necesitas para **desarrollar tu carrera en el mundo de la programación**. Una de _Sandro Mancuso_, la otra de _Robert C. Martin_. Una sobre la práctica, la otra sobre la disciplina. Ambas definen a un **profesional**.
 
 Esta profesión es **creativa y técnica a la vez**. Pero a la vez, no por separado. Esa intersección entre artista y operario es la figura del **artesano o artesana**. Alguien que ama lo que hace, pero buscando un resultado repetible y práctico.
 

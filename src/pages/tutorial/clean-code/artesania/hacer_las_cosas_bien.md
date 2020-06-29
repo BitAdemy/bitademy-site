@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   Hacer las cosas bien. Del manifiesto ágil al artesano.
 post_url: tutorial/clean-code/artesania/hacer_las_cosas_bien
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/5.1-clean-code.png
+thumb_img_path: images/5.1-clean-code.png
 date: '2020-05-08'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
@@ -25,9 +25,7 @@ sections:
 template: tutorial
 ---
 
-> _"Deja siempre el campamento más limpio de lo que estaba."_
->
-> -- ✍️ **La regla del BoyScout**
+!["Deja siempre el campamento más limpio de lo que estaba." ✍🏼 La regla del BoyScout](/images/citas/5.1-clean-code.png)
 
 Otra de las frases míticas que partiendo de un contexto alejado de la tecnología es una enseñanza fundamental para la artesanía del software.
 

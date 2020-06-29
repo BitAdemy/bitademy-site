@@ -5,8 +5,8 @@ subtitle: >-
 excerpt: >-
   La mejora constante. Profesionalismo, pragmatismo y orgullo.
 post_url: tutorial/clean-code/artesania/
-img_path: images/undraw_clean_up.png
-thumb_img_path: images/undraw_clean_up.png
+img_path: images/5.0-clean-code.png
+thumb_img_path: images/5.0-clean-code.png
 date: '2020-05-07'
 up: Tutorial Clean Code
 up_url: tutorial/clean-code
@@ -25,9 +25,7 @@ sections:
 template: tutorial
 ---
 
-> _"Primero hazlo, luego hazlo bien, luego hazlo mejor."_
->
-> -- ✍️ **Addy Osmani**.
+!["Primero hazlo, luego hazlo bien, luego hazlo mejor." ✍🏼 Addy Osmani](/images/citas/5.0-clean-code.png)
 
 Imprime esta frase y cuélgala en un sitio bien visible. Contiene tres enseñanzas, todas rodeando al verbo imperativo **hazlo**. Porque esa es la base fundamental del trabajo, **hacer algo productivo**, algo que aporte valor.
 
