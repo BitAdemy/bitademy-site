@@ -45,7 +45,10 @@ sections:
 
 
           > _"Hacer pruebas te hace mejor profesional."_
-
+        actions:
+          - label: Video ¿Por qué hacer tests?
+            url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/21502622
+            name: cursos_web-testing_euro_feature_why_testing
       - title: ¿Por qué este curso?
         image: images/undraw_done.svg
         content: >-
@@ -53,11 +56,16 @@ sections:
 
           - Para conocer los trucos y recetas prácticos
 
+          - Para usarlo en Angular, React, Vue, Node...
+
           - Para motivarte a incluir el testing en tu día a día
 
 
           > _"Este curso te enseñará a programar mejor."_
-
+        actions:
+          - label: Video ¿Por qué este curso?
+            url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/21502635
+            name: cursos_web-testing_euro_feature_why_course
       - title: Objetivos
         image: images/undraw_goals.svg
         content: >-
@@ -73,7 +81,10 @@ sections:
 
 
           > _"Las pruebas detectan errores, mejoran el diseño y son rentables."_
-
+        actions:
+          - label: Video ¿Cuál es el objetivo?
+            url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/18124744
+            name: cursos_web-testing_euro_feature_goals
       - title: ¿Quién lo imparte?
         image: images/undraw_professor.svg
         content: >-
@@ -85,6 +96,11 @@ sections:
           He metido la pata y perdido el sueño más de una noche. Pero también he aprendido que las pruebas me permiten dormir tranquilo.
 
           > _"Con mi guía y algo de disciplina vas a ganar confianza en tu desarrollo."_
+        actions:
+          - label: Video ¿Quién lo imparte?
+            url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/18124745
+            name: cursos_web-testing_euro_feature_teacher
+
   - section_id: call-to-action
     type: section_cta
     title: Oferta Cuarentena.
