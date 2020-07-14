@@ -119,13 +119,13 @@ sections:
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
-          📹: 5 horas de videos.
+          📹: 6 horas de videos.
 
 
           📖: 22 documentos guía en pdf.
 
 
-          ⌨: 16 demostraciones en código.
+          ⌨: 20 demostraciones en código.
 
 
           📋: 4 ejercicios prácticos propuestos y resueltos.

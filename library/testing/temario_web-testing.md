@@ -34,11 +34,11 @@
 
 ## Contenido
 
-- 📹: 4 horas de videos.
+- 📹: 6 horas de videos.
 
 - 📖: 22 documentos guía en pdf.
 
-- ⌨: 16 demostraciones en código.
+- ⌨: 20 demostraciones en código.
 
 - ✒ : 5 ilustraciones poster de referencia.
 
@@ -54,13 +54,15 @@
 
 # 📚 Índice de contenido
 
-## 🏁 0 - Introducción.
+## 🏁 0 - Introducción al testing.
 
 #### ✅ 0.1 - Software que funciona
 
 #### 🔀 0.2 - Tipos de pruebas
 
 #### 👨🏼‍🏫 0.3 - Filosofía y patrones
+
+#### 👮🏼‍♀️ 0.4 - Comportamiento
 
 ## 🏷️ 1 - Primeras pruebas
 
@@ -100,11 +102,9 @@
 
 #### 🐎 4.2 - Pruebas de integración
 
-#### 🎠 4.3 - Pruebas unitarias con dobles
+#### 🎠 4.3 - TDD el ciclo virtuoso con Jest
 
 #### 🏇🏼 4.4 - Pruebas de código asíncrono
-
-#### 🏇🏼 4.5 - TDD el ciclo virtuoso con Jest
 
 <div class="page"/>
 
