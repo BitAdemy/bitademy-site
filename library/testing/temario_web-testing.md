@@ -64,6 +64,8 @@
 
 #### 👮🏼‍♀️ 0.4 - Comportamiento
 
+# \_
+
 ## 🏷️ 1 - Primeras pruebas
 
 #### 👼🏼 1.1 - Pruebas de funciones puras
@@ -88,6 +90,8 @@
 
 #### 🧩 2.3 - Pruebas de un API
 
+# \_
+
 ## 🗂️ 3 - Pruebas funcionales de aplicaciones web con Cypress.
 
 #### 🌲 3.1 - Cypress, instalación configuración y ejecución
@@ -96,15 +100,21 @@
 
 #### 🤖 3.3 - Automatización e integración continua
 
+# \_
+
 ## 🔬 4 - Pruebas de integración, unitarias y tdd con Jest
 
-#### 💻 4.1 - Jest para probar tu código
+#### 💻 4.0 - Jest para probar tu código
 
-#### 🐎 4.2 - Pruebas de integración
+#### 🐎 4.1 - Pruebas de integración
 
-#### 🎠 4.3 - TDD el ciclo virtuoso con Jest
+#### 🎠 4.2 - TDD el ciclo virtuoso RGR
 
-#### 🏇🏼 4.4 - Pruebas de código asíncrono
+#### 👨🏼‍🎨 4.3 - Diseño integrado
+
+#### 👨🏼‍🎤 4.4 - Refactoring y rediseño
+
+#### 🏇🏼 4.5 - Pruebas de código asíncrono
 
 <div class="page"/>
 
