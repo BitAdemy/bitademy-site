@@ -72,43 +72,43 @@ sections:
     bg: gray
     title: Al terminar este curso
     subtitle: >-
-      Serás consciente del valor del buen código. La calidad de tu trabajo va a mejorar y se reflejará en tu reconocimiento laboral.
+      Serás consciente del valor de las pruebas. La calidad de tu trabajo va a mejorar y se reflejará en tu reconocimiento laboral y en tu confianza.
     featureslist:
       - title: ¿Qué me llevo?
         image: images/undraw_searching.svg
         content: >-
-          📹 4 horas de videos.
+          📹: 6 horas de videos.
 
 
-          📖 22 documentos guía en pdf.
+          📖: 22 documentos guía en pdf.
 
 
-          ⌨ 16 demostraciones en código.
+          ⌨: 20 demostraciones en código.
 
 
-          📋 4 ejercicios prácticos propuestos y resueltos.
+          📋: 4 ejercicios prácticos propuestos y resueltos.
+
+      - title: Temario
+        image: images/undraw_to_do.svg
+        content: >-
+
+          ✅ Introducción a las pruebas
 
 
-          📚 5 grandes bloques:
+          🌐 Pruebas e2e con **Puppeteer**
 
 
-              🏷️ Estilo y nombrado
+          🌲 Pruebas funcionales con **Cypress**
 
 
-              🔀 Instrucciones, bloques y funciones
+          🔬 Pruebas de integración y unitarias con **Jest**
 
 
-              🗂️ Estructuras de datos
-
-
-              📦 Objetos y lógica de negocio
-
-
-              👩🏼‍🍳 Artesanía del software
+          🧬 TDD, desarrollo guiado por las pruebas
         actions:
           - label: Descarga temario detallado.
-            url: https://www.bitademy.com/docs/temarios/temario_clean-code.pdf
-            name: promo_euro_video_clean-code_temario
+            url: https://www.bitademy.com/docs/temarios/temario_web-testing.pdf
+            name: promo_euro_video_web-testing_temario
       - title: ¿Cuánto invierto?
         image: images/undraw_invest.svg
         content: >-
