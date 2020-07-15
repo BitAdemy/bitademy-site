@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.107.0](https://github.com/BitAdemy/bitademy-site/compare/v1.106.1...v1.107.0) (2020-07-15)
+
+
+### Features
+
+* web-testing bolds ([2a1be7f](https://github.com/BitAdemy/bitademy-site/commit/2a1be7fe7baeaae86c8be29a86af09ef09aea91d))
+
 ### [1.106.1](https://github.com/BitAdemy/bitademy-site/compare/v1.106.0...v1.106.1) (2020-07-14)
 
 ## [1.106.0](https://github.com/BitAdemy/bitademy-site/compare/v1.105.0...v1.106.0) (2020-07-14)
