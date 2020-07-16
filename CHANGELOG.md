@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.108.0](https://github.com/BitAdemy/bitademy-site/compare/v1.107.0...v1.108.0) (2020-07-16)
+
+
+### Features
+
+* ✏ intro marketing más simple ([229195d](https://github.com/BitAdemy/bitademy-site/commit/229195d6691d9d78da3b2a149fc5666ff2eddab0))
+* ✒ estructura landing ([979ecd3](https://github.com/BitAdemy/bitademy-site/commit/979ecd30dfb56642def490173fc502131b8aa167))
+
 ## [1.107.0](https://github.com/BitAdemy/bitademy-site/compare/v1.106.1...v1.107.0) (2020-07-15)
 
 
