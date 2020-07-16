@@ -34,8 +34,42 @@ sections:
     bg: gray
     title: Código limpio y artesanía del software
     subtitle: >-
-      La técnicas Clean Code y la filosofía Software Craftmanship.
+      Las técnicas Clean Code y la filosofía Software Craftmanship.
     featureslist:
+      - title: ¿Por qué limpiar el código?
+        image: images/undraw_code_thinking.svg
+        content: >-
+          - Para que otros te **entiendan**
+
+          - Para mantener fácilmente **código flexible**
+
+          - Para **documentar** sin comentarios
+
+          - Para adquirir **disciplina**
+
+
+          > _"El código limpio te hace mejor profesional."_
+        actions:
+          - label: Video ¿Por qué limpiar el código?
+            url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13532771
+            name: cursos_clean-code_feature_why_clean
+      - title: ¿Por qué este curso?
+        image: images/undraw_done.svg
+        content: >-
+          - Para aprender los **fundamentos** del código limpio
+
+          - Para conocer los **trucos y recetas** prácticos
+
+          - Para usarlo en **Angular, React, Vue, Node, Java, C#**...
+
+          - Para motivarte a incluir el **refactoring en tu día a día**
+
+
+          > _"Este curso te enseñará a programar mejor."_
+        actions:
+          - label: Video ¿Por qué este curso?
+            url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
+            name: cursos_web-testing_feature_why_course
       - title: Objetivos
         image: images/undraw_goals.svg
         content: >-
@@ -51,7 +85,10 @@ sections:
 
 
           > _"El código limpio es más agradable de leer y fácil de entender. Es mejor."_
-
+        actions:
+          - label: Video ¿Cuál es el objetivo?
+            url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651501
+            name: cursos_clean-code_feature_goals
       - title: ¿Quién lo imparte?
         image: images/undraw_professor.svg
         content: >-
@@ -63,6 +100,10 @@ sections:
           He visto y escrito código que haría vomitar a una cabra. Pero también he aprendido a hacerlo mejor cada día.
 
           > _"Con mi guía y algo de disciplina vas a crear grandes aplicaciones limpias."_
+        actions:
+          - label: Video ¿Quién lo imparte?
+            url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13532772
+            name: cursos_clean-code_feature_teacher
   - section_id: pricing
     type: section_pricing
     bg: gray
@@ -115,23 +156,24 @@ sections:
 
           📋: 4 ejercicios prácticos propuestos y resueltos.
 
-
-          📚: 5 grandes bloques:
-
-
-              🏷️ Estilo y nombrado
+      - title: Temario
+        image: images/undraw_to_do.svg
+        content: >-
 
 
-              🔀 Instrucciones, bloques y funciones
+          🏷️ Estilo y nombrado
 
 
-              🗂️ Estructuras de datos
+          🔀 Instrucciones, bloques y funciones
 
 
-              📦 Objetos y lógica de negocio
+          🗂️ Estructuras de datos
 
 
-              👩🏼‍🍳 Artesanía del software
+          📦 Objetos y lógica de negocio
+
+
+          👩🏼‍🍳 Artesanía del software
         actions:
           - label: Descarga temario detallado.
             url: https://www.bitademy.com/docs/temarios/temario_clean-code.pdf
@@ -148,6 +190,14 @@ sections:
           Descuentos para grupos y con la garantía de devolución si no te resulta útil.
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
+        actions:
+          - label: 🌍 Europa ahora 59€ (Precio normal 99€)
+            url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+            name: cursos_clean-code_features_59€
+
+          - label: 🌎 América ahora 53$ (Precio normal 89$)
+            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
+            name: cursos_clean-code_features_53$
       - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg
         content: >-
