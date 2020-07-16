@@ -14,13 +14,13 @@ sections:
     image: images/undraw_clean_up.svg
     title: Clean Code aplicado para desarrollos limpios y rentables
     content: >-
-      **¿Cuánto tiempo mantienes código descuidado, difícil, con defectos?** El código sucio es agotador e improductivo.
+      ¿Cuánto tiempo mantienes software descuidado, difícil, con defectos?
 
 
-      Para un trabajo más tranquilo y provechoso **escribe mejor código de forma sencilla**.
+      Programar bien produce soluciones más sencillas de mantener.
 
 
-      Con las técnicas de artesanía del software **aprende a escribir código limpio e impulsa tu carrera**.
+      Aprende a escribir código limpio e impulsa tu carrera.
     actions:
       - label: 🌍 Oferta Europa 59€
         url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
@@ -41,7 +41,7 @@ sections:
         content: >-
           - Para que otros te **entiendan**
 
-          - Para mantener fácilmente **código flexible**
+          - Para mantener **código flexible**
 
           - Para **documentar** sin comentarios
 
@@ -97,7 +97,7 @@ sections:
           He sido programador durante más de 7 años en **Zara**, otros 4 arquitecto de software para Tous y desde 2011 dirijo mi propia consultora. En total más de 20 años en la industria del software en grandes y pequeñas empresas.
 
 
-          He visto y escrito código que haría vomitar a una cabra. Pero también he aprendido a hacerlo mejor cada día.
+          He visto y escrito código que haría vomitar a una cabra. Pero también he aprendido a **hacerlo mejor cada día**.
 
           > _"Con mi guía y algo de disciplina vas a crear grandes aplicaciones limpias."_
         actions:

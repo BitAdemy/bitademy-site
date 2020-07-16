@@ -14,13 +14,13 @@ sections:
     image: images/undraw_science.svg
     title: Testing de aplicaciones web fácil y productivo para todos
     content: >-
-      **¿Acabas de programar y duermes tranquilamente?** Alguna vez habrás sentido un escalofrío al desplegar tu web.
+      ¿Acabas de programar, despliegas y duermes tranquilamente?
 
 
-      Los tests **reducen la cantidad de bugs y mejoran el diseño del software**. Se pueden hacer de forma sencilla, incluso divertida; y desde luego rentable.
+      Los tests reducen la cantidad de bugs y mejoran el diseño del software.
 
 
-      Sigue este curso y **aprende a probar tu código para ganar más confianza y tranquilidad.**
+      Aprende a probar tu código para ganar más confianza y tranquilidad.
     actions:
       - label: 🌍 Oferta Europa 59€
         url: https://sso.teachable.com/secure/459009/checkout/2052747/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
