@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.109.0](https://github.com/BitAdemy/bitademy-site/compare/v1.108.0...v1.109.0) (2020-07-20)
+
+
+### Features
+
+* ✍🏼 blog el origen de la deuda ([d8667f3](https://github.com/BitAdemy/bitademy-site/commit/d8667f3cde467e6af36959634af9088f2238aee2))
+
 ## [1.108.0](https://github.com/BitAdemy/bitademy-site/compare/v1.107.0...v1.108.0) (2020-07-16)
 
 
