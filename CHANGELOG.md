@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.110.1](https://github.com/BitAdemy/bitademy-site/compare/v1.110.0...v1.110.1) (2020-08-13)
+
+
+### Bug Fixes
+
+* 🐛 jpg png diploma ([35aa930](https://github.com/BitAdemy/bitademy-site/commit/35aa93004ac0d5db041ed7797d711485a5e4e3f9))
+
 ## [1.110.0](https://github.com/BitAdemy/bitademy-site/compare/v1.109.0...v1.110.0) (2020-08-13)
 
 
