@@ -9,7 +9,8 @@
     "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
     "deploy": "standard-version && git push --follow-tags origin master",
-    "b-s": "gatsby build && gatsby serve"
+    "b-s": "gatsby build && gatsby serve",
+    "updates": "ncu"
   },
   "dependencies": {
     "@stackbit/gatsby-plugin-menus": "0.0.4",
@@ -51,6 +52,7 @@
   "devDependencies": {
     "eslint": "^6.8.0",
     "gatsby-plugin-remove-serviceworker": "^1.0.0",
+    "npm-check-updates": "^7.1.0",
     "prettier": "^2.0.2",
     "standard-version": "^7.1.0"
   }
