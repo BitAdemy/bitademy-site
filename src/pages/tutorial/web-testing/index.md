@@ -8,6 +8,8 @@ post_url: tutorial/web-testing
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
 date: '2020-04-27'
+preview: Preview video gratis
+preview_url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/21502622
 next: Contenido detallado
 next_url: /tutorial/web-testing/contenido/
 sections:

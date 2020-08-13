@@ -8,6 +8,8 @@ post_url: tutorial/web-testing/e2e
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
 date: '2020-05-04'
+preview: Preview video gratis
+preview_url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/18124760
 up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Filosofía y patrones

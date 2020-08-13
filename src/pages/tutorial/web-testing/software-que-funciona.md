@@ -8,6 +8,8 @@ post_url: tutorial/web-testing/software-que-funciona
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
 date: '2020-04-28'
+preview: Preview video gratis
+preview_url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/18124748
 up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Contenido
