@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.110.0](https://github.com/BitAdemy/bitademy-site/compare/v1.109.0...v1.110.0) (2020-08-13)
+
+
+### Features
+
+* 👩‍🎓 diploma ([7c84746](https://github.com/BitAdemy/bitademy-site/commit/7c8474642d991bd8ec89f7ee01ed1afe3ecff1c0))
+* 📹 enlaces videos free ([3d3dd1a](https://github.com/BitAdemy/bitademy-site/commit/3d3dd1a9f88ea82afa066b1b24477992fcec173b))
+
 ## [1.109.0](https://github.com/BitAdemy/bitademy-site/compare/v1.108.0...v1.109.0) (2020-07-20)
 
 
