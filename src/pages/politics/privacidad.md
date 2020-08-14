@@ -63,10 +63,11 @@ GatsbyJS.
 
 MailChimp.
 ConvertBox.
+Sendinblue.
 
 ## Ejercicio de sus derechos
 
-Como usuario podrás dirigir sus comunicaciones y ejercitar los derechos de acceso, rectificación, cancelación y oposición a través de correo postal en **Polígono POCOMACO c-10 CP:15190 A Coruña.**, o al correo electrónico: **albertobasalo@hotmail.com** junto con prueba válida en derecho, como fotocopia del D.N.I. o equivalente, indicando en el asunto “Protección de Datos”.
+Como usuario podrás dirigir sus comunicaciones y ejercitar los derechos de acceso, rectificación, cancelación y oposición a través de correo postal en **Juan D. Porlier 19 CP15009 A Coruña.**, o al correo electrónico: **albertobasalo@hotmail.com** junto con prueba válida en derecho, como fotocopia del D.N.I. o equivalente, indicando en el asunto “Protección de Datos”.
 Del mismo modo, podrás darte de baja de cualquiera de los servicios de suscripción facilitados haciendo clic en el apartado de darse de baja de todos los correos electrónicos remitidos. Si recibe los citados correos electrónicos es que ha dado su autorización previa, ya que no se realizan prácticas de SPAM.
 
 Aceptación y consentimiento
@@ -76,4 +77,4 @@ Declaras haber sido informado de las condiciones sobre protección de datos de c
 
 En cualquier momento puedo modificar la presente política para adaptarla a novedades legislativas o jurisprudenciales así como a prácticas de la industria. En dichos supuestos, anunciaré en esta página los cambios introducidos con razonable antelación a su puesta en práctica.
 
-Última revisión el 11/05/2020
+Última revisión el 14/08/2020

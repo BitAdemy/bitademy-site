@@ -97,4 +97,4 @@ A continuación puedes acceder a la configuración de los navegadores webs más 
 Al desactivar a eliminar las cookies, parte de la web no funcionará o la calidad de la página puede verse afectada.
 Si tiene dudas sobre esta política de cookies, puede contactar con Alberto Basalo en albertobasalo@hotmail.com
 
-Última revisión el 11/05/2020
+Última revisión el 14/08/2020

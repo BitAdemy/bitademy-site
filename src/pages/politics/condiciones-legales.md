@@ -12,7 +12,7 @@ img_path: images/logo.png
 template: page
 ---
 
-En cumplimiento de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico, se informa que el titular de esta web es **ÁGORA BINARIA S.L** con **NIF B70361316** y con domicilio en **Polígono POCOMACO C-10 CP:15190 A Coruña.** siendo su actividad social Desarrollo informático.
+En cumplimiento de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico, se informa que el titular de esta web es **ÁGORA BINARIA S.L** con **NIF B70361316** y con domicilio en **Juan D. Porlier 19 CP15009 A Coruña.** siendo su actividad social Desarrollo informático.
 
 En este espacio encontrarás toda la información relativa a los términos y condiciones legales que definen las relaciones entre los usuarios y yo como como responsable de esta web.
 
@@ -86,4 +86,4 @@ Igualmente en la web se puede cambiar, suprimir o añadir tanto los contenidos y
 
 Para la resolución de todas las controversias o cuestiones relacionadas con el presente sitio web o de las actividades en él desarrolladas, será de aplicación la legislación española, a la que se someten expresamente las partes, siendo competentes para la resolución de todos los conflictos derivados o relacionados con su uso los Juzgados y Tribunales de **A Coruña, España**
 
-Última revisión el 25/03/2020
+Última revisión el 14/08/2020
