@@ -25,5 +25,10 @@
       "title": "Instagram",
       "url": "https://www.instagram.com/bitademy/"
     }
+    {
+      "type": "youtube",
+      "title": "YouTube",
+      "url": "https://www.youtube.com/channel/UCOfRLPljJl9JzTCF6lO1uRw/"
+    }
   ]
 }

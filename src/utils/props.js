@@ -15,6 +15,17 @@ export const props = {
     }
   },
   getSiteUrl: props => _.get(props, siteMetadata + 'siteUrl'),
+  getPageType: props => {
+    const pageUrl = _.get(props, frontmatter + 'post_url');
+    if (pageUrl) {
+      if (pageUrl.includes('cursos/')) {
+        return 'Course';
+      } else if (pageUrl.includes('tutorial/')) {
+        return 'BlogPosting';
+      }
+    }
+    return 'WebPage';
+  },
   getSiteProductionUrl: props => _.get(props, siteMetadata + 'header.production_url'),
   getSiteHeaderLogoImg: props => _.get(props, siteMetadata + 'header.logo_img'),
   getSiteHeaderTitle: props => _.get(props, siteMetadata + 'header.title'),

@@ -40,6 +40,35 @@ export default class Body extends React.Component {
             rel="canonical"
             href={props.getSiteUrl(this.props) + '/' + props.getPageUrl(this.props)}
           />
+          <script type="application/ld+json">
+            {`
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": "bitAdemy",
+              "description": "Aprende CÓDIGO LIMPIO, PATRONES, ARQUITECTURA, INTEGRACIÓN, PRUEBAS... con Alberto Basalo.",
+              "url" : "http://www.bitademy.com",
+              "sameAs": [
+                "https://www.facebook.com/bitAdemy/",
+                "https://twitter.com/bit_ademy",
+                "https://www.youtube.com/channel/UCOfRLPljJl9JzTCF6lO1uRw",
+                "https://www.linkedin.com/company/bitademy/"
+            ]
+            `}
+          </script>
+          <script type="application/ld+json">
+            {`
+              "@context": "https://schema.org",
+              "@type": "${props.getPageType(this.props)}",
+              "name": "${props.getSiteTitle(this.props)}",
+              "description": "${props.getPageDescription(this.props)}",
+              "url" : "${props.getSiteUrl(this.props) + '/' + props.getPageUrl(this.props)}",
+              "provider": {
+                "@type": "Organization",
+                "name": "bitAdemy",
+                "sameAs": "http://www.bitademy.com"
+              }
+            `}
+          </script>
           <link async rel="stylesheet" href={safePrefix('assets/css/main.css')} />
         </Helmet>
         <div id="page" className={'site palette-' + props.getSitePalette(this.props)}>
