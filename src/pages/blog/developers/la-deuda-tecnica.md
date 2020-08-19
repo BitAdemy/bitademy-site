@@ -36,7 +36,7 @@ Pero las similitudes no acaban en la definición y se pueden observar incluso en
 
 El concepto negativo de la deuda no debe ocultar las diferencias que hay en su origen. En el mundo de las finanzas, los expertos clasifican las deudas según dos ejes.
 
-#### Conciencia
+#### Consciencia
 
 - **Inadvertidas** : uso de tarjeta de crédito, uso de servicios facturables por consumo...
 - **Deliberadas** : solicitud de un préstamo, inversión empresarial...

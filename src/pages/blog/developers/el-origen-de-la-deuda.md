@@ -28,6 +28,8 @@ Empleamos el símil de la deuda financiera para aplicarlo a la industria inform�
 
 > _Cualquier deficiencia que requiera un esfuerzo extra posterior._
 
+Para mejor comprensión lee antes el artículo sobre [La deuda técnica](/blog/developers/la-deuda-tecnica)
+
 Dicho así parece algo inevitable, pues nadie puede acertar siempre y continuamente en todas sus decisiones. Pero podemos **prestar atención** para tomar consciencia de sus existencia y actuar con responsabilidad.
 
 Para empezar vamos a identificar las situaciones que en origen generan o promueven el crecimiento de la deuda técnica.
