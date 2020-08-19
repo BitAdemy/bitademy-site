@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.111.1](https://github.com/BitAdemy/bitademy-site/compare/v1.111.0...v1.111.1) (2020-08-19)
+
+
+### Bug Fixes
+
+* 🛠 social.json ([8dd2544](https://github.com/BitAdemy/bitademy-site/commit/8dd2544455f546572d4e03b81c0465045e1c6228))
+
 ## [1.111.0](https://github.com/BitAdemy/bitademy-site/compare/v1.110.4...v1.111.0) (2020-08-19)
 
 
