@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.111.0](https://github.com/BitAdemy/bitademy-site/compare/v1.110.4...v1.111.0) (2020-08-19)
+
+
+### Features
+
+* ✍ blog bitletter 8 ([cbd7f63](https://github.com/BitAdemy/bitademy-site/commit/cbd7f6341415e21b8b97f5dad9f07ed991b0a6f8))
+
 ### [1.110.4](https://github.com/BitAdemy/bitademy-site/compare/v1.110.3...v1.110.4) (2020-08-17)
 
 ### [1.110.3](https://github.com/BitAdemy/bitademy-site/compare/v1.110.2...v1.110.3) (2020-08-14)
