@@ -12,8 +12,8 @@ up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Tipos de Pruebas
 previous_url: tutorial/web-testing/tipos-de-pruebas
-next: E2E
-next_url: /tutorial/web-testing/e2e/
+next: Comportamiento
+next_url: tutorial/web-testing/comportamiento
 sections:
   - section_id: call-to-action
     type: section_cta

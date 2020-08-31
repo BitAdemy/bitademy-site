@@ -29,6 +29,8 @@ template: tutorial
 
 #### 👨🏼‍🏫 [Filosofía y patrones](https://www.bitademy.com/tutorial/web-testing/filosofia-y-patrones)
 
+#### 👔 [Comportamiento](https://www.bitademy.com/tutorial/web-testing/comportamiento)
+
 ---
 
 ### 🌐 E2E: [Pruebas externas de principio a fin.](https://www.bitademy.com/tutorial/web-testing/e2e)
