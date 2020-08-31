@@ -10,8 +10,8 @@ thumb_img_path: images/undraw_science.png
 date: '2020-08-31'
 up: Tutorial WebTesting
 up_url: tutorial/web-testing
-previous: Software que funciona
-previous_url: tutorial/web-testing/software-que-funciona
+previous: Filosofía y patrones
+previous_url: tutorial/web-testing/filosofia-y-patrones
 next: Primeras pruebas
 next_url: tutorial/web-testing/primeras-pruebas/
 sections:
