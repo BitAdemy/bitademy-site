@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.113.0](https://github.com/BitAdemy/bitademy-site/compare/v1.112.0...v1.113.0) (2020-08-31)
+
+
+### Features
+
+* 📗 tutorial testing bdd ([9c81097](https://github.com/BitAdemy/bitademy-site/commit/9c81097386634caf0ba8c2fd693ed613935a04ba))
+
 ## [1.112.0](https://github.com/BitAdemy/bitademy-site/compare/v1.111.1...v1.112.0) (2020-08-26)
 
 
