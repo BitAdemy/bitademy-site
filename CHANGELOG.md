@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.114.0](https://github.com/BitAdemy/bitademy-site/compare/v1.113.0...v1.114.0) (2020-08-31)
+
+
+### Features
+
+* 📗 intro labs ([59eb1f5](https://github.com/BitAdemy/bitademy-site/commit/59eb1f51ca5fd3614f403e90c27605154bf21365))
+
+
+### Bug Fixes
+
+* 🔗 enlaces ([6e36298](https://github.com/BitAdemy/bitademy-site/commit/6e36298af99d25f6d87df6a6707f91046921523b))
+
 ## [1.113.0](https://github.com/BitAdemy/bitademy-site/compare/v1.112.0...v1.113.0) (2020-08-31)
 
 
