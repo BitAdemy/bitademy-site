@@ -31,6 +31,8 @@ template: tutorial
 
 #### 👔 [Comportamiento](https://www.bitademy.com/tutorial/web-testing/comportamiento)
 
+#### 👨‍💻 [Primeras pruebas](https://www.bitademy.com/tutorial/web-testing/primeras-pruebas)
+
 ---
 
 ### 🌐 E2E: [Pruebas externas de principio a fin.](https://www.bitademy.com/tutorial/web-testing/e2e)

@@ -12,8 +12,8 @@ up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Software que funciona
 previous_url: tutorial/web-testing/software-que-funciona
-next: E2E
-next_url: /tutorial/web-testing/e2e/
+next: Primeras pruebas
+next_url: tutorial/web-testing/primeras-pruebas/
 sections:
   - section_id: call-to-action
     type: section_cta
