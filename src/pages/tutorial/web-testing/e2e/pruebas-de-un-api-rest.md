@@ -27,6 +27,10 @@ sections:
 template: tutorial
 ---
 
+> _"Nunca hay pruebas suficientes que demuestren que un software está bien, pero un único test puede mostrar que está mal"_
+>
+> -- ✍️ **Amir Ghahrai**
+
 Hemos visto que _Puppeteer_ es un automatizador de Chrome. Los navegadores solemos usarlo para ver páginas web pero también podemos, y como programadores debemos, usarlos para inspeccionar las comunicaciones de datos _json_. Con esto vas a poder probar tu API.
 
 ### Supertest
