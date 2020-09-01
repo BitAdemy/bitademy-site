@@ -117,7 +117,7 @@ En [el laboratorio](https://github.com/LabsAdemy/WebTesting_e2e-functional_cypre
 
 ### Hola mundo con Cypress
 
-Para que lo veas todo junto te propongo que te crees un fichero `cypress\integration\examples\0.0_hello-world.spec.js` y escribas esto en él.
+Para que lo veas todo junto te propongo que te crees un fichero `cypress\integration\examples\0-hello-world\00-basic.spec.js` y escribas esto en él.
 
 ```
 /// <reference types="Cypress" />
@@ -132,7 +132,7 @@ describe('Visiting the url https://www.bitademy.com', () => {
 
 Si no lo habías hecho antes lanza el _runner_ con el comando `cypress open` o el script equivalente... y espera que te muestre el panel de administrador con todos los tests disponibles.
 
-Selecciona el `0.0_hello-world` y disfruta.
+Selecciona el `0-hello-world/00-basic.spec` y disfruta.
 
 ### Más acciones y comprobaciones
 

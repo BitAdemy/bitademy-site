@@ -50,10 +50,10 @@ Antes de desarrollar la prueba, de hecho antes de desarrollar el software, siemp
 Un ejemplo muy sencillo sería la típica _To Do List_. Voy a usar como _SUT_ una aplicación de ejemplo de otros cursos. [Proton tasks](https://labsademy.github.io/ProtonTasks/)
 
 ```yaml
-// FEATURE:     the app should allow me to create new tasks
-// As a:        user with tasks to do
-// I want to:   create new tasks
-// In order to: follow up my work
+FEATURE:     the app should allow me to create new tasks
+As a:        user with tasks to do
+I want to:   create new tasks
+In order to: follow up my work
 ```
 
 ## Comportamiento

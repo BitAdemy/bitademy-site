@@ -33,7 +33,7 @@
   "spellright.language": ["en", "es"],
   "spellright.documentTypes": ["markdown", "latex", "plaintext"],
   // "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> <span>Clean Code aplicado para desarrollos limpios y rentables</span></div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; \"> <span>BitAdemy</span></div>",
-  "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> <span>Pruebas web de principio a fin</span></div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; \"> <span>Web Testing</span></div>",
+  "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> <span>Pruebas funcionales con Cypress</span></div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; \"> <span>Web Testing</span></div>",
   "markdown-pdf.footerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> <span>Alberto Basalo</span></div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; \"> <span class='pageNumber'></span> / <span class='totalPages'></span></div>",
   // "markdown-pdf.width": "14cm",
   // "markdown-pdf.height": "21cm",
