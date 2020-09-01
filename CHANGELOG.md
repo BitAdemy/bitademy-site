@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.115.0](https://github.com/BitAdemy/bitademy-site/compare/v1.114.0...v1.115.0) (2020-09-01)
+
+
+### Features
+
+* 📗 e2e blog tutorial ([5e138f3](https://github.com/BitAdemy/bitademy-site/commit/5e138f309567eaebde48af0b3b5ef903bcc9d737))
+
 ## [1.114.0](https://github.com/BitAdemy/bitademy-site/compare/v1.113.0...v1.114.0) (2020-08-31)
 
 
