@@ -1,9 +1,9 @@
 ---
 title: 🎭 Pruebas de aplicaciones web con Puppeteer
 subtitle: >-
-  Puppeteer para comprobación de existencia, navegación, tamaño, velocidad y otras métricas.
+  Puppeteer para emulación, evaluación del contenido y seguimiento de la prueba.
 excerpt: >-
-  Pruebas de aplicaciones web con Puppeteer. Puppeteer para comprobación de existencia, navegación, tamaño, velocidad y otras métricas.
+  Pruebas de aplicaciones web con Puppeteer. Puppeteer para emulación, evaluación del contenido y seguimiento de la prueba.
 post_url: tutorial/web-testing/e2e/pruebas-de-aplicaciones-web-con-puppeteer
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
@@ -31,13 +31,13 @@ template: tutorial
 >
 > -- ✍️ **Scott Barber**
 
-normalmente vas a querer comprobar algo más que la existencia básica de una web. Hay tantas posibles pruebas que hacer como situaciones pueda vivir un usuario. Pero para empezar te voy a mostrar las más utilizadas.
+Normalmente vas a querer comprobar algo más que la existencia básica de una web. Hay tantas posibles pruebas que hacer como situaciones pueda vivir un usuario. Pero para empezar te voy a mostrar las más utilizadas.
 
 ### Emulación
 
 Algo típico es que despliegues una aplicación web, pero quieras comprobar que se ejecuta correctamente en distintos dispositivos. Ya que Puppeteer usa por debajo un Chrome, podemos usar las capacidades de emulación que tiene.
 
-```javascript
+```
 module.exports = async function (pagePuppet) {
   await given(`Any page of my site`, async () => {
     const inputPageUrl = `https://www.bitademy.com`;
@@ -63,10 +63,10 @@ De esta forma puedes determinar si se aplican o no ciertos estilos, la validez d
 
 ### Evaluación
 
-Hablando de evaluar; te habrás fijado en la función `evaluate` de primer orden que admite un _callback_ para ejecutar. La clave está en entender cuándo esa función se va a ejecutar. Evaluate ejecutará el callback de forma asíncrona una vez descargada la página.
+Hablando de evaluar; te habrás fijado en la función `evaluate` de primer orden que admite un _callback_ para ejecutar. La clave está en entender cuándo esa función se va a ejecutar. `Evaluate` ejecutará el _callback_ de forma asíncrona una vez descargada la página.
 Por ejemplo lo uso para comprobar que no tenemos links vacíos en una web.
 
-```javascript
+```
 module.exports = async function (pagePuppet) {
   await given(`A site url`, async () => {
     const inputPageUrl = `https://www.bitademy.com`;
@@ -82,13 +82,13 @@ module.exports = async function (pagePuppet) {
 };
 ```
 
-Cualquier expresión JavaScript que pongamos se ejecutará como si la hubiéramos escrito en la consola del Chrome.
+> Cualquier expresión JavaScript que pongamos se ejecutará como si la hubiéramos escrito en la consola del Chrome.
 
 ### Seguimiento
 
-Además de lanzar el script y ver directo lo que ocurre, también puedes querer ver lo que pasó una vez terminado. Es decir comprobar qué ha ocurrido y tener un rastro sobre todo si se ejecuta en modo desatendido o sin visualización.
+Además de lanzar el script y ver directo lo que ocurre, también puedes querer ver lo que pasó una vez terminado. Es decir comprobar qué ha ocurrido y tener un rastro; sobre todo si se ejecuta en modo desatendido o sin visualización.
 
-```javascript
+```
 exports.takeScreenshot = async function takeScreenshot(pagePuppet) {
   const timeStamp = new Date().getTime();
   const shotPath = path.join(process.cwd(), 'images', `${timeStamp}.png`);
@@ -98,4 +98,4 @@ exports.takeScreenshot = async function takeScreenshot(pagePuppet) {
   });
 };
 ```
-La función `screenshot` saca instantáneas de las pantallas que permitirán analizar tranquilamente lo que ocurrió. Recuerda que la prueba la haces para ti. El log o rastro de lo sucedido es tu principal activo al terminar la prueba.
+La función `screenshot` saca instantáneas de las pantallas que permitirán analizar tranquilamente lo que ocurrió. Recuerda que la prueba la haces para ti. El _log_ o rastro de lo sucedido es tu principal activo al terminar la prueba.

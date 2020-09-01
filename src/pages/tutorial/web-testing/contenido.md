@@ -39,7 +39,9 @@ template: tutorial
 
 #### 🎭 [Pruebas de aplicaciones web con **Puppeteer**](https://www.bitademy.com/tutorial/web-testing/e2e/pruebas-de-aplicaciones-web-con-puppeteer)
 
-#### 🤖 [Pruebas de rendimiento web con **Lighthouse**](https://www.bitademy.com/tutorial/web-testing/e2e/pruebas-de-rendimiento-web-con-lighthouse)
+#### 🚢 [Pruebas de rendimiento web con **Lighthouse**](https://www.bitademy.com/tutorial/web-testing/e2e/pruebas-de-rendimiento-web-con-lighthouse)
+
+#### 🔭 [Pruebas de un API Rest](https://www.bitademy.com/tutorial/web-testing/e2e/pruebas-de-un-api-rest)
 
 ---
 

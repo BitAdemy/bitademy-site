@@ -12,8 +12,8 @@ up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Pruebas de aplicaciones web con Puppeteer
 previous_url: tutorial/web-testing/e2e/pruebas-de-aplicaciones-web-con-puppeteer
-next: Pruebas funcionales
-next_url: tutorial/web-testing/functional
+next: Pruebas de un API Rest
+next_url: tutorial/web-testing/e2e/pruebas-de-un-api-rest
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/WebTesting_e2e-puppeteer_Labs
 sections:
@@ -77,45 +77,44 @@ Esta fase es más simple, aunque aquí si que tendrás que trabajar cada test. _
 Mi propuesta minimalista y enfocada al paso de la prueba es que pidas una métrica concreta y la valides contra un resultado esperado.
 
 ```
-async function actGetReport(url) {
-  lh_desktop_config.settings.skipAudits = null;
-  lh_desktop_config.settings.onlyAudits = ['speed-index'];
-  const report = await lighthouse(url, config, lh_desktop_config).then(results => {
-    return results;
+module.exports = async function () {
+  await given(`A deployed site`, async () => {
+    const inputPageUrl = `https://www.bitademy.com`;
+    const { chrome, browser, chrome_config } = await arrangeBrowser();
+    await when(`we get the page audit scores`, async () => {
+      const audits = await getAudits(inputPageUrl, chrome_config);
+    });
   });
-  const audits = getSimpleArray(report.lhr.audits);
-  console.log(`lighthouse audits: ${JSON.stringify(audits)}`);
-  return audits;
-}
-function getSimpleArray(property) {
-  return Object.keys(property).map(x => ({
-    id: x,
-    title: property[x].title,
-    score: property[x].score
-  }));
-}
+};
+// Ver código real en el laboratorio
+exports.getAudits = async function getAudits(url, chrome_config) {
+  lh_desktop_config.settings.skipAudits = null;
+  lh_desktop_config.settings.onlyAudits = [
+    'first-meaningful-paint',
+    'speed-index',
+    'first-cpu-idle',
+    'interactive'
+  ];
+  const lh_audits = await lighthouse(url, chrome_config, lh_desktop_config).then(
+    results => results.lhr.audits
+  );
+  return mapToSimpleArray(lh_audits);
+};
+
 ```
 
-Vale, pedir una sola métrica quizá sea poco realista. Pero recuerda dos cosas antes de pedir a lo loco. **Las pruebas deben ser rápidas**. Y deben usarse con un objetivo concreto, **detectar y un cuello de botella y corregirlo**.
+Vale, pedir tan pocas métricas quizá sea poco realista. Pero recuerda dos cosas antes de pedir a lo loco. **Las pruebas deben ser rápidas**. Y deben usarse con un objetivo concreto, **detectar y un cuello de botella y corregirlo**.
 
 ### Assert
 
 Esta es la parte más sencilla. Determina el umbral de rendimiento aceptable y compáralo con el resultado obtenido. Por ejemplo yo aquí estoy midiendo el _speed-index_ , que es el criterio principal, y lo comparo contra el umbral que recomiendan en google.
 
 ```
-module.exports = async function itShouldBeFast() {
-  const inputPageUrl = 'https://www.bitademy.com';
-  const { chrome, browser } = await arrangeBrowser();
-  console.info(`GIVEN chrome attached : ${chrome.port}`);
-  console.info(`  WHEN ${inputPageUrl} is scanned with lighthouse`);
-  const actualAudits = await actGetReport(inputPageUrl);
-  const actual = getSpeedIndex(actualAudits).score;
-  const minimunExpected = 0.89;
-  console.info(`    THEN it Should be faster than: ${minimunExpected}`);
-  const failMessage = `     Actual Speed Index ${actual} is lower than minimum expected ${minimunExpected}`;
-  await afterAll({ chrome, browser });
-  return assertTrue(actual > minimunExpected, failMessage);
-};
+const minimumExpected = 0.89;
+const expected = true;
+const score = audits.find(a => a.id === 'speed-index').score;
+const actual = score > minimumExpected;
+then(`Speed Index faster than ${minimumExpected}`, actual, expected);
 ```
 
 ### After
@@ -123,10 +122,8 @@ module.exports = async function itShouldBeFast() {
 Al acabar tus pruebas deberías liberar los recursos, que3 en este caso es simplemente desconectar y cerrar la instancia de _chrome_
 
 ```
-async function afterAll({ chrome, browser }) {
-  browser.disconnect();
-  await chrome.kill();
-}
+browser.disconnect();
+await chrome.kill();
 ```
 
 > En [el laboratorio](https://github.com/LabsAdemy/WebTesting_e2e-puppeteer_Labs) tienes más ejemplos de lo que es capaz _Lighthouse_. Y si aún quieres más puede mirar este otro repositorio aún más completo [AtomicBuilders/muon](https://github.com/AtomicBuilders/muon)

@@ -59,11 +59,10 @@ Para seguir este tutorial no se requiere ningún conocimiento previo sobre testi
 Lo primero es tener las herramientas adecuadas. Instalamos Puppeteer con el comando `yarn add puppeteer`. Y empezamos a programar.
 Os propongo desarrollar un script Node que tome como dependencia a [Puppeteer](https://pptr.dev/),  lo lance y lo cierre.
 
-```javascript
+```
 const { getBrowser, closeBrowser, takeScreenshot } = require(`./lib/puppets`);
 async function test() {
   const { browser, pagePuppet } = await arrangeBefore();
-
   await cleanAfter(browser);
 }
 async function arrangeBefore() {
@@ -82,7 +81,7 @@ Veamos en detalle:
 
 La sección de preparación de cualquier test debe dejarlo listo para la ejecución de pruebas. Habitualmente **se preparan objetos** de negocio, ficheros, servicios o como en este caso se configura _Puppeteer_ para visitar páginas en modo oculto y a la resolución que determinemos.
 
-```javascript
+```
 exports.getBrowser = async function getBrowser() {
   if (!browser) {
     browser = await puppeteer.launch({
@@ -101,7 +100,7 @@ Y ahora aun par de pruebas.
 
 A partir de este momento ya empezamos con **lo que debería ocurrir**. Y lo más sencillo es determinar que una página existe y devuelve un código http válido. Acostúmbrate a la sintaxis asíncrona con `async-await` porque todo esto se ejecutará siempre en segundo plano.
 
-```javascript
+```
 module.exports = async function (pagePuppet) {
   const inputPageUrl = `https://www.bitademy.com/`;
   await given(`A the url ${inputPageUrl}`, async () => {
@@ -123,7 +122,7 @@ Para homogenizar los mensajes te propongo que uses la terminología que tomo pre
 
 Este caso de comprobar **existencia** es habitual, aunque mucho más habitual será comprobar **contenido**. Por ejemplo si la página existe pero queremos comprobar que es la adecuada. Para ello se usan métodos auxiliares para obtener acceso a la respuesta.
 
-```javascript
+```
 module.exports = async function (pagePuppet) {
   const inputPageUrl = `https://www.bitademy.com/`;
   await given(`A the page at ${inputPageUrl}`, async () => {
