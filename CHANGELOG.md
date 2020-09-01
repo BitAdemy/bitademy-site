@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.117.0](https://github.com/BitAdemy/bitademy-site/compare/v1.116.0...v1.117.0) (2020-09-01)
+
+
+### Features
+
+* 📗 tutorial cypress ([d2ee73f](https://github.com/BitAdemy/bitademy-site/commit/d2ee73fbc3791cc27dda1d266998147b125dbfed))
+
 ## [1.116.0](https://github.com/BitAdemy/bitademy-site/compare/v1.115.0...v1.116.0) (2020-09-01)
 
 
