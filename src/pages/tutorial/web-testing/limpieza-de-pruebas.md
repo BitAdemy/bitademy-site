@@ -4,7 +4,7 @@ subtitle: >-
   Los tests son código. Deben ser lo más explícitos y claros posible.
 excerpt: >-
   Limpieza de pruebas. Los tests son código. Deben ser lo más explícitos y claros posible.
-post_url: tutorial/web-testing/functional/limpieza-de-pruebas
+post_url: tutorial/web-testing/limpieza-de-pruebas
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
 date: '2020-05-15'

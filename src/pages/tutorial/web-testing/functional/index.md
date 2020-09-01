@@ -1,9 +1,9 @@
 ---
 title: 🌲 Pruebas funcionales con Cypress
 subtitle: >-
-  Cypress para comprobación funcional interactiva.
+  Cypress, instalación, configuración y ejecución
 excerpt: >-
-  Pruebas funcionales con Cypress. Cypress para comprobación funcional interactiva.
+  Pruebas funcionales con Cypress. Cypress, instalación, configuración y ejecución.
 post_url: tutorial/web-testing/functional
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
@@ -12,8 +12,8 @@ preview: Preview video gratis
 preview_url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/18124754
 up: Tutorial WebTesting
 up_url: tutorial/web-testing
-previous: Pruebas de rendimiento web con Lighthouse
-previous_url: tutorial/web-testing/e2e/pruebas-de-rendimiento-web-con-lighthouse
+previous: Pruebas de un API Rest
+previous_url: tutorial/web-testing/e2e/pruebas-de-un-api-rest
 next: Pruebas de comportamiento
 next_url: tutorial/web-testing/functional/pruebas-de-comportamiento
 laboratory: Laboratorio
@@ -140,31 +140,44 @@ Para familiarizarte un poco más con la sintaxis de _Cypress_ te dejo la versió
 
 De los textos que se incluyen en las funciones se deduce claramente **la intención del desarrollador**. Es un caso dónde la documentación forma parte del programa. **No es un comentario, es un dato.**
 
-Este es el `cypress\integration\examples\0.1_hello-world.spec.js`
+Estos tests son de muy alto nivel y normalmente van conducidos por especificaciones _behavior driven_ como esta
+
+```
+FEATURE:     have web site with a title
+As a:        visitor
+I want to:   view the title of a site
+In order to: be more confident
+
+Scenario:
+  Given: the url https://www.bitademy.com
+  When: I visit it
+  Then: should have BitAdemy on its title
+```
+
+
+Este es el código que realiza la prueba
 
 ```
 describe('Visiting the url https://www.bitademy.com', () => {
-  before(() => cy.visit('https://www.bitademy.com'));
-  it('should have an h2 on the hero header with text _Aprender a programar mejor_', () => {
-    cy.get('#hero > div > div > div.cell.block-content > h2').should(
-      'contain',
-      'Aprender a programar mejor'
-    );
+  it('should have _bitAdemy_ on its title', () => {
+    cy.visit('https://www.bitademy.com');
+    cy.title().should('include', 'bitAdemy');
   });
-  it('should navigate to courses page', () => cy.contains('Cursos').click());
-  it('should have an h2 on the hero header with text _Cursos online de calidad_', () => {
-    cy.get('#hero > div > div > div.cell.block-content > h2').should(
-      'contain',
-      'Cursos online de calidad'
-    );
-  });
-  it('should allow me to subscribe to the newsletter, but detect that it is invalid', () => {
-    cy.get('#MERGE0').type('learn@bitademy.com');
-    cy.get('#subscribe-form > .button').click();
-    cy.get('.errorText').contains('learn@bitademy.com ya está suscrito');
+});
+
+const sutUrl = 'https://www.bitademy.com';
+describe(`GIVEN: the url ${sutUrl}`, () => {
+  context(`WHEN: I visit it`, () => {
+    before(() => cy.visit(sutUrl));
+    const expected = 'bitAdemy';
+    it(`THEN: should have _${expected}_ on its title`, () => {
+      cy.title().should('include', expected);
+    });
   });
 });
 ```
+
+Incidiremos más en esta parte en el siguiente tema especialmente dedicado al comportamiento.
 
 #### Before and after
 

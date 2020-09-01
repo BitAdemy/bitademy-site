@@ -49,7 +49,7 @@ template: tutorial
 
 #### 🎪 [Pruebas de comportamiento](https://www.bitademy.com/tutorial/web-testing/functional/pruebas-de-comportamiento)
 
-#### 🧪 [Limpieza de pruebas](https://www.bitademy.com/tutorial/web-testing/functional/limpieza-de-pruebas)
+#### 📱 [Pruebas de una SPA y un API](https://www.bitademy.com/tutorial/web-testing/functional/pruebas-de-spa-y-api)
 
 ---
 

@@ -12,8 +12,8 @@ up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Pruebas funcionales con Cypress
 previous_url: tutorial/web-testing/functional
-next: Limpieza de pruebas
-next_url: tutorial/web-testing/functional/limpieza-de-pruebas
+next: Pruebas de una SPA y un API
+next_url: tutorial/web-testing/functional/pruebas-de-spa-y-api
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/WebTesting_e2e-functional_cypress_Labs/tree/master/cypress/integration/basic
 sections:
@@ -47,13 +47,13 @@ Pero tanto si odias o amas los procedimientos y las metodologías ágiles te pid
 
 Antes de desarrollar la prueba, de hecho antes de desarrollar el software, siempre parto de una mínima documentación, lo imprescindible. Una tarjeta que incluye la descripción genérica de la funcionalidad, y que responde a tres preguntas básicas: el rol (**quién**), la solución (**qué**) y la razón (**por qué**) de existir de este software.
 
-Un ejemplo muy sencillo, y en realidad demasiado genérico sería:
+Un ejemplo muy sencillo sería la típica _To Do List_. Voy a usar como _SUT_ una aplicación de ejemplo de otros cursos. [Proton tasks](https://labsademy.github.io/ProtonTasks/)
 
 ```yaml
-FEATURE: have web site with courses and a subscribing form
-As a: visitor
-I want to: view, navigate and subscribe
-In order to: get information and be notified
+// FEATURE:     the app should allow me to create new tasks
+// As a:        user with tasks to do
+// I want to:   create new tasks
+// In order to: follow up my work
 ```
 
 ## Comportamiento
@@ -79,28 +79,7 @@ describe('Funcionalidad que se pretende probar', () => {
   });
 });
 ```
-
-Entonces estas tres funciones son... ¿_la triple AAA_?. No exactamente pero sí, efectivamente tiene cierta equivalencia con estas tres funciones. Veámoslo con el _Hola Mundo_.
-
-```
-describe('Visiting the url https://www.bitademy.com', () => {
-  // Arrange
-  const sutUrl = 'https://www.bitademy.com';
-  context('I visit it', () => {
-    // Act
-    before(() => cy.visit(sutUrl));
-    // Assert
-    it('should have an h2 on the hero header with text _Aprender a programar mejor_', () => {
-      cy.get('#hero > div > div > div.cell.block-content > h2').should(
-        'contain',
-        'Aprender a programar mejor'
-      );
-    });
-  });
-});
-```
-
-No hemos mejorado ni funcionalidad ni sintaxis. Es simplemente **una guía para que organices el código de pruebas**, al tiempo que lo documentas.
+No es un ejemplo de funcionalidad ni de sintaxis. Es simplemente **una guía para que organices el código de pruebas**, al tiempo que lo documentas.
 
 ## Aceptación
 
@@ -114,27 +93,66 @@ Ya así llegamos al último convenio que quiero presentarte. Es un convenio para
 
 _GWT_ es una fórmula fácil de recordar y que nos narra en lenguaje humano lo que sucede por debajo. `Given, when, then` traducido como **dado, cuando, entonces** explica que **dado** un contexto, **cuando** se ejecuta una acción, **entonces** debería haber una consecuencia esperada.
 
-Aplicándolo a nuestro ejemplo, quedaría algo así:
+Plantearlo formalmente puede que requiero cierto esfuerzo. No tanto por escribir, más bien porque te obliga a pensar lo que vas a hacer
 
 ```
-describe('GIVEN: the url https://www.bitademy.com', () => {
-  // Arrange
-  const sutUrl = 'https://www.bitademy.com';
-  context('WHEN: I visit it', () => {
-    // Act
-    before(() => cy.visit(sutUrl));
-    // Assert
-    it('THEN: should have an h2 on the hero header with text _Aprender a programar mejor_', () => {
-      cy.get('#hero > div > div > div.cell.block-content > h2').should(
-        'contain',
-        'Aprender a programar mejor'
-      );
+Scenario: add a task
+  GIVEN: the form to add tasks
+  WHEN: I type task description and click on _Add task_
+  THEN: should clear the input box
+    AND THEN: should appear on the _Things to do_ list
+```
+
+Pero el resultado merece mucho la pena porque después escribirlo en _cypress_ es una delicia. Aplicándolo a nuestro ejemplo de la tareas, quedaría algo así:
+
+```
+describe(`GIVEN: the form to add tasks`, () => {
+  const sutUrl = 'https://labsademy.github.io/ProtonTasks/';
+  const selectorFormInput = 'form > input';
+  const inputTaskDescription = 'Dummy task one';
+  const selectorFormButton = 'form > button';
+  const inputButtonText = 'Add task';
+  const expectedTaskDescription = 'Dummy task one';
+  const selectorIncompleteListLabel = '#incomplete-tasks > li:first-child > label';
+  const selectorIncompleteListButton = '#incomplete-tasks > li:first-child > button.delete';
+  context(`WHEN: I type task description and click on _Add task_ `, () => {
+    before(() => {
+      cy.visit(sutUrl);
+      cy.get(selectorFormInput).type(inputTaskDescription);
+      cy.get(selectorFormButton).contains(inputButtonText).click();
+    });
+    it(`THEN: should clear the input box`, () => {
+      cy.get(selectorFormInput).should('not.include.value');
+    });
+    it(`AND THEN: should appear on the _Things to do_ list`, () => {
+      cy.get(selectorIncompleteListLabel).should('contain', expectedTaskDescription);
+    });
+    after(() => {
+      cy.get(selectorIncompleteListButton).click();
     });
   });
 });
 ```
 
 Yo lo destaco poniéndolo al principio, en mayúsculas y con los dos puntos. Pero lo mejor es que hagas tus pruebas y que lo ajustes de forma **que siempre te deje claro qué es lo que está ocurriendo**.
+
+
+### Comandos custom
+
+Ya que estamos aprendiendo Cypress, veamos un poco más de sintaxis, y alguna de sus utilidades. Por ejemplo la creación de nuevos comandos reutilizables. Para ello disponemos del fichero `/support/commands.js` destinado a contener nuevas definiciones.
+
+```
+Cypress.Commands.add('addTask', inputTaskDescription => {
+  const selectorFormInput = 'form > input';
+  const selectorFormButton = 'form > button';
+  const inputButtonText = 'Add task';
+  cy.get(selectorFormInput).type(inputTaskDescription);
+  cy.get(selectorFormButton).contains(inputButtonText).click();
+});
+```
+Por ejemplo en este caso podemos invocar a este comando cada vez que queramos agregar una nueva tarea durante una prueba. Sería tan sencillo como llamar a cualquier otro método propio de Cypress: `cy.addTask('Mi nueva tarea');`
+
+Tienes más código de muestra en el laboratorio asociado.
 
 ## Resumen
 
