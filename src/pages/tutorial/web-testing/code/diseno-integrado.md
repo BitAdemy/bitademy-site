@@ -31,7 +31,7 @@ template: tutorial
 >
 > -- ✍️ **Robert C. Martin (Uncle Bob)**
 
-Aprender algo es costos, incluirlo en tu rutina lo es aún más. Tenemos que visualizar el objetivo para motivarnos. E ir paso a paso para no desmotivarnos.
+Aprender algo es costoso, incluirlo en tu rutina lo es aún más. Tenemos que visualizar el objetivo para motivarnos. E ir paso a paso para no desmotivarnos.
 
 Venga, vamos a continuar con nuestro micro sistema bancario según vimos en la [introducción a TDD](https://www.bitademy.com/tutorial/web-testing/tdd).
 

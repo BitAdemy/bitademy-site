@@ -15,7 +15,7 @@ previous_url: tutorial/web-testing/code/pruebas-de-integracion
 next: Diseño integrado
 next_url: tutorial/web-testing/code/diseno-integrado
 laboratory: Laboratorio
-laboratory_url: https://github.com/LabsAdemy/WebTesting_unit_Labs/tree/master/src/tdd/basic
+laboratory_url: https://github.com/LabsAdemy/webtesting_jest/tree/master/src/2-tdd
 sections:
   - section_id: call-to-action
     type: section_cta

@@ -14,8 +14,8 @@ up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Pruebas de una SPA y un API
 previous_url: tutorial/web-testing/functional/pruebas-de-spa-y-api
-next: Pruebas con espías y dobles
-next_url: tutorial/web-testing/unit/pruebas-con-espias-y-dobles
+next: Pruebas de integracion
+next_url: tutorial/web-testing/code/pruebas-de-integracion
 laboratory: Laboratorio
 laboratory_url: https://github.com/LabsAdemy/webtesting_jest/tree/master/src/0-hello-world
 sections:
