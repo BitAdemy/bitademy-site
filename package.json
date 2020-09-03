@@ -1,7 +1,7 @@
 {
   "name": "bitademy",
   "description": "Bitademy site",
-  "version": "1.117.1",
+  "version": "1.118.0",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop -p 8003 -o",
