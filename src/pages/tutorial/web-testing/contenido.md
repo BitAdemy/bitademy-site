@@ -53,14 +53,17 @@ template: tutorial
 
 ---
 
-### 🔬 [Pruebas unitarias con **Jest**](https://www.bitademy.com/tutorial/web-testing/unit)
+### 🔬 [Pruebas de código con **Jest**](https://www.bitademy.com/tutorial/web-testing/code)
 
-#### 🕵🏼‍♂️ [Pruebas con espías y dobles](https://www.bitademy.com/tutorial/web-testing/unit/pruebas-con-espias-y-dobles)
+#### 🏗 [Pruebas de integración](https://www.bitademy.com/tutorial/web-testing/code/pruebas-de-integracion)
 
-#### 🏇🏼 [Pruebas de código asíncrono](https://www.bitademy.com/tutorial/web-testing/unit/pruebas-de-codigo-asincrono)
+#### 🧬 [TDD, ciclo virtuoso RGR](https://www.bitademy.com/tutorial/web-testing/code/tdd-ciclo-virtuoso-rgr)
+
+#### 📈 [Diseño integrado](https://www.bitademy.com/tutorial/web-testing/code/diseno-integrado)
+
+#### 🕵️‍♀️ [Refactoring y rediseño](https://www.bitademy.com/tutorial/web-testing/code/refactoring-y-rediseno)
+
 
 ---
 
-### 🧬 [TDD: desarrollo guiado por las pruebas](https://www.bitademy.com/tutorial/web-testing/tdd)
 
-#### 📈 [Mejores resultados y mejor diseño.](https://www.bitademy.com/tutorial/web-testing/tdd/mejores-resultados-y-mejor-diseno)

@@ -7,7 +7,7 @@ excerpt: >-
 post_url: tutorial/web-testing/tdd/mejores-resultados-y-mejor-diseno
 img_path: images/undraw_science.png
 thumb_img_path: images/undraw_science.png
-date: '2020-05-22'
+date: '2020-09-03'
 up: Tutorial WebTesting
 up_url: tutorial/web-testing
 previous: Pruebas de código asíncrono

@@ -53,16 +53,17 @@ Y ya está. Aunque yo recomiendo agregar unas dependencias extra para facilitar 
 ```json
 {
   "devDependencies": {
-    "@babel/core": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
-    "@types/jest": "^25.2.2",
-    "babel-jest": "^26.0.1",
-    "eslint": "^7.0.0",
+    "@babel/core": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
+    "@types/jest": "^26.0.13",
+    "babel-jest": "^26.3.0",
+    "eslint": "^7.8.1",
     "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-jest": "^23.13.1",
-    "eslint-plugin-prettier": "^3.1.3",
-    "jest": "^26.0.1",
-    "prettier": "^2.0.5"
+    "eslint-plugin-jest": "^23.20.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "jest": "^26.4.2",
+    "jest-fetch-mock": "^3.0.3",
+    "prettier": "^2.1.1"
   }
 }
 ```
