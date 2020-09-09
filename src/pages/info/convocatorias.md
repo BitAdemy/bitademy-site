@@ -7,7 +7,7 @@ excerpt: >-
 post_url: /info/convocatorias/
 img_path: images/undraw_calendar.svg
 thumb_img_path: images/undraw_calendar.svg
-date: '2020-04-20'
+date: '2020-09-09'
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -38,25 +38,9 @@ template: page
   </thead>
   <tbody>
     <tr>
-      <td>Código Limpio</td>
-      <td>Septiembre</td>
-      <td>⌚ Fijo en directo</td>
-      <td>8 horas</td>
-      <td>120 €</td>
-    </tr>
-    <tr>
-      <td>Testing web
-      <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
-      </td>
-      <td>Septiembre</td>
-      <td>⌚ Fijo en directo</td>
-      <td>8 horas</td>
-      <td>120 €</td>
-    </tr>
-    <tr>
       <td>Código Limpio
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
-      <td>22 de junio</td>
+      <td>21 de septiembre</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td><a href="https://trainingit.es//curso-clean-code?promo=bitAdemy">150 € 🛒</a></td>
@@ -65,10 +49,10 @@ template: page
       <td>Testing web
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
-      <td>Septiembre</td>
+      <td>21 de septiembre</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
-      <td>150 €</td>
+      <td><a href="https://trainingit.es/curso-testing-web?promo=bitAdemy">200 € 🛒</a></td>
     </tr>
   </tbody>
   <tfoot>
@@ -94,15 +78,15 @@ template: page
 - Los alumnos deben realizar una **práctica que será evaluada**.
 - La duración se expresa en **semanas de atención**.
 
-#### ⌚ Horario fijo en directo
+<!-- #### ⌚ Horario fijo en directo
 
 - Son cursos **similares a los presenciales**.
 - Tiene un calendario y **horario fijos**.
 - El profesor imparte **la clase en directo**.
 - Los alumnos tienen la oportunidad de **preguntar en directo**.
-- La duración se expresa en **horas en directo**.
+- La duración se expresa en **horas en directo**. -->
 
-#### 💹 Características comunes
+#### 💹 Características
 
 - Material y documentación **descargable**.
 - Cuestionario de auto **evaluación**.
