@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.119.0](https://github.com/BitAdemy/bitademy-site/compare/v1.118.1...v1.119.0) (2020-09-10)
+
+
+### Features
+
+* 📆 fechas traiingit ([8c24848](https://github.com/BitAdemy/bitademy-site/commit/8c24848a442c6c28a53e98a453702eed474887d5))
+
 ### [1.118.1](https://github.com/BitAdemy/bitademy-site/compare/v1.118.0...v1.118.1) (2020-09-09)
 
 ## [1.118.0](https://github.com/BitAdemy/bitademy-site/compare/v1.117.1...v1.118.0) (2020-09-03)
