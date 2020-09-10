@@ -52,7 +52,7 @@ template: page
       <td>21 de septiembre</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
-      <td><a href="https://trainingit.es/curso-testing-web?promo=angular.builders">200 € 🛒</a></td>
+      <td><a href="https://trainingit.es/curso-testing-web?promo=bitAdemy">200 € 🛒</a></td>
     </tr>
   </tbody>
   <tfoot>
