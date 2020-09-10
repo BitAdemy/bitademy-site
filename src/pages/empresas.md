@@ -17,8 +17,8 @@ sections:
 
       >_"Formación de calidad."_
     actions:
-      - label: Pongámonos en contacto
-        url: /contacto
+      - label: Próximas convocatorias
+        url: /info/convocatorias/
         name: empresas_hero_contacto
   - section_id: features
     type: section_features
