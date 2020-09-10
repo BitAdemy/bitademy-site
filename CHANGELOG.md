@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.119.1](https://github.com/BitAdemy/bitademy-site/compare/v1.119.0...v1.119.1) (2020-09-10)
+
+
+### Bug Fixes
+
+* 🔗 promo code testing ([dd913d0](https://github.com/BitAdemy/bitademy-site/commit/dd913d0bcf6daf105bb5a412423ef71fde68cf4c))
+
 ## [1.119.0](https://github.com/BitAdemy/bitademy-site/compare/v1.118.1...v1.119.0) (2020-09-10)
 
 
