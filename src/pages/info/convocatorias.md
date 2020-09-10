@@ -52,7 +52,7 @@ template: page
       <td>21 de septiembre</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
-      <td><a href="https://trainingit.es/curso-testing-web?promo=bitAdemy">200 € 🛒</a></td>
+      <td><a href="https://trainingit.es/curso-testing-web?promo=angular.builders">200 € 🛒</a></td>
     </tr>
   </tbody>
   <tfoot>
@@ -63,7 +63,7 @@ template: page
 
 ## Formatos
 
-**BitAdemy** imparte estos cursos con distintos _partners_ para ofrecértelos en **dos formatos** diferentes. En un caso **se emiten en directo** y por tanto tienen horario fijo. En el otro **se accede a vídeos** y pueden realizarse en cualquier momento, pero dentro de un rango de fechas. En ambos casos el tutor está disponible para resolver cualquier duda.
+**BitAdemy** imparte estos cursos con distintos _partners_ para ofrecértelos en **formatos** diferentes. En todos los casos el tutor está disponible para resolver cualquier duda y corregir las prácticas.
 
 > Estas ediciones son bonificables por **Fundae** para las empresas españolas que lo soliciten.
 >
@@ -106,7 +106,7 @@ Además de las convocatorias abiertas, ofrecemos la posibilidad de realizar cual
 - **Modalidad** en directo o en video.
 - **Asesoramiento** y gestión FUNDAE.
 
-### 🗽 Formación libre no bonificada
+<!-- ### 🗽 Formación libre no bonificada
 
 Por supuesto cualquiera de los cursos se puede realizar en video sin la participación del tutor; y por tanto **sin calendario**.
 
@@ -123,3 +123,5 @@ Por supuesto cualquiera de los cursos se puede realizar en video sin la particip
 
 - [Clean Code aplicado para desarrollos limpios y rentables](https://www.bitademy.com/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
 - [Testing de aplicaciones web fácil y productivo para todos](https://www.bitademy.com/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/)
+
+-->
