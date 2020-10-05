@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.121.0](https://github.com/BitAdemy/bitademy-site/compare/v1.120.0...v1.121.0) (2020-09-20)
+
+
+### Features
+
+* ✍🏼 blog seguridad ([9b0acd3](https://github.com/BitAdemy/bitademy-site/commit/9b0acd32e3a85256e71c2676e2a5bbdc2a859a9b))
+
 ## [1.120.0](https://github.com/BitAdemy/bitademy-site/compare/v1.119.1...v1.120.0) (2020-09-10)
 
 
