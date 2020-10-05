@@ -7,7 +7,7 @@ excerpt: >-
 post_url: /info/convocatorias/
 img_path: images/undraw_calendar.svg
 thumb_img_path: images/undraw_calendar.svg
-date: '2020-09-09'
+date: '2020-10-05'
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -17,6 +17,9 @@ sections:
       - label: Pongámonos en contacto
         url: /contacto
 menus:
+  main:
+    weight: 4
+    title: Convocatorias
   secondary:
     weight: 4
     title: Convocatorias
@@ -40,7 +43,7 @@ template: page
     <tr>
       <td>Código Limpio
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
-      <td>21 de septiembre</td>
+      <td>19 de octubre</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td><a href="https://trainingit.es//curso-clean-code?promo=bitAdemy">150 € 🛒</a></td>
@@ -49,7 +52,7 @@ template: page
       <td>Testing web
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
-      <td>21 de septiembre</td>
+      <td>19 de octubre</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td><a href="https://trainingit.es/curso-testing-web?promo=bitAdemy">200 € 🛒</a></td>
