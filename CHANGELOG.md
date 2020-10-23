@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.122.0](https://github.com/BitAdemy/bitademy-site/compare/v1.121.0...v1.122.0) (2020-10-23)
+
+
+### Features
+
+* ✍ la guerra de los paradigmas ([240bd06](https://github.com/BitAdemy/bitademy-site/commit/240bd06ddb1a0cb3dab3983826bb997e61cd11bd))
+* 📅 convocatorias ([fae51ba](https://github.com/BitAdemy/bitademy-site/commit/fae51ba8eb17c67ac98de8f135681cba6fa00ac1))
+* orden menus ([6626d51](https://github.com/BitAdemy/bitademy-site/commit/6626d511a4f86a291279997aade0dbf5add38f7f))
+
 ## [1.121.0](https://github.com/BitAdemy/bitademy-site/compare/v1.120.0...v1.121.0) (2020-09-20)
 
 
