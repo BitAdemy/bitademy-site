@@ -50,10 +50,10 @@
     "sprintf-js": "^1.1.2"
   },
   "devDependencies": {
-    "eslint": "^7.6.0",
+    "eslint": "^7.10.0",
     "gatsby-plugin-remove-serviceworker": "^1.0.0",
-    "npm-check-updates": "^7.1.0",
+    "npm-check-updates": "^9.0.2",
     "prettier": "^2.0.5",
-    "standard-version": "^8.0.2"
+    "standard-version": "^9.0.0"
   }
 }
