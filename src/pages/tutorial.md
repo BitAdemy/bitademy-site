@@ -31,6 +31,9 @@ sections:
           - label: Próximamente...
             url: /
 menus:
+  main:
+    weight: 2
+    title: Tutoriales
   secondary:
     weight: 2
     title: Tutoriales

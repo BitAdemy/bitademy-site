@@ -18,10 +18,10 @@ sections:
         url: /contacto
 menus:
   main:
-    weight: 4
+    weight: 3
     title: Convocatorias
   secondary:
-    weight: 4
+    weight: 3
     title: Convocatorias
 template: page
 ---
@@ -43,7 +43,7 @@ template: page
     <tr>
       <td>Código Limpio
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
-      <td>19 de octubre</td>
+      <td>16 de noviembre</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td><a href="https://trainingit.es//curso-clean-code?promo=bitAdemy">150 € 🛒</a></td>
@@ -52,7 +52,7 @@ template: page
       <td>Testing web
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
-      <td>19 de octubre</td>
+      <td>16 de noviembre</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td><a href="https://trainingit.es/curso-testing-web?promo=bitAdemy">200 € 🛒</a></td>

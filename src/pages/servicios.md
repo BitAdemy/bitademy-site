@@ -137,7 +137,7 @@ sections:
         url: /contacto
         name: servicios_cta_contacto
 menus:
-  main:
+  secondary:
     weight: 3
     title: Servicios
 template: landing
