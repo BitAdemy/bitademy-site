@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.123.0](https://github.com/BitAdemy/bitademy-site/compare/v1.122.0...v1.123.0) (2020-10-23)
+
+
+### Features
+
+* reorder ([12f5969](https://github.com/BitAdemy/bitademy-site/commit/12f5969b6d056efcbf0580a8ea5c6abc71acb40e))
+
 ## [1.122.0](https://github.com/BitAdemy/bitademy-site/compare/v1.121.0...v1.122.0) (2020-10-23)
 
 
