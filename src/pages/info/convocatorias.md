@@ -18,10 +18,10 @@ sections:
         url: /contacto
 menus:
   main:
-    weight: 3
+    weight: 4
     title: Convocatorias
   secondary:
-    weight: 3
+    weight: 4
     title: Convocatorias
 template: page
 ---

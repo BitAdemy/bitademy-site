@@ -7,7 +7,7 @@ excerpt: >-
 post_url: /cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/
 img_path: images/undraw_science.svg
 thumb_img_path: images/undraw_science.svg
-date: '2020-06-20'
+date: '2020-09-20'
 sections:
   - section_id: hero
     type: section_hero

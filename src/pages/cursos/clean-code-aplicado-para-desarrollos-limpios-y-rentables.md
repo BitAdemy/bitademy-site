@@ -7,7 +7,7 @@ excerpt: >-
 post_url: /cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/
 img_path: images/undraw_clean_up.svg
 thumb_img_path: images/undraw_clean_up.svg
-date: '2020-03-20'
+date: '2020-06-20'
 sections:
   - section_id: hero
     type: section_hero

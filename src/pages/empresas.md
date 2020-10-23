@@ -89,10 +89,10 @@ sections:
         name: empresas_cta_contacto
 menus:
   main:
-    weight: 4
+    weight: 5
     title: Empresas
   secondary:
-    weight: 4
+    weight: 5
     title: Empresas
 template: landing
 ---

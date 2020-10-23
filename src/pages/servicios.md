@@ -138,7 +138,7 @@ sections:
         name: servicios_cta_contacto
 menus:
   secondary:
-    weight: 3
+    weight: 6
     title: Servicios
 template: landing
 ---
