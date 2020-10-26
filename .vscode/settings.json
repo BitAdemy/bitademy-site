@@ -16,21 +16,7 @@
     "statusBar.foreground": "#15202b"
   },
   "peacock.color": "#42b883",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Eva Dark Bold",
-  "editor.formatOnSave": true,
-  "editor.formatOnType": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
-  "prettier.useEditorConfig": true,
-  "prettier.disableLanguages": ["vue", "xlf", "xml", "html"],
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "html.format.wrapAttributes": "force-aligned",
-  "html.format.enable": true,
-  "html.format.wrapLineLength": 80,
-  "eslint.validate": ["javascript"],
-  "spellright.language": ["en", "es"],
   "spellright.documentTypes": ["markdown", "latex", "plaintext"],
   // "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> <span>Clean Code aplicado para desarrollos limpios y rentables</span></div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; \"> <span>BitAdemy</span></div>",
   "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> <span>Pruebas de código con Jest</span></div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; \"> <span>Web Testing</span></div>",
