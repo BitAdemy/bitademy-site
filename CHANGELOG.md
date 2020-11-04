@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.124.0](https://github.com/BitAdemy/bitademy-site/compare/v1.123.0...v1.124.0) (2020-11-04)
+
+
+### Features
+
+* diploma oscar corujeira ([990ab3c](https://github.com/BitAdemy/bitademy-site/commit/990ab3c0d8e90a21e8cf42d0e4b79f9c20cd5372))
+* imagen jpg diploma ([f549326](https://github.com/BitAdemy/bitademy-site/commit/f549326c487bfb955bdc83cf09c1aef6075d36c8))
+
+
+### Bug Fixes
+
+* metadata ([ffaa8ab](https://github.com/BitAdemy/bitademy-site/commit/ffaa8ab236b5d0437f36f3fe4e3beea15533b05f))
+
 ## [1.123.0](https://github.com/BitAdemy/bitademy-site/compare/v1.122.0...v1.123.0) (2020-10-23)
 
 
