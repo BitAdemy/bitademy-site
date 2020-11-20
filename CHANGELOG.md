@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.125.0](https://github.com/BitAdemy/bitademy-site/compare/v1.124.0...v1.125.0) (2020-11-20)
+
+
+### Features
+
+* estres y ansiedad en el paraiso ([3a1326f](https://github.com/BitAdemy/bitademy-site/commit/3a1326ffb646c266fdc483e6cccc5295af111de6))
+
 ## [1.124.0](https://github.com/BitAdemy/bitademy-site/compare/v1.123.0...v1.124.0) (2020-11-04)
 
 
