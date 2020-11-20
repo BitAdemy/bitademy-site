@@ -217,6 +217,8 @@ sections:
           - label: Empieza gratis.
             url: https://aula.bitademy.com/courses/codigo-limpio/lectures/13651775
             name: cursos_clean-code_aula_gratis
+          - label: Combínalo con Web Testing
+            url: https://aula.bitademy.com/p/artesania-del-software-codigo-limpio-y-probado
   - section_id: call-to-action
     type: section_cta
     title: Empresas.

@@ -118,7 +118,7 @@ sections:
           - Libre de impuestos
         highlight: false
         actions:
-          - label: 1 sólo pago de 53 $
+          - label: 1 sólo pago de 49 $
             url: https://aula.bitademy.com/purchase?product_id=2635220
             name: cursos_web-testing_pricing_49$
       - title: 🌍 Europa
@@ -216,6 +216,8 @@ sections:
           - label: Empieza gratis.
             url: https://aula.bitademy.com/courses/testing-de-aplicaciones-web-facil-y-productivo-para-todos/lectures/18124744
             name: cursos_web-testing_aula_gratis
+          - label: Combínalo con Clean Code
+            url: https://aula.bitademy.com/p/artesania-del-software-codigo-limpio-y-probado
   - section_id: call-to-action
     type: section_cta
     title: Empresas.
