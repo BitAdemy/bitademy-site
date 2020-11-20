@@ -10,6 +10,7 @@
     "serve": "gatsby serve",
     "deploy": "standard-version && git push --follow-tags origin master",
     "b-s": "gatsby build && gatsby serve",
+    "clean": "gatsby clean",
     "updates": "ncu"
   },
   "dependencies": {

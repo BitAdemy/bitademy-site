@@ -23,12 +23,12 @@ sections:
       Aprende a escribir código limpio e impulsa tu carrera.
     actions:
       - label: 🌍 Oferta Europa 59€
-        url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+        url: https://aula.bitademy.com/purchase?product_id=2635228
         name: cursos_clean-code_hero_59€
 
-      - label: 🌎 Oferta América 53$
-        url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-        name: cursos_clean-code_hero_53$
+      - label: 🌎 Oferta América 49$
+        url: https://aula.bitademy.com/purchase?product_id=2635226
+        name: cursos_clean-code_hero_49$
   - section_id: features
     type: section_features
     bg: gray
@@ -107,33 +107,29 @@ sections:
   - section_id: pricing
     type: section_pricing
     bg: gray
-    title: Precios y descuentos.
+    title: Precios.
     subtitle: >-
       🏡 Cursos para hacer en video a tu ritmo.
     pricingplans:
       - title: 🌎 América
-        price: 53 $
-        full_price: 89 $
+        price: 49 $
+        # full_price: 89 $
         details: >-
           - Libre de impuestos
-
-          - Descuento 4😷%
         highlight: false
         actions:
-          - label: 1 sólo pago de 53$
-            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-            name: cursos_clean-code_pricing_53$
+          - label: 1 sólo pago de 49$
+            url: https://aula.bitademy.com/purchase?product_id=2635226
+            name: cursos_clean-code_pricing_49$
       - title: 🌍 Europa
         price: 59 €
-        full_price: 99 €
+        # full_price: 99 €
         details: >-
           - IVA ya incluido
-
-          - Descuento 4😷%
         highlight: false
         actions:
           - label: 1 sólo pago de 59€
-            url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+            url: https://aula.bitademy.com/purchase?product_id=2635228
             name: cursos_clean-code_pricing_59€
   - section_id: features
     type: section_features
@@ -191,13 +187,13 @@ sections:
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
         actions:
-          - label: 🌍 Europa ahora 59€ (Precio normal 99€)
-            url: https://sso.teachable.com/secure/459009/checkout/1852428/codigo-limpio?coupon_code=BIT_40
+          - label: 🌍 Europa ahora 59€
+            url: https://aula.bitademy.com/purchase?product_id=2635228
             name: cursos_clean-code_features_59€
 
-          - label: 🌎 América ahora 53$ (Precio normal 89$)
-            url: https://sso.teachable.com/secure/459009/checkout/1852491/codigo-limpio?coupon_code=BIT_40
-            name: cursos_clean-code_features_53$
+          - label: 🌎 América ahora 49$
+            url: https://aula.bitademy.com/purchase?product_id=2635226
+            name: cursos_clean-code_features_49$
       - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg
         content: >-

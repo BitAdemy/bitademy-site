@@ -1,7 +1,7 @@
 ---
 title: Estrés y ansiedad en el paraíso
 subtitle: >-
-  El sector del desarrollo es de los mejor parados; pero no es un paraíso. Y ahora se le ven más los rotos psicológicos.
+  El sector del desarrollo de software es de los mejor parados; pero no es un paraíso. Y ahora se le ven más los rotos psicológicos.
 excerpt: >-
   Se manifiestan casos de estrés y ansiedad en el paraíso del desarrollo de software. Derivados de algunos males propios del sector, y de la falta de atención y conocimiento del tema.
 post_url: blog/developers/estres-y-ansiedad-en-el-paraiso
@@ -28,11 +28,11 @@ Nuestra profesión lleva años viviendo una especie de época dorada. No escasea
 
 Como siempre, me gusta atacar los problemas desde la raíz.
 
-> Comprender las causas, ser consciente de las consecuencias y buscar soluciones.
+> _Comprender las causas, ser consciente de las consecuencias y buscar soluciones._
 
 ## Las raíces del problema
 
-### Económicas:
+#### Económicas:
 
 Cualquier actividad económica sujeta a las leyes del mercado genera una serie de fuerzas positivas en cuanto a competencia, pero su lado oscuro obliga a los actores a dar siempre lo mejor de sí y optimizar los recursos disponibles. Porque si no, lo hará otro.
 
@@ -40,7 +40,7 @@ Así que esta es la selva en la que vivimos. Los clientes quieren las cosas cuan
 
 Y claro, esta cuadratura del círculo no siempre es factible generando en todos los participantes un desfase entre sus expectativas y la realidad. Para compensarlas es habitual recurrir a un **sobreesfuerzo** de los recursos disponibles.
 
-### De relación:
+#### De relación:
 
 No hay proyecto por pequeño que sea que no requiera de la colaboración de varias personas. Cada una con sus particularidades, sus carencias, sus necesidades. Con mejores o peores herramientas de comunicación y adaptación social.
 
@@ -48,7 +48,7 @@ Claro que hay objetivos globales comunes. Pero también objetivos empresariales 
 
 Obviamente esto genera fricciones, que bien llevadas permiten un refinamiento y mejora continua. Pero, también acarrean un **desgaste emocional**. Decir que no, discutir, acatar o callar son todas estrategias hijas del viejo _huir o pelear_, pero ninguna gratuita.
 
-### Humanas:
+#### Humanas:
 
 A nivel individual, los objetivos vitales y los rasgos de personalidad de cada individúo distan mucho de ser homogéneos. Hay gente a la que le encanta liderar y a quién le gusta participar sin destacar. Los hay con querencia hacia la norma y al procedimiento, mientras que otros buscan la creatividad, el cambio y el riesgo. Y para colmo estas características no son estancas ni constantes.
 
@@ -61,7 +61,7 @@ El sobreesfuerzo continuado, el desgaste emocional acumulado de la relaciones y 
 
 Pero mas temprano que tarde aparecerán los primeros síntomas y hay que estar atentos. Porque el cuerpo avisa... pero tiene poca paciencia.
 
-### Fisiológicos:
+#### Fisiológicos:
 
 - Insomnio
 - Tensiones musculares, especialmente en la espalda.
@@ -70,7 +70,7 @@ Pero mas temprano que tarde aparecerán los primeros síntomas y hay que estar a
 - Cambios en le deseo sexual
 - Fatiga
 
-### Psicológicos:
+#### Psicológicos:
 
 - Dificultad para la concentración
 - Cambios de humor bruscos
@@ -78,7 +78,7 @@ Pero mas temprano que tarde aparecerán los primeros síntomas y hay que estar a
 - Nerviosismo constante
 - Baja autoestima
 
-### Conductuales:
+#### Conductuales:
 - Trastornos de la alimentación
 - Abusos de alcohol y otras sustancias
 - Aislamiento social
@@ -93,4 +93,4 @@ A veces es suficiente con desahogarte o servir de desahogo. Pero en otras ocasio
 
 Es poco realista pensar que las causas desaparezcan, pero es deprimente pensar que no podemos hacer dada. Se pueden reducir y minimizar comportamientos y prácticas tóxicas. Se puede trabajar e incorporar metodologías colaborativas que reduzcan la fricción personal. Y se puede trabajar en el autoconocimiento y el desarrollo personal para tener mejores herramientas psicológicas y físicas para enfrentarnos al mundo.
 
-En un próximo articulo te daré unas pautas y consejos generales sobre esto último para que las apliques en tu día a día. A mí y a muchos conocidos de primera mano nos han servido para reducir y mantener a raya el estrés y la ansiedad relacionadas con nuestra profesión.
+> En un próximo articulo te daré unas pautas y consejos generales sobre esto último para que las apliques en tu día a día. A mí y a muchos conocidos de primera mano nos han servido para reducir y mantener a raya el estrés y la ansiedad relacionadas con nuestra profesión.

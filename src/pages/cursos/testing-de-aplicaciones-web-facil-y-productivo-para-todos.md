@@ -23,12 +23,12 @@ sections:
       Aprende a probar tu código para ganar más confianza y tranquilidad.
     actions:
       - label: 🌍 Oferta Europa 59€
-        url: https://sso.teachable.com/secure/459009/checkout/2052747/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+        url: https://aula.bitademy.com/purchase?product_id=2635223
         name: cursos_web-testing_hero_59€
 
-      - label: 🌎 Oferta América 53$
-        url: https://sso.teachable.com/secure/459009/checkout/2052320/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
-        name: cursos_web-testing_hero_53$
+      - label: 🌎 Oferta América 49$
+        url: https://aula.bitademy.com/purchase?product_id=2635220
+        name: cursos_web-testing_hero_49$
   - section_id: features
     type: section_features
     bg: gray
@@ -107,33 +107,29 @@ sections:
   - section_id: pricing
     type: section_pricing
     bg: gray
-    title: Precios y descuentos.
+    title: Precios.
     subtitle: >-
       🏡 Cursos para hacer en video a tu ritmo.
     pricingplans:
       - title: 🌎 América
         price: 53 $
-        full_price: 89 $
+        # full_price: 89 $
         details: >-
           - Libre de impuestos
-
-          - Descuento 4😷%
         highlight: false
         actions:
           - label: 1 sólo pago de 53 $
-            url: https://sso.teachable.com/secure/459009/checkout/2052320/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
-            name: cursos_web-testing_pricing_53$
+            url: https://aula.bitademy.com/purchase?product_id=2635220
+            name: cursos_web-testing_pricing_49$
       - title: 🌍 Europa
         price: 59 €/
-        full_price: 99 €
+        # full_price: 99 €
         details: >-
           - IVA ya incluido
-
-          - Descuento 4😷%
         highlight: false
         actions:
           - label: 1 sólo pago de 59 €
-            url: https://sso.teachable.com/secure/459009/checkout/2052747/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+            url: https://aula.bitademy.com/purchase?product_id=2635223
             name: cursos_web-testing_pricing_59€
   - section_id: features
     type: section_features
@@ -190,13 +186,13 @@ sections:
 
           > _"Lo más valioso es tu tiempo. El dinero se puede devolver; el tiempo no."_
         actions:
-          - label: 🌍 Europa ahora 59€ (Precio normal 99€)
-            url: https://sso.teachable.com/secure/459009/checkout/2052747/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
+          - label: 🌍 Europa ahora 59€
+            url: https://aula.bitademy.com/purchase?product_id=2635223
             name: cursos_web-testing_features_59€
 
-          - label: 🌎 América ahora 53$ (Precio normal 89$)
-            url: https://sso.teachable.com/secure/459009/checkout/2052320/testing-de-aplicaciones-web-facil-y-productivo-para-todos?coupon_code=BIT_40
-            name: cursos_web-testing_features_53$
+          - label: 🌎 América ahora 49$
+            url: https://aula.bitademy.com/purchase?product_id=2635220
+            name: cursos_web-testing_features_49$
       - title: ¿Este curso es para mi?
         image: images/undraw_faq.svg
         content: >-
