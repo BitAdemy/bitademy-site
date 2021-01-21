@@ -7,7 +7,7 @@ excerpt: >-
 post_url: /info/convocatorias/
 img_path: images/undraw_calendar.svg
 thumb_img_path: images/undraw_calendar.svg
-date: '2020-10-05'
+date: '2021-01-21'
 sections:
   - section_id: call-to-action
     type: section_cta
@@ -41,9 +41,17 @@ template: page
   </thead>
   <tbody>
     <tr>
+      <td>Arquitectura de aplicaciones angular
+        <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
+      <td>1 de febrero</td>
+      <td>⌚ Online en directo</td>
+      <td>5 semanas</td>
+      <td><a href="http://www.vitaedigital.com/download/8sb72kefc74guxsmxpuejqwht3x8pf/F0000001416_curso_angular_avanzado_desarrollo_aplicaciones_empresariales_4a_edicion_aula_virtual.pdf">180 € 🛒</a></td>
+    </tr>
+    <tr>
       <td>Código Limpio
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
-      <td>16 de noviembre</td>
+      <td>1 de febrero</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td><a href="https://trainingit.es//curso-clean-code?promo=bitAdemy">150 € 🛒</a></td>
@@ -52,7 +60,7 @@ template: page
       <td>Testing web
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
-      <td>16 de noviembre</td>
+      <td>1 de febrero</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td><a href="https://trainingit.es/curso-testing-web?promo=bitAdemy">200 € 🛒</a></td>
@@ -81,13 +89,13 @@ template: page
 - Los alumnos deben realizar una **práctica que será evaluada**.
 - La duración se expresa en **semanas de atención**.
 
-<!-- #### ⌚ Horario fijo en directo
+#### ⌚ Horario fijo en directo
 
 - Son cursos **similares a los presenciales**.
 - Tiene un calendario y **horario fijos**.
 - El profesor imparte **la clase en directo**.
 - Los alumnos tienen la oportunidad de **preguntar en directo**.
-- La duración se expresa en **horas en directo**. -->
+- La duración se expresa en **horas en directo**.
 
 #### 💹 Características
 
@@ -108,23 +116,3 @@ Además de las convocatorias abiertas, ofrecemos la posibilidad de realizar cual
 - **Calendario** a convenir.
 - **Modalidad** en directo o en video.
 - **Asesoramiento** y gestión FUNDAE.
-
-<!-- ### 🗽 Formación libre no bonificada
-
-Por supuesto cualquiera de los cursos se puede realizar en video sin la participación del tutor; y por tanto **sin calendario**.
-
-> Estos son cursos para realizar a tu propio ritmo.
->
-> [Más información sobre Video tutoriales](https://www.bitademy.com/info/video/)
-
-- **En el momento** deseado.
-- **Sin esperas** por convocatorias.
-- **Sin límites** de plazas.
-- **Económico** y escalable en precios.
-
-### Catálogo de cursos disponibles
-
-- [Clean Code aplicado para desarrollos limpios y rentables](https://www.bitademy.com/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/)
-- [Testing de aplicaciones web fácil y productivo para todos](https://www.bitademy.com/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/)
-
--->
