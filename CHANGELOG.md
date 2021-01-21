@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.128.0](https://github.com/BitAdemy/bitademy-site/compare/v1.127.2...v1.128.0) (2021-01-21)
+
+
+### Features
+
+* blog objetivos y sistemas ([2711a7d](https://github.com/BitAdemy/bitademy-site/commit/2711a7d69a403f4075d9b6d4fd2e103ff0a9bb40))
+
 ### [1.127.2](https://github.com/BitAdemy/bitademy-site/compare/v1.127.1...v1.127.2) (2021-01-21)
 
 ### [1.127.1](https://github.com/BitAdemy/bitademy-site/compare/v1.127.0...v1.127.1) (2021-01-21)
