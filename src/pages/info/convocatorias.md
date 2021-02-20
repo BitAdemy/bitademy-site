@@ -40,18 +40,18 @@ template: page
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <!-- <tr>
       <td>Arquitectura de aplicaciones angular
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
       <td>1 de febrero</td>
       <td>⌚ Online en directo</td>
       <td>5 semanas</td>
       <td><a href="http://www.vitaedigital.com/download/8sb72kefc74guxsmxpuejqwht3x8pf/F0000001416_curso_angular_avanzado_desarrollo_aplicaciones_empresariales_4a_edicion_aula_virtual.pdf">180 € 🛒</a></td>
-    </tr>
+    </tr> -->
     <tr>
       <td>Código Limpio
         <a href="/cursos/clean-code-aplicado-para-desarrollos-limpios-y-rentables/">📖</a></td>
-      <td>1 de febrero</td>
+      <td>1 de marzo</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td><a href="https://trainingit.es//curso-clean-code?promo=bitAdemy">150 € 🛒</a></td>
@@ -60,7 +60,7 @@ template: page
       <td>Testing web
       <a href="/cursos/testing-de-aplicaciones-web-facil-y-productivo-para-todos/">📖</a></td>
       </td>
-      <td>1 de febrero</td>
+      <td>1 de marzo</td>
       <td>⏱ Libre en video</td>
       <td>5 semanas</td>
       <td><a href="https://trainingit.es/curso-testing-web?promo=bitAdemy">200 € 🛒</a></td>
