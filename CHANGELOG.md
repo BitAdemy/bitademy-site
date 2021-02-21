@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.129.3](https://github.com/BitAdemy/bitademy-site/compare/v1.129.2...v1.129.3) (2021-02-21)
+
+
+### Bug Fixes
+
+* 21221 ([68fcc39](https://github.com/BitAdemy/bitademy-site/commit/68fcc399e80b7b79ef7fa12f12b8670d372c62ed))
+
 ### [1.129.2](https://github.com/BitAdemy/bitademy-site/compare/v1.129.1...v1.129.2) (2021-02-21)
 
 ### [1.129.1](https://github.com/BitAdemy/bitademy-site/compare/v1.129.0...v1.129.1) (2021-02-21)
