@@ -1,9 +1,9 @@
 ---
 title: Productividad, herramientas y método
 subtitle: >-
-  ¿Y tu productividad? ¿Es perfecta o necesita un empujoncito?
+  Hacer más con menos, eso es la productividad.
 excerpt: >-
-  La productividad es una característica con cierto aire rancio a esfuerzo. Pero es un virtud para aprovechar la energía, los recursos y el tiempo. Tu tiempo.
+  La productividad puede tener cierto aire rancio a esfuerzo. Pero es una virtud para aprovechar la energía, los recursos y el tiempo. Tu tiempo.
 post_url: blog/developers/productividad-herramientas-y-metodo
 img_path: images/productividad-herramientas-y-metodo.jpg
 img_size: inner-micro
@@ -24,9 +24,9 @@ sections:
 template: post
 ---
 
-Para algunos puede que la productividad tenga un aire rancio a esfuerzo y cierto tufo liberal. Para otros quizá os parezca la virtud que separa el éxito del fracaso, la calma del estrés, el orden del caos. Para mi:
+Para algunos puede que la productividad tenga un cierto aire rancio a esfuerzo o incluso tufo liberal. Para otros quizá os parezca la virtud que separa el éxito del fracaso, la calma del estrés, el orden del caos. Para mi:
 
-> La productividad es la medida del aprovechamiento de los recursos, la energía y el tiempo con un objetivo.
+> _La productividad es la medida del aprovechamiento de los recursos, la energía y el tiempo con un objetivo._
 
 Sobre esto se han escrito miles de libros. Yo habré leído una docena y te recomiendo estos tres:
 
@@ -36,32 +36,32 @@ Sobre esto se han escrito miles de libros. Yo habré leído una docena y te reco
 
 Spoiler de todos ellos.
 
-> Las técnicas que funcionan se basan en principios que proponen métodos y se asienta con hábitos.
+> _Las técnicas que funcionan se basan en principios que proponen métodos y se asienta con hábitos_.
 
-# Second brain
+# 🧠 Second brain
 
-Pero tú has venido aquí en busca de consejos concretos y te los voy a dar. El primero es que le des un descanso a tu cerebro. Búscale un ayudante. Un segundo cerebro.
-
-Captura todas tus ideas, pensamientos e incluso angustias en un soporte físico o virtual.
+Pero tú has venido aquí en busca de consejos concretos y te los voy a dar. El primero es que le des un **descanso a tu cerebro**. Búscale un ayudante. Un segundo cerebro.
 
 ## Descarga tu cerebro
 
-El hecho de no obligarte a recordar nada ya es una fuente de calma. Además el mero hecho de escribir, dictar o dibujar favorece la reflexión y el refinamiento de la actividad, muchas veces caótica, de la mente.
+> _Captura todas tus ideas, pensamientos e incluso angustias en un soporte físico o virtual._
+
+Solo con no obligarte a recordar nada ya es una fuente de calma. Además el mero hecho de escribir, dictar o dibujar favorece la reflexión y el refinamiento de la actividad, muchas veces caótica, de la mente.
 
 ## Aprende de los que saben
 
-Ciertas metodologías ayudan a organizar ese back-up mental. Destaca una que además tiene un nombre que a ti y a mí nos resulta familiar: C.O.D.E.
+Ciertas metodologías ayudan a organizar ese _back-up_ mental. Destaca una que además tiene un nombre que a ti y a mí nos resulta familiar: C.O.D.E.
 
-- Collect: captura todo lo que tenga valor o genere ruido en tu cerebro
-- Organize: distingue y clasifica por áreas(esferas generales de interés) y proyectos(algo concreto con objetivo)
-- Distill: Resume y elimina lo que ya no es útil
-- Express: Actúa y comparte
+- **C**ollect: captura todo lo que tenga valor o genere ruido en tu cerebro
+- **O**rganize: distingue y clasifica por áreas(esferas generales de interés) y proyectos(algo concreto con objetivo)
+- **D**istill: Resume y elimina lo que ya no es útil
+- **E**xpress: Actúa y comparte
 
-> Entrada, proceso y salida. ¿te suena de algo?
+> _Entrada, proceso y salida. ¿Te suena de algo?_
 
-# Herramientas y métodos
+# 🧰 Herramientas y métodos
 
-No importa (mucho) la herramienta, ni siquiera el soporte, elegidos. Lo importante es encontrar un método o sistema que te valga. Y ser persistente.
+No importa (mucho) la herramienta, ni siquiera el soporte. Lo importante es encontrar (probar y cambiar cuanto sea necesario) un método o sistema que te valga. Y lo verdaderamente importante es **ser persistente**.
 
 ## Ideas, pensamientos, preocupaciones:
 
@@ -69,15 +69,15 @@ Escribe, garabatea o dicta todo aquello que ronde tu cabeza. Inicialmente puede 
 
 ## Eventos y asuntos con fechas:
 
-Todo aquello que tenga un momento para ocurrir o una fecha objetivo debe estar en un calendario. Particular o compartido, familiar o de trabajo. No importa, todo va al calendario.
+Todo aquello que tenga un momento para ocurrir o una fecha objetivo debe estar en un calendario. Particular o compartido, familiar o de trabajo. Es lo mismo, si tiene fecha va al calendario.
 
-Si eres como yo, quizá te guste además usar alguno de pared para los eventos familiares. Con pegatinas y todo eso. (Pero es un _back-up_ físico del _back-up_ virtual de tu almacén biológico). No es el origen como ocurre con las libretas y pizarras para las ideas.
+Además, si eres como yo, quizá te guste usar alguno de pared para los eventos familiares o de oficina. Con pegatinas y todo eso. (Pero es un _back-up_ físico del _back-up_ virtual de tu almacén principal biológico). No es el origen como ocurre con las libretas y pizarras para las ideas.
 
 ## Referencia:
 
-Hace años era valioso el tener acceso a información. Hoy estamos saturados de contenido (este artículo por ejemplo). Es imposible leerlo, verlo o escucharlo todo. Ni siquiera es saludable pretenderlo. ¿Te suena la infoxicación o fatiga informativa ?
+Hace años era valioso el tener acceso a información. Hoy estamos saturados de contenido (este artículo por ejemplo). Es imposible leerlo, verlo o escucharlo todo. Ni siquiera es saludable pretenderlo. ¿Te suena la _infoxicación_ o fatiga informativa ?
 
-> Guarda aquel material que pudiera serte útil, pero revisa y elimina de vez en cuando tu Diógenes digital.
+> _Guarda aquel material que pudiera serte útil, pero revisa y elimina de vez en cuando tu Diógenes digital_.
 
 ## Tareas, email y colaboración:
 
