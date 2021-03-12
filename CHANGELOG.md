@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.129.4](https://github.com/BitAdemy/bitademy-site/compare/v1.129.3...v1.129.4) (2021-03-12)
+
 ### [1.129.3](https://github.com/BitAdemy/bitademy-site/compare/v1.129.2...v1.129.3) (2021-02-21)
 
 
